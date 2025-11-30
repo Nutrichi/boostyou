@@ -10,6 +10,9 @@
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://boostyou.ai/" />
 
+  <!-- Favicon fix -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
   <!-- OpenGraph -->
   <meta property="og:title" content="RestedXP Coupon – Save 10% Instantly" />
   <meta property="og:description" content="Claim your verified 10% RestedXP discount for all WoW leveling guides." />
@@ -42,7 +45,6 @@
   }
   </script>
 
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@400;600&display=swap">
 
   <style>
@@ -50,18 +52,19 @@
       margin: 0;
       padding: 0;
       overflow-x: hidden;
-      font-family: 'Jost', sans-serif;
       background-color: rgb(37, 44, 72);
+      font-family: 'Jost', sans-serif;
       color: #f4f4f5;
     }
 
+    /* Smaller header bar */
     .header {
       width: 100%;
       background-color: rgb(22, 26, 43);
-      padding: 1rem 0;
+      padding: 0.4rem 0; /* smaller height */
       text-align: center;
-      margin-bottom: 1.5rem;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      margin-bottom: 1rem;
     }
 
     .header img {
@@ -73,50 +76,47 @@
       max-width: 650px;
       margin: 0 auto;
       background: rgba(255,255,255,0.05);
-      border-radius: 1.3rem;
-      padding: 2rem;
+      border-radius: 1.2rem;
+      padding: 1.8rem;
       box-shadow: 0 10px 35px rgba(0,0,0,0.25);
     }
 
     h1 {
-      font-size: 2rem;
+      font-size: 1.9rem;
       color: #facc15;
-      margin-bottom: 0.6rem;
       text-align: center;
+      margin-bottom: 0.6rem;
     }
 
     .subheadline {
       text-align: center;
       font-size: 1.1rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.2rem;
     }
 
-    /* 5-star rating */
-    .rating {
-      text-align: center;
-      margin-bottom: 1.8rem;
-      font-size: 1.4rem;
-      color: #facc15;
+    /* Stars image */
+    .rating-image {
+      width: 180px; /* keeps stars small and crisp */
+      display: block;
+      margin: 0.6rem auto 1.4rem auto;
     }
 
     p {
       font-size: 1.15rem;
       line-height: 1.7;
-      margin-bottom: 2rem;
       text-align: center;
+      margin-bottom: 1.8rem;
     }
 
     .cta-button {
       background-color: rgb(3, 117, 225);
       color: white;
-      padding: 1rem 2rem;
+      padding: 1rem 1.8rem;
       border-radius: 0.7rem;
       font-size: 1.2rem;
-      font-weight: 600;
       text-decoration: none;
       display: inline-block;
       transition: 0.3s;
-      text-align: center;
     }
 
     .cta-button:hover {
@@ -128,8 +128,16 @@
       margin-bottom: 2rem;
     }
 
+    /* Divider */
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: rgba(255,255,255,0.15);
+      margin: 1.5rem auto 1.5rem auto;
+    }
+
     .faq {
-      margin-top: 2.5rem;
+      margin-top: 1.8rem;
     }
 
     .faq-title {
@@ -139,42 +147,42 @@
       margin-bottom: 1rem;
     }
 
+    /* Smaller FAQ GIF */
     .faq-title img {
-      width: 60px;
-      height: 60px;
-      border-radius: 0.4rem;
+      width: 36px;
+      height: 36px;
+      border-radius: 0.3rem;
     }
 
     .faq h2 {
-      font-size: 1.5rem;
-      color: #facc15;
+      font-size: 1.45rem;
       margin: 0;
+      color: #facc15;
     }
 
     dt {
       font-weight: 600;
-      margin-top: 1.2rem;
-      color: #e5e5e5;
+      margin-top: 1.1rem;
     }
 
     dd {
       margin-left: 1rem;
-      margin-bottom: 0.8rem;
-      color: #cfcfcf;
+      margin-bottom: 0.7rem;
+      color: #dcdcdc;
     }
 
     @media(max-width: 480px) {
-      h1 { font-size: 1.7rem; }
+      h1 { font-size: 1.6rem; }
       .subheadline { font-size: 1rem; }
-      .cta-button { font-size: 1rem; padding: 0.9rem 1.6rem; }
-      .faq-title img { width: 48px; height: 48px; }
+      .rating-image { width: 150px; }
+      .cta-button { padding: 0.9rem 1.5rem; font-size: 1rem; }
+      .faq-title img { width: 30px; height: 30px; }
     }
   </style>
 </head>
 
 <body>
 
-  <!-- Header with main logo -->
   <div class="header">
     <img src="logo-rested-xp.png" alt="RestedXP Logo">
   </div>
@@ -182,18 +190,18 @@
   <div class="container">
 
     <h1>Save 10% on RestedXP</h1>
-    <div class="subheadline">Instant discount on all WoW leveling guides — verified daily.</div>
+    <div class="subheadline">Instant discount — verified daily.</div>
 
-    <!-- 5-Star Rating -->
-    <div class="rating">★★★★★</div>
+    <img src="stars.png" alt="5 Star Rating" class="rating-image">
 
-    <p>Get a verified <strong>10% discount</strong> on all RestedXP leveling guides for World of Warcraft — Classic, Retail, SoD, and Hardcore.</p>
+    <p>Claim your verified <strong>10% discount</strong> on all RestedXP World of Warcraft leveling guides — Classic, Retail, SoD, and Hardcore.</p>
 
     <div class="button-wrapper">
       <a href="https://www.restedxp.com/ref/CELE/" target="_blank" class="cta-button">Claim 10% Discount</a>
     </div>
 
-    <!-- FAQ -->
+    <div class="divider"></div>
+
     <div class="faq">
       <div class="faq-title">
         <img src="rxp-arrow-motion.gif" alt="FAQ Icon">
@@ -202,16 +210,16 @@
 
       <dl>
         <dt>How do I redeem the discount?</dt>
-        <dd>The referral link automatically applies the discount at checkout.</dd>
+        <dd>The referral link automatically applies the discount.</dd>
 
-        <dt>Does it work for all guides?</dt>
-        <dd>Yes — Retail, Classic, SoD, Hardcore, and future releases.</dd>
+        <dt>Does it apply to all guides?</dt>
+        <dd>Yes — Retail, Classic, SoD, Hardcore, and more.</dd>
 
-        <dt>Is the coupon valid today?</dt>
+        <dt>Is it valid today?</dt>
         <dd>Yes. Verified on <script>document.write(new Date().toLocaleDateString('en-GB'))</script>.</dd>
 
-        <dt>Is this an official link?</dt>
-        <dd>Yes — this is a legitimate RestedXP partner link.</dd>
+        <dt>Is the link official?</dt>
+        <dd>Yes — it is a legitimate RestedXP partner link.</dd>
       </dl>
     </div>
 
