@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nutrichi.github.io/restedxp-coupon/sitemap.xml
+Sitemap: https://boostyou.ai/sitemap.xml
