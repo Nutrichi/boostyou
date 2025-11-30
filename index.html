@@ -20,6 +20,15 @@
   <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
   <meta property="og:site_name" content="RestedXP Coupons" />
 
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8NDLSEBGZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-V8NDLSEBGZ');
+  </script>
+
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
   {
@@ -47,39 +56,59 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@400;600&display=swap">
 
   <style>
-    body {
+    html, body {
       margin: 0;
-      font-family: 'Jost', sans-serif;
+      padding: 0;
+      overflow-x: hidden; /* removes horizontal scrollbars */
       background-color: #0e0e10;
-      color: #f4f4f5;
+      font-family: 'Jost', sans-serif;
+    }
+
+    body {
       display: flex;
       align-items: center;
       justify-content: center;
       min-height: 100vh;
       padding: 2rem;
+      color: #f4f4f5;
     }
+
     .container {
       background: linear-gradient(145deg, #1c1c20, #151518);
-      max-width: 640px;
+      max-width: 650px;
       width: 100%;
       border-radius: 1.5rem;
-      padding: 2rem;
+      padding: 2.2rem;
       box-shadow: 0 10px 30px rgba(255, 215, 0, 0.1);
       border: 1px solid #2c2c32;
+      text-align: center;
     }
+
+    .main-logo {
+      width: 241px;
+      height: 84px;
+      margin: 0 auto 1.5rem auto;
+      display: block;
+    }
+
     h1 {
       font-size: 2.25rem;
       margin-bottom: 1rem;
       color: #facc15;
     }
+
     p {
       font-size: 1.125rem;
       margin-bottom: 2rem;
       line-height: 1.7;
-    }
-    .button-wrapper {
       text-align: center;
     }
+
+    .button-wrapper {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
     .cta-button {
       background-color: #facc15;
       color: #0e0e10;
@@ -93,29 +122,43 @@
       display: inline-block;
       transition: background-color 0.3s ease, transform 0.2s ease;
     }
+
     .cta-button:hover {
       background-color: #eab308;
       transform: translateY(-2px);
     }
+
     .faq {
       text-align: left;
       margin-top: 2.5rem;
     }
+
     .faq h2 {
       font-size: 1.5rem;
       color: #facc15;
       margin-bottom: 1rem;
+      text-align: left;
     }
+
     .faq dt {
       font-weight: 600;
       margin-top: 1.25rem;
       color: #d4d4d8;
     }
+
     .faq dd {
       margin-left: 1rem;
       margin-bottom: 1rem;
       color: #a1a1aa;
     }
+
+    .rxp-gif {
+      width: 200px;
+      height: 200px;
+      display: block;
+      margin: 1.5rem auto 0 auto;
+    }
+
     @media (max-width: 480px) {
       body {
         padding: 1rem;
@@ -129,15 +172,23 @@
       .faq h2 {
         font-size: 1.25rem;
       }
+      .rxp-gif {
+        width: 160px;
+        height: 160px;
+      }
     }
   </style>
 </head>
 
 <body>
   <div class="container">
+
+    <!-- Centered Main Logo -->
+    <img src="logo-rested-xp.png" alt="RestedXP Logo" class="main-logo">
+
     <h1>RestedXP Coupon 2025 – Verified 10% Discount</h1>
 
-    <p>Get an instant <strong>10% discount</strong> on all RestedXP leveling guides for World of Warcraft. This coupon applies to Classic, Retail, SoD and Hardcore versions. Verified and updated daily.</p>
+    <p>Get an instant <strong>10% discount</strong> on all RestedXP leveling guides for World of Warcraft. This coupon applies to Classic, Retail, SoD, and Hardcore versions. Verified and updated daily.</p>
 
     <div class="button-wrapper">
       <a href="https://www.restedxp.com/ref/CELE/" class="cta-button" target="_blank" rel="noopener">Get 10% Off Now</a>
@@ -148,18 +199,22 @@
 
       <dl>
         <dt>How do I redeem the 10% discount?</dt>
-        <dd>The referral link automatically applies the full 10% discount during checkout.</dd>
+        <dd>The referral link automatically applies the discount during checkout.</dd>
 
-        <dt>Does the coupon work for every guide?</dt>
-        <dd>Yes. It works for all RestedXP guides: Classic, Retail, SoD, Hardcore, and future releases.</dd>
+        <dt>Does the coupon work for all guides?</dt>
+        <dd>Yes. It works on Classic, Retail, SoD, Hardcore, and future expansions.</dd>
 
         <dt>Is the coupon valid today?</dt>
         <dd>Yes. Verified on <script>document.write(new Date().toLocaleDateString('en-GB'));</script>.</dd>
 
-        <dt>Is the referral link official?</dt>
-        <dd>Yes. This is an authorized and safe RestedXP affiliate link.</dd>
+        <dt>Is the link official?</dt>
+        <dd>Yes. This is an authorized RestedXP affiliate link.</dd>
       </dl>
     </div>
+
+    <!-- RXP Motion GIF under the FAQ -->
+    <img src="rxp-arrow-motion.gif" alt="RestedXP Animated Logo" class="rxp-gif">
+
   </div>
 </body>
 </html>
