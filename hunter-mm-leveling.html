@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Marksmanship Hunter Leveling Guide - Talents & Build (Classic, TBC, WotLK)</title>
+  
+  <meta name="description" content="Complete Marksmanship Hunter leveling guide with optimal talents for Classic (1-60), TBC (60-70), and WotLK (70-80). High personal DPS build for solo and group leveling." />
+  <meta name="keywords" content="marksmanship hunter leveling, MM hunter talents, aimed shot hunter, hunter ranged dps build" />
+  <meta name="robots" content="index, follow" />
+  
+  <link rel="canonical" href="https://boostyou.ai/hunter-marksmanship-leveling" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --hunter-green: #aad372;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    
+    .nav {
+      background: rgba(30, 41, 59, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 70px;
+    }
+    
+    .logo-link {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    
+    .nav-links {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+      align-items: center;
+    }
+    
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+    
+    .nav-links a:hover { color: var(--accent-primary); }
+    
+    .breadcrumb {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    
+    .breadcrumb a {
+      color: var(--accent-primary);
+      text-decoration: none;
+    }
+    
+    .breadcrumb a:hover { text-decoration: underline; }
+    
+    .hero {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+    
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 900;
+      margin-bottom: 1rem;
+      color: var(--hunter-green);
+      line-height: 1.1;
+    }
+    
+    .hero-subtitle {
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+      max-width: 800px;
+    }
+    
+    .version-tabs {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 2rem;
+    }
+    
+    .version-tab {
+      background: rgba(170, 211, 114, 0.1);
+      border: 2px solid rgba(170, 211, 114, 0.3);
+      color: var(--hunter-green);
+      padding: 0.75rem 1.5rem;
+      border-radius: 0.5rem;
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+    
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+    }
+    
+    .section {
+      margin: 4rem 0;
+    }
+    
+    .section-header {
+      margin-bottom: 2rem;
+    }
+    
+    .section-header h2 {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      color: var(--accent-yellow);
+      margin-bottom: 0.75rem;
+      font-weight: 800;
+    }
+    
+    .section-header p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      max-width: 700px;
+    }
+    
+    .warning-box {
+      background: rgba(251, 191, 36, 0.1);
+      border: 2px solid var(--accent-yellow);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .warning-box h3 {
+      color: var(--accent-yellow);
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 700;
+    }
+    
+    .warning-box p {
+      color: var(--text-secondary);
+      line-height: 1.8;
+    }
+    
+    .highlight-box {
+      background: linear-gradient(135deg, rgba(170, 211, 114, 0.1) 0%, rgba(127, 184, 77, 0.1) 100%);
+      border: 2px solid rgba(170, 211, 114, 0.3);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .highlight-box h3 {
+      color: var(--hunter-green);
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 700;
+    }
+    
+    .info-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .info-card h3 {
+      color: var(--accent-yellow);
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      font-weight: 700;
+    }
+    
+    .info-card h4 {
+      color: var(--hunter-green);
+      font-size: 1.25rem;
+      margin: 1.5rem 0 1rem;
+      font-weight: 700;
+    }
+    
+    .info-card p {
+      color: var(--text-secondary);
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+    
+    .info-card ul {
+      color: var(--text-secondary);
+      padding-left: 1.5rem;
+      line-height: 1.8;
+    }
+    
+    .info-card li {
+      margin-bottom: 0.75rem;
+    }
+    
+    .info-card strong {
+      color: var(--hunter-green);
+      font-weight: 700;
+    }
+    
+    .talent-priority {
+      background: var(--bg-card);
+      border-left: 4px solid var(--hunter-green);
+      border-radius: 0.5rem;
+      padding: 1.5rem;
+      margin: 1rem 0;
+    }
+    
+    .talent-priority h4 {
+      color: var(--hunter-green);
+      margin-bottom: 1rem;
+      font-size: 1.25rem;
+    }
+    
+    .talent-priority ol {
+      color: var(--text-secondary);
+      padding-left: 1.5rem;
+      line-height: 2;
+    }
+    
+    .talent-priority li {
+      margin-bottom: 0.5rem;
+    }
+    
+    .two-col-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .media-placeholder {
+      background: var(--bg-card);
+      border: 2px dashed var(--border-color);
+      border-radius: 1rem;
+      padding: 3rem 2rem;
+      text-align: center;
+      margin: 2rem 0;
+      min-height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .media-placeholder-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      opacity: 0.5;
+    }
+    
+    .talent-embed {
+      background: var(--bg-card);
+      border: 2px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin: 2rem 0;
+      text-align: center;
+    }
+    
+    .talent-embed h4 {
+      color: var(--accent-yellow);
+      margin-bottom: 1rem;
+      font-size: 1.25rem;
+    }
+    
+    .talent-link {
+      display: inline-block;
+      background: var(--accent-primary);
+      color: white;
+      padding: 0.875rem 2rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      font-weight: 700;
+      transition: all 0.3s;
+      margin: 0.5rem;
+    }
+    
+    .talent-link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px -5px rgba(59, 130, 246, 0.4);
+    }
+    
+    .rotation-box {
+      background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+      border: 2px solid var(--accent-primary);
+      border-radius: 1rem;
+      padding: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .rotation-box h3 {
+      color: var(--accent-primary);
+      font-size: 1.5rem;
+      margin-bottom: 1.5rem;
+      font-weight: 700;
+    }
+    
+    .rotation-step {
+      background: rgba(255, 255, 255, 0.03);
+      padding: 1rem;
+      border-radius: 0.5rem;
+      margin-bottom: 1rem;
+      border-left: 3px solid var(--hunter-green);
+    }
+    
+    .rotation-step strong {
+      color: var(--hunter-green);
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 1.1rem;
+    }
+    
+    .rotation-step p {
+      color: var(--text-secondary);
+      line-height: 1.7;
+    }
+    
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 2.5rem 1.5rem;
+      margin-top: 4rem;
+      text-align: center;
+    }
+    
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+    
+    .footer-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: color 0.2s;
+    }
+    
+    .footer-links a:hover { color: var(--accent-primary); }
+    
+    .footer-text {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+    
+    @media (max-width: 768px) {
+      .two-col-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .nav-links {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="/" class="logo-link">
+        <span>← Back to Home</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="/class-guides">All Classes</a></li>
+        <li><a href="/hunter-leveling-guide">Hunter</a></li>
+        <li><a href="/tips-and-tricks">Tips</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <div class="breadcrumb">
+    <a href="/">Home</a> / <a href="/class-guides">Class Guides</a> / <a href="/hunter-leveling-guide">Hunter</a> / Marksmanship Leveling
+  </div>
+  
+  <section class="hero">
+    <h1>🎯 Marksmanship Hunter Leveling Guide</h1>
+    <p class="hero-subtitle">High personal DPS spec focusing on ranged damage. Better for dungeon groups and once you have good gear, but slower for solo leveling than Beast Mastery.</p>
+    
+    <div class="version-tabs">
+      <div class="version-tab">Classic 1-60</div>
+      <div class="version-tab">TBC 60-70</div>
+      <div class="version-tab">WotLK 70-80</div>
+    </div>
+  </section>
+  
+  <div class="container">
+    
+    <!-- Warning -->
+    <div class="warning-box">
+      <h3>⚠️ Important: Not Recommended for Solo Leveling</h3>
+      <p>
+        <strong>Marksmanship is viable but slower than Beast Mastery for leveling.</strong> Your pet is weaker, you have more downtime for mana, and you lack the safety net of a tanky pet. This spec shines in dungeon groups or if you already have good gear. For optimal solo leveling speed, use <a href="/hunter-beast-mastery-leveling" style="color: var(--hunter-green); font-weight: 700;">Beast Mastery instead</a>.
+      </p>
+    </div>
+    
+    <!-- When to Use MM -->
+    <div class="highlight-box">
+      <h3>✅ When Marksmanship Makes Sense</h3>
+      <p style="color: var(--text-secondary); line-height: 1.8;">
+        Choose Marksmanship if you:
+      </p>
+      <ul style="color: var(--text-secondary); padding-left: 1.5rem; line-height: 1.9; margin-top: 1rem;">
+        <li><strong>Plan to dungeon grind:</strong> Your personal DPS is higher in groups</li>
+        <li><strong>Have good gear already:</strong> With decent +AGI gear, MM performs better</li>
+        <li><strong>Prefer ranged playstyle:</strong> You want to focus on your own damage, not pet management</li>
+        <li><strong>Level 50+:</strong> MM becomes more competitive in late leveling with Aimed Shot and talents</li>
+        <li><strong>TBC 60-70:</strong> MM is more viable with Steady Shot spam rotation</li>
+      </ul>
+    </div>
+    
+    <!-- Talent Build -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Talent Build Priority</h2>
+        <p>Optimal talent allocation for Marksmanship leveling</p>
+      </div>
+      
+      <div class="info-card">
+        <h3>📊 Classic (1-60) Talent Priority</h3>
+        
+        <div class="talent-priority">
+          <h4>Levels 10-20: Marksmanship Foundation</h4>
+          <ol>
+            <li><strong>Improved Aspect of the Hawk (5/5)</strong> - Level 10-14: +30% ranged attack speed</li>
+            <li><strong>Lethal Shots (5/5)</strong> - Level 15-19: +5% crit chance for ranged</li>
+          </ol>
+        </div>
+        
+        <div class="talent-priority">
+          <h4>Levels 20-35: Core MM Talents</h4>
+          <ol>
+            <li><strong>Aimed Shot (1/1)</strong> - Level 20: Your main burst ability</li>
+            <li><strong>Improved Hunter's Mark (5/5)</strong> - Level 21-25: +20% AP from Mark</li>
+            <li><strong>Mortal Shots (5/5)</strong> - Level 26-30: +30% crit damage</li>
+            <li><strong>Barrage (3/3)</strong> - Level 31-33: +15% Multi-Shot/Volley damage</li>
+            <li><strong>Improved Arcane Shot (5/5)</strong> - Level 34-38 (or skip for efficiency)</li>
+          </ol>
+        </div>
+        
+        <div class="talent-priority">
+          <h4>Levels 36-50: Pet Support & Efficiency</h4>
+          <ol>
+            <li><strong>Move to Beast Mastery tree for pet talents</strong></li>
+            <li><strong>Unleashed Fury (5/5)</strong> - Level 39-43: +20% pet damage</li>
+            <li><strong>Ferocity (5/5)</strong> - Level 44-48: +10% pet crit</li>
+            <li><strong>Bestial Discipline (2/2)</strong> - Level 49-50: +20% pet focus regen</li>
+          </ol>
+        </div>
+        
+        <div class="talent-priority">
+          <h4>Levels 51-60: Final Talents</h4>
+          <ol>
+            <li><strong>Trueshot Aura (1/1)</strong> - Level 51: +100 AP aura for group</li>
+            <li><strong>Efficiency (5/5)</strong> - Level 52-56: -10% mana cost on shots</li>
+            <li><strong>Hawk Eye (3/3)</strong> - Level 57-59: +6 yards range</li>
+            <li><strong>Ranged Weapon Specialization (5/5)</strong> - Level 60-64 (TBC): +5% ranged damage</li>
+          </ol>
+        </div>
+      </div>
+      
+      <div class="talent-embed">
+        <h4>🌲 Interactive Talent Calculator</h4>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">View and customize the complete talent build:</p>
+        <a href="https://www.wowhead.com/classic/talent-calc/hunter" target="_blank" class="talent-link">Classic Talent Calculator →</a>
+      </div>
+    </section>
+    
+    <!-- Media Placeholder -->
+    <div class="media-placeholder">
+      <div class="media-placeholder-icon">🌳</div>
+      <h3 style="color: var(--accent-yellow); margin-bottom: 0.5rem;">Talent Tree Screenshot</h3>
+      <p style="color: var(--text-muted); font-size: 1rem;">INSERT SCREENSHOT: Complete Marksmanship talent tree visual at level 60</p>
+    </div>
+    
+    <!-- Combat Rotation -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Combat Rotation & Strategy</h2>
+      </div>
+      
+      <div class="rotation-box">
+        <h3>⚔️ Marksmanship Rotation (Classic)</h3>
+        
+        <div class="rotation-step">
+          <strong>1. Send Pet → Hunter's Mark</strong>
+          <p>Let pet establish threat. Apply Hunter's Mark immediately for the +20% AP bonus (with talents).</p>
+        </div>
+        
+        <div class="rotation-step">
+          <strong>2. Aimed Shot (Opener)</strong>
+          <p>Use Aimed Shot as your opener before combat starts. This is your hardest-hitting ability with a cast time.</p>
+        </div>
+        
+        <div class="rotation-step">
+          <strong>3. Serpent Sting</strong>
+          <p>Apply DoT immediately after Aimed Shot lands. Most mana-efficient damage over time.</p>
+        </div>
+        
+        <div class="rotation-step">
+          <strong>4. Auto Shot + Arcane Shot</strong>
+          <p>Spam Arcane Shot on cooldown between Auto Shots. This is your main damage rotation.</p>
+        </div>
+        
+        <div class="rotation-step">
+          <strong>5. Multi-Shot (2+ enemies)</strong>
+          <p>Use on packs of enemies. With Barrage talents, this hits very hard.</p>
+        </div>
+        
+        <div class="rotation-step">
+          <strong>6. Mana Management</strong>
+          <p>Watch your mana bar. If you're below 30%, consider using only Auto Shot and Serpent Sting to conserve mana.</p>
+        </div>
+      </div>
+      
+      <div class="info-card">
+        <h3>💡 Marksmanship Tips</h3>
+        <ul>
+          <li><strong>Aspect of the Hawk:</strong> Always active for DPS</li>
+          <li><strong>Drink between pulls:</strong> MM has more downtime than BM due to mana usage</li>
+          <li><strong>Aimed Shot timing:</strong> Use during pet pulls or before combat starts</li>
+          <li><strong>Save Multi-Shot:</strong> Don't waste mana on single targets</li>
+          <li><strong>Pet still important:</strong> Even without BM talents, your pet tanks for you</li>
+          <li><strong>Ammo quality matters:</strong> Buy best available ammo for maximum DPS</li>
+        </ul>
+      </div>
+    </section>
+    
+    <!-- TBC Rotation -->
+    <div class="info-card">
+      <h3>🔥 TBC (60-70) Rotation Changes</h3>
+      <p><strong>Steady Shot becomes your main filler!</strong> TBC introduces Steady Shot which replaces Arcane Shot spam.</p>
+      <h4>TBC Rotation:</h4>
+      <ol style="padding-left: 1.5rem; color: var(--text-secondary); line-height: 1.9;">
+        <li>Hunter's Mark</li>
+        <li>Aimed Shot (opener)</li>
+        <li>Serpent Sting</li>
+        <li>Steady Shot → Steady Shot → Auto Shot (weave with Auto shots)</li>
+        <li>Arcane Shot when instant cast is needed</li>
+        <li>Multi-Shot for 2+ targets</li>
+      </ol>
+      <p style="margin-top: 1rem;"><strong>Note:</strong> Steady Shot is more mana-efficient and deals more damage than Arcane Shot in TBC. Master the weaving!</p>
+    </div>
+    
+    <!-- Media Placeholder -->
+    <div class="media-placeholder">
+      <div class="media-placeholder-icon">🎬</div>
+      <h3 style="color: var(--accent-yellow); margin-bottom: 0.5rem;">Marksmanship Rotation Demo</h3>
+      <p style="color: var(--text-muted); font-size: 1rem;">INSERT YOUTUBE VIDEO: MM Hunter rotation gameplay showing Aimed Shot + Arcane Shot weaving</p>
+    </div>
+    
+    <!-- Gear & Stats -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Stat Priority & Gear</h2>
+      </div>
+      
+      <div class="two-col-grid">
+        <div class="info-card">
+          <h3>📊 Stat Priority (1-60)</h3>
+          <ol>
+            <li><strong>Agility:</strong> Main stat - increases AP, crit, and armor</li>
+            <li><strong>Hit Rating:</strong> More important for MM than BM (don't miss Aimed Shots)</li>
+            <li><strong>Attack Power:</strong> Direct damage increase</li>
+            <li><strong>Crit:</strong> With Mortal Shots (+30% crit damage), crit is very valuable</li>
+            <li><strong>Intellect:</strong> Bigger mana pool = less drinking</li>
+            <li><strong>Stamina:</strong> Survivability</li>
+          </ol>
+        </div>
+        
+        <div class="info-card">
+          <h3>⚙️ Gear Priorities</h3>
+          <ul>
+            <li><strong>Weapon upgrades critical:</strong> Your ranged weapon is your main DPS source</li>
+            <li><strong>Best ammo always:</strong> Don't cheap out on ammo with MM</li>
+            <li><strong>Agility gear:</strong> Prioritize AGI on all pieces</li>
+            <li><strong>Crit gear valuable:</strong> With Mortal Shots, crit scales better than BM</li>
+            <li><strong>Mail at 40:</strong> Huge armor boost for survivability</li>
+            <li><strong>Trinkets:</strong> Look for +AGI or +AP trinkets from quests/dungeons</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Pet Choices -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Best Pets for Marksmanship</h2>
+      </div>
+      
+      <div class="info-card">
+        <h3>🐾 Pet Recommendations</h3>
+        <p>Since you're not specced into Beast Mastery, pet choice matters less. Focus on utility:</p>
+        <ul>
+          <li><strong>Cat:</strong> Still best DPS choice even without BM talents</li>
+          <li><strong>Wolf:</strong> Furious Howl buff helps your personal DPS (+40 AP)</li>
+          <li><strong>Boar:</strong> Charge ability helps with threat, high HP</li>
+          <li><strong>Bear:</strong> If you need extra tankiness for solo elites</li>
+        </ul>
+        <p style="margin-top: 1rem;"><strong>Reality:</strong> Your pet is primarily a tank in MM spec. It won't do huge damage without BM talents, so prioritize survivability and utility.</p>
+      </div>
+    </section>
+    
+    <!-- Pros and Cons -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Marksmanship Pros & Cons</h2>
+      </div>
+      
+      <div class="two-col-grid">
+        <div class="info-card">
+          <h3 style="color: var(--accent-green);">✅ Advantages</h3>
+          <ul>
+            <li><strong>Higher personal DPS:</strong> Better in dungeon groups where pet DPS matters less</li>
+            <li><strong>Burst damage:</strong> Aimed Shot hits very hard, great for PvP</li>
+            <li><strong>Scales with gear:</strong> Gets better as you get more AGI/crit gear</li>
+            <li><strong>Trueshot Aura:</strong> +100 AP group buff at 51</li>
+            <li><strong>Better endgame transition:</strong> MM is strong raiding spec</li>
+          </ul>
+        </div>
+        
+        <div class="info-card">
+          <h3 style="color: var(--accent-red);">❌ Disadvantages</h3>
+          <ul>
+            <li><strong>Slower solo leveling:</strong> 20-30% slower than BM</li>
+            <li><strong>More downtime:</strong> Drink for mana frequently</li>
+            <li><strong>Weaker pet:</strong> Pet dies more easily without BM talents</li>
+            <li><strong>Mana intensive:</strong> Can't spam abilities as freely</li>
+            <li><strong>Less safe for HC:</strong> Not recommended for Hardcore mode</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Media Placeholder -->
+    <div class="media-placeholder">
+      <div class="media-placeholder-icon">📸</div>
+      <h3 style="color: var(--accent-yellow); margin-bottom: 0.5rem;">MM vs BM Comparison</h3>
+      <p style="color: var(--text-muted); font-size: 1rem;">INSERT SCREENSHOT: Side-by-side damage meter comparison MM vs BM solo leveling</p>
+    </div>
+    
+    <!-- FAQ -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Frequently Asked Questions</h2>
+      </div>
+      
+      <div class="info-card">
+        <h3>Is Marksmanship viable for leveling?</h3>
+        <p><strong>Yes, but slower than BM.</strong> MM works fine but you'll level 20-30% slower due to more downtime and weaker pet. It's perfectly viable, just not optimal.</p>
+      </div>
+      
+      <div class="info-card">
+        <h3>Should I respec to MM from BM?</h3>
+        <p><strong>Not recommended during leveling.</strong> Stick with BM until max level, then respec to MM for endgame. Respec costs add up.</p>
+      </div>
+      
+      <div class="info-card">
+        <h3>When does MM become better than BM?</h3>
+        <p><strong>In dungeon groups and at max level.</strong> MM shines when your personal DPS matters more than pet DPS. Great for raiding but BM is superior for solo content.</p>
+      </div>
+    </section>
+    
+    <!-- Related Guides -->
+    <section class="section">
+      <div class="section-header">
+        <h2>Related Hunter Guides</h2>
+      </div>
+      
+      <div class="two-col-grid">
+        <a href="/hunter-beast-mastery-leveling" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem; text-decoration: none; display: block; transition: all 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+          <h3 style="color: var(--hunter-green); margin-bottom: 0.75rem; font-size: 1.5rem;">Beast Mastery (Recommended)</h3>
+          <p style="color: var(--text-secondary); line-height: 1.7;">Fastest and safest hunter leveling spec. 20-30% faster than MM for solo content.</p>
+        </a>
+        
+        <a href="/hunter-survival-leveling" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 1rem; padding: 2rem; text-decoration: none; display: block; transition: all 0.3s;" onmouseover="this.style.transform='translateY(-4px)'" onmouseout="this.style.transform='translateY(0)'">
+          <h3 style="color: var(--hunter-green); margin-bottom: 0.75rem; font-size: 1.5rem;">Survival Leveling</h3>
+          <p style="color: var(--text-secondary); line-height: 1.7;">Trap and utility-focused spec. Not recommended for leveling but viable with unique playstyle.</p>
+        </a>
+      </div>
+    </section>
+    
+  </div>
+  
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="/">Home</a>
+      <a href="/class-guides">All Classes</a>
+      <a href="/hunter-leveling-guide">Hunter Guide</a>
+      <a href="/warrior-leveling-guide">Warrior</a>
+      <a href="/mage-leveling-guide">Mage</a>
+      <a href="/privacy-policy">Privacy</a>
+    </div>
+    <p class="footer-text">
+      © 2026 WoW Classic Leveling Guide. Not affiliated with Blizzard Entertainment.
+    </p>
+  </footer>
+  
+</body>
+</html>
