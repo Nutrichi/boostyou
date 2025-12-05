@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Page Under Construction - WoW Leveling Guide</title>
+  
+  <meta name="description" content="This guide is currently under construction. Get instant access to complete leveling guides with RestedXP - save 10% with our exclusive discount." />
+  <meta name="robots" content="noindex, follow" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    
+    .container {
+      max-width: 700px;
+      width: 100%;
+      text-align: center;
+    }
+    
+    .icon {
+      font-size: 6rem;
+      margin-bottom: 2rem;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+    }
+    
+    h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 900;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.2;
+    }
+    
+    .subtitle {
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: var(--text-secondary);
+      margin-bottom: 3rem;
+      line-height: 1.7;
+    }
+    
+    .cta-box {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(5, 150, 105, 0.15) 100%);
+      border: 2px solid var(--accent-green);
+      border-radius: 1rem;
+      padding: 2.5rem 2rem;
+      margin: 3rem 0;
+    }
+    
+    .cta-box h2 {
+      color: var(--accent-green);
+      font-size: 1.75rem;
+      margin-bottom: 1rem;
+      font-weight: 800;
+    }
+    
+    .cta-box p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      line-height: 1.8;
+    }
+    
+    .cta-button {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--accent-green) 0%, #059669 100%);
+      color: white;
+      padding: 1.25rem 3rem;
+      border-radius: 0.75rem;
+      font-size: 1.25rem;
+      font-weight: 800;
+      text-decoration: none;
+      transition: all 0.3s;
+      box-shadow: 0 10px 25px -5px rgba(16, 185, 129, 0.4);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .cta-button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 15px 35px -5px rgba(16, 185, 129, 0.6);
+    }
+    
+    .discount-badge {
+      background: var(--accent-yellow);
+      color: var(--bg-primary);
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      font-size: 0.875rem;
+      font-weight: 800;
+      display: inline-block;
+      margin-top: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .back-link {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border-color);
+    }
+    
+    .back-link a {
+      color: var(--accent-primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: color 0.2s;
+    }
+    
+    .back-link a:hover {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    
+    .features {
+      text-align: left;
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 0.75rem;
+    }
+    
+    .features ul {
+      list-style: none;
+      padding: 0;
+    }
+    
+    .features li {
+      color: var(--text-secondary);
+      padding: 0.75rem 0;
+      padding-left: 2rem;
+      position: relative;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    
+    .features li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--accent-green);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    
+    @media (max-width: 768px) {
+      .icon {
+        font-size: 4rem;
+      }
+      
+      .cta-box {
+        padding: 2rem 1.5rem;
+      }
+      
+      .cta-button {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="container">
+    <div class="icon">🚧</div>
+    
+    <h1>Guide Under Construction</h1>
+    
+    <p class="subtitle">
+      We're working hard to bring you comprehensive leveling guides for this class/zone. Check back soon for complete talent builds, rotations, and strategies!
+    </p>
+    
+    <div class="cta-box">
+      <h2>🚀 Don't Wait - Level Fast NOW!</h2>
+      <p>
+        While we're building these guides, you can start leveling immediately with <strong>RestedXP</strong> - the most comprehensive WoW leveling addon available. Get complete routes for all classes and zones with our exclusive discount.
+      </p>
+      
+      <div class="features">
+        <ul>
+          <li><strong>Complete 1-60, 60-70, 70-80 routes</strong> for all classes</li>
+          <li><strong>Optimized paths</strong> by world-record speedrunners</li>
+          <li><strong>Hardcore mode</strong> with death prevention warnings</li>
+          <li><strong>Auto-updates</strong> with every WoW patch</li>
+          <li><strong>Works for Classic, TBC, WotLK</strong> and all versions</li>
+        </ul>
+      </div>
+      
+      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" class="cta-button">
+        Get RestedXP Now →
+      </a>
+      
+      <div class="discount-badge">
+        ⚡ Exclusive Partner Discount Applied Automatically
+      </div>
+      
+      <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: 1.5rem;">
+        Trusted by thousands of players • Rated 4.9/5 stars • Instant access
+      </p>
+    </div>
+    
+    <div class="back-link">
+      <a href="/">← Back to Homepage</a>
+    </div>
+  </div>
+  
+</body>
+</html>
