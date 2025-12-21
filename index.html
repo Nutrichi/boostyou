@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>WoW Classic Guides 2026 - 1-60, 60-70, 70-80 Guides</title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  
-  <title>Complete WoW Classic Leveling Guide 2026 - 1-60, 60-70, 70-80 Guides</title>
-  
-  <meta name="description" content="Master WoW Classic leveling with expert guides for all 12 classes, 36 specializations, and 100+ zones. Covering Classic 1-60, TBC 60-70, WotLK 70-80, and Hardcore. Updated for 2026." />
-  <meta name="keywords" content="wow classic leveling guide, tbc leveling guide, wotlk leveling, wow classic 1-60, fastest leveling method wow, class leveling builds, zone guides wow classic" />
+  <meta name="description" content="Master WoW Classic leveling with expert guides for all 10 classes and 30 specializations. Covering Classic 1-60, TBC 60-70, WotLK 70-80, and Hardcore. Updated for 2026." />
+  <meta name="keywords" content="wow classic leveling guide, tbc leveling guide, wotlk leveling, wow classic 1-60, fastest leveling method wow, class leveling builds" />
   <meta name="robots" content="index, follow" />
   
   <link rel="canonical" href="https://boostyou.ai/" />
   <link rel="icon" href="favicon.ico" />
   
-  <meta property="og:title" content="Complete WoW Classic Leveling Guide 2026" />
-  <meta property="og:description" content="Expert guides for all classes, specs, and zones. Classic, TBC, WotLK & Hardcore covered." />
+  <meta property="og:title" content="WoW Classic Guides 2026" />
+  <meta property="og:description" content="Expert guides for all classes and specs. Classic, TBC, WotLK & Hardcore covered." />
   <meta property="og:url" content="https://boostyou.ai/" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
@@ -30,7 +28,24 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
   
-  <style>
+  <script>
+function toggleMobileMenu() {
+  const menu = document.getElementById('navMenu');
+  if (menu) {
+    menu.classList.toggle('mobile-open');
+  }
+}
+
+// Reset menu when resizing back to desktop
+window.addEventListener('resize', function() {
+  const menu = document.getElementById('navMenu');
+  if (window.innerWidth > 768 && menu) {
+    menu.classList.remove('mobile-open');
+  }
+});
+</script>
+
+<style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     
     :root {
@@ -53,6 +68,7 @@
       color: var(--text-primary);
       line-height: 1.6;
       min-height: 100vh;
+      overflow-x: hidden;
     }
     
     /* Navigation */
@@ -85,17 +101,12 @@
       font-size: 1.25rem;
     }
     
-    .logo-link img {
-      height: 45px;
-      width: auto;
-      margin-right: 0.75rem;
-    }
-    
     .nav-menu {
       display: flex;
-      gap: 0.5rem;
+      gap: 0.75rem;
       list-style: none;
       align-items: center;
+      flex-wrap: wrap;
     }
     
     .nav-item {
@@ -103,95 +114,42 @@
     }
     
     .nav-link {
-      color: var(--text-secondary);
+      color: var(--text-primary);
       text-decoration: none;
       font-weight: 600;
       font-size: 0.95rem;
-      padding: 0.75rem 1rem;
-      border-radius: 0.5rem;
+      padding: 0.6rem 1.4rem;
+      border-radius: 999px;
       transition: all 0.2s;
-      display: flex;
+      display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: 0.25rem;
       white-space: nowrap;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      background: rgba(59, 130, 246, 0.08);
+      box-shadow: 0 6px 15px -10px rgba(0, 0, 0, 0.7);
     }
     
-    .nav-link:hover {
-      background: rgba(59, 130, 246, 0.1);
+    .nav-link:hover,
+    .nav-link:focus-visible {
+      background: rgba(59, 130, 246, 0.25);
       color: var(--accent-primary);
+      border-color: rgba(59, 130, 246, 0.6);
     }
     
-    .dropdown-arrow {
-      font-size: 0.7rem;
-      transition: transform 0.2s;
+    .nav-link.new-pill {
+      background: linear-gradient(135deg, #ec4899 0%, #f97316 100%);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 15px 35px -12px rgba(249, 115, 22, 0.75);
     }
     
-    .nav-item:hover .dropdown-arrow {
-      transform: rotate(180deg);
-    }
-    
-    /* Mega Menu Dropdown */
-    .mega-dropdown {
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      background: rgba(30, 41, 59, 0.98);
-      backdrop-filter: blur(20px);
-      border: 1px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 1.5rem;
-      min-width: 600px;
-      opacity: 0;
-      visibility: hidden;
-      transition: all 0.3s;
-      margin-top: 0.5rem;
-      box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.5);
-    }
-    
-    .nav-item:hover .mega-dropdown {
-      opacity: 1;
-      visibility: visible;
-    }
-    
-    .mega-columns {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 2rem;
-    }
-    
-    .mega-column h4 {
-      color: var(--accent-yellow);
-      font-size: 0.875rem;
-      font-weight: 700;
-      margin-bottom: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    
-    .mega-column ul {
-      list-style: none;
-      padding: 0;
-    }
-    
-    .mega-column li {
-      margin-bottom: 0.5rem;
-    }
-    
-    .mega-column a {
-      color: var(--text-secondary);
-      text-decoration: none;
-      font-size: 0.9rem;
-      display: block;
-      padding: 0.375rem 0.5rem;
-      border-radius: 0.375rem;
-      transition: all 0.2s;
-    }
-    
-    .mega-column a:hover {
-      background: rgba(59, 130, 246, 0.1);
-      color: var(--accent-primary);
-      padding-left: 0.75rem;
+    .nav-link.new-pill:hover,
+    .nav-link.new-pill:focus-visible {
+      transform: translateY(-1px);
+      background: linear-gradient(135deg, #f472b6 0%, #fb923c 100%);
+      color: #fff;
     }
     
     .mobile-toggle {
@@ -539,63 +497,28 @@
       font-size: 0.9rem;
       line-height: 1.6;
     }
-    
+
     /* Footer */
     .footer {
       background: var(--bg-secondary);
       border-top: 1px solid var(--border-color);
-      padding: 3rem 1.5rem 2rem;
-      margin-top: 4rem;
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
     }
     
     .footer-content {
       max-width: 1400px;
       margin: 0 auto;
-    }
-    
-    .footer-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 2rem;
-      margin-bottom: 2rem;
-    }
-    
-    .footer-section h4 {
-      color: var(--accent-yellow);
-      font-size: 0.875rem;
-      font-weight: 700;
-      margin-bottom: 1rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    
-    .footer-links {
-      list-style: none;
-      padding: 0;
-    }
-    
-    .footer-links li {
-      margin-bottom: 0.5rem;
-    }
-    
-    .footer-links a {
-      color: var(--text-secondary);
-      text-decoration: none;
-      font-size: 0.9rem;
-      transition: color 0.2s;
-    }
-    
-    .footer-links a:hover {
-      color: var(--accent-primary);
+      display: flex;
+      justify-content: center;
     }
     
     .footer-bottom {
-      border-top: 1px solid var(--border-color);
-      padding-top: 2rem;
       text-align: center;
       color: var(--text-muted);
-      font-size: 0.875rem;
-      line-height: 1.8;
+      font-size: 0.88rem;
+      line-height: 1.3;
+      padding-top: 0.35rem;
     }
     
     .footer-bottom a {
@@ -609,12 +532,8 @@
     
     /* Mobile Styles */
     @media (max-width: 1024px) {
-      .mega-dropdown {
-        min-width: 500px;
-      }
-      
-      .mega-columns {
-        grid-template-columns: repeat(2, 1fr);
+      .nav-menu {
+        justify-content: center;
       }
     }
     
@@ -639,8 +558,17 @@
         overflow-y: auto;
       }
       
-      .nav-menu.active {
-        display: flex;
+      #navMenu.mobile-open {
+        display: flex !important;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: rgba(30, 41, 59, 0.98);
+        gap: 0;
+        padding: 1rem 0;
+        z-index: 999;
       }
       
       .nav-item {
@@ -649,29 +577,7 @@
       
       .nav-link {
         width: 100%;
-        justify-content: space-between;
-      }
-      
-      .mega-dropdown {
-        position: static;
-        transform: none;
-        min-width: auto;
-        width: 100%;
-        margin-top: 0;
-        border-radius: 0.5rem;
-        padding: 1rem;
-        display: none;
-      }
-      
-      .nav-item.mobile-open .mega-dropdown {
-        display: block;
-        opacity: 1;
-        visibility: visible;
-      }
-      
-      .mega-columns {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
+        justify-content: center;
       }
       
       .hero-stats {
@@ -721,501 +627,310 @@
         grid-template-columns: 1fr;
       }
     }
+  
+    /* Mobile menu open state */
+    @media (max-width: 768px) {
+      #navMenu.mobile-open {
+        display: flex !important;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: rgba(30, 41, 59, 0.98);
+        gap: 0;
+        padding: 1rem 0;
+        z-index: 999;
+      }
+      
+    }
+    
+</style>    
+<style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+    .icon {
+      font-size: 6rem;
+      margin-bottom: 2rem;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+    }
+    
+    h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 900;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.2;
+    }
+    
+    .subtitle {
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: var(--text-secondary);
+      margin-bottom: 3rem;
+      line-height: 1.7;
+    }
+    
+    .cta-box {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(5, 150, 105, 0.15) 100%);
+      border: 2px solid var(--accent-green);
+      border-radius: 1rem;
+      padding: 2.5rem 2rem;
+      margin: 3rem 0;
+    }
+    
+    .cta-box h2 {
+      color: var(--accent-green);
+      font-size: 1.75rem;
+      margin-bottom: 1rem;
+      font-weight: 800;
+    }
+    
+    .cta-box p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      line-height: 1.8;
+    }
+    
+    .cta-button {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--accent-green) 0%, #059669 100%);
+      color: white;
+      padding: 1.25rem 3rem;
+      border-radius: 0.75rem;
+      font-size: 1.25rem;
+      font-weight: 800;
+      text-decoration: none;
+      transition: all 0.3s;
+      box-shadow: 0 10px 25px -5px rgba(16, 185, 129, 0.4);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .cta-button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 15px 35px -5px rgba(16, 185, 129, 0.6);
+    }
+    
+    .discount-badge {
+      background: var(--accent-yellow);
+      color: var(--bg-primary);
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      font-size: 0.875rem;
+      font-weight: 800;
+      display: inline-block;
+      margin-top: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .back-link {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border-color);
+    }
+    
+    .back-link a {
+      color: var(--accent-primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: color 0.2s;
+    }
+    
+    .back-link a:hover {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    
+    .features {
+      text-align: left;
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 0.75rem;
+    }
+    
+    .features ul {
+      list-style: none;
+      padding: 0;
+    }
+    
+    .features li {
+      color: var(--text-secondary);
+      padding: 0.75rem 0;
+      padding-left: 2rem;
+      position: relative;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    
+    .features li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: var(--accent-green);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    
+    @media (max-width: 768px) {
+      .icon {
+        font-size: 4rem;
+      }
+      
+      .cta-box {
+        padding: 2rem 1.5rem;
+      }
+      
+      .cta-button {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+        width: 100%;
+      }
+    }
   </style>
+<style>
+/* Force consistent logo size across pages to avoid layout jumps */
+
+@media (max-width:480px){
+  
+}
+</style>
+<style>
+/* Logo sizing */
+
+@media (max-width:480px){
+  
+}
+
+/* Slim footer and logo sizing */
+.logo-link img {
+  height: 45px !important;
+  width: auto !important;
+  margin-right: 0.75rem !important;
+  display: block !important;
+}
+@media (max-width:480px){
+  .logo-link img { height: 36px !important; }
+}
+</style>
+
 </head>
 <body>
-  
-  <!-- Navigation -->
   <nav class="nav">
     <div class="nav-container">
-      <a href="/" class="logo-link">
-        <img src="logo-rested-xp.png" alt="Logo" />
-        <span>WoW Leveling</span>
+      <a href="https://boostyou.ai" class="logo-link"><img src="assets/boostyou.png" alt="Logo" />
       </a>
       
       <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">☰</button>
       
       <ul class="nav-menu" id="navMenu">
-        <!-- Class Guides Dropdown -->
         <li class="nav-item">
-          <a href="#" class="nav-link" onclick="toggleMobileDropdown(event, this)">
-            Class Guides <span class="dropdown-arrow">▼</span>
-          </a>
-          <div class="mega-dropdown">
-            <div class="mega-columns">
-              <div class="mega-column">
-                <h4>Plate Classes</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Warrior</a></li>
-                  <li><a href="/under-construction.html">Paladin</a></li>
-                  <li><a href="/under-construction.html">Death Knight</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>Mail/Leather</h4>
-                <ul>
-                  <li><a href="/hunter-leveling-guide">Hunter</a></li>
-                  <li><a href="/under-construction.html">Shaman</a></li>
-                  <li><a href="/under-construction.html">Rogue</a></li>
-                  <li><a href="/under-construction.html">Druid</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>Cloth Classes</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Mage</a></li>
-                  <li><a href="/under-construction.html">Warlock</a></li>
-                  <li><a href="/under-construction.html">Priest</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <a href="content/class-guides.html" class="nav-link">Classes</a>
         </li>
-        
-        <!-- Fast Leveling Dropdown -->
         <li class="nav-item">
-          <a href="#" class="nav-link" onclick="toggleMobileDropdown(event, this)">
-            Fast Leveling <span class="dropdown-arrow">▼</span>
-          </a>
-          <div class="mega-dropdown">
-            <div class="mega-columns">
-              <div class="mega-column">
-                <h4>Guide Comparisons</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Best Guides 2026</a></li>
-                  <li><a href="/under-construction.html">RestedXP vs Zygor</a></li>
-                  <li><a href="/under-construction.html">RestedXP vs Joana</a></li>
-                  <li><a href="/under-construction.html">Free vs Premium</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>Speed Methods</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Fastest 1-60 Route</a></li>
-                  <li><a href="/under-construction.html">Fastest 60-70 Route</a></li>
-                  <li><a href="/under-construction.html">Dungeon vs Questing</a></li>
-                  <li><a href="/under-construction.html">Best Grinding Spots</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>Premium Guides</h4>
-                <ul>
-                  <li><a href="https://shop.restedxp.com/ref/nutri/" target="_blank">RestedXP Discount</a></li>
-                  <li><a href="/under-construction.html">Zygor Discount</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <a href="content/fast-leveling.html" class="nav-link">Leveling</a>
         </li>
-        
-        <!-- Versions Dropdown -->
         <li class="nav-item">
-          <a href="#" class="nav-link" onclick="toggleMobileDropdown(event, this)">
-            Versions <span class="dropdown-arrow">▼</span>
-          </a>
-          <div class="mega-dropdown">
-            <div class="mega-columns">
-              <div class="mega-column">
-                <h4>Classic (1-60)</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Era</a></li>
-                  <li><a href="/under-construction.html">Anniversary</a></li>
-                  <li><a href="/under-construction.html">Hardcore</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>TBC (60-70)</h4>
-                <ul>
-                  <li><a href="/under-construction.html">TBC Anniversary</a></li>
-                  <li><a href="/under-construction.html">Fastest 60-70</a></li>
-                  <li><a href="/under-construction.html">Zone Order</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>WotLK (70-80)</h4>
-                <ul>
-                  <li><a href="/under-construction.html">WotLK Guide</a></li>
-                  <li><a href="/under-construction.html">Fastest 70-80</a></li>
-                  <li><a href="/under-construction.html">Zone Order</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <a href="content/professions.html" class="nav-link">Professions</a>
         </li>
-        
-        <!-- Zones Dropdown -->
         <li class="nav-item">
-          <a href="#" class="nav-link" onclick="toggleMobileDropdown(event, this)">
-            Zones <span class="dropdown-arrow">▼</span>
-          </a>
-          <div class="mega-dropdown">
-            <div class="mega-columns">
-              <div class="mega-column">
-                <h4>By Faction</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Horde 1-60</a></li>
-                  <li><a href="/under-construction.html">Alliance 1-60</a></li>
-                  <li><a href="/under-construction.html">Horde 60-70</a></li>
-                  <li><a href="/under-construction.html">Alliance 60-70</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>Classic Zones</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Starting (1-10)</a></li>
-                  <li><a href="/under-construction.html">Early (10-20)</a></li>
-                  <li><a href="/under-construction.html">Mid (20-40)</a></li>
-                  <li><a href="/under-construction.html">Late (40-60)</a></li>
-                </ul>
-              </div>
-              <div class="mega-column">
-                <h4>TBC & WotLK</h4>
-                <ul>
-                  <li><a href="/under-construction.html">Outland (60-70)</a></li>
-                  <li><a href="/under-construction.html">Northrend (70-80)</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </li>
-        
-        <!-- Tips & Tricks -->
-        <li class="nav-item">
-          <a href="/under-construction.html" class="nav-link">Tips & Tricks</a>
-        </li>
-        
-        <!-- Blog -->
-        <li class="nav-item">
-          <a href="/under-construction.html" class="nav-link">Blog</a>
+          <a href="content/newcontent.html" class="nav-link new-pill">NEW</a>
         </li>
       </ul>
     </div>
   </nav>
   
-  <!-- Hero Section -->
-  <section class="hero">
-    <h1>Complete WoW Classic Leveling Guide</h1>
-    <p class="hero-subtitle">Master Classic, TBC & WotLK with expert strategies for all 12 classes, 36 specializations, and 100+ zones</p>
-    
-    <div class="search-bar">
-      <input type="text" class="search-input" placeholder="Try: 'frost mage', 'hellfire peninsula', or '1-60 horde'..." />
-      <span class="search-icon">🔍</span>
+<!-- Hero Section -->
+<section class="hero">
+  <h1>WoW Classic guides</h1>
+
+  <div class="hero-stats">
+    <div class="stat-item">
+      <span class="stat-number">10</span>
+      <span class="stat-label">Classes</span>
     </div>
-    
-    <div class="hero-stats">
-      <div class="stat-item">
-        <span class="stat-number">12</span>
-        <span class="stat-label">Classes</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">36</span>
-        <span class="stat-label">Specializations</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">100+</span>
-        <span class="stat-label">Zone Guides</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">2026</span>
-        <span class="stat-label">Updated</span>
-      </div>
+    <div class="stat-item">
+      <span class="stat-number">30</span>
+      <span class="stat-label">Specializations</span>
     </div>
-  </section>
-  
-  <!-- Container -->
-  <div class="container">
-    
-    <!-- TBC Launch Banner -->
-    <div class="tbc-banner">
-      <h2>🔥 TBC Classic Anniversary Launches Early 2026!</h2>
-      <p>Get prepared with our complete 60-70 leveling guides, optimal zone routes, and all class builds ready for launch day</p>
-      <a href="/under-construction.html" class="tbc-cta">View TBC Guides →</a>
+    <div class="stat-item">
+      <span class="stat-number">100+</span>
+      <span class="stat-label">Guides Published</span>
     </div>
-    
-    <!-- Quick Navigation Cards -->
-    <div class="quick-nav">
-      <a href="/hunter-leveling-guide" class="quick-card">
-        <span class="quick-icon">📚</span>
-        <h3>Class Guides</h3>
-        <p>Complete leveling guides for all 12 classes with talent builds, rotations, and gear recommendations</p>
-        <div class="quick-meta">12 Classes • 36 Specs</div>
-      </a>
-      
-      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" class="quick-card">
-        <span class="quick-icon">⚡</span>
-        <h3>Fast Leveling</h3>
-        <p>Get instant access to the fastest leveling addon with optimized routes for all classes and versions</p>
-        <div class="quick-meta">RestedXP Discount</div>
-      </a>
-      
-      <a href="/under-construction.html" class="quick-card">
-        <span class="quick-icon">🗺️</span>
-        <h3>Version Guides</h3>
-        <p>Dedicated guides for Classic (1-60), TBC (60-70), WotLK (70-80), and Hardcore modes</p>
-        <div class="quick-meta">All Versions Covered</div>
-      </a>
-      
-      <a href="/under-construction.html" class="quick-card">
-        <span class="quick-icon">🌍</span>
-        <h3>Zone Guides</h3>
-        <p>In-depth guides for every leveling zone across Classic, TBC, and WotLK with quest efficiency ratings</p>
-        <div class="quick-meta">100+ Zones</div>
-      </a>
+    <div class="stat-item">
+      <span class="stat-number">2026</span>
+      <span class="stat-label">Updated</span>
     </div>
-    
-    <!-- Version Selection -->
-    <section style="margin: 4rem 0;">
-      <div class="section-header">
-        <h2>Choose Your Version</h2>
-        <p>Select the WoW version you're playing for tailored leveling guides</p>
-      </div>
-      
-      <div class="version-grid">
-        <a href="/under-construction.html" class="version-btn">
-          <span class="version-icon">🏰</span>
-          <span class="version-title">Classic WoW</span>
-          <span class="version-subtitle">Levels 1-60</span>
-        </a>
-        
-        <a href="/under-construction.html" class="version-btn">
-          <span class="version-icon">🔥</span>
-          <span class="version-title">TBC Classic</span>
-          <span class="version-subtitle">Levels 60-70</span>
-        </a>
-        
-        <a href="/under-construction.html" class="version-btn">
-          <span class="version-icon">❄️</span>
-          <span class="version-title">WotLK Classic</span>
-          <span class="version-subtitle">Levels 70-80</span>
-        </a>
-        
-        <a href="/under-construction.html" class="version-btn">
-          <span class="version-icon">💀</span>
-          <span class="version-title">Hardcore</span>
-          <span class="version-subtitle">Death-Safe Routes</span>
-        </a>
-      </div>
-    </section>
-    
-    <!-- Featured Guides -->
-    <section style="margin: 4rem 0;">
-      <div class="section-header">
-        <h2>Popular Guides</h2>
-        <p>Most viewed leveling guides and strategies</p>
-      </div>
-      
-      <div class="featured-grid">
-        <a href="/hunter-leveling-guide" class="featured-card">
-          <span class="featured-tag">Class Guide</span>
-          <h3>Hunter Leveling Guide (1-60)</h3>
-          <p>Complete Beast Mastery build with pet recommendations, rotation priorities, and leveling zones for the fastest solo leveling class.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">Speed Guide</span>
-          <h3>Fastest Horde 1-60 Route</h3>
-          <p>Optimized zone order and quest path for Horde players. Complete walkthrough from Durotar to Eastern Plaguelands.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">Spec Build</span>
-          <h3>Frost Mage Leveling Build</h3>
-          <p>Talent point allocation, AoE grinding strategies, and mana efficiency tips for the ultimate mage leveling experience.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">Zone Guide</span>
-          <h3>Hellfire Peninsula (60-62)</h3>
-          <p>Your first steps into Outland. Complete quest chains, mob grinding spots, and optimal leveling path through the zone.</p>
-        </a>
-        
-        <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" class="featured-card">
-          <span class="featured-tag">Premium</span>
-          <h3>RestedXP Leveling Addon</h3>
-          <p>Get instant access to the most comprehensive leveling addon. Optimized routes for all classes with exclusive discount.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">Spec Build</span>
-          <h3>Arms Warrior Leveling Build</h3>
-          <p>Best talents, weapon progression, and rage management for leveling as Arms. Includes Sweeping Strikes optimization.</p>
-        </a>
-      </div>
-    </section>
-    
-    <!-- Latest Blog Posts -->
-    <section style="margin: 4rem 0;">
-      <div class="section-header">
-        <h2>Latest Updates</h2>
-        <p>Fresh guides, tips, and WoW leveling news</p>
-      </div>
-      
-      <div class="featured-grid">
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">New</span>
-          <h3>Preparing for TBC Anniversary Launch</h3>
-          <p>Everything you need to know before TBC Classic Anniversary releases. Best classes, pre-raid BiS, and leveling strategies.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">TBC</span>
-          <h3>5 Methods to Hit 70 Faster in TBC</h3>
-          <p>Advanced strategies for optimizing your 60-70 journey. Dungeon grinding, quest route efficiency, and time-saving tricks.</p>
-        </a>
-        
-        <a href="/under-construction.html" class="featured-card">
-          <span class="featured-tag">Hardcore</span>
-          <h3>10 Hardcore Survival Tips That Save Lives</h3>
-          <p>Critical safety strategies for Hardcore Classic. Avoid the most common deaths and make it to 60 alive.</p>
-        </a>
-      </div>
-      
-      <div style="text-align: center; margin-top: 2rem;">
-        <a href="/under-construction.html" style="color: var(--accent-primary); text-decoration: none; font-weight: 600; font-size: 1.1rem;">View All Blog Posts →</a>
-      </div>
-    </section>
-    
   </div>
+</section>
+
+<!-- Container -->
+<div class="container">
+
+  <!-- TBC Launch Banner -->
+  <div class="tbc-banner">
+    <h2>🔥 TBC Classic Anniversary Launches Early 2026!</h2>
+    <p>Get prepared with our complete 60-70 leveling guides, optimal zone routes, and all class builds ready for launch day with RestedXP!</p>
+    <a href="https://shop.restedxp.com/ref/nutri/" class="tbc-cta dynamic-link">Get 10% off with RestedXP →</a>
+  </div>
+
+  <!-- Quick Navigation Cards -->
+  <div class="quick-nav" id="class-guides">
+    <a href="content/class-guides.html" class="quick-card dynamic-link">
+      <span class="quick-icon">📚</span>
+      <h3>Classes</h3>
+      <p>Complete leveling guides for all 10 classes with talent builds, rotations, and gear recommendations</p>
+      <div class="quick-meta">10 Classes • 30 Specs</div>
+    </a>
+
+    <a href="content/professions.html" class="quick-card dynamic-link">
+      <span class="quick-icon">🛠️</span>
+      <h3>Professions</h3>
+      <p>Pick your crafting and gathering plans for Classic, TBC, and WotLK with expansion-specific availability</p>
+      <div class="quick-meta">Craft & Gather</div>
+    </a>
+
+    <a id="fast-leveling" href="content/fast-leveling.html" class="quick-card dynamic-link">
+      <span class="quick-icon">⚡</span>
+      <h3>Leveling</h3>
+      <p>Head directly to the speed-leveling landing page covering 1-60, 60-70, and 70-80 routes</p>
+      <div class="quick-meta">All XP Brackets</div>
+    </a>
+  </div>
+
+</div>
   
   <!-- Footer -->
-  <footer class="footer">
-    <div class="footer-content">
-      <div class="footer-grid">
-        <div class="footer-section">
-          <h4>Class Guides</h4>
-          <ul class="footer-links">
-            <li><a href="/under-construction.html">Warrior</a></li>
-            <li><a href="/under-construction.html">Paladin</a></li>
-            <li><a href="/hunter-leveling-guide">Hunter</a></li>
-            <li><a href="/under-construction.html">Rogue</a></li>
-            <li><a href="/under-construction.html">Priest</a></li>
-            <li><a href="/under-construction.html">Shaman</a></li>
-          </ul>
-        </div>
-        
-        <div class="footer-section">
-          <h4>More Classes</h4>
-          <ul class="footer-links">
-            <li><a href="/under-construction.html">Mage</a></li>
-            <li><a href="/under-construction.html">Warlock</a></li>
-            <li><a href="/under-construction.html">Druid</a></li>
-            <li><a href="/under-construction.html">Death Knight</a></li>
-          </ul>
-        </div>
-        
-        <div class="footer-section">
-          <h4>Fast Leveling</h4>
-          <ul class="footer-links">
-            <li><a href="https://shop.restedxp.com/ref/nutri/" target="_blank">RestedXP Discount</a></li>
-            <li><a href="/under-construction.html">Best Guides 2026</a></li>
-            <li><a href="/under-construction.html">Fastest 1-60</a></li>
-            <li><a href="/under-construction.html">Fastest 60-70</a></li>
-          </ul>
-        </div>
-        
-        <div class="footer-section">
-          <h4>Versions</h4>
-          <ul class="footer-links">
-            <li><a href="/under-construction.html">Classic (1-60)</a></li>
-            <li><a href="/under-construction.html">TBC (60-70)</a></li>
-            <li><a href="/under-construction.html">WotLK (70-80)</a></li>
-            <li><a href="/under-construction.html">Hardcore</a></li>
-          </ul>
-        </div>
-        
-        <div class="footer-section">
-          <h4>Zone Guides</h4>
-          <ul class="footer-links">
-            <li><a href="/under-construction.html">Horde Zones</a></li>
-            <li><a href="/under-construction.html">Alliance Zones</a></li>
-            <li><a href="/under-construction.html">Outland (TBC)</a></li>
-            <li><a href="/under-construction.html">Northrend (WotLK)</a></li>
-          </ul>
-        </div>
-        
-        <div class="footer-section">
-          <h4>Resources</h4>
-          <ul class="footer-links">
-            <li><a href="/under-construction.html">Tips & Tricks</a></li>
-            <li><a href="/under-construction.html">Blog</a></li>
-            <li><a href="/under-construction.html">About</a></li>
-            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-          </ul>
-        </div>
-      </div>
-      
-      <div class="footer-bottom">
-        <p>
-          <strong>© 2026 WoW Classic Leveling Guide.</strong> All rights reserved.
-        </p>
-        <p style="margin-top: 1rem;">
-          <strong>Affiliate Disclosure:</strong> We may earn commissions from purchases made through affiliate links (such as RestedXP) at no additional cost to you. This helps support our free guides and content.
-        </p>
-        <p style="margin-top: 1rem;">
-          <strong>Legal Disclaimer:</strong> This website is not affiliated with, endorsed by, or connected to Blizzard Entertainment or World of Warcraft. World of Warcraft, WoW, and all related properties are trademarks of Blizzard Entertainment, Inc. All game content, imagery, and information are property of their respective owners. We are an independent fan site providing guides and information.
-        </p>
-        <p style="margin-top: 1rem;">
-          <strong>Privacy & Analytics:</strong> This site uses Google Analytics to analyze traffic and improve user experience. By using this website, you consent to the collection and use of information in accordance with our <a href="/privacy-policy">Privacy Policy</a>. We do not sell personal data. No personally identifiable information is stored or shared without consent.
-        </p>
-        <p style="margin-top: 1rem;">
-          <strong>Liability Waiver:</strong> The information provided on this website is for educational and entertainment purposes only. We make no guarantees about the accuracy, completeness, or reliability of any content. Use of any information is at your own risk. We are not responsible for any damages, losses, or consequences from using guides or following advice on this site. Always verify information independently.
-        </p>
-        <p style="margin-top: 1rem;">
-          <a href="/privacy-policy">Privacy Policy</a> • 
-          <a href="/terms-of-service">Terms of Service</a> • 
-          <a href="/disclaimer">Disclaimer</a>
-        </p>
-      </div>
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-bottom" style="border-top:0;">
+      © 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.
     </div>
-  </footer>
-  
-  <script>
-    // Mobile menu toggle
-    function toggleMobileMenu() {
-      const menu = document.getElementById('navMenu');
-      menu.classList.toggle('active');
-    }
-    
-    // Mobile dropdown toggle
-    function toggleMobileDropdown(event, element) {
-      if (window.innerWidth <= 768) {
-        event.preventDefault();
-        const navItem = element.parentElement;
-        navItem.classList.toggle('mobile-open');
-      }
-    }
-    
-    // Close mobile menu when clicking outside
-    document.addEventListener('click', function(event) {
-      const menu = document.getElementById('navMenu');
-      const toggle = document.querySelector('.mobile-toggle');
-      const isClickInside = menu.contains(event.target) || toggle.contains(event.target);
-      
-      if (!isClickInside && menu.classList.contains('active')) {
-        menu.classList.remove('active');
-      }
-    });
-    
-    // Close dropdowns when window is resized
-    window.addEventListener('resize', function() {
-      if (window.innerWidth > 768) {
-        const openItems = document.querySelectorAll('.nav-item.mobile-open');
-        openItems.forEach(item => item.classList.remove('mobile-open'));
-      }
-    });
-    
-    // Simple search functionality (placeholder - you can expand this)
-    const searchInput = document.querySelector('.search-input');
-    if (searchInput) {
-      searchInput.addEventListener('keypress', function(e) {
-        if (e.key === 'Enter') {
-          const query = this.value.toLowerCase();
-          // Redirect to search results page (you'll build this later)
-          window.location.href = '/search?q=' + encodeURIComponent(query);
-        }
-      });
-    }
-  </script>
-  
+  </div>
+</footer>
+
 </body>
 </html>
