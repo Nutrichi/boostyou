@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arcane Mage Leveling Guide (Classic, TBC, WotLK) - 2026</title>
+  <meta name="description" content="In-depth Arcane Mage leveling guide for Classic, TBC, and WotLK. Talents, rotations, mana management, zone routing, and gear tips for 1-80." />
+  <link rel="canonical" href="https://boostyou.ai/mage-arcane" />
+  <meta property="og:title" content="Arcane Mage Leveling Guide (Classic, TBC, WotLK) - 2026" />
+  <meta property="og:description" content="In-depth Arcane Mage leveling guide for Classic, TBC, and WotLK. Talents, rotations, mana management, zone routing, and gear tips for 1-80." />
+  <meta property="og:url" content="https://boostyou.ai/mage-arcane" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  <style>
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --accent-red: #ef4444;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    
+    a { color: inherit; }
+    
+    /* Navigation */
+    .nav {
+      background: rgba(30, 41, 59, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 70px;
+    }
+    
+    .logo-link {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    
+    .logo-link img {
+      height: 45px;
+      width: auto;
+      margin-right: 0.75rem;
+      display: block;
+    }
+    
+    .nav-menu {
+      display: flex;
+      gap: 0.75rem;
+      list-style: none;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    
+    .nav-item { position: relative; }
+    
+    .nav-link {
+      color: var(--text-primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 0.6rem 1.4rem;
+      border-radius: 999px;
+      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.25rem;
+      white-space: nowrap;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      background: rgba(59, 130, 246, 0.08);
+      box-shadow: 0 6px 15px -10px rgba(0, 0, 0, 0.7);
+    }
+    
+    .nav-link:hover,
+    .nav-link:focus-visible {
+      background: rgba(59, 130, 246, 0.25);
+      color: var(--accent-primary);
+      border-color: rgba(59, 130, 246, 0.6);
+    }
+    
+    .nav-link.new-pill {
+      background: linear-gradient(135deg, #ec4899 0%, #f97316 100%);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 15px 35px -12px rgba(249, 115, 22, 0.75);
+    }
+    
+    .nav-link.new-pill:hover,
+    .nav-link.new-pill:focus-visible {
+      transform: translateY(-1px);
+      background: linear-gradient(135deg, #f472b6 0%, #fb923c 100%);
+      color: #fff;
+    }
+    
+    .mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: var(--text-primary);
+      font-size: 1.75rem;
+      cursor: pointer;
+      padding: 0.5rem;
+    }
+    
+    /* Layout */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+    
+    .hero {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    
+    .hero h1 {
+      font-size: clamp(2.6rem, 5vw, 3.6rem);
+      font-weight: 900;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #a855f7 0%, #22d3ee 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -0.02em;
+    }
+    
+    .hero p {
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+      max-width: 900px;
+      margin: 0 auto 1.5rem;
+    }
+    
+    .meta {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    
+    .pill {
+      display: inline-block;
+      padding: 0.35rem 0.9rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: var(--text-primary);
+      font-weight: 700;
+      font-size: 0.9rem;
+    }
+    
+    .version-toggle {
+      display: inline-flex;
+      gap: 0.5rem;
+      padding: 0.45rem;
+      border-radius: 999px;
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      background: rgba(59, 130, 246, 0.08);
+      margin: 1.5rem auto 0;
+    }
+    
+    .version-toggle button {
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      padding: 0.55rem 1.1rem;
+      border-radius: 999px;
+      font-weight: 800;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .version-toggle button.active {
+      background: var(--accent-primary);
+      color: #0b1020;
+      box-shadow: 0 8px 18px -8px rgba(59, 130, 246, 0.7);
+    }
+    
+    .section {
+      margin: 2.5rem 0;
+    }
+    
+    .section h2 {
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: var(--accent-primary);
+      margin-bottom: 0.75rem;
+      font-weight: 800;
+    }
+    
+    .section p {
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.25rem;
+    }
+    
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.9rem;
+      padding: 1.25rem;
+      box-shadow: 0 16px 30px -18px rgba(0,0,0,0.6);
+    }
+    
+    .card h3 {
+      color: var(--accent-yellow);
+      font-size: 1.15rem;
+      margin-bottom: 0.4rem;
+    }
+    
+    .list {
+      list-style: none;
+      padding: 0;
+      margin: 0.35rem 0 0;
+    }
+    
+    .list li {
+      padding-left: 1rem;
+      position: relative;
+      color: var(--text-secondary);
+      margin-bottom: 0.45rem;
+      font-size: 0.98rem;
+    }
+    
+    .list li::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: var(--accent-primary);
+    }
+    
+    .highlight {
+      background: rgba(59, 130, 246, 0.12);
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      border-radius: 0.85rem;
+      padding: 1.1rem 1.2rem;
+      color: var(--text-secondary);
+      margin-top: 1rem;
+    }
+    
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.85rem;
+      overflow: hidden;
+    }
+    
+    .table th, .table td {
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid var(--border-color);
+      text-align: left;
+      color: var(--text-secondary);
+    }
+    
+    .table th {
+      color: var(--accent-yellow);
+      background: rgba(255, 255, 255, 0.03);
+      font-weight: 800;
+      font-size: 0.95rem;
+    }
+    
+    .table tr:last-child td { border-bottom: none; }
+    
+    .cta {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15));
+      border: 1px solid rgba(59, 130, 246, 0.35);
+      border-radius: 1rem;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      margin: 3rem 0 1rem;
+    }
+    
+    .cta h3 { color: var(--accent-yellow); margin-bottom: 0.75rem; font-size: 1.3rem; }
+    .cta p { color: var(--text-secondary); margin-bottom: 1rem; }
+    .cta a {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--accent-primary), #6366f1);
+      color: #fff;
+      padding: 0.9rem 1.8rem;
+      border-radius: 999px;
+      font-weight: 800;
+      text-decoration: none;
+      box-shadow: 0 18px 35px -18px rgba(99, 102, 241, 0.8);
+      transition: transform 0.2s;
+    }
+    .cta a:hover { transform: translateY(-2px); }
+    
+    /* Footer */
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .footer-bottom {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.3;
+      padding: 0;
+    }
+    
+    .footer-bottom a { color: var(--accent-primary); text-decoration: none; }
+    .footer-bottom a:hover { text-decoration: underline; }
+    
+    @media (max-width: 1024px) {
+      .nav-menu { justify-content: center; }
+    }
+    
+    @media (max-width: 768px) {
+      .mobile-toggle { display: block; }
+      .nav-menu {
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: rgba(30, 41, 59, 0.98);
+        backdrop-filter: blur(20px);
+        flex-direction: column;
+        padding: 1rem;
+        gap: 0;
+        border-bottom: 1px solid var(--border-color);
+        display: none;
+        max-height: 80vh;
+        overflow-y: auto;
+      }
+      #navMenu.mobile-open {
+        display: flex !important;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: rgba(30, 41, 59, 0.98);
+        gap: 0;
+        padding: 1rem 0;
+        z-index: 999;
+      }
+      .nav-item { width: 100%; }
+      .nav-link { width: 100%; justify-content: center; }
+    }
+    
+    @media (max-width: 480px) {
+      .nav-container { padding: 0 1rem; }
+      .logo-link img { height: 36px; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="../index.html" class="logo-link"><img src="../assets/boostyou.png" alt="Logo" /></a>
+      <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">☰</button>
+      <ul class="nav-menu" id="navMenu">
+        <li class="nav-item"><a href="class-guides.html" class="nav-link">Classes</a></li>
+        <li class="nav-item"><a href="fast-leveling.html" class="nav-link">Leveling</a></li>
+        <li class="nav-item"><a href="professions.html" class="nav-link">Professions</a></li>
+        <li class="nav-item"><a href="newcontent.html" class="nav-link new-pill">NEW</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <main>
+    <section class="hero">
+      <h1>Arcane Mage Leveling Guide</h1>
+      <p>Arcane brings huge burst windows and strong mana tools. This guide covers Arcane leveling for Classic, TBC, and WotLK with talents, rotations, mana management, and routes from 1-80.</p>
+      <div class="meta">
+        <span class="pill">Updated 2026</span>
+        <span class="pill">Burst & Utility</span>
+        <span class="pill">Supports Classic / TBC / WotLK</span>
+      </div>
+      <div class="version-toggle" aria-label="Choose expansion">
+        <button class="active" data-version="classic">Classic</button>
+        <button data-version="tbc">TBC</button>
+        <button data-version="wotlk">WotLK</button>
+      </div>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="classic">
+      <h2>Arcane in Classic</h2>
+      <p>Arcane is mostly a support/off-tree in Classic. Full Arcane leveling is slower than Frost, but a hybrid Arcane/Frost build gives strong mana tools and solid control.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Strengths</h3>
+          <ul class="list">
+            <li>Clearcasting procs reduce mana use.</li>
+            <li>Improved Arcane Explosion for instant, threat-reduced AoE.</li>
+            <li>Arcane Power burst for elites/bosses.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Weaknesses</h3>
+          <ul class="list">
+            <li>Less efficient than Frost for sustained leveling.</li>
+            <li>No slows/roots in Arcane tree; depends on Frost off-tree for control.</li>
+            <li>AoE is mana hungry without Frost kiting.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Talents by Level (Classic Hybrid)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (10-29)</h3>
+          <ul class="list">
+            <li>Arcane: 5/5 Arcane Focus, 5/5 Arcane Concentration (Clearcasting).</li>
+            <li>Improved Arcane Explosion 3/3 for instant AE.</li>
+            <li>Magic Absorption 2/2 for resist/regen.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (30-44)</h3>
+          <ul class="list">
+            <li>Arcane Power at 40 for burst; Presence of Mind.</li>
+            <li>Shift to Frost: Improved Frostbolt, Permafrost or Frostbite, Shatter.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (45-60)</h3>
+          <ul class="list">
+            <li>Ice Barrier for safety; Frost Channeling for efficiency.</li>
+            <li>Optional: Improved Blizzard for AoE slows.</li>
+            <li>Fill Winter's Chill if grouping.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="highlight">Classic recommendation: Hybrid Arcane/Frost. Use Arcane Power + Presence of Mind for elites, Frost tools for control.</div>
+      
+      <h2>Rotation & Playstyle</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Arcane Missiles on Clearcasting procs; Frostbolt filler for control.</li>
+            <li>Arcane Power + PoM + Fireball/Frostbolt for burst on elites.</li>
+            <li>Wand to finish to conserve mana.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE</h3>
+          <ul class="list">
+            <li>Frost Nova → Blink → Arcane Explosion spam (Improved AE).</li>
+            <li>Use Frost kiting (Barrier/CoC/Blizzard) if pulls are large.</li>
+            <li>Arcane Power for short high-threat bursts—Ice Block to drop threat.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Survival</h3>
+          <ul class="list">
+            <li>Mage Armor for regen; swap to Ice Barrier when pulling big packs.</li>
+            <li>Use Mana Shield only in emergencies.</li>
+            <li>Free Action/Health pots for tight pulls.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Zone Route (Classic)</h2>
+      <table class="table">
+        <thead><tr><th>Bracket</th><th>Zones</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>1-20</td><td>Starter → Barrens/Westfall</td><td>Early wand; practice AE pulls small.</td></tr>
+          <tr><td>20-30</td><td>Ashenvale/Duskwood</td><td>Deadmines/Stockades for cloth/wands.</td></tr>
+          <tr><td>30-40</td><td>STV/Desolace</td><td>SM for AE practice; PoM + AP on elites.</td></tr>
+          <tr><td>40-50</td><td>Tanaris/Feralas</td><td>ZF dungeon; cloth and caster gear.</td></tr>
+          <tr><td>50-60</td><td>Felwood/WPL/EPL</td><td>BRD/Scholo/Strat for spellpower gear.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="tbc" style="display:none;">
+      <h2>Arcane in TBC</h2>
+      <p>Arcane becomes viable: Arcane Blast, Clearcasting, and Arcane Power create huge burst. Mana is the limiter; use consumables and downranking smartly.</p>
+      <div class="highlight">Spec: 40+ Arcane for Arcane Blast, Arcane Power, Mind Mastery, Spell Power. Off-tree 10 in Frost for Icy Veins or hit/mana talents; or Fire for Improved Scorch if raiding later.</div>
+      
+      <h2>Talents by Level (TBC 60-70)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (60-64)</h3>
+          <ul class="list">
+            <li>Arcane Concentration 5/5, Arcane Focus, Magic Absorption.</li>
+            <li>Improved Arcane Explosion 3/3; Presence of Mind.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (65-67)</h3>
+          <ul class="list">
+            <li>Arcane Power, Arcane Mind, Prismatic Cloak.</li>
+            <li>Arcane Blast unlocked; manage stacks (don’t overstack while leveling).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (68-70)</h3>
+          <ul class="list">
+            <li>Mind Mastery 5/5; Spell Power.</li>
+            <li>Optional: Icy Veins off-tree for haste and emergency defense.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Rotation & Mana (TBC)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Arcane Blast x2-3 → reset with Arcane Missiles on Clearcasting.</li>
+            <li>Presence of Mind + Arcane Blast for instant nuke on elites.</li>
+            <li>Arcane Power on bosses/elites; Evocation on cooldown.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE</h3>
+          <ul class="list">
+            <li>Frost Nova → Blink → Arcane Explosion spam (Improved AE).</li>
+            <li>Use Rank 1 AE to tag/position; higher ranks to finish.</li>
+            <li>Ice Block if threat spikes; Mana Gem before big pulls.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mana Management</h3>
+          <ul class="list">
+            <li>Downrank Arcane Blast (keep stacks low while leveling).</li>
+            <li>Use Mage Armor; stack Intellect gear; carry plenty of water.</li>
+            <li>Clearcasting → Arcane Missiles for free channel.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Zone & Dungeon Path (TBC)</h2>
+      <table class="table">
+        <thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>60-62</td><td>Hellfire / Ramparts / BF</td><td>Use PoM+AP bursts on bosses.</td></tr>
+          <tr><td>62-65</td><td>Zangarmarsh / SP / UB</td><td>Efficient pulls; good cloth drops.</td></tr>
+          <tr><td>65-68</td><td>Terokkar / Sethekk / Mana-Tombs</td><td>Mana-Tombs fits Arcane theme; watch mana.</td></tr>
+          <tr><td>68-70</td><td>Nagrand / Netherstorm / Mech</td><td>Mech badge farm; Netherstorm quest spellpower.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="wotlk" style="display:none;">
+      <h2>Arcane in WotLK</h2>
+      <p>Top-tier burst spec with Arcane Blast stacking, Missile Barrage, and Arcane Barrage mobility. Mana gems, Evocation, and cooldown cycling are key to sustain.</p>
+      <div class="highlight">Spec path: Deep Arcane to Arcane Barrage, Missile Barrage, Torment the Weak, and Arcane Empowerment. Off-tree: Frost for Icy Veins or Fire for Student of the Mind if mana is fine.</div>
+      
+      <h2>Talents by Level (70-80)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (70-74)</h3>
+          <ul class="list">
+            <li>Arcane Focus/Precision for hit; Arcane Concentration.</li>
+            <li>Arcane Potency, Presence of Mind, Torment the Weak.</li>
+            <li>Missile Barrage as soon as available.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (75-77)</h3>
+          <ul class="list">
+            <li>Arcane Barrage for mobility.</li>
+            <li>Arcane Empowerment for group buff.</li>
+            <li>Incanter’s Absorption (synergy with wards) if desired.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (78-80)</h3>
+          <ul class="list">
+            <li>Fill Mind Mastery, Netherwind Presence (haste).</li>
+            <li>Optional: Icy Veins off-tree or Fire crit talents.</li>
+            <li>Arcane Stability if pushback is an issue.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Rotation (WotLK)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Arcane Blast to 3-4 stacks → Missile Barrage proc: Arcane Missiles.</li>
+            <li>Use Arcane Barrage while moving; Presence of Mind + Arcane Blast for instant nuke.</li>
+            <li>Cooldowns: Arcane Power + Icy Veins (if taken) + trinkets; Evo on cooldown.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE</h3>
+          <ul class="list">
+            <li>Arcane Explosion spam (Improved AE); use Blizzard if kiting needed.</li>
+            <li>Slow key mobs with Arcane Barrage if needed to peel.</li>
+            <li>Spellsteal useful buffs; use wards to fuel Incanter’s Absorption (if talented).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mana Management</h3>
+          <ul class="list">
+            <li>Don’t overstack AB when low on mana; use ABx2 → MBarr → AM.</li>
+            <li>Mage Armor if mana tight; Molten Armor if fine on mana.</li>
+            <li>Use Mana Gem early and often; Evo with trinkets off cooldown.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Zone & Dungeon Path (WotLK)</h2>
+      <table class="table">
+        <thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>70-72</td><td>Borean Tundra / Howling Fjord</td><td>Arcane Barrage mobility great for traveling quests.</td></tr>
+          <tr><td>72-75</td><td>Dragonblight / Azjol-Nerub / OK</td><td>Missile Barrage shines on short fights.</td></tr>
+          <tr><td>75-77</td><td>Grizzly Hills / Zul'Drak</td><td>Arcane Explosion on clustered quests; Drak'Tharon for badges.</td></tr>
+          <tr><td>77-80</td><td>Sholazar / Storm Peaks / Icecrown</td><td>HoL/HoS/Gundrak badge farms; Cold Weather Flying speeds route.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section">
+      <h2>Gear, Weapons, and Enchants (All Versions)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Stat Priority</h3>
+          <ul class="list">
+            <li>Hit to cap (3-6% leveling) > Spell Power > Haste (WotLK) > Crit > Intellect.</li>
+            <li>Spirit minor; Stamina for safety.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Weapons</h3>
+          <ul class="list">
+            <li>Wand upgrades always; Dagger+OH or Staff with high SP/Hit.</li>
+            <li>TBC/WotLK: Spellpower maces/staves from dungeons/quests; crafted caster weapons if affordable.</li>
+            <li>Look for Int/Hit/Spell Power; Haste in WotLK.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Enchants</h3>
+          <ul class="list">
+            <li>Classic: +Spellpower weapon, +Int bracers.</li>
+            <li>TBC: Major Spellpower weapon, Spellthread, head glyphs.</li>
+            <li>WotLK: Black Magic/Berserking weapon; +Hit/+SP to head/shoulders; Icewalker on boots if needed.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <section class="section">
+      <h2>Pro Tips & Survival</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Leveling Speed</h3>
+          <ul class="list">
+            <li>Use PoM + AB for instant quest mob kills.</li>
+            <li>Downrank AB when low on mana; don’t overstack without mana tools ready.</li>
+            <li>Teleport/portal to cut travel; hearth smartly.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Control & Safety</h3>
+          <ul class="list">
+            <li>Rely on Frost Nova/Blink; keep wards up for school-specific pulls.</li>
+            <li>Use Invisibility (WotLK) to drop threat/skip packs.</li>
+            <li>Engineering grenades add stuns for kiting.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Group Utility</h3>
+          <ul class="list">
+            <li>Arcane Intellect, food/water; Spellsteal key buffs.</li>
+            <li>Counterspell important casts; Slow (WotLK) for add control.</li>
+            <li>Arcane Empowerment buff in WotLK benefits group DPS.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <div class="cta">
+      <h3>Level Faster with RestedXP</h3>
+      <p>Follow optimized Arcane Mage routes with mana-friendly rotations and dungeon splits tested for 2026 Anniversary realms.</p>
+      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" rel="noreferrer">Claim 10% Off RestedXP →</a>
+    </div>
+  </main>
+  
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom">
+        © 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.
+      </div>
+    </div>
+  </footer>
+  
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('navMenu');
+      if (menu) menu.classList.toggle('mobile-open');
+    }
+    
+    window.addEventListener('resize', function() {
+      const menu = document.getElementById('navMenu');
+      if (window.innerWidth > 768 && menu) menu.classList.remove('mobile-open');
+    });
+    
+    const versionButtons = document.querySelectorAll('[data-version]');
+    const panels = document.querySelectorAll('[data-version-panel]');
+    function setVersion(v) {
+      versionButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.version === v));
+      panels.forEach(panel => panel.style.display = panel.dataset.versionPanel === v ? '' : 'none');
+    }
+    versionButtons.forEach(btn => btn.addEventListener('click', () => setVersion(btn.dataset.version)));
+    setVersion('classic');
+  </script>
+</body>
+</html>

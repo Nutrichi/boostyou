@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demonology Warlock Leveling Guide (Classic, TBC, WotLK) - 2026</title>
+  <meta name="description" content="In-depth Demonology Warlock leveling guide for Classic, TBC, and WotLK. Talents, demon synergy, Metamorphosis tips, gear, and routes for 1-80." />
+  <link rel="canonical" href="https://boostyou.ai/warlock-demonology" />
+  <meta property="og:title" content="Demonology Warlock Leveling Guide (Classic, TBC, WotLK) - 2026" />
+  <meta property="og:description" content="In-depth Demonology Warlock leveling guide for Classic, TBC, and WotLK. Talents, demon synergy, Metamorphosis tips, gear, and routes for 1-80." />
+  <meta property="og:url" content="https://boostyou.ai/warlock-demonology" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  <style>
+    :root { --bg-primary: rgb(15, 23, 42); --bg-secondary: rgb(30, 41, 59); --bg-card: rgba(51, 65, 85, 0.6); --accent-primary: #3b82f6; --accent-yellow: #fbbf24; --accent-green: #10b981; --accent-red: #ef4444; --text-primary: #f1f5f9; --text-secondary: #cbd5e1; --text-muted: #94a3b8; --border-color: rgba(148, 163, 184, 0.1); }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%); color: var(--text-primary); line-height: 1.6; min-height: 100vh; overflow-x: hidden; }
+    a { color: inherit; }
+    .nav { background: rgba(30, 41, 59, 0.95); border-bottom: 1px solid var(--border-color); backdrop-filter: blur(10px); position: sticky; top: 0; z-index: 1000; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+    .nav-container { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; display: flex; align-items: center; justify-content: space-between; min-height: 70px; }
+    .logo-link { display: flex; align-items: center; text-decoration: none; color: var(--text-primary); font-weight: 800; font-size: 1.25rem; }
+    .logo-link img { height: 45px; width: auto; margin-right: 0.75rem; display: block; }
+    .nav-menu { display: flex; gap: 0.75rem; list-style: none; align-items: center; flex-wrap: wrap; }
+    .nav-item { position: relative; }
+    .nav-link { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 0.95rem; padding: 0.6rem 1.4rem; border-radius: 999px; transition: all 0.2s; display: inline-flex; align-items: center; justify-content: center; gap: 0.25rem; white-space: nowrap; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(59, 130, 246, 0.08); box-shadow: 0 6px 15px -10px rgba(0, 0, 0, 0.7); }
+    .nav-link:hover, .nav-link:focus-visible { background: rgba(59, 130, 246, 0.25); color: var(--accent-primary); border-color: rgba(59, 130, 246, 0.6); }
+    .nav-link.new-pill { background: linear-gradient(135deg, #ec4899 0%, #f97316 100%); color: #fff; border-color: transparent; box-shadow: 0 15px 35px -12px rgba(249, 115, 22, 0.75); }
+    .nav-link.new-pill:hover, .nav-link.new-pill:focus-visible { transform: translateY(-1px); background: linear-gradient(135deg, #f472b6 0%, #fb923c 100%); color: #fff; }
+    .mobile-toggle { display: none; background: none; border: none; color: var(--text-primary); font-size: 1.75rem; cursor: pointer; padding: 0.5rem; }
+    main { max-width: 1200px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+    .hero { text-align: center; margin-bottom: 2.5rem; }
+    .hero h1 { font-size: clamp(2.6rem, 5vw, 3.6rem); font-weight: 900; margin-bottom: 1rem; background: linear-gradient(135deg, #22c55e 0%, #ef4444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -0.02em; }
+    .hero p { color: var(--text-secondary); font-size: 1.05rem; max-width: 900px; margin: 0 auto 1.5rem; }
+    .meta { display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap; }
+    .pill { display: inline-block; padding: 0.35rem 0.9rem; border-radius: 999px; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); color: var(--text-primary); font-weight: 700; font-size: 0.9rem; }
+    .version-toggle { display: inline-flex; gap: 0.5rem; padding: 0.45rem; border-radius: 999px; border: 1px solid rgba(59, 130, 246, 0.3); background: rgba(59, 130, 246, 0.08); margin: 1.5rem auto 0; }
+    .version-toggle button { border: none; background: transparent; color: var(--text-secondary); padding: 0.55rem 1.1rem; border-radius: 999px; font-weight: 800; cursor: pointer; transition: all 0.2s; }
+    .version-toggle button.active { background: var(--accent-primary); color: #0b1020; box-shadow: 0 8px 18px -8px rgba(59, 130, 246, 0.7); }
+    .section { margin: 2.5rem 0; }
+    .section h2 { font-size: clamp(1.6rem, 3vw, 2.2rem); color: var(--accent-primary); margin-bottom: 0.75rem; font-weight: 800; }
+    .section p { color: var(--text-secondary); font-size: 1rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1.25rem; }
+    .card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 0.9rem; padding: 1.25rem; box-shadow: 0 16px 30px -18px rgba(0,0,0,0.6); }
+    .card h3 { color: var(--accent-yellow); font-size: 1.15rem; margin-bottom: 0.4rem; }
+    .list { list-style: none; padding: 0; margin: 0.35rem 0 0; }
+    .list li { padding-left: 1rem; position: relative; color: var(--text-secondary); margin-bottom: 0.45rem; font-size: 0.98rem; }
+    .list li::before { content: '•'; position: absolute; left: 0; color: var(--accent-primary); }
+    .highlight { background: rgba(59, 130, 246, 0.12); border: 1px solid rgba(59, 130, 246, 0.25); border-radius: 0.85rem; padding: 1.1rem 1.2rem; color: var(--text-secondary); margin-top: 1rem; }
+    .table { width: 100%; border-collapse: collapse; margin-top: 1rem; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 0.85rem; overflow: hidden; }
+    .table th, .table td { padding: 0.9rem 1rem; border-bottom: 1px solid var(--border-color); text-align: left; color: var(--text-secondary); }
+    .table th { color: var(--accent-yellow); background: rgba(255, 255, 255, 0.03); font-weight: 800; font-size: 0.95rem; }
+    .table tr:last-child td { border-bottom: none; }
+    .cta { background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15)); border: 1px solid rgba(59, 130, 246, 0.35); border-radius: 1rem; padding: 2rem 1.5rem; text-align: center; margin: 3rem 0 1rem; }
+    .cta h3 { color: var(--accent-yellow); margin-bottom: 0.75rem; font-size: 1.3rem; }
+    .cta p { color: var(--text-secondary); margin-bottom: 1rem; }
+    .cta a { display: inline-block; background: linear-gradient(135deg, var(--accent-primary), #6366f1); color: #fff; padding: 0.9rem 1.8rem; border-radius: 999px; font-weight: 800; text-decoration: none; box-shadow: 0 18px 35px -18px rgba(99, 102, 241, 0.8); transition: transform 0.2s; }
+    .cta a:hover { transform: translateY(-2px); }
+    .footer { background: var(--bg-secondary); border-top: 1px solid var(--border-color); padding: 1rem 1.25rem; margin-top: 1rem; display: flex; justify-content: center; }
+    .footer-content { max-width: 1400px; margin: 0 auto; width: 100%; display: flex; justify-content: center; align-items: center; }
+    .footer-bottom { text-align: center; color: var(--text-muted); font-size: 0.88rem; line-height: 1.3; padding: 0; }
+    .footer-bottom a { color: var(--accent-primary); text-decoration: none; }
+    .footer-bottom a:hover { text-decoration: underline; }
+    @media (max-width: 1024px) { .nav-menu { justify-content: center; } }
+    @media (max-width: 768px) { .mobile-toggle { display: block; } .nav-menu { position: absolute; top: 70px; left: 0; right: 0; background: rgba(30, 41, 59, 0.98); backdrop-filter: blur(20px); flex-direction: column; padding: 1rem; gap: 0; border-bottom: 1px solid var(--border-color); display: none; max-height: 80vh; overflow-y: auto; } #navMenu.mobile-open { display: flex !important; position: absolute; top: 70px; left: 0; right: 0; flex-direction: column; background: rgba(30, 41, 59, 0.98); gap: 0; padding: 1rem 0; z-index: 999; } .nav-item { width: 100%; } .nav-link { width: 100%; justify-content: center; } }
+    @media (max-width: 480px) { .nav-container { padding: 0 1rem; } .logo-link img { height: 36px; } }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="../index.html" class="logo-link"><img src="../assets/boostyou.png" alt="Logo" /></a>
+      <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">☰</button>
+      <ul class="nav-menu" id="navMenu">
+        <li class="nav-item"><a href="class-guides.html" class="nav-link">Classes</a></li>
+        <li class="nav-item"><a href="fast-leveling.html" class="nav-link">Leveling</a></li>
+        <li class="nav-item"><a href="professions.html" class="nav-link">Professions</a></li>
+        <li class="nav-item"><a href="newcontent.html" class="nav-link new-pill">NEW</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <h1>Demonology Warlock Leveling Guide</h1>
+      <p>Tanky pet-based leveling with massive survivability. Felguard (TBC) and Metamorphosis (WotLK) offer strong melee-caster hybrid play.</p>
+      <div class="meta">
+        <span class="pill">Updated 2026</span>
+        <span class="pill">Pet Tank / Hybrid DPS</span>
+        <span class="pill">Supports Classic / TBC / WotLK</span>
+      </div>
+      <div class="version-toggle" aria-label="Choose expansion">
+        <button class="active" data-version="classic">Classic</button>
+        <button data-version="tbc">TBC</button>
+        <button data-version="wotlk">WotLK</button>
+      </div>
+    </section>
+
+    <section class="section version-panel" data-version-panel="classic">
+      <h2>Why Demonology in Classic?</h2>
+      <p>Voidwalker tanking makes leveling safe; Demonic Embrace adds stamina; Soul Link (later) makes you very hard to kill. Slower than Affliction but great survivability.</p>
+      <div class="grid">
+        <div class="card"><h3>Strengths</h3><ul class="list"><li>High stamina and Soul Link mitigation.</li><li>Voidwalker can tank elites with Drain Life support.</li><li>Pet utility: Succubus for Seduce, Imp for stam buff.</li></ul></div>
+        <div class="card"><h3>Weaknesses</h3><ul class="list"><li>Lower damage than Affliction early.</li><li>Shard management and pet micro.</li><li>Less burst; relies on pet threat.</li></ul></div>
+      </div>
+
+      <h2>Talents by Level (Classic 1-60)</h2>
+      <div class="grid">
+        <div class="card"><h3>Early (10-29)</h3><ul class="list"><li>Demonic Embrace for stamina.</li><li>Improved VW for threat; Fel Intellect/Stamina.</li><li>Improved Life Tap/Drain Life (Affliction splash).</li></ul></div>
+        <div class="card"><h3>Mid (30-44)</h3><ul class="list"><li>Master Demonologist for pet bonuses.</li><li>Fel Domination for instant pet.</li><li>Dark Pact optional from Affliction splash.</li></ul></div>
+        <div class="card"><h3>Late (45-60)</h3><ul class="list"><li>Soul Link for 30% damage split.</li><li>Improved Healthstone; Demonic Sacrifice optional if using succubus.</li><li>Ruin from Destruction for Shadow Bolt crits.</li></ul></div>
+      </div>
+      <div class="highlight">Keep VW on Defensive/Taunt; Corruption + CoA, wand/Shadow Bolt; Drain Life to keep you up. Soul Link makes you nearly unkillable.</div>
+
+      <h2>Rotation & Playstyle</h2>
+      <div class="grid">
+        <div class="card"><h3>Single Target</h3><ul class="list"><li>Send pet → Corruption/CoA → Shadow Bolt or wand.</li><li>Drain Life when tapped; maintain Demon Armor.</li><li>Use Soul Link and Healthstone liberally.</li></ul></div>
+        <div class="card"><h3>Multi-DoT</h3><ul class="list"><li>VW holds one target; DoT others and fear kite.</li><li>Use Hellfire/Rain of Fire cautiously; Health Funnel to keep pet up.</li><li>Howl of Terror for safety.</li></ul></div>
+        <div class="card"><h3>Survival</h3><ul class="list"><li>Fel Domination + Summon for instant pet swap.</li><li>Sacrifice from VW for shield if needed.</li><li>Keep bandages; use Soulstone on self.</li></ul></div>
+      </div>
+
+      <h2>Zone Route (Classic)</h2>
+      <table class="table"><thead><tr><th>Bracket</th><th>Zones</th><th>Notes</th></tr></thead><tbody>
+        <tr><td>1-20</td><td>Starter → Barrens/Westfall</td><td>Voidwalker quest ASAP; wand crucial.</td></tr>
+        <tr><td>20-35</td><td>Ashenvale/SM</td><td>SM Library for wand; Fel Domination comfort.</td></tr>
+        <tr><td>35-50</td><td>STV/Tanaris</td><td>Soul Link soon; pet tanks multiple mobs.</td></tr>
+        <tr><td>50-60</td><td>Felwood/Plaguelands</td><td>Farm shards/cloth; elites possible with VW + Soul Link.</td></tr>
+      </tbody></table>
+    </section>
+
+    <section class="section version-panel" data-version-panel="tbc" style="display:none;">
+      <h2>Why Demonology in TBC?</h2>
+      <p>Felguard (41-point) is incredible for leveling and dungeons. High health, cleave, and solid threat; Demonic Knowledge boosts your damage.</p>
+      <div class="highlight">Spec: Felguard, Demonic Knowledge, Soul Link, Demonic Resilience. Affliction splash for UA or SL optional.</div>
+
+      <h2>Talents by Level (TBC 60-70)</h2>
+      <div class="grid">
+        <div class="card"><h3>Early (60-63)</h3><ul class="list"><li>Demonic Embrace, Fel Stamina/Intellect.</li><li>Master Demonologist; Demonic Resilience.</li><li>Fel Domination for instant pet.</li></ul></div>
+        <div class="card"><h3>Mid (64-67)</h3><ul class="list"><li>Felguard unlock (~61-62).</li><li>Soul Link + Demonic Knowledge.</li><li>Improved Healthstone; Demonic Aegis.</li></ul></div>
+        <div class="card"><h3>Late (68-70)</h3><ul class="list"><li>Affliction splash: UA/SL for DoT power.</li><li>Shadowburn (Destro) for execute.</li><li>Improved Soul Leech not yet—use Dark Pact/Life Tap.</li></ul></div>
+      </div>
+
+      <h2>Rotation (TBC)</h2>
+      <div class="grid">
+        <div class="card"><h3>Single Target</h3><ul class="list"><li>Send Felguard → Corruption/UA → CoA/CoE → Shadow Bolt filler.</li><li>Cleave with Cleave/Intercept; keep Demonic Frenzy stacked.</li><li>Drain Life if low; Dark Pact for mana.</li></ul></div>
+        <div class="card"><h3>AoE</h3><ul class="list"><li>Seed of Corruption on multiple mobs; Felguard Cleave/Intercept.</li><li>Hellfire if safe (Soul Link mitigates).</li><li>Howl of Terror to peel; Health Funnel pet.</li></ul></div>
+        <div class="card"><h3>Utility</h3><ul class="list"><li>Felguard can tank adds; use Intercept to stun.</li><li>Felhunter swap for silence/dispel if needed.</li><li>Soulstone/Healthstone for group; Banish demons/elementals.</li></ul></div>
+      </div>
+
+      <h2>Zone & Dungeon Path (TBC)</h2>
+      <table class="table"><thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead><tbody>
+        <tr><td>60-62</td><td>Hellfire / Ramps / BF</td><td>Felguard early; cleave packs.</td></tr>
+        <tr><td>62-65</td><td>Zangarmarsh / SP / UB</td><td>Felguard tank + Seed of Corruption AoE.</td></tr>
+        <tr><td>65-68</td><td>Terokkar / Sethekk / SLabs</td><td>CoT on casters; Intercept stuns help.</td></tr>
+        <tr><td>68-70</td><td>Netherstorm / Mech</td><td>Badge farm; Felguard holds threat well.</td></tr>
+      </tbody></table>
+    </section>
+
+    <section class="section version-panel" data-version-panel="wotlk" style="display:none;">
+      <h2>Why Demonology in WotLK?</h2>
+      <p>Metamorphosis gives huge survivability and AoE; Demonic Pact buffs party. Felguard + Meta makes leveling very safe and fun.</p>
+      <div class="highlight">Spec: Metamorphosis, Demonic Pact, Molten Core, Decimation, Soul Link, Demonic Empowerment. Affliction splash for Improved Corruption.</div>
+
+      <h2>Talents by Level (70-80)</h2>
+      <div class="grid">
+        <div class="card"><h3>Early (70-73)</h3><ul class="list"><li>Improved Corruption, Suppression (Affliction).</li><li>Demonic Embrace, Fel Synergy (pet healing).</li><li>Felguard baseline; Demonic Empowerment.</li></ul></div>
+        <div class="card"><h3>Mid (74-77)</h3><ul class="list"><li>Molten Core (buffs Incinerate/SB).</li><li>Demonic Pact for spell power buff.</li><li>Decimation for fast Soul Fire executes.</li></ul></div>
+        <div class="card"><h3>Late (78-80)</h3><ul class="list"><li>Metamorphosis capstone.</li><li>Improved Demonic Tactics for pet crit.</li><li>Master Summoner for quick pet swaps.</li></ul></div>
+      </div>
+
+      <h2>Rotation (WotLK)</h2>
+      <div class="grid">
+        <div class="card"><h3>Single Target</h3><ul class="list"><li>Corruption → Immolate → Incinerate filler (with Molten Core) or Shadow Bolt if not procced.</li><li>Keep Curse (Doom/Agony) up; use Decimation to spam Soul Fire sub-35%.</li><li>Demonic Empowerment on cooldown; Metamorphosis for burst/survival.</li></ul></div>
+        <div class="card"><h3>AoE</h3><ul class="list"><li>Seed of Corruption; Immolation Aura in Meta for huge AoE.</li><li>Felguard Cleave; Shadowflame if safe.</li><li>Use Meta + Hellfire with Soul Link for tankiness.</li></ul></div>
+        <div class="card"><h3>Survival/Utility</h3><ul class="list"><li>Soul Link + Meta makes you very durable.</li><li>Health Funnel to keep pet alive; Fel Synergy heals pet from your damage.</li><li>Demonic Circle for mobility; Soulshatter to drop threat.</li></ul></div>
+      </div>
+
+      <h2>Zone & Dungeon Path (WotLK)</h2>
+      <table class="table"><thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead><tbody>
+        <tr><td>70-72</td><td>Borean / Howling Fjord</td><td>Felguard cleave; Nexus/UK gear.</td></tr>
+        <tr><td>72-75</td><td>Dragonblight / AN/OK</td><td>Seed + Felguard; Decimation for bosses.</td></tr>
+        <tr><td>75-77</td><td>Zul'Drak / Drak'Tharon</td><td>Meta for big pulls; Demonic Pact buff for party.</td></tr>
+        <tr><td>77-80</td><td>Icecrown / Storm Peaks</td><td>Heroics; Meta/Immolation Aura shred packs.</td></tr>
+      </tbody></table>
+    </section>
+
+    <section class="section">
+      <h2>Gear, Stats, and Enchants (All Versions)</h2>
+      <div class="grid">
+        <div class="card"><h3>Stat Priority</h3><ul class="list"><li>Spell Power > Hit (6-9% leveling) > Haste > Crit.</li><li>Stamina valuable with Soul Link/Meta; spirit ok with Fel Armor.</li></ul></div>
+        <div class="card"><h3>Weapons</h3><ul class="list"><li>Spell power staff/off-hand; high damage wand.</li><li>Classic: SM/BRD/Strat; TBC: Coilfang/Badge; WotLK: Titansteel Guardian.</li><li>Pet scales with your stats—prioritize SP.</li></ul></div>
+        <div class="card"><h3>Enchants</h3><ul class="list"><li>Classic: +Spell Power weapon; +Stamina optional.</li><li>TBC: Major Spell Power; +Int/Spirit to gear.</li><li>WotLK: +63 SP/Black Magic; +Hit if needed.</li></ul></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Pro Tips & Utility</h2>
+      <div class="grid">
+        <div class="card"><h3>Leveling Speed</h3><ul class="list"><li>Let Felguard/VW tank; you DoT and bolt.</li><li>Use Meta for big pulls and safety; keep Demonic Empowerment rolling.</li><li>Farm shards with Drain Soul; keep Soulshatter ready.</li></ul></div>
+        <div class="card"><h3>Group Utility</h3><ul class="list"><li>Demonic Pact buff; Healthstones; Soulstone.</li><li>Banish demons/elementals; Seduce with succubus if needed.</li><li>Felhunter for interrupts/dispels.</li></ul></div>
+        <div class="card"><h3>Survival</h3><ul class="list"><li>Soul Link reduces damage; Health Funnel pet.</li><li>Meta gives armor and Immolation Aura; Demon Armor for healing bonus.</li><li>Carry pots/bandages; use Sacrifice shield if using VW.</li></ul></div>
+      </div>
+    </section>
+
+    <div class="cta">
+      <h3>Level Faster with RestedXP</h3>
+      <p>Follow optimized Demonology Warlock routes with Felguard/Meta timings, shard management, and safe cleave plans tested for 2026 Anniversary realms.</p>
+      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" rel="noreferrer">Claim 10% Off RestedXP →</a>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom">© 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMobileMenu() { const menu = document.getElementById('navMenu'); if (menu) menu.classList.toggle('mobile-open'); }
+    window.addEventListener('resize', function() { const menu = document.getElementById('navMenu'); if (window.innerWidth > 768 && menu) menu.classList.remove('mobile-open'); });
+    const versionButtons = document.querySelectorAll('[data-version]');
+    const panels = document.querySelectorAll('[data-version-panel]');
+    function setVersion(v) { versionButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.version === v)); panels.forEach(panel => panel.style.display = panel.dataset.versionPanel === v ? '' : 'none'); }
+    versionButtons.forEach(btn => btn.addEventListener('click', () => setVersion(btn.dataset.version)));
+    setVersion('classic');
+  </script>
+</body>
+</html>

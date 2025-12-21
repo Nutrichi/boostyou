@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fire Mage Leveling Guide (Classic, TBC, WotLK) - 2026</title>
+  <meta name="description" content="In-depth Fire Mage leveling guide for Classic, TBC, and WotLK. Talents by level, rotations, playstyle tips, weapons, gear, dungeons, and survival for 1-80." />
+  <link rel="canonical" href="https://boostyou.ai/mage-fire" />
+  <meta property="og:title" content="Fire Mage Leveling Guide (Classic, TBC, WotLK) - 2026" />
+  <meta property="og:description" content="In-depth Fire Mage leveling guide for Classic, TBC, and WotLK. Talents by level, rotations, playstyle tips, weapons, gear, dungeons, and survival for 1-80." />
+  <meta property="og:url" content="https://boostyou.ai/mage-fire" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  <style>
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --accent-red: #ef4444;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    
+    a { color: inherit; }
+    
+    /* Navigation */
+    .nav {
+      background: rgba(30, 41, 59, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 70px;
+    }
+    
+    .logo-link {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    
+    .logo-link img {
+      height: 45px;
+      width: auto;
+      margin-right: 0.75rem;
+      display: block;
+    }
+    
+    .nav-menu {
+      display: flex;
+      gap: 0.75rem;
+      list-style: none;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    
+    .nav-item { position: relative; }
+    
+    .nav-link {
+      color: var(--text-primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 0.6rem 1.4rem;
+      border-radius: 999px;
+      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.25rem;
+      white-space: nowrap;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      background: rgba(59, 130, 246, 0.08);
+      box-shadow: 0 6px 15px -10px rgba(0, 0, 0, 0.7);
+    }
+    
+    .nav-link:hover,
+    .nav-link:focus-visible {
+      background: rgba(59, 130, 246, 0.25);
+      color: var(--accent-primary);
+      border-color: rgba(59, 130, 246, 0.6);
+    }
+    
+    .nav-link.new-pill {
+      background: linear-gradient(135deg, #ec4899 0%, #f97316 100%);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 15px 35px -12px rgba(249, 115, 22, 0.75);
+    }
+    
+    .nav-link.new-pill:hover,
+    .nav-link.new-pill:focus-visible {
+      transform: translateY(-1px);
+      background: linear-gradient(135deg, #f472b6 0%, #fb923c 100%);
+      color: #fff;
+    }
+    
+    .mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: var(--text-primary);
+      font-size: 1.75rem;
+      cursor: pointer;
+      padding: 0.5rem;
+    }
+    
+    /* Layout */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+    
+    .hero {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    
+    .hero h1 {
+      font-size: clamp(2.6rem, 5vw, 3.6rem);
+      font-weight: 900;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #f97316 0%, #ef4444 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -0.02em;
+    }
+    
+    .hero p {
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+      max-width: 900px;
+      margin: 0 auto 1.5rem;
+    }
+    
+    .meta {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    
+    .pill {
+      display: inline-block;
+      padding: 0.35rem 0.9rem;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: var(--text-primary);
+      font-weight: 700;
+      font-size: 0.9rem;
+    }
+    
+    .version-toggle {
+      display: inline-flex;
+      gap: 0.5rem;
+      padding: 0.45rem;
+      border-radius: 999px;
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      background: rgba(59, 130, 246, 0.08);
+      margin: 1.5rem auto 0;
+    }
+    
+    .version-toggle button {
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      padding: 0.55rem 1.1rem;
+      border-radius: 999px;
+      font-weight: 800;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .version-toggle button.active {
+      background: var(--accent-primary);
+      color: #0b1020;
+      box-shadow: 0 8px 18px -8px rgba(59, 130, 246, 0.7);
+    }
+    
+    .section {
+      margin: 2.5rem 0;
+    }
+    
+    .section h2 {
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: var(--accent-primary);
+      margin-bottom: 0.75rem;
+      font-weight: 800;
+    }
+    
+    .section p {
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.25rem;
+    }
+    
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.9rem;
+      padding: 1.25rem;
+      box-shadow: 0 16px 30px -18px rgba(0,0,0,0.6);
+    }
+    
+    .card h3 {
+      color: var(--accent-yellow);
+      font-size: 1.15rem;
+      margin-bottom: 0.4rem;
+    }
+    
+    .list {
+      list-style: none;
+      padding: 0;
+      margin: 0.35rem 0 0;
+    }
+    
+    .list li {
+      padding-left: 1rem;
+      position: relative;
+      color: var(--text-secondary);
+      margin-bottom: 0.45rem;
+      font-size: 0.98rem;
+    }
+    
+    .list li::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: var(--accent-primary);
+    }
+    
+    .highlight {
+      background: rgba(59, 130, 246, 0.12);
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      border-radius: 0.85rem;
+      padding: 1.1rem 1.2rem;
+      color: var(--text-secondary);
+      margin-top: 1rem;
+    }
+    
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.85rem;
+      overflow: hidden;
+    }
+    
+    .table th, .table td {
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid var(--border-color);
+      text-align: left;
+      color: var(--text-secondary);
+    }
+    
+    .table th {
+      color: var(--accent-yellow);
+      background: rgba(255, 255, 255, 0.03);
+      font-weight: 800;
+      font-size: 0.95rem;
+    }
+    
+    .table tr:last-child td { border-bottom: none; }
+    
+    .cta {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15));
+      border: 1px solid rgba(59, 130, 246, 0.35);
+      border-radius: 1rem;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      margin: 3rem 0 1rem;
+    }
+    
+    .cta h3 { color: var(--accent-yellow); margin-bottom: 0.75rem; font-size: 1.3rem; }
+    .cta p { color: var(--text-secondary); margin-bottom: 1rem; }
+    .cta a {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--accent-primary), #6366f1);
+      color: #fff;
+      padding: 0.9rem 1.8rem;
+      border-radius: 999px;
+      font-weight: 800;
+      text-decoration: none;
+      box-shadow: 0 18px 35px -18px rgba(99, 102, 241, 0.8);
+      transition: transform 0.2s;
+    }
+    .cta a:hover { transform: translateY(-2px); }
+    
+    /* Footer */
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .footer-bottom {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.3;
+      padding: 0;
+    }
+    
+    .footer-bottom a { color: var(--accent-primary); text-decoration: none; }
+    .footer-bottom a:hover { text-decoration: underline; }
+    
+    @media (max-width: 1024px) {
+      .nav-menu { justify-content: center; }
+    }
+    
+    @media (max-width: 768px) {
+      .mobile-toggle { display: block; }
+      .nav-menu {
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background: rgba(30, 41, 59, 0.98);
+        backdrop-filter: blur(20px);
+        flex-direction: column;
+        padding: 1rem;
+        gap: 0;
+        border-bottom: 1px solid var(--border-color);
+        display: none;
+        max-height: 80vh;
+        overflow-y: auto;
+      }
+      #navMenu.mobile-open {
+        display: flex !important;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: rgba(30, 41, 59, 0.98);
+        gap: 0;
+        padding: 1rem 0;
+        z-index: 999;
+      }
+      .nav-item { width: 100%; }
+      .nav-link { width: 100%; justify-content: center; }
+    }
+    
+    @media (max-width: 480px) {
+      .nav-container { padding: 0 1rem; }
+      .logo-link img { height: 36px; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="../index.html" class="logo-link"><img src="../assets/boostyou.png" alt="Logo" /></a>
+      <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">☰</button>
+      <ul class="nav-menu" id="navMenu">
+        <li class="nav-item"><a href="class-guides.html" class="nav-link">Classes</a></li>
+        <li class="nav-item"><a href="fast-leveling.html" class="nav-link">Leveling</a></li>
+        <li class="nav-item"><a href="professions.html" class="nav-link">Professions</a></li>
+        <li class="nav-item"><a href="newcontent.html" class="nav-link new-pill">NEW</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <main>
+    <section class="hero">
+      <h1>Fire Mage Leveling Guide</h1>
+      <p>In-depth Fire Mage leveling for Classic, TBC, and WotLK. Talents by level, rotations, zone routing tips, survivability, and gear/weapon priorities to ignite your 1-80 journey.</p>
+      <div class="meta">
+        <span class="pill">Updated 2026</span>
+        <span class="pill">Solo & Dungeon Ready</span>
+        <span class="pill">Supports Classic / TBC / WotLK</span>
+      </div>
+      <div class="version-toggle" aria-label="Choose expansion">
+        <button class="active" data-version="classic">Classic</button>
+        <button data-version="tbc">TBC</button>
+        <button data-version="wotlk">WotLK</button>
+      </div>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="classic">
+      <h2>Why Fire for Classic?</h2>
+      <p>Fast single-target burns, smooth dungeon performance, and enormous crit windows once you have Ignite + Combustion. Use Frost for AoE farms; Fire excels in quest/dungeon mixed leveling.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Strengths</h3>
+          <ul class="list">
+            <li>Top-tier dungeon DPS with Ignite stacks and Combustion.</li>
+            <li>Flexible: swap to Frost for AoE grinding without respeccing early.</li>
+            <li>Scales extremely well with weapon (wand) and spellpower upgrades.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Weaknesses</h3>
+          <ul class="list">
+            <li>Less control/safety than Frost; kiting requires finesse.</li>
+            <li>Mana hungry before Clearcasting and gear.</li>
+            <li>AoE grinding weaker than Frost Blizzard builds.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Talents by Level (Classic 1-60)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (10-29)</h3>
+          <ul class="list">
+            <li>5/5 Improved Fireball (faster casts).</li>
+            <li>5/5 Ignite for crit burns.</li>
+            <li>2/2 Flame Throwing for range.</li>
+            <li>Pick Incinerate 2/2 then Pyroblast (optional opener).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (30-44)</h3>
+          <ul class="list">
+            <li>Combustion at 40: use on elites/bosses.</li>
+            <li>Burning Soul 2/2 to reduce pushback while questing.</li>
+            <li>Fire Power 5/5 for flat damage.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (45-60)</h3>
+          <ul class="list">
+            <li>Frost off-tree: Improved Frost Nova 2/2, Permafrost 3/3 for control.</li>
+            <li>Elemental Precision for hit if needed.</li>
+            <li>Option: Blast Wave for AoE control.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="highlight">Respec to a Frost AoE build for mass grinding if you secure good spellpower gear and safe pull spots; otherwise stay Fire for dungeons/quests.</div>
+      
+      <h2>Rotation & Playstyle</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Opener: Fireball spam → Fire Blast to finish.</li>
+            <li>Scorch stacks (if using debuff) on elites; otherwise skip while leveling.</li>
+            <li>Combustion on elites/bosses; keep Ignite rolling with crits.</li>
+            <li>Use Wand to finish low HP to save mana.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Survivability</h3>
+          <ul class="list">
+            <li>Frost Nova → step back → Fire Blast → kite.</li>
+            <li>Keep Health Pot + Mana Gem ready; Evocate between pulls.</li>
+            <li>Use Rank 1 Frost Nova/CoC for control without heavy mana.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE / Dungeons</h3>
+          <ul class="list">
+            <li>Blizzard pull? Swap to Frost spec if doing big packs.</li>
+            <li>Otherwise Flamestrike → CoC → Arcane Explosion weave.</li>
+            <li>Coordinate Ignite stacking—avoid over-aggro with big crits.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Zone Route Highlights (Classic)</h2>
+      <table class="table">
+        <thead><tr><th>Bracket</th><th>Zones</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>1-20</td><td>Starter → Barrens / Westfall</td><td>Early wands; staff upgrades from quests.</td></tr>
+          <tr><td>20-30</td><td>Stonetalon / Ashenvale / Duskwood</td><td>Efficient hub stacking; Deadmines/Stockades/SM Lib.</td></tr>
+          <tr><td>30-40</td><td>Thousand Needles → Desolace → STV</td><td>Pick up SM Arm/Cath for big XP and caster gear.</td></tr>
+          <tr><td>40-50</td><td>Feralas / Tanaris / Hinterlands</td><td>ZF dungeon runs; wand/staff upgrades from quests.</td></tr>
+          <tr><td>50-60</td><td>Un’Goro / Felwood / WPL/EPL</td><td>BRD/Scholo/Strat for pre-BiS spellpower gear.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="tbc" style="display:none;">
+      <h2>Why Fire for TBC?</h2>
+      <p>Fire dominates TBC dungeon speed and questing due to Combustion + Improved Scorch crit amplification. Clearcasting (Arcane) helps mana; strong spell damage scaling.</p>
+      <div class="highlight">Spec: 10 Arcane (Clearcasting) then deep Fire to 41 for Dragon's Breath. Fill Arcane Mind and Spell Power later if desired.</div>
+      <h2>Talents by Level (TBC 60-70)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (60-64)</h3>
+          <ul class="list">
+            <li>Arcane 10: Clearcasting, Arcane Concentration 5/5, Magic Absorption.</li>
+            <li>Fire: Ignite 5/5, Improved Fireball 5/5.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (65-67)</h3>
+          <ul class="list">
+            <li>Combustion, Impact 5/5, Burning Soul 2/2, Fire Power 5/5.</li>
+            <li>Improved Scorch 3/3 for debuff on bosses/elites.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (68-70)</h3>
+          <ul class="list">
+            <li>Blast Wave, Pyroblast, Dragon's Breath.</li>
+            <li>Optional: Molten Fury 2/2 for execute burn.</li>
+          </ul>
+        </div>
+      </div>
+      <h2>Rotation & Dungeons (TBC)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Keep Improved Scorch debuff (stack to 5 on bosses).</li>
+            <li>Fireball spam; Fire Blast for movement; Pyroblast with Hot Streak (if WotLK pre-patch) otherwise after Impact stun.</li>
+            <li>Combustion on cooldown for elites/bosses.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE</h3>
+          <ul class="list">
+            <li>Dragon's Breath → Blast Wave → Flamestrike rank 7+6 → Arcane Explosion spam.</li>
+            <li>Use Frost Nova to set up safe AoE; Ice Block to drop threat.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Survival & Mana</h3>
+          <ul class="list">
+            <li>Clearcasting procs—use on Fireball/Flamestrike.</li>
+            <li>Downrank Fireball for efficiency on trash.</li>
+            <li>Keep Mana Emerald/Gem; Evocate after big pulls.</li>
+          </ul>
+        </div>
+      </div>
+      <h2>Zone & Dungeon Path (TBC)</h2>
+      <table class="table">
+        <thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>60-62</td><td>Hellfire Peninsula / Ramparts / BF</td><td>Easy spellpower quest rewards; early rep.</td></tr>
+          <tr><td>62-65</td><td>Zangarmarsh / Slave Pens / Underbog</td><td>Good caster gear, lots of greens.</td></tr>
+          <tr><td>65-68</td><td>Terokkar / Sethekk Halls / Old Hillsbrad</td><td>Dragon's Breath shines in Sethekk packs.</td></tr>
+          <tr><td>68-70</td><td>Nagrand / Netherstorm / Mechanar</td><td>Mech badge farm; Netherstorm cloth + spellpower.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section version-panel" data-version-panel="wotlk" style="display:none;">
+      <h2>Why Fire for WotLK?</h2>
+      <p>Hot Streak turns crit chains into instant Pyros, Molten Fury adds execute burn, and Living Bomb brings strong multi-target pressure. Fire is explosive once you reach ~20-25% crit.</p>
+      <div class="highlight">Spec path: Arcane Focus 3/3 for hit → deep Fire to Hot Streak, Living Bomb, Combustion. Consider Torment the Weak if raiding at 80.</div>
+      
+      <h2>Talents by Level (70-80)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Early (70-74)</h3>
+          <ul class="list">
+            <li>Fire: Ignite 5/5, Incinerate 2/2, World in Flames 3/3.</li>
+            <li>Hot Streak unlocked ASAP; Combustion.</li>
+            <li>Arcane: Precision/Focus for hit and mana efficiency.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Mid (75-77)</h3>
+          <ul class="list">
+            <li>Living Bomb (huge for leveling packs).</li>
+            <li>Molten Fury 2/2 for execute burn.</li>
+            <li>Burning Soul/Fire Power filled.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Late (78-80)</h3>
+          <ul class="list">
+            <li>Torment the Weak (with slow/snare from tanks or LB snare).</li>
+            <li>Filler into Student of the Mind/Arcane Mind.</li>
+            <li>Optional: Dragon's Breath for control in dungeons.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Rotation (WotLK)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Single Target</h3>
+          <ul class="list">
+            <li>Living Bomb up → Scorch if hit needed → Fireball spam.</li>
+            <li>Hot Streak procs: instant Pyroblast immediately.</li>
+            <li>Combustion on cooldown; keep Ignite rolling with crits.</li>
+            <li>Execute phase: Molten Fury bonus—maintain LB, spam Fireball/Pyro.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>AoE</h3>
+          <ul class="list">
+            <li>Living Bomb on 3+ targets → Flamestrike (rank 9/8) → Blast Wave → Dragon's Breath → Arcane Explosion spam.</li>
+            <li>Use Frost Nova for setup; Ice Block to drop threat.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Survival</h3>
+          <ul class="list">
+            <li>Keep Ice Barrier (if Frost sub) or Mana Shield situationally.</li>
+            <li>Use Fire Ward/Frost Ward for specific pulls.</li>
+            <li>Mirror Image at 80 to stabilize threat on big pulls.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <h2>Zone & Dungeon Path (WotLK)</h2>
+      <table class="table">
+        <thead><tr><th>Level</th><th>Zone/Dungeon</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>70-72</td><td>Howling Fjord / Borean Tundra</td><td>Choose one; dense questing. Nexus/UK dungeons.</td></tr>
+          <tr><td>72-75</td><td>Dragonblight / Azjol-Nerub / AN/OK</td><td>Fast runs, good caster drops.</td></tr>
+          <tr><td>75-77</td><td>Grizzly Hills / Zul'Drak</td><td>Living Bomb shines on multi-mob quests; Drak'Tharon.</td></tr>
+          <tr><td>77-80</td><td>Sholazar / Storm Peaks / Icecrown</td><td>Cold Weather Flying; Gundrak/HoL/HoS badge farms.</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="section">
+      <h2>Gear, Weapons, and Enchants (All Versions)</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Stat Priority</h3>
+          <ul class="list">
+            <li>Hit to cap (3-6% leveling), then Spell Power.</li>
+            <li>Crit (Fuel for Ignite/Hot Streak) > Haste (WotLK) > Intellect.</li>
+            <li>Spirit has minor value (Molten Armor glyph WotLK).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Weapons</h3>
+          <ul class="list">
+            <li>Upgrade wands often; huge DPS/mana gains.</li>
+            <li>Staffs with Spell Power/Int; Dagger + Offhand if better stats.</li>
+            <li>TBC: Keep a +Spell Damage weapon from dungeons/quests (e.g., Illidari-Bane Mageblade if obtained).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Enchants</h3>
+          <ul class="list">
+            <li>Classic: +Spellpower to weapon (Greater), +Int to bracers.</li>
+            <li>TBC: Major Spellpower to weapon, Spellstrike thread, Glyph of Power head.</li>
+            <li>WotLK: Black Magic/Berserking to weapon; Weakness Avoidance not needed; +Hit/+SP where possible.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <section class="section">
+      <h2>Pro Tips & Survival</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Leveling Speed</h3>
+          <ul class="list">
+            <li>Always keep a fresh wand; it saves mana and time.</li>
+            <li>Use downranking (Classic/TBC) to manage mana on trash.</li>
+            <li>Combine quests into hubs; hearth strategically; use mage portals for travel.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Control & Safety</h3>
+          <ul class="list">
+            <li>Frost Nova → step back → Fire Blast; Blink early, not late.</li>
+            <li>Carry Free Action/Limited Invulnerability for emergencies.</li>
+            <li>Use Engineering (Grenades) for extra stuns and burst.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Group Utility</h3>
+          <ul class="list">
+            <li>Keep Arcane Intellect up; Conjure food/water for groups.</li>
+            <li>Remove Curse/Spellsteal key buffs (TBC/WotLK).</li>
+            <li>Use Counterspell to reduce healer downtime on pulls.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    
+    <div class="cta">
+      <h3>Level Faster with RestedXP</h3>
+      <p>Follow optimized Fire Mage routes with step-by-step quest stacking and dungeon splits tested for 2026 Anniversary realms.</p>
+      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" rel="noreferrer">Claim 10% Off RestedXP →</a>
+    </div>
+  </main>
+  
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom">
+        © 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.
+      </div>
+    </div>
+  </footer>
+  
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('navMenu');
+      if (menu) {
+        menu.classList.toggle('mobile-open');
+      }
+    }
+    
+    window.addEventListener('resize', function() {
+      const menu = document.getElementById('navMenu');
+      if (window.innerWidth > 768 && menu) {
+        menu.classList.remove('mobile-open');
+      }
+    });
+    
+    // Version toggle
+    const versionButtons = document.querySelectorAll('[data-version]');
+    const panels = document.querySelectorAll('[data-version-panel]');
+    function setVersion(v) {
+      versionButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.version === v));
+      panels.forEach(panel => panel.style.display = panel.dataset.versionPanel === v ? '' : 'none');
+    }
+    versionButtons.forEach(btn => btn.addEventListener('click', () => setVersion(btn.dataset.version)));
+    setVersion('classic');
+  </script>
+</body>
+</html>

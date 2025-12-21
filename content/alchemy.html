@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alchemy Leveling Guide (Classic, TBC, WotLK) - 2026</title>
+  <meta name="description" content="Deep Alchemy leveling guide for Classic, TBC, and WotLK. Full shopping lists, trainer paths, recipes, and gold tips from 1-450." />
+  <link rel="canonical" href="https://boostyou.ai/alchemy" />
+  <meta property="og:title" content="Alchemy Leveling Guide (Classic, TBC, WotLK) - 2026" />
+  <meta property="og:description" content="Deep Alchemy leveling guide for Classic, TBC, and WotLK. Full shopping lists, trainer paths, recipes, and gold tips from 1-450." />
+  <meta property="og:url" content="https://boostyou.ai/alchemy" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://boostyou.ai/og-image.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  <style>
+    :root { --bg-primary: rgb(15, 23, 42); --bg-secondary: rgb(30, 41, 59); --bg-card: rgba(51, 65, 85, 0.6); --accent-primary: #3b82f6; --accent-yellow: #fbbf24; --accent-green: #10b981; --accent-red: #ef4444; --text-primary: #f1f5f9; --text-secondary: #cbd5e1; --text-muted: #94a3b8; --border-color: rgba(148, 163, 184, 0.1); }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%); color: var(--text-primary); line-height: 1.6; min-height: 100vh; overflow-x: hidden; }
+    a { color: inherit; }
+    .nav { background: rgba(30, 41, 59, 0.95); border-bottom: 1px solid var(--border-color); backdrop-filter: blur(10px); position: sticky; top: 0; z-index: 1000; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+    .nav-container { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; display: flex; align-items: center; justify-content: space-between; min-height: 70px; }
+    .logo-link { display: flex; align-items: center; text-decoration: none; color: var(--text-primary); font-weight: 800; font-size: 1.25rem; }
+    .logo-link img { height: 45px; width: auto; margin-right: 0.75rem; display: block; }
+    .nav-menu { display: flex; gap: 0.75rem; list-style: none; align-items: center; flex-wrap: wrap; }
+    .nav-item { position: relative; }
+    .nav-link { color: var(--text-primary); text-decoration: none; font-weight: 600; font-size: 0.95rem; padding: 0.6rem 1.4rem; border-radius: 999px; transition: all 0.2s; display: inline-flex; align-items: center; justify-content: center; gap: 0.25rem; white-space: nowrap; border: 1px solid rgba(148, 163, 184, 0.35); background: rgba(59, 130, 246, 0.08); box-shadow: 0 6px 15px -10px rgba(0, 0, 0, 0.7); }
+    .nav-link:hover, .nav-link:focus-visible { background: rgba(59, 130, 246, 0.25); color: var(--accent-primary); border-color: rgba(59, 130, 246, 0.6); }
+    .nav-link.new-pill { background: linear-gradient(135deg, #ec4899 0%, #f97316 100%); color: #fff; border-color: transparent; box-shadow: 0 15px 35px -12px rgba(249, 115, 22, 0.75); }
+    .nav-link.new-pill:hover, .nav-link.new-pill:focus-visible { transform: translateY(-1px); background: linear-gradient(135deg, #f472b6 0%, #fb923c 100%); color: #fff; }
+    .mobile-toggle { display: none; background: none; border: none; color: var(--text-primary); font-size: 1.75rem; cursor: pointer; padding: 0.5rem; }
+    main { max-width: 1200px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+    .hero { text-align: center; margin-bottom: 2.5rem; }
+    .hero h1 { font-size: clamp(2.6rem, 5vw, 3.6rem); font-weight: 900; margin-bottom: 1rem; background: linear-gradient(135deg, #22c55e 0%, #ef4444 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; letter-spacing: -0.02em; }
+    .hero p { color: var(--text-secondary); font-size: 1.05rem; max-width: 900px; margin: 0 auto 1.5rem; }
+    .meta { display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap; }
+    .pill { display: inline-block; padding: 0.35rem 0.9rem; border-radius: 999px; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); color: var(--text-primary); font-weight: 700; font-size: 0.9rem; }
+    .version-toggle { display: inline-flex; gap: 0.5rem; padding: 0.45rem; border-radius: 999px; border: 1px solid rgba(59, 130, 246, 0.3); background: rgba(59, 130, 246, 0.08); margin: 1.5rem auto 0; }
+    .version-toggle button { border: none; background: transparent; color: var(--text-secondary); padding: 0.55rem 1.1rem; border-radius: 999px; font-weight: 800; cursor: pointer; transition: all 0.2s; }
+    .version-toggle button.active { background: var(--accent-primary); color: #0b1020; box-shadow: 0 8px 18px -8px rgba(59, 130, 246, 0.7); }
+    .section { margin: 2.5rem 0; }
+    .section h2 { font-size: clamp(1.6rem, 3vw, 2.2rem); color: var(--accent-primary); margin-bottom: 0.75rem; font-weight: 800; }
+    .section p { color: var(--text-secondary); font-size: 1rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1.25rem; }
+    .card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 0.9rem; padding: 1.25rem; box-shadow: 0 16px 30px -18px rgba(0,0,0,0.6); }
+    .card h3 { color: var(--accent-yellow); font-size: 1.15rem; margin-bottom: 0.4rem; }
+    .list { list-style: none; padding: 0; margin: 0.35rem 0 0; }
+    .list li { padding-left: 1rem; position: relative; color: var(--text-secondary); margin-bottom: 0.45rem; font-size: 0.98rem; }
+    .list li::before { content: '•'; position: absolute; left: 0; color: var(--accent-primary); }
+    .table { width: 100%; border-collapse: collapse; margin-top: 1rem; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 0.85rem; overflow: hidden; }
+    .table th, .table td { padding: 0.9rem 1rem; border-bottom: 1px solid var(--border-color); text-align: left; color: var(--text-secondary); }
+    .table th { color: var(--accent-yellow); background: rgba(255, 255, 255, 0.03); font-weight: 800; font-size: 0.95rem; }
+    .table tr:last-child td { border-bottom: none; }
+    .highlight { background: rgba(59, 130, 246, 0.12); border: 1px solid rgba(59, 130, 246, 0.25); border-radius: 0.85rem; padding: 1.1rem 1.2rem; color: var(--text-secondary); margin-top: 1rem; }
+    .cta { background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(59, 130, 246, 0.15)); border: 1px solid rgba(59, 130, 246, 0.35); border-radius: 1rem; padding: 2rem 1.5rem; text-align: center; margin: 3rem 0 1rem; }
+    .cta h3 { color: var(--accent-yellow); margin-bottom: 0.75rem; font-size: 1.3rem; }
+    .cta p { color: var(--text-secondary); margin-bottom: 1rem; }
+    .cta a { display: inline-block; background: linear-gradient(135deg, var(--accent-primary), #6366f1); color: #fff; padding: 0.9rem 1.8rem; border-radius: 999px; font-weight: 800; text-decoration: none; box-shadow: 0 18px 35px -18px rgba(99, 102, 241, 0.8); transition: transform 0.2s; }
+    .cta a:hover { transform: translateY(-2px); }
+    .footer { background: var(--bg-secondary); border-top: 1px solid var(--border-color); padding: 1rem 1.25rem; margin-top: 1rem; display: flex; justify-content: center; }
+    .footer-content { max-width: 1400px; margin: 0 auto; width: 100%; display: flex; justify-content: center; align-items: center; }
+    .footer-bottom { text-align: center; color: var(--text-muted); font-size: 0.88rem; line-height: 1.3; padding: 0; }
+    .footer-bottom a { color: var(--accent-primary); text-decoration: none; }
+    .footer-bottom a:hover { text-decoration: underline; }
+    @media (max-width: 1024px) { .nav-menu { justify-content: center; } }
+    @media (max-width: 768px) { .mobile-toggle { display: block; } .nav-menu { position: absolute; top: 70px; left: 0; right: 0; background: rgba(30, 41, 59, 0.98); backdrop-filter: blur(20px); flex-direction: column; padding: 1rem; gap: 0; border-bottom: 1px solid var(--border-color); display: none; max-height: 80vh; overflow-y: auto; } #navMenu.mobile-open { display: flex !important; position: absolute; top: 70px; left: 0; right: 0; flex-direction: column; background: rgba(30, 41, 59, 0.98); gap: 0; padding: 1rem 0; z-index: 999; } .nav-item { width: 100%; } .nav-link { width: 100%; justify-content: center; } }
+    @media (max-width: 480px) { .nav-container { padding: 0 1rem; } .logo-link img { height: 36px; } }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="../index.html" class="logo-link"><img src="../assets/boostyou.png" alt="Logo" /></a>
+      <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">☰</button>
+      <ul class="nav-menu" id="navMenu">
+        <li class="nav-item"><a href="class-guides.html" class="nav-link">Classes</a></li>
+        <li class="nav-item"><a href="fast-leveling.html" class="nav-link">Leveling</a></li>
+        <li class="nav-item"><a href="professions.html" class="nav-link">Professions</a></li>
+        <li class="nav-item"><a href="newcontent.html" class="nav-link new-pill">NEW</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <h1>Alchemy Leveling Guide</h1>
+      <p>Potions, elixirs, flasks, and transmutes for Classic, TBC, and WotLK. Start with shopping lists, then follow streamlined trainer-first routes to 450.</p>
+      <div class="meta">
+        <span class="pill">Updated 2026</span>
+        <span class="pill">Supports Classic / TBC / WotLK</span>
+        <span class="pill">Best paired with Herbalism</span>
+      </div>
+      <div class="version-toggle" aria-label="Choose expansion">
+        <button class="active" data-version="classic">Classic</button>
+        <button data-version="tbc">TBC</button>
+        <button data-version="wotlk">WotLK</button>
+      </div>
+    </section>
+
+    <section class="section version-panel" data-version-panel="classic">
+      <h2>Classic Shopping List (1-300)</h2>
+      <table class="table">
+        <thead><tr><th>Material</th><th>Qty (approx.)</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Peacebloom</td><td>60</td><td>1-60 Minor Healing.</td></tr>
+          <tr><td>Silverleaf</td><td>60</td><td>1-60 Minor Healing.</td></tr>
+          <tr><td>Briarthorn</td><td>55</td><td>60-110 Lesser Healing/Attack Speed elixirs.</td></tr>
+          <tr><td>Mageroyal</td><td>20</td><td>Optional if using Lesser Mana at 60-90.</td></tr>
+          <tr><td>Stranglekelp</td><td>15</td><td>Optional if making Water Breathing.</td></tr>
+          <tr><td>Bruiseweed</td><td>25</td><td>Optional if making Lesser Defense.</td></tr>
+          <tr><td>Wild Steelbloom</td><td>30</td><td>165-195 Elixirs.</td></tr>
+          <tr><td>Goldthorn</td><td>45</td><td>165-215 Fortitude/Agility.</td></tr>
+          <tr><td>Liferoot</td><td>30</td><td>140-165 Greater Healing.</td></tr>
+          <tr><td>Kingsblood</td><td>30</td><td>110-150 Healing/Defense.</td></tr>
+          <tr><td>Khadgar's Whisker</td><td>25</td><td>195-215 Superior Healing.</td></tr>
+          <tr><td>Sungrass</td><td>80</td><td>195-250 Defense/Agility/Healing.</td></tr>
+          <tr><td>Gold Sansam</td><td>40</td><td>250-265 Major Healing.</td></tr>
+          <tr><td>Mountain Silversage</td><td>30</td><td>250-265 Major Healing.</td></tr>
+          <tr><td>Dreamfoil</td><td>60</td><td>265-300 Mana pots/Protection.</td></tr>
+          <tr><td>Icecap</td><td>40</td><td>285-300 Major Mana.</td></tr>
+          <tr><td>Crystal/Lead Vials</td><td>220</td><td>Buy from vendors in bulk.</td></tr>
+        </tbody>
+      </table>
+      <div class="highlight">Buy a Philosopher's Stone recipe in Gadgetzan around 225 and start Arcanite Transmute at 275 for daily gold.</div>
+
+      <h2>Classic Route (trainer-heavy)</h2>
+      <table class="table">
+        <thead><tr><th>Skill</th><th>Craft</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>1-60</td><td>Minor Healing Potion</td><td>Peacebloom + Silverleaf.</td></tr>
+          <tr><td>60-110</td><td>Lesser Healing Potion</td><td>Briarthorn + Minor Healing.</td></tr>
+          <tr><td>110-140</td><td>Healing Potion</td><td>Kingsblood + Liferoot optional.</td></tr>
+          <tr><td>140-165</td><td>Greater Healing Potion</td><td>Liferoot + Kingsblood.</td></tr>
+          <tr><td>165-195</td><td>Elixir of Agility / Fortitude</td><td>Wild Steelbloom + Goldthorn.</td></tr>
+          <tr><td>195-215</td><td>Superior Healing Potion</td><td>Khadgar's Whisker + Sungrass.</td></tr>
+          <tr><td>215-235</td><td>Elixir of Greater Agility / Detect Undead</td><td>Sungrass; both are trainer recipes.</td></tr>
+          <tr><td>235-250</td><td>Elixir of Superior Defense</td><td>Sungrass + Steelbloom.</td></tr>
+          <tr><td>250-265</td><td>Major Healing Potion</td><td>Golden Sansam + Mountain Silversage.</td></tr>
+          <tr><td>265-285</td><td>Elixir of Major Agility / Mageblood</td><td>Golden Sansam heavy.</td></tr>
+          <tr><td>285-300</td><td>Major Mana Potion / Protection pots</td><td>Dreamfoil + Icecap; farm Winterspring.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section version-panel" data-version-panel="tbc" style="display:none;">
+      <h2>TBC Shopping List (300-375)</h2>
+      <table class="table">
+        <thead><tr><th>Material</th><th>Qty (approx.)</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Felweed</td><td>140</td><td>Super Healing/Mana + Elixirs.</td></tr>
+          <tr><td>Dreaming Glory</td><td>80</td><td>Mana pots and late elixirs.</td></tr>
+          <tr><td>Terocone</td><td>40</td><td>Major Agility/Elixir of Mastery.</td></tr>
+          <tr><td>Ragveil</td><td>25</td><td>Optional for Major Fire Power.</td></tr>
+          <tr><td>Ancient Lichen</td><td>30</td><td>Defense elixirs/Resists.</td></tr>
+          <tr><td>Nightmare Vine</td><td>25</td><td>Elixir of Major Shadow Power.</td></tr>
+          <tr><td>Netherbloom</td><td>35</td><td>Elixir of Mastery, Super Rejuv.</td></tr>
+          <tr><td>Mana Thistle</td><td>35</td><td>Flasks.</td></tr>
+          <tr><td>Fel Lotus</td><td>15</td><td>Flasks (proc chance while herbing).</td></tr>
+          <tr><td>Imbued/Crystal Vials</td><td>170</td><td>Buy in Shattrath.</td></tr>
+        </tbody>
+      </table>
+      <div class="highlight">Choose your mastery at 68-70: Transmute for daily gold (Primal Might), Elixir for flask profit, Potion for dungeon spammers.</div>
+
+      <h2>TBC Route (300-375)</h2>
+      <table class="table">
+        <thead><tr><th>Skill</th><th>Craft</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>300-315</td><td>Super Healing Potion</td><td>Felweed.</td></tr>
+          <tr><td>315-325</td><td>Super Mana Potion</td><td>Dreaming Glory + Felweed.</td></tr>
+          <tr><td>325-335</td><td>Elixir of Major Agility / Major Defense</td><td>Terocone/Ancient Lichen.</td></tr>
+          <tr><td>335-345</td><td>Elixir of Mastery</td><td>Felweed + Nightmare Vine.</td></tr>
+          <tr><td>345-355</td><td>Super Rejuvenation / Adept's Elixir</td><td>Netherbloom + Dreaming Glory.</td></tr>
+          <tr><td>355-365</td><td>Any Resistance Potions</td><td>Shadow/Fire/Frost for Karazhan/SSC.</td></tr>
+          <tr><td>365-375</td><td>Flask of Relentless Assault / Blinding Light / Mighty Restoration</td><td>Mana Thistle + Fel Lotus; expect some yellow crafts.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section version-panel" data-version-panel="wotlk" style="display:none;">
+      <h2>WotLK Shopping List (375-450)</h2>
+      <table class="table">
+        <thead><tr><th>Material</th><th>Qty (approx.)</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Goldclover</td><td>80</td><td>375-390 Runic Healing.</td></tr>
+          <tr><td>Tiger Lily</td><td>90</td><td>Healing/Mana + early elixirs.</td></tr>
+          <tr><td>Pygmy Suckerfish</td><td>60</td><td>For Pygmy Oil (390-405 alt).</td></tr>
+          <tr><td>Talandra's Rose</td><td>60</td><td>405-415 elixirs.</td></tr>
+          <tr><td>Lichbloom</td><td>70</td><td>415+ flasks.</td></tr>
+          <tr><td>Icethorn</td><td>70</td><td>415+ flasks.</td></tr>
+          <tr><td>Frost Lotus</td><td>25</td><td>Flasks (1-2 per craft average).</td></tr>
+          <tr><td>Eternal Life/Fire/Shadow</td><td>10 each</td><td>For transmute toys/Stone trinkets.</td></tr>
+          <tr><td>Crystal Vials</td><td>220</td><td>Buy in Dalaran.</td></tr>
+        </tbody>
+      </table>
+      <div class="highlight">Do Northrend Alchemy Research every 3 days for discoveries. Keep TBC mastery (Potion/Elixir/Transmute) for extra procs.</div>
+
+      <h2>WotLK Route (375-450)</h2>
+      <table class="table">
+        <thead><tr><th>Skill</th><th>Craft</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>375-390</td><td>Runic Healing Potion</td><td>Goldclover + Tiger Lily.</td></tr>
+          <tr><td>390-405</td><td>Runic Mana / Pygmy Oil</td><td>Tiger Lily or Pygmy Suckerfish.</td></tr>
+          <tr><td>405-415</td><td>Elixir of Mighty Strength / Spellpower / Draenic Wisdom</td><td>Talandra's Rose + Tiger Lily.</td></tr>
+          <tr><td>415-430</td><td>Flask of the Frost Wyrm / Stoneblood / Endless Rage</td><td>Lichbloom + Icethorn + Frost Lotus.</td></tr>
+          <tr><td>430-440</td><td>Indestructible / Mojo Flasks or Mixology flasks you will use</td><td>Keep making sellable flasks.</td></tr>
+          <tr><td>440-450</td><td>Transmute: Titanium / Epic Gems (3.2+)</td><td>Daily cooldowns; or make Alchemist's Stones (if profitable).</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>Gold Tips, Cooldowns, and Pairings</h2>
+      <div class="grid">
+        <div class="card"><h3>Pairing</h3><ul class="list"><li>Herbalism (Lifeblood HoT + self-farmed herbs).</li><li>Fishing (Pygmy Suckerfish for Pygmy Oil).</li></ul></div>
+        <div class="card"><h3>Cooldowns</h3><ul class="list"><li>Classic: Arcanite (24h).</li><li>TBC: Primal Might / single primal transmutes (24h).</li><li>WotLK: Titanium Bar / epic gems (20h); Research (3 days).</li></ul></div>
+        <div class="card"><h3>Profit Plays</h3><ul class="list"><li>Raid-night flasks and Potion of Speed/Wild Magic (WotLK).</li><li>Resistance pots before new raids (TBC/Classic).</li><li>Sell discoveries early; prices drop fast.</li></ul></div>
+      </div>
+    </section>
+
+    <div class="cta">
+      <h3>Level Faster with RestedXP</h3>
+      <p>Follow optimized herb loops and craft breakpoints to reach 300/375/450 with minimal gold burn while stockpiling raid flasks.</p>
+      <a href="https://shop.restedxp.com/ref/nutri/" target="_blank" rel="noreferrer">Claim 10% Off RestedXP →</a>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom">© 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('navMenu');
+      if (menu) menu.classList.toggle('mobile-open');
+    }
+    window.addEventListener('resize', function() {
+      const menu = document.getElementById('navMenu');
+      if (window.innerWidth > 768 && menu) menu.classList.remove('mobile-open');
+    });
+    const versionButtons = document.querySelectorAll('[data-version]');
+    const panels = document.querySelectorAll('[data-version-panel]');
+    function setVersion(v) {
+      versionButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.version === v));
+      panels.forEach(panel => panel.style.display = panel.dataset.versionPanel === v ? '' : 'none');
+    }
+    versionButtons.forEach(btn => btn.addEventListener('click', () => setVersion(btn.dataset.version)));
+    setVersion('classic');
+  </script>
+</body>
+</html>
