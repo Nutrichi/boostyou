@@ -1,31 +1,30 @@
-# Boostyou.ai – WoW Classic / TBC / WotLK Guides (2026)
+# ⚡ Boostyou.ai — Level Faster, Spend Less (2026)
+Your shortcut to quicker leveling, smarter guides, and instant discounts.
 
-Source for **https://boostyou.ai**, a fast static site with:
-- Leveling guides (1-60, 60-70, 70-80) and comparisons
-- Class/spec guides (all Classic classes + DK)
-- Profession guides (Classic → WotLK)
-- Addon comparisons (RestedXP vs Zygor, RestedXP vs Joana)
-- Content hub with Shorts/YouTube/Twitch embeds
+## 🚀 What you’ll find
+- **Fast routes:** 1-60, 60-70, 70-80 guides tested in real runs.
+- **Classes & specs:** All Classic classes + DK, with leveling builds that just work.
+- **Professions made easy:** Expansion-aware tips for Classic → WotLK.
+- **Head-to-heads:** Honest comparisons like RestedXP vs Zygor and RestedXP vs Joana.
+- **Fresh drops:** Shorts, YouTube uploads, Twitch highlights, and free RestedXP packs on CurseForge.
 
-## What’s live
-- `https://boostyou.ai/` – main landing
-- `https://boostyou.ai/fast-leveling` – leveling overview with route links
-- `https://boostyou.ai/class-guides` – all class/spec entry points
-- `https://boostyou.ai/professions` – profession overview + detail pages
-- `https://boostyou.ai/newcontent` – content hub (YouTube/Twitch + CurseForge links)
+## 🔗 Quick links
+- Main: `https://boostyou.ai/`
+- Leveling overview: `https://boostyou.ai/fast-leveling`
+- Classes: `https://boostyou.ai/class-guides`
+- Professions: `https://boostyou.ai/professions`
+- Content hub: `https://boostyou.ai/newcontent`
+- Fastest routes: `https://boostyou.ai/fastest-1-60`, `https://boostyou.ai/fastest-60-70`, `https://boostyou.ai/fastest-70-80`
 - Comparisons: `https://boostyou.ai/restedxp-vs-zygor`, `https://boostyou.ai/restedxp-vs-joana`
-- Route pages: `https://boostyou.ai/fastest-1-60`, `https://boostyou.ai/fastest-60-70`, `https://boostyou.ai/fastest-70-80`
-- Plus per-class and per-profession pages (see `content/`)
+- Free RestedXP packs (CurseForge): find the Classic / TBC / WotLK links on the content hub.
 
-## SEO / discoverability
-- Every active page now includes: `<title>`, `meta description`, `rel="canonical"`, `og:title`, `og:description`, `og:url`, `og:image`, `og:type`.
-- Canonicals use the clean slug version (e.g., `https://boostyou.ai/fast-leveling`).
-- Updated `sitemap.xml` covers all active HTML pages; `robots.txt` allows full crawl.
-- Lightweight, mobile-friendly HTML/CSS; no blocking scripts beyond analytics where present.
+## 🎁 Grab your RestedXP discount
+- Get 10% off RestedXP with my partner link: **https://shop.restedxp.com/ref/nutri/**
 
-## Maintenance
-- Add new pages under `content/` and set title + description; canonicals/OG tags should follow the slug pattern.
-- Update `sitemap.xml` when adding/removing pages (keep canonicals consistent).
-- Keep `robots.txt` pointing at the current sitemap URL.
+## 📺 Watch or hang out
+- YouTube (guides, highlights, shorts): **https://www.youtube.com/channel/UCpmxHiFItoNHeJaMtPcMSTg**
+- Twitch (live runs, Q&A): **https://www.twitch.tv/nutri_r1**
 
-Contributions and fixes welcome—open an issue or PR.
+## 🙌 Stay in the loop
+- New guides, fresh routes, and content updates roll out regularly—bookmark and check back often.
+- Feedback or collabs? Reach out via the site or open an issue. Thanks for stopping by! 🎉
