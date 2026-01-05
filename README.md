@@ -6,23 +6,23 @@ Your shortcut to quicker leveling, smarter guides, and instant discounts.
 - **Classes & specs:** All Classic classes + DK, with leveling builds that just work.
 - **Professions made easy:** Expansion-aware tips for Classic → WotLK.
 - **Head-to-heads:** Honest comparisons like RestedXP vs Zygor and RestedXP vs Joana.
-- **Fresh drops:** Shorts, YouTube uploads, Twitch highlights, and free RestedXP packs on CurseForge.
+- **Fresh drops:** YouTube uploads, Twitch highlights, and free RestedXP packs on CurseForge.
 
 ## 🔗 Quick links
 - Main: `https://boostyou.ai/`
-- Leveling overview: `https://boostyou.ai/fast-leveling`
-- Classes: `https://boostyou.ai/class-guides`
-- Professions: `https://boostyou.ai/professions`
-- Content hub: `https://boostyou.ai/newcontent`
-- Fastest routes: `https://boostyou.ai/fastest-1-60`, `https://boostyou.ai/fastest-60-70`, `https://boostyou.ai/fastest-70-80`
-- Comparisons: `https://boostyou.ai/restedxp-vs-zygor`, `https://boostyou.ai/restedxp-vs-joana`
+- Leveling overview: `https://boostyou.ai/content/fast-leveling.html`
+- Classes: `https://boostyou.ai/content/class-guides.html`
+- Professions: `https://boostyou.ai/content/professions.html`
+- Content hub: `https://boostyou.ai/content/newcontent.html`
+- Fastest routes: `https://boostyou.ai/content/fastest-1-60.html`, `https://boostyou.ai/content/fastest-60-70.html`, `https://boostyou.ai/content/fastest-70-80.html`
+- Comparisons: `https://boostyou.ai/content/restedxp-vs-zygor.html`, `https://boostyou.ai/content/restedxp-vs-joana.html`
 - Free RestedXP packs (CurseForge): find the Classic / TBC / WotLK links on the content hub.
 
 ## 🎁 Grab your RestedXP discount
 - Get 10% off RestedXP with my partner link: **https://shop.restedxp.com/ref/nutri/**
 
 ## 📺 Watch or hang out
-- YouTube (guides, highlights, shorts): **https://www.youtube.com/channel/UCpmxHiFItoNHeJaMtPcMSTg**
+- YouTube (guides, highlights): **https://www.youtube.com/@nutri_r1**
 - Twitch (live runs, Q&A): **https://www.twitch.tv/nutri_r1**
 
 ## 🙌 Stay in the loop
