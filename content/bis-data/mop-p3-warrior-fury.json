@@ -1,0 +1,234 @@
+{
+  "expansion": "mop",
+  "phase": "p3",
+  "class": "warrior",
+  "spec": "fury",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "List assumes Titan's Grip; Single-Minded Fury runs two Malkorok's Skullcleavers instead. Use at least two yellow gems to keep the meta active, then gem Crit everywhere. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helmet of the Prehistoric Marauder (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Malkorok's Tainted Dog Tags",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Pauldrons of the Prehistoric Marauder (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Gong-Lu, Strength of Xuen",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Breastplate of Shamanic Mirrors",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Blind Hatred",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Tar-Coated Gauntlets",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Ashen Wall Girdle",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of Willful Doom",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Greaves of Sublime Superiority",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Bloodclaw Band",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Devilfang Band",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Evil Eye of Galakras",
+          "source": "Siege of Orgrimmar Heroic — Galakras"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Thok's Tail Tip",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Xal'atoh, Desecrated Image of Gorehowl",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        },
+        {
+          "name": "Malkorok's Skullcleaver (Single-Minded Fury)",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Xal'atoh, Desecrated Image of Gorehowl",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        },
+        {
+          "name": "Malkorok's Skullcleaver (Single-Minded Fury)",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Super Strength (+170 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Strength (+160 Str)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
+    },
+    {
+      "color": "Red",
+      "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Smooth Sun's Radiance (+320 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+    }
+  ]
+}

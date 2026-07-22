@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "p3",
+  "class": "rogue",
+  "spec": "subtlety",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Maximizing Agility is key. Capacitive Primal Diamond is the legendary meta from Wrathion's questline. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helmet of the Barbed Assassin (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gleaming Eye of the Devilsaur",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Spaulders of the Barbed Assassin (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Fen-Yu, Fury of Xuen",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Tunic of the Barbed Assassin (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Laser Burn Bracers",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of the Barbed Assassin (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cord of Black Dreams",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Riou's Vigilant Leggings",
+          "source": "Siege of Orgrimmar Heroic — shared boss drop"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Pandaren Roofsprinters",
+          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Reality Ripper Ring",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Kil'ruk's Band of Ascendancy",
+          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Haromm's Talisman",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Assurance of Consequence",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Hvitserk's Formidable Shanker",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Nazgrim's Gutripper",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Greater Haste (+170 haste)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Primordial Ruby (+160 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Delicate Primordial Ruby — or Deft Vermilion Onyx (+80 Agi / +160 haste) for strong socket bonuses"
+    },
+    {
+      "color": "Blue",
+      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+    }
+  ]
+}

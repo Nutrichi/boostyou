@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WoW Classic BiS Lists — Every Phase, Every Spec | Boostyou.ai</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="PvE Best in Slot lists for WoW Classic, TBC, WotLK, Cataclysm and MoP Classic — every phase, every class and spec, with 2nd and 3rd best alternatives and exact drop sources." />
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="https://boostyou.ai/content/bis.html" />
+  <meta name="author" content="Boostyou.ai" />
+  <link rel="icon" href="../assets/favicon.ico" />
+
+  <meta property="og:title" content="WoW Classic BiS Lists — Boostyou.ai" />
+  <meta property="og:description" content="Best in Slot for every phase of Classic, TBC, WotLK, Cata and MoP — with alternatives and exact drop sources." />
+  <meta property="og:url" content="https://boostyou.ai/content/bis.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://boostyou.ai/assets/og-image-mobile.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8NDLSEBGZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-V8NDLSEBGZ');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    .page-header {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 1rem;
+      text-align: center;
+    }
+
+    .page-header h1 {
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      font-weight: 900;
+      background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.15;
+      margin-bottom: 0.75rem;
+    }
+
+    .page-header p {
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .bis-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem 4rem;
+    }
+
+    /* Picker */
+    .bis-picker {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .bis-picker-row {
+      margin-bottom: 0.9rem;
+    }
+
+    .bis-picker-row:last-child {
+      margin-bottom: 0;
+    }
+
+    .bis-picker-label {
+      display: block;
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 0.4rem;
+    }
+
+    .bis-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .bis-chip {
+      background: rgba(59, 130, 246, 0.08);
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      border-radius: 999px;
+      color: var(--text-primary);
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.4rem 0.9rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .bis-chip:hover {
+      background: rgba(59, 130, 246, 0.25);
+      border-color: rgba(59, 130, 246, 0.6);
+    }
+
+    .bis-chip.active {
+      background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      border-color: transparent;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    /* Result / list */
+    .bis-list-header h2 {
+      color: var(--accent-yellow);
+      font-size: 1.6rem;
+      font-weight: 800;
+    }
+
+    .bis-role {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--accent-primary);
+      background: rgba(59, 130, 246, 0.15);
+      border-radius: 0.4rem;
+      padding: 0.15rem 0.5rem;
+      vertical-align: middle;
+    }
+
+    .bis-list-meta {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      margin: 0.25rem 0 0.75rem;
+    }
+
+    .draft-badge {
+      background: rgba(251, 191, 36, 0.15);
+      color: var(--accent-yellow);
+      border: 1px solid rgba(251, 191, 36, 0.4);
+      border-radius: 0.4rem;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.1rem 0.5rem;
+    }
+
+    .bis-notes {
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+      background: rgba(59, 130, 246, 0.08);
+      border-left: 3px solid var(--accent-primary);
+      border-radius: 0 0.5rem 0.5rem 0;
+      padding: 0.75rem 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .bis-hint {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .bis-slot {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.6rem;
+      margin-bottom: 0.5rem;
+      overflow: hidden;
+    }
+
+    .bis-slot summary {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.7rem 1rem;
+      cursor: pointer;
+      list-style: none;
+    }
+
+    .bis-slot summary::-webkit-details-marker { display: none; }
+
+    .bis-slot summary:hover {
+      background: rgba(59, 130, 246, 0.08);
+    }
+
+    .bis-slot-name {
+      flex: 0 0 110px;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .bis-slot-item {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .bis-item-name {
+      color: #a78bfa;
+      font-weight: 700;
+      font-size: 0.98rem;
+      text-decoration: none;
+    }
+
+    .bis-item-name:hover {
+      text-decoration: underline;
+    }
+
+    .bis-item-plain {
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    .bis-source {
+      color: var(--text-muted);
+      font-size: 0.84rem;
+    }
+
+    .bis-chevron {
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      transition: transform 0.2s;
+    }
+
+    .bis-slot[open] .bis-chevron {
+      transform: rotate(180deg);
+    }
+
+    .bis-slot-alts {
+      border-top: 1px solid var(--border-color);
+      padding: 0.6rem 1rem 0.75rem calc(110px + 2rem);
+      background: rgba(15, 23, 42, 0.35);
+    }
+
+    .bis-alt {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      padding: 0.4rem 0;
+    }
+
+    .rank-badge {
+      flex: 0 0 auto;
+      background: rgba(148, 163, 184, 0.15);
+      color: var(--text-secondary);
+      border-radius: 0.4rem;
+      font-size: 0.72rem;
+      font-weight: 800;
+      padding: 0.15rem 0.5rem;
+      margin-top: 0.15rem;
+      white-space: nowrap;
+    }
+
+    .rank-badge.rank-1 {
+      background: rgba(251, 191, 36, 0.2);
+      color: var(--accent-yellow);
+    }
+
+    .bis-alt-body {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+
+    .bis-section-title {
+      color: var(--accent-yellow);
+      font-size: 1.15rem;
+      font-weight: 800;
+      margin: 1.75rem 0 0.6rem;
+    }
+
+    .bis-table {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 0.6rem;
+      overflow: hidden;
+    }
+
+    .bis-row {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      padding: 0.55rem 1rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .bis-row:last-child { border-bottom: 0; }
+
+    .gem-meta { color: #e2e8f0; }
+    .gem-red { color: #f87171; }
+    .gem-yellow { color: #fbbf24; }
+    .gem-blue { color: #60a5fa; }
+
+    /* Empty / coming soon */
+    .bis-empty {
+      background: var(--bg-card);
+      border: 1px dashed rgba(148, 163, 184, 0.35);
+      border-radius: 1rem;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+      color: var(--text-secondary);
+    }
+
+    .bis-empty-icon {
+      font-size: 2.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .bis-empty h2 {
+      color: var(--text-primary);
+      font-size: 1.3rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .bis-empty a {
+      color: var(--accent-primary);
+      text-decoration: none;
+    }
+
+    .bis-empty a:hover { text-decoration: underline; }
+
+    .bis-empty-nudge {
+      margin-top: 0.75rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    /* CTA row */
+    .bis-ctas {
+      margin-top: 2.5rem;
+      display: grid;
+      gap: 1.25rem;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
+    }
+
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+    }
+
+    .footer-bottom {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.3;
+      padding-top: 0.35rem;
+    }
+
+    @media (max-width: 600px) {
+      .bis-slot summary {
+        flex-wrap: wrap;
+        gap: 0.25rem 1rem;
+      }
+
+      .bis-slot-name {
+        flex-basis: 100%;
+      }
+
+      .bis-slot-alts {
+        padding-left: 1rem;
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="../assets/cta.css" />
+  <script src="../assets/cta.js" defer></script>
+  <script src="../assets/bis.js" defer></script>
+<link rel="stylesheet" href="../assets/nav.css" />
+<script src="../assets/nav.js" defer></script>
+</head>
+<body>
+  <!-- sitenav:start (generated by tools/stamp_nav.py — do not edit by hand) -->
+<nav class="nav">
+  <div class="nav-container">
+    <a href="../" class="logo-link"><img src="../assets/boostyou.png" alt="Boostyou.ai logo" /></a>
+    <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu" aria-expanded="false" aria-controls="navMenu">☰</button>
+    <ul class="nav-menu" id="navMenu">
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="class-guides.html" class="nav-link">Classes<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Classes menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Warrior</span>
+            <a href="warrior-arms.html">Arms</a>
+            <a href="warrior-fury.html">Fury</a>
+            <a href="warrior-protection.html">Protection</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Paladin</span>
+            <a href="paladin-holy.html">Holy</a>
+            <a href="paladin-protection.html">Protection</a>
+            <a href="paladin-retribution.html">Retribution</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Hunter</span>
+            <a href="hunter-beast-mastery.html">Beast Mastery</a>
+            <a href="hunter-marksmanship.html">Marksmanship</a>
+            <a href="hunter-survival.html">Survival</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Rogue</span>
+            <a href="rogue-assassination.html">Assassination</a>
+            <a href="rogue-combat.html">Combat</a>
+            <a href="rogue-subtlety.html">Subtlety</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Priest</span>
+            <a href="priest-discipline.html">Discipline</a>
+            <a href="priest-holy.html">Holy</a>
+            <a href="priest-shadow.html">Shadow</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Death Knight</span>
+            <a href="death-knight-blood.html">Blood</a>
+            <a href="death-knight-frost.html">Frost</a>
+            <a href="death-knight-unholy.html">Unholy</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Shaman</span>
+            <a href="shaman-elemental.html">Elemental</a>
+            <a href="shaman-enhancement.html">Enhancement</a>
+            <a href="shaman-restoration.html">Restoration</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Mage</span>
+            <a href="mage-arcane.html">Arcane</a>
+            <a href="mage-fire.html">Fire</a>
+            <a href="mage-frost.html">Frost</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Warlock</span>
+            <a href="warlock-affliction.html">Affliction</a>
+            <a href="warlock-demonology.html">Demonology</a>
+            <a href="warlock-destruction.html">Destruction</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Druid</span>
+            <a href="druid-balance.html">Balance</a>
+            <a href="druid-feral.html">Feral</a>
+            <a href="druid-restoration.html">Restoration</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="class-guides.html">View all class guides →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="fast-leveling.html" class="nav-link">Leveling<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Leveling menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Speed Routes</span>
+            <a href="fastest-1-60.html">Classic 1–60</a>
+            <a href="fastest-60-70.html">TBC 60–70</a>
+            <a href="fastest-70-80.html">WotLK 70–80</a>
+            <a href="fastest-80-85.html">Cata 80–85</a>
+            <a href="fastest-85-90.html">MoP 85–90</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Methods & Comparisons</span>
+            <a href="dungeon-vs-questing.html">Dungeon vs Questing</a>
+            <a href="free-vs-premium.html">Free vs Premium</a>
+            <a href="restedxp-vs-zygor.html">RestedXP vs Zygor</a>
+            <a href="restedxp-vs-joana.html">RestedXP vs Joana</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="fast-leveling.html">Speed leveling overview →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="professions.html" class="nav-link">Professions<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Professions menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Crafting</span>
+            <a href="alchemy.html">Alchemy</a>
+            <a href="blacksmithing.html">Blacksmithing</a>
+            <a href="enchanting.html">Enchanting</a>
+            <a href="engineering.html">Engineering</a>
+            <a href="inscription.html">Inscription</a>
+            <a href="jewelcrafting.html">Jewelcrafting</a>
+            <a href="leatherworking.html">Leatherworking</a>
+            <a href="tailoring.html">Tailoring</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Gathering</span>
+            <a href="herbalism.html">Herbalism</a>
+            <a href="mining.html">Mining</a>
+            <a href="skinning.html">Skinning</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Secondary</span>
+            <a href="cooking.html">Cooking</a>
+            <a href="first-aid.html">First Aid</a>
+            <a href="fishing.html">Fishing</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="professions.html">All professions →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="bis.html" class="nav-link active">BiS Lists<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open BiS Lists menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Expansions</span>
+            <a href="bis.html#classic">Classic</a>
+            <a href="bis.html#tbc">TBC</a>
+            <a href="bis.html#wotlk">WotLK</a>
+            <a href="bis.html#cata">Cataclysm</a>
+            <a href="bis.html#mop">MoP</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="bis.html">Open the BiS browser →</a></div>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a href="wow-camelot.html" class="nav-link camelot-pill">Camelot</a>
+      </li>
+      <li class="nav-item">
+        <a href="newcontent.html" class="nav-link new-pill">NEWS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!-- sitenav:end -->
+<!-- breadcrumbs:start (generated) -->
+<div class="breadcrumbs"><a href="../">Home</a><span class="crumb-sep">›</span><span class="crumb-current">BiS Lists</span></div>
+<!-- breadcrumbs:end -->
+
+  <header class="page-header">
+    <h1>PvE Best in Slot Lists</h1>
+    <p>BiS gear for every phase of Classic, TBC, WotLK, Cataclysm and MoP Classic. Pick your expansion, phase, class and spec — every slot shows the best item plus the 2nd and 3rd best options with exact drop sources. Prefer a plain overview? <a href="bis-all.html" style="color:#60a5fa;">Browse the full BiS list index</a>.</p>
+  </header>
+
+  <div class="bis-wrap">
+    <div class="bis-picker">
+      <div class="bis-picker-row">
+        <span class="bis-picker-label">Expansion</span>
+        <div class="bis-chips" id="expRow"></div>
+      </div>
+      <div class="bis-picker-row" id="phaseWrap" style="display:none;">
+        <span class="bis-picker-label">Phase</span>
+        <div class="bis-chips" id="phaseRow"></div>
+      </div>
+      <div class="bis-picker-row" id="classWrap" style="display:none;">
+        <span class="bis-picker-label">Class</span>
+        <div class="bis-chips" id="classRow"></div>
+      </div>
+      <div class="bis-picker-row" id="specWrap" style="display:none;">
+        <span class="bis-picker-label">Specialization</span>
+        <div class="bis-chips" id="specRow"></div>
+      </div>
+    </div>
+
+    <div id="result"></div>
+
+    <div class="bis-ctas">
+      <div class="newsletter-cta"
+           data-heading="New BiS lists, straight to your inbox"
+           data-sub="We're publishing lists phase by phase. Subscribe and get a mail whenever new BiS lists and WoW Classic news go live."></div>
+      <div class="rxp-mini">
+        Gearing a fresh character first? <a href="https://shop.restedxp.com/ref/nutri/" rel="sponsored noopener" target="_blank">Get 10% off RestedXP leveling guides →</a>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom" style="border-top:0;">
+        © 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

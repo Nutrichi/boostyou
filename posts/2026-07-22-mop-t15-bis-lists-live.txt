@@ -1,0 +1,13 @@
+MoP Tier 15 BiS lists are live for all 34 specs — Throne of Thunder is fully covered
+
+The BiS browser now covers MoP Classic Phase 2: full Throne of Thunder Heroic best-in-slot lists for every class and spec, including Monks and all four Druid specs.
+
+Throne of Thunder's tier sets follow the usual pattern — Dark Animus, Iron Qon, Council of Elders, Ji-Kun and Twin Consorts all drop pieces of your class's Tier 15 set, and each list marks exactly which slot comes from which boss. Weapon setups get full coverage too: dual Wu-Lai fans for Windwalker and Brewmaster Monks and Enhancement Shaman, dual daggers for Assassination and Subtlety Rogues, and the Frost Death Knight, Combat Rogue and Fury Warrior dual-wield and two-hand picks.
+
+A few sourcing quirks worth knowing: Fire Mage uses the fully-progressed itemization (its Jadefire Drape cloak is a legendary questline reward, not a boss drop), and a couple of Icy Veins mislabels were corrected against the actual encounter list — Jin'rokh the Breaker is Throne of Thunder's own first boss (not Heart of Fear), and Lei Shen's Orb of Command drops from Lei Shen (not Feng the Accursed).
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick MoP, Phase 2, your class and spec. Every item links to Wowhead.
+
+MoP Classic is now covered wall to wall: Pre-Raid, Tier 14, Tier 15 and Siege of Orgrimmar — every phase, every spec.

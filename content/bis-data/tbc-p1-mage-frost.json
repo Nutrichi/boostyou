@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p1",
+  "class": "mage",
+  "spec": "frost",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). Crafted Frozen Shadoweave set (shoulders/robe/boots) plus Spellstrike Pants carries Frost through Phase 1 — only the head is Tier 4. Draft compiled from the Icy Veins TBC Classic Frost Mage gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Collar of the Aldor (Tier 4)",
+          "source": "Karazhan — Prince Malchezaar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Heightened Potential",
+          "source": "Shadow Labyrinth — Blackheart the Inciter"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Shoulders",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Ruby Drape of the Mysticant",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Robe",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Marshal's Silk Cuffs",
+          "source": "PvP — Honor Points (Horde: General's Silk Cuffs)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Soul-Eater's Handwraps",
+          "source": "Magtheridon's Lair — Magtheridon"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of Ruination",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Spellstrike Pants",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Boots",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Crimson Fury",
+          "source": "Quest: The Fall of Magtheridon (Magtheridon's Lair)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ashyen's Gift",
+          "source": "Cenarion Expedition — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Quagmirran's Eye",
+          "source": "Heroic Slave Pens — Quagmirran"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Badge of Justice vendor — 41 badges"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Bloodmaw Magus-Blade",
+          "source": "Gruul's Lair — Gruul the Dragonkiller"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Sapphiron's Wing Bone",
+          "source": "Badge of Justice vendor — 25 badges"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Tirisfal Wand of Ascendancy",
+          "source": "Karazhan — Shade of Aran"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power (+22 spell damage / +14 hit)",
+      "source": "The Sha'tar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+      "source": "Enchanting (Spell Strike if short on hit)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Spellpower (+12 spell damage)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+9 spell damage)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+    }
+  ]
+}

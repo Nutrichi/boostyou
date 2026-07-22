@@ -1,0 +1,130 @@
+/* ============================================================
+   Boostyou.ai — shared CTA components
+   - .newsletter-cta  : newsletter signup box (markup injected by cta.js)
+   - .rxp-mini        : compact RestedXP 10%-off mention
+   ============================================================ */
+
+.newsletter-cta {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.18) 0%, rgba(139, 92, 246, 0.18) 100%);
+  border: 2px solid rgba(59, 130, 246, 0.55);
+  border-radius: 1rem;
+  padding: 1.75rem 1.5rem;
+  text-align: center;
+}
+
+.newsletter-cta h3 {
+  color: #f1f5f9;
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin: 0 0 0.5rem;
+}
+
+.newsletter-cta p {
+  color: #cbd5e1;
+  font-size: 0.98rem;
+  margin: 0 0 1.25rem;
+  line-height: 1.6;
+}
+
+.nl-form {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.nl-form input[type="email"] {
+  flex: 1;
+  min-width: 0;
+  padding: 0.8rem 1rem;
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  border-radius: 0.6rem;
+  color: #f1f5f9;
+  font-size: 0.95rem;
+  font-family: inherit;
+}
+
+.nl-form input[type="email"]::placeholder {
+  color: #94a3b8;
+}
+
+.nl-form input[type="email"]:focus {
+  outline: none;
+  border-color: #3b82f6;
+}
+
+.nl-form button {
+  background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+  color: #fff;
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.8rem 1.4rem;
+  font-size: 0.95rem;
+  font-weight: 800;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.nl-form button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 25px -8px rgba(59, 130, 246, 0.7);
+}
+
+/* Honeypot: invisible to humans, bots fill it in and get silently ignored */
+.nl-form .nl-hp {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.nl-error {
+  color: #f87171;
+  font-size: 0.85rem;
+  margin-top: 0.6rem;
+  min-height: 1.1em;
+}
+
+.nl-thanks {
+  color: #10b981;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 0.8rem 0;
+}
+
+/* Compact RestedXP affiliate mention */
+.rxp-mini {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  border-radius: 0.75rem;
+  padding: 0.9rem 1.25rem;
+  font-size: 0.92rem;
+  color: #cbd5e1;
+  text-align: center;
+}
+
+.rxp-mini a {
+  color: #10b981;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.rxp-mini a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+  .nl-form {
+    flex-direction: column;
+  }
+}

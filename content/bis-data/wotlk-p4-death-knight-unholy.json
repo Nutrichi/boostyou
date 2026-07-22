@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "death-knight",
+  "spec": "unholy",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Unholy Death Knight gear guide (anchor phase-5-tier-10-best-in-slot). Weapon is the legendary Shadowmourne (ICC questline, not a boss drop). Tier set: Sanctified Scourgelord line. Enchants/gems reused across WotLK Str-hit melee DPS specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Helmet (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Penumbra Pendant",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Shoulderplates (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Winding Sheet",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Battleplate (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Polar Bear Claw Bracers",
+          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Gauntlets (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Coldwraith Links",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Scourge Reaver's Legplates",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Apocalypse's Advance",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashen Band of Endless Might",
+          "source": "The Ashen Verdict — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Might of Blight",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Sharpened Twilight Scale",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Deathbringer's Will",
+          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Shadowmourne (Legendary)",
+          "source": "obtained via a multi-stage Icecrown Citadel questline"
+        }
+      ]
+    },
+    {
+      "slot": "Sigil",
+      "items": [
+        {
+          "name": "Sigil of the Hanged Man",
+          "source": "Emblem of Frost Vendor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Precision",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Rune of the Fallen Crusader",
+      "source": "Runeforging (Ebon Hold)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Bold Cardinal Ruby (+23 Str)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
+    },
+    {
+      "color": "Blue",
+      "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+    }
+  ]
+}

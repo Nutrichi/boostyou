@@ -1,0 +1,13 @@
+SSC & Tempest Keep BiS lists are live for every TBC class
+
+As promised: our BiS browser now covers TBC Anniversary Phase 2 for all 27 specs — every class, every spec, geared for Serpentshrine Cavern and Tempest Keep.
+
+Each list shows the best item per slot with its exact source — boss, tier token, badge vendor, reputation, or crafting — plus the recommended enchants (including Aldor/Scryers shoulder inscriptions and head glyphs) and gems per socket color. TBC-specific slots are all there too: librams, totems, idols, wands, and hunter melee stat sticks.
+
+Some picks look surprising but are the real deal: feral druids keep the crafted Wolfshead Helm over every raid drop, the arena Merciless Gladiator's Maul is the feral BiS weapon, fire and frost mages skip tier entirely for crafted Spellstrike and Spellfire, and warlocks hold onto their Tier 4 Voidheart two-piece deep into Tier 5.
+
+The lists are marked as drafts while we verify every source — spotted something off? Tell us and we'll fix it fast.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick TBC, Phase 2, your class and spec. Every item links to Wowhead.
+
+With Mount Hyjal and Black Temple coming later this summer, we'll have Phase 3 lists ready when the gates open.

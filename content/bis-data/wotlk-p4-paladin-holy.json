@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "paladin",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Holy Paladin gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Lightsworn line. Weapon is the legendary Val'anyr, Hammer of Ancient Kings (Ulduar fragment questline) — still BiS through ICC; Trinket 2 (Meteorite Crystal) is an Ulduar (Algalon) holdover that remained competitive. Enchants/gems reused across WotLK Int healer specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Lightsworn Headpiece (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Blood Queen's Crimson Choker",
+          "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Lightsworn Spaulders (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Burning Dusk",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Rot-Resistant Breastplate",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Fiery Night",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Fallen Lord's Handguards",
+          "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Split Shape Belt",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Corrupted Silverplate Leggings",
+          "source": "Icecrown Citadel 10 Heroic — Lord Marrowgar"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Foreshadow Steps",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Phased Regeneration",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Rapid Ascent",
+          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Soul Preserver",
+          "source": "The Culling of Stratholme — Mal'Ganis"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Meteorite Crystal",
+          "source": "Ulduar 25 — Algalon the Observer"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Val'anyr, Hammer of Ancient Kings (Legendary)",
+          "source": "Ulduar 25 — fragments from all Ulduar bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Bulwark of Smouldering Steel",
+          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Libram of Renewal",
+          "source": "Emblem of Heroism Vendor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Exceptional Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Shield — Greater Intellect",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Brilliant King's Amber (+23 Int)"
+    },
+    {
+      "color": "Blue",
+      "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+    }
+  ]
+}

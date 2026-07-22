@@ -1,0 +1,260 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Crafted Ebon Netherscale three-piece (Dragonscale Leatherworking) is the core; arena weapons top the slot for non-raiders. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+      "source": "Cenarion Expedition — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+      "source": "The Aldor — Exalted (Naxx veterans: Might of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Brawn (+12 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Strength (+15 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Executioner (armor penetration proc)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Stats (+4 all stats)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Wastewalker Helm",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        },
+        {
+          "name": "Helm of the Claw",
+          "source": "Quest — The Warlord's Hideout (Steamvault)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of Vile Intent",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Natasha's Choker",
+          "source": "Quest — The Hound-Master (Blade's Edge)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wastewalker Shoulderpads",
+          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+        },
+        {
+          "name": "Beast Lord Mantle",
+          "source": "Heroic Steamvault — Warlord Kalithresh"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Vengeance Wrap",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Auchenai Death Shroud",
+          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Ebon Netherscale Breastplate",
+          "source": "Dragonscale Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Ebon Netherscale Bracers",
+          "source": "Dragonscale Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Fel Leather Gloves",
+          "source": "Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Ebon Netherscale Belt",
+          "source": "Dragonscale Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Clefthoof Hide Leggings",
+          "source": "Quest — Showdown (Blade's Edge)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Fel Leather Boots",
+          "source": "Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Shapeshifter's Signet",
+          "source": "Lower City — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Shaffar's Band of Brutality",
+          "source": "Heroic Mana-Tombs — Yor"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Bloodlust Brooch",
+          "source": "Badge vendor — 41 Badges of Justice"
+        },
+        {
+          "name": "Empty Mug of Direbrew",
+          "source": "Brewfest — Coren Direbrew"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Abacus of Violent Odds",
+          "source": "The Mechanar — Pathaleon the Calculator"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Gladiator's Right Ripper",
+          "source": "Arena vendor — Arena Points"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Gladiator's Cleaver",
+          "source": "Arena vendor — Arena Points"
+        }
+      ]
+    },
+    {
+      "slot": "Totem",
+      "items": [
+        {
+          "name": "Totem of the Astral Winds",
+          "source": "Heroic Mana-Tombs — Pandemonius"
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Bold Living Ruby (+8 Str; Bold Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Inscribed Noble Topaz (+5 Str / +4 crit — two keep the meta active)"
+    },
+    {
+      "color": "Blue",
+      "name": "Sovereign Nightseye (+4 Str / +6 stamina — two keep the meta active)"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "p2",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Restoration Shaman gear guide. Tier set: Witch Doctor line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Clear-Mind Helm",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Soul Prism of Lei Shen",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Abandoned Spaulders of Renewal",
+          "source": "Throne of Thunder Heroic — Council of Elders"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Deadly Glare Cape",
+          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Tunic of the Witch Doctor (Tier 15)",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Loa-Ridden Bracers",
+          "source": "Throne of Thunder Heroic — Council of Elders"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handwraps of the Witch Doctor (Tier 15)",
+          "source": "Throne of Thunder Heroic — Council of Elders"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Longdraw Chain Belt",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of Scintillating Scales",
+          "source": "Throne of Thunder Heroic — Horridon"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Cloud Serpent Sabatons",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ro'shak's Remembrance",
+          "source": "Throne of Thunder Heroic — Iron Qon"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ra-den's Evolving Signet",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Horridon's Last Gasp",
+          "source": "Throne of Thunder Heroic — Horridon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Lightning-Imbued Chalice",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Athame of the Sanguine Ritual",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Tortos' Discarded Shell",
+          "source": "Throne of Thunder Heroic — Tortos"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+      "source": "Enchanting (Lightweave Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Super Intellect (+180 Int)",
+      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Greater Haste (+170 haste)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Greater Pearlescent Spellthread (+285 Int / +165 spirit)",
+      "source": "Tailoring (crafted, usable by all; Sanctified/Master's for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Jade Spirit",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Courageous Primal Diamond (Legendary — Wrathion questline; Revitalizing Primal Diamond otherwise)"
+    },
+    {
+      "color": "Red",
+      "name": "Reckless Vermilion Onyx (+80 Int / +160 haste)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Quick Sun's Radiance (+320 haste — ignore weak socket bonuses)"
+    }
+  ]
+}

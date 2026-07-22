@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "hunter",
+  "spec": "marksmanship",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Icy Veins publishes one unified T14 hunter list — all three specs share it. Four-piece Yaungol Slayer's with Taoren, the Soul Burner. Draft compiled from the Icy Veins MoP Classic Hunter gear guides (T14 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Yaungol Slayer's Headguard (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Unleashed Storm",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Waterborne Shoulderguards",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Legbreaker Greatcloak",
+          "source": "Heart of Fear Heroic — Garalon"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Yaungol Slayer's Tunic (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Stonemaw Armguards",
+          "source": "Mogu'shan Vaults Heroic — The Stone Guard"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Yaungol Slayer's Gloves (Tier 14)",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Shadowgrip Girdle",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Yaungol Slayer's Legguards (Tier 14)",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Monstrous Stompers",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Painful Thorned Ring",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Regail's Band of the Endless",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Bottle of Infinite Stars",
+          "source": "Mogu'shan Vaults Heroic — Elegon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Terror in the Mists",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Taoren, the Soul Burner",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Lord Blastington's Scope of Doom (+600 Agi proc)",
+      "source": "Engineering (crafted scope, usable by all)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Agile Primal Diamond (+216 Agi, 3% increased crit effect)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Primordial Ruby (+160 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Delicate Primordial Ruby — or Deadly Vermilion Onyx (+80 Agi / +160 crit) for strong socket bonuses"
+    },
+    {
+      "color": "Blue",
+      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+    }
+  ]
+}

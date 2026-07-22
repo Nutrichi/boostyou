@@ -1,0 +1,222 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "warrior",
+  "spec": "arms",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Arms Warrior gear guide (anchor phase-5-tier-10-best-in-slot — Icy Veins' \"Phase 5\" is our combined p4). Tier set: Sanctified Ymirjar Lord's line. Back slot is a faction-specific Trial of the Crusader tribute-chest cloak (Alliance: Vereesa's Dexterity, Horde: Sylvanas' Cunning) — both equivalent. Weapon is the legendary Shadowmourne (obtained via a long ICC questline, not a boss drop). Enchants/gems reused across all WotLK melee-Str DPS specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Ymirjar Lord's Helmet (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Penumbra Pendant",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Ymirjar Lord's Shoulderplates (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Vereesa's Dexterity (Alliance) / Sylvanas' Cunning (Horde)",
+          "source": "Trial of the Crusader 25 Heroic — Argent Crusade Tribute Chest"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanctified Ymirjar Lord's Battleplate (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Umbrage Armbands",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Ymirjar Lord's Gauntlets (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Coldwraith Links",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Northern Lights",
+          "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Apocalypse's Advance",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashen Band of Endless Vengeance",
+          "source": "The Ashen Verdict — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Frostbrood Sapphire Ring",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Deathbringer's Will",
+          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Sharpened Twilight Scale",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Shadowmourne (Legendary)",
+          "source": "obtained via a multi-stage Icecrown Citadel questline"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant 2H Weapon — Massacre",
+      "source": "Enchanting (Berserking also strong)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
+    },
+    {
+      "color": "Red",
+      "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (activates the meta gem by itself)"
+    }
+  ]
+}

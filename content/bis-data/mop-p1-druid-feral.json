@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "druid",
+  "spec": "feral",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Cat DPS list — four-piece Eternal Blossom (feral pieces) with Gao-Rei, Staff of the Legendary Protector; Relic of Xuen is the Darkmoon agility trinket. Draft compiled from the Icy Veins MoP Classic Feral Druid gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Eternal Blossom Headpiece (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Unleashed Storm",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Eternal Blossom Spaulders (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Legbreaker Greatcloak",
+          "source": "Heart of Fear Heroic — Garalon"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Eternal Blossom Raiment (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Unseen Strikes",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Eternal Blossom Grips (Tier 14)",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Stalker's Cord of Eternal Autumn",
+          "source": "Terrace of Endless Spring Heroic — Tsulong & Lei Shi (shared loot)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of Failing Purification",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Treads of Deadly Secretions",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Painful Thorned Ring",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Regail's Band of the Endless",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Terror in the Mists",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Relic of Xuen",
+          "source": "Darkmoon Faire — Tiger Deck (Inscription)"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Gao-Rei, Staff of the Legendary Protector",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Primordial Ruby (+160 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Adept Vermilion Onyx (+80 Agi / +160 mastery)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+    }
+  ]
+}

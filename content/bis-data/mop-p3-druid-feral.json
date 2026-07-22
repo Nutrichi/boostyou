@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "p3",
+  "class": "druid",
+  "spec": "feral",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Per Icy Veins, Rune of Re-Origination from Heroic Throne of Thunder remains BiS — double-check before farming old content. Capacitive Primal Diamond is the legendary meta. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Hood of Blackened Tears",
+          "source": "Siege of Orgrimmar Heroic — Immerseus"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gleaming Eye of the Devilsaur",
+          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Spaulders of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Fen-Yu, Fury of Xuen",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Raiment of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Laser Burn Bracers",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Grips of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cord of Black Dreams",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Unrepentant Heels",
+          "source": "Siege of Orgrimmar Heroic — Galakras"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Restless Energy",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Swift Serpent Signet",
+          "source": "Siege of Orgrimmar Heroic — Galakras"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Rune of Re-Origination",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Haromm's Talisman",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Kor'kron Spire of Supremacy",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Primordial Ruby (+160 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Adept Vermilion Onyx (+80 Agi / +160 mastery)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+    }
+  ]
+}

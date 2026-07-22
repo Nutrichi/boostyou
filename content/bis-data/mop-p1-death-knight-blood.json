@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "death-knight",
+  "spec": "blood",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Four-piece Lost Catacomb with avoidance off-pieces; Relic of Niuzao is the Darkmoon tank trinket. Draft compiled from the Icy Veins MoP Classic Blood Death Knight gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Faceguard of the Lost Catacomb (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Kaolan's Withering Necklace",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderguards of the Lost Catacomb (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Raining Blades",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Chestguard of the Lost Catacomb (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Defiled Earth",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Grasps of Serpentine Might",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Waistplate of Overwhelming Assault",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of the Lost Catacomb (Tier 14)",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Deepwater Greatboots",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of the Shattered Shell",
+          "source": "Heart of Fear Heroic — Garalon"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Painful Thorned Ring",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Relic of Niuzao",
+          "source": "Darkmoon Faire — Ox Deck (Inscription)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Stuff of Nightmares",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Shin'ka, Execution of Dominion",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Mastery (+170 mastery)",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Heavy Leg Reinforcements (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Rune of the Fallen Crusader (runeforge)",
+      "source": "Runeforging (Ebon Hold)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Indomitable Primal Diamond (+324 stamina, chance on hit to gain 20% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Guardian's Imperial Amethyst (+80 expertise / +240 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Puissant Wild Jade (+160 mastery / +240 stamina)"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid River's Heart (+480 stamina)"
+    }
+  ]
+}

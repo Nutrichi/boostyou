@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "p2",
+  "class": "paladin",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Protection Paladin gear guide (anchor phase-3-best-in-slot — Icy Veins numbers ToT as their Phase 3). Tier set: Reconstructed Furious Shoulderplates + tier pieces vary by boss per Icy Veins' reforge pick. Belt note: Icy Veins mislabels the Cloudbreaker Greatbelt's source raid as \"Heart of Fear\" on this page — Jin'rokh the Breaker is in fact Throne of Thunder's own first boss; corrected here. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Crown of the Golden Golem",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Moonjade Necklace",
+          "source": "Throne of Thunder Heroic — Twin Consorts"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Reconstructed Furious Shoulderplates",
+          "source": "Throne of Thunder Heroic — Multiple bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Tigerclaw Cape",
+          "source": "Throne of Thunder Heroic — Cloak of Virtue (quest reward)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Chestplate of Violent Detonation",
+          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Caustic Spike Bracers of Haste",
+          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Pathogenic Gauntlets",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cloudbreaker Greatbelt",
+          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of the Dark Parasite",
+          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Lightning-Walker Clawfeet",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ra-den's Ruinous Ring",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Scaled Tyrant",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Spark of Zandalar",
+          "source": "Throne of Thunder Heroic — Horridon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Soul Barrier",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Do-tharak, the Swordbreaker",
+          "source": "Throne of Thunder Heroic — Multiple bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Greatshield of the Gloaming",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Mastery (+170 mastery)",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Heavy Leg Reinforcements (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Greater Parry (+170 parry)",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Indomitable Primal Diamond (+324 stamina, chance on hit to gain 20% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Wicked Vermilion Onyx (+80 expertise / +160 haste)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Lightning Wild Jade (+160 haste / +160 hit)"
+    }
+  ]
+}

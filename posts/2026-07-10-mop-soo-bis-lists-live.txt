@@ -1,0 +1,11 @@
+Siege of Orgrimmar BiS lists are live for all 34 specs
+
+Our BiS browser now covers the entire current MoP Classic endgame: best-in-slot lists for every class and every spec in Siege of Orgrimmar, from Arms Warrior to Restoration Shaman — including the new Monk specs and Guardian Druids.
+
+Every list gives you the full picture per slot: the BiS item with its exact source (boss, tier token, Spoils, or the legendary cloak questline), plus recommended enchants and gems per socket color — legendary metas from Wrathion's questline included. A few specs even keep famous Throne of Thunder trinkets like Rune of Re-Origination and Unerring Vision of Lei Shen, so check your list before you skip old content.
+
+The lists are marked as drafts while we finish verifying every drop source — if you spot something off, tell us and we will fix it fast.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick MoP, Siege of Orgrimmar, your class and spec, and every item links straight to Wowhead.
+
+TBC Anniversary raiders: you're next. Serpentshrine Cavern and Tempest Keep BiS lists are in the works.

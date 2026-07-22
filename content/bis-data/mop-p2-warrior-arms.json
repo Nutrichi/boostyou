@@ -1,0 +1,217 @@
+{
+  "expansion": "mop",
+  "phase": "p2",
+  "class": "warrior",
+  "spec": "arms",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Arms Warrior gear guide (combined Phase 3 & 4 table). Tier set: Pauldrons/Battleplate/Gauntlets/Legplates of the Last Mogu. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Crown of the Golden Golem",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Talisman of Angry Spirits",
+          "source": "Throne of Thunder Heroic — Council of Elders"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Pauldrons of the Last Mogu (Tier 15)",
+          "source": "Throne of Thunder Heroic — Iron Qon"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Yellow Dawn Lightningcloak",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Battleplate of the Last Mogu (Tier 15)",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Caustic Spike Bracers",
+          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of the Last Mogu (Tier 15)",
+          "source": "Throne of Thunder Heroic — Council of Elders"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Flare-Forged Greatbelt",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of the Last Mogu (Tier 15)",
+          "source": "Throne of Thunder Heroic — Ji-Kun"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sabatons of the Superior Being",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ra-den's Ruinous Ring",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Scaled Tyrant",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Primordius' Talisman of Rage",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Fabled Feather of Ji-Kun",
+          "source": "Throne of Thunder Heroic — Ji-Kun"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Uroe, Harbinger of Terror",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Super Strength (+170 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Strength (+160 Str)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
+    },
+    {
+      "color": "Red",
+      "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Smooth Sun's Radiance (+320 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+    }
+  ]
+}

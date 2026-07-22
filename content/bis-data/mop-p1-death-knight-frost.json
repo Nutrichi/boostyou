@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "death-knight",
+  "spec": "frost",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Dual-wield list — Kilrak main hand with the Scimitar of Seven Stars off hand; four-piece Lost Catacomb. Draft compiled from the Icy Veins MoP Classic Frost Death Knight gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helmet of the Lost Catacomb (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Shackle of Eversparks",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderpads of Misshapen Life",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Hisek's Chrysanthemum Cape",
+          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Breastplate of the Lost Catacomb (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Defiled Earth",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of the Lost Catacomb (Tier 14)",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Waistplate of Overwhelming Assault",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Greaves of the Lost Catacomb (Tier 14)",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Impaling Treads",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Dread Shadow Ring",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of the Bladed Tempest",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Darkmist Vortex",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Lei Shen's Final Orders",
+          "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Kilrak, Jaws of Terror",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Scimitar of Seven Stars",
+          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Super Strength (+170 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
+      "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Rune of the Fallen Crusader (runeforge)",
+      "source": "Runeforging (Ebon Hold)"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Rune of Razorice (runeforge)",
+      "source": "Runeforging (Ebon Hold)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Skillful Vermilion Onyx (+80 Str / +160 mastery)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Fractured Sun's Radiance (+320 mastery)"
+    },
+    {
+      "color": "Blue",
+      "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "rogue",
+  "spec": "subtlety",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Icy Veins publishes one TBC rogue pre-raid list (Combat-oriented) — it applies to every rogue spec. Crafted Primalstrike (Leatherworking) carries three slots. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Wastewalker Helm",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        },
+        {
+          "name": "Helm of the Claw",
+          "source": "Quest — The Warlord's Hideout (Steamvault)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of Vile Intent",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Bone Chain Necklace",
+          "source": "Heroic Underbog — The Black Stalker"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wastewalker Shoulderpads",
+          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+        },
+        {
+          "name": "Mantle of Perenolde",
+          "source": "Old Hillsbrad — Epoch Hunter"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Vengeance Wrap",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Auchenai Death Shroud",
+          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+        },
+        {
+          "name": "Cloak of the Craft",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Primalstrike Vest",
+          "source": "Elemental Leatherworking (crafted)"
+        },
+        {
+          "name": "Vest of Vengeance",
+          "source": "Heroic Blood Furnace"
+        },
+        {
+          "name": "Wastewalker Tunic",
+          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Primalstrike Bracers",
+          "source": "Elemental Leatherworking (crafted)"
+        },
+        {
+          "name": "Nightfall Wristguards",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Wastewalker Gloves",
+          "source": "The Shattered Halls — Warchief Kargath Bladefist"
+        },
+        {
+          "name": "Fel Leather Gloves",
+          "source": "Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Primalstrike Belt",
+          "source": "Elemental Leatherworking (crafted)"
+        },
+        {
+          "name": "Girdle of the Deathdealer",
+          "source": "Heroic Black Morass — Aeonus"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Wastewalker Leggings",
+          "source": "Heroic Mana-Tombs — Nexus-Prince Shaffar"
+        },
+        {
+          "name": "Fel Leather Leggings",
+          "source": "Leatherworking (crafted)"
+        },
+        {
+          "name": "Midnight Legguards",
+          "source": "Heroic Slave Pens — Quagmirran"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Fel Leather Boots",
+          "source": "Leatherworking (crafted)"
+        },
+        {
+          "name": "The Master's Treads",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Kaylaan's Signet",
+          "source": "Quest — Deathblow to the Legion (Aldor)"
+        },
+        {
+          "name": "Ravenclaw Band",
+          "source": "Heroic Sethekk Halls — Talon King Ikiss"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Slayer's Mark of the Redemption",
+          "source": "Quest — Dissension Amongst the Ranks (Shadowmoon)"
+        },
+        {
+          "name": "Shapeshifter's Signet",
+          "source": "Lower City — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Bloodlust Brooch",
+          "source": "Badge vendor — 41 Badges of Justice"
+        },
+        {
+          "name": "Hourglass of the Unraveller",
+          "source": "The Black Morass — Temporus"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Abacus of Violent Odds",
+          "source": "The Mechanar — Pathaleon the Calculator"
+        },
+        {
+          "name": "Icon of Unyielding Courage",
+          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Dragonmaw",
+          "source": "Blacksmithing (Master Hammersmith)"
+        },
+        {
+          "name": "Blinkstrike",
+          "source": "World drop (BoE)"
+        },
+        {
+          "name": "Vindicator's Brand",
+          "source": "The Aldor — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Latro's Shifting Sword",
+          "source": "The Black Morass — Aeonus"
+        },
+        {
+          "name": "Revenger",
+          "source": "Heroic Slave Pens — Quagmirran"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Veteran's Musket / Marksman's Bow",
+          "source": "Honor Hold / Thrallmar — Exalted"
+        },
+        {
+          "name": "Mama's Insurance",
+          "source": "Quest — Declawing Doomclaw (Netherstorm)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+      "source": "Cenarion Expedition — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Assault (+24 AP)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Glinting Noble Topaz (+4 Agi / +4 hit) until hit-capped, then Delicate Living Ruby (+8 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid Dawnstone (+8 hit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+    }
+  ]
+}

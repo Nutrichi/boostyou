@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "hunter",
+  "spec": "beast-mastery",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Beast Mastery Hunter gear guide (anchor phase-5-tier-10-best-in-slot). All three hunter specs share one unified BiS list on this page. Tier set: Sanctified Ahn'Kahar Blood Hunter's line. Back is a faction-specific Trial of the Crusader tribute-chest cloak — Icy Veins lists the Horde version (Sylvanas' Cunning); the Alliance equivalent (Vereesa's Dexterity, seen on the warrior/rogue guides) is the counterpart. Hunters carry both a stat-stick melee weapon and their actual ranged weapon. Enchants/gems shared by all three hunter specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Ahn'Kahar Blood Hunter's Headpiece (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Sindragosa's Cruel Claw",
+          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Ahn'Kahar Blood Hunter's Spaulders (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sylvanas' Cunning (Horde) / Vereesa's Dexterity (Alliance)",
+          "source": "Trial of the Crusader 25 Heroic — Argent Crusade Tribute Chest"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanctified Ahn'Kahar Blood Hunter's Tunic (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Scourge Hunter's Vambraces",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Ahn'Kahar Blood Hunter's Handguards (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Nerub'ar Stalker's Cord",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Northern Lights",
+          "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Returning Footfalls",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Frostbrood Sapphire Ring",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Signet of Twilight",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Deathbringer's Will",
+          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Sharpened Twilight Scale",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapon",
+      "items": [
+        {
+          "name": "Oathbinder, Charge of the Ranger-General",
+          "source": "Icecrown Citadel 25 Heroic — The Lich King"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Fal'inrush, Defender of Quel'thalas",
+          "source": "Icecrown Citadel 25 Heroic — The Lich King"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Superior Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon — Superior Potency",
+      "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Heartseeker Scope",
+      "source": "Engineering (crafted scope, usable by all)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Cardinal Ruby (+23 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+    }
+  ]
+}

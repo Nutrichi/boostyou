@@ -1,0 +1,13 @@
+Fresh 90? MoP pre-raid BiS lists are live for all 34 specs
+
+Just dinged 90 in MoP Classic? Our BiS browser now has complete pre-raid gearing lists for every class and spec — including Monks and all four Druid specs — built around the Celestial Dungeons, which drop Siege of Orgrimmar loot at Normal raid item level.
+
+That means your pre-raid list is not a compromise: it is essentially the SoO Normal BiS list, farmable in dungeons before you ever set foot in the raid. Each list shows which boss drops your item, which pieces are tier tokens, the legendary cloak for your role, plus full enchants and gems for the final patch.
+
+A few specs keep a Throne of Thunder holdover (Feral's and Windwalker's Rune of Re-Origination, Demonology's Unerring Vision of Lei Shen) — those are flagged in the lists, since they do not drop in Celestial Dungeons.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick MoP, Pre-Raid, your class and spec. Every item links to Wowhead.
+
+Together with the Siege of Orgrimmar lists, MoP Classic is now fully covered from fresh 90 to Garrosh kills.

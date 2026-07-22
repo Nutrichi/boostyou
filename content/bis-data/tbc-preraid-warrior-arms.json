@@ -1,0 +1,322 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "warrior",
+  "spec": "arms",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "World bosses Doom-Lord Kazzak and Doomwalker carry several top slots — skip them and the listed dungeon/crafted alternatives serve fine. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Overlord's Helmet of Second Sight",
+          "source": "World boss — Teron Gorefiend (quest)"
+        },
+        {
+          "name": "Wastewalker Helm",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        },
+        {
+          "name": "Ragesteel Helm",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of Vile Intent",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Adamantine Chain of the Unbroken",
+          "source": "Heroic Slave Pens — Quagmirran"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Ripfiend Shoulderplates",
+          "source": "World boss — Doom-Lord Kazzak"
+        },
+        {
+          "name": "Wastewalker Shoulderpads",
+          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+        },
+        {
+          "name": "Doomplate Shoulderguards",
+          "source": "Heroic Underbog — The Black Stalker"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Black-Iron Battlecloak",
+          "source": "World boss — Doomwalker"
+        },
+        {
+          "name": "Vengeance Wrap",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Cloak of the Inciter",
+          "source": "Shadow Labyrinth — Blackheart the Inciter"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Terrorweave Tunic",
+          "source": "World boss — Doomwalker"
+        },
+        {
+          "name": "Doomplate Chestguard",
+          "source": "The Arcatraz — Harbinger Skyriss"
+        },
+        {
+          "name": "Ragesteel Breastplate",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Black Felsteel Bracers",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "General's Linked Bracers",
+          "source": "PvP vendor — Honor Points"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Fel Leather Gloves",
+          "source": "Leatherworking (crafted)"
+        },
+        {
+          "name": "Ragesteel Gloves",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "Flesh Handler's Gauntlets",
+          "source": "Quest — The Flesh Lies... (Netherstorm)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Deathforge Girdle",
+          "source": "Sethekk Halls — Talon King Ikiss"
+        },
+        {
+          "name": "Girdle of the Deathdealer",
+          "source": "Heroic Black Morass — Aeonus"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Scaled Greaves of the Marksman",
+          "source": "World boss — Doom-Lord Kazzak"
+        },
+        {
+          "name": "Midnight Legguards",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Fel Leather Leggings",
+          "source": "Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Fel Leather Boots",
+          "source": "Leatherworking (crafted)"
+        },
+        {
+          "name": "Sha'tari Wrought Greaves",
+          "source": "Quest — Into the Heart of the Labyrinth"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Reciprocity",
+          "source": "World boss — Doom-Lord Kazzak"
+        },
+        {
+          "name": "Ring of Arathi Warlords",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Shapeshifter's Signet",
+          "source": "Lower City — Exalted"
+        },
+        {
+          "name": "Overseer's Signet",
+          "source": "Quest — Shutting Down Manaforge Ara"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Bloodlust Brooch",
+          "source": "Badge vendor — 41 Badges of Justice"
+        },
+        {
+          "name": "Abacus of Violent Odds",
+          "source": "The Mechanar — Pathaleon the Calculator"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Hourglass of the Unraveller",
+          "source": "The Black Morass — Temporus"
+        },
+        {
+          "name": "Icon of Unyielding Courage",
+          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+        },
+        {
+          "name": "Bladefist's Breadth",
+          "source": "Quest — Cruel's Intentions / Overlord (Hellfire)"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Lionheart Champion",
+          "source": "Blacksmithing (Master Swordsmith)"
+        },
+        {
+          "name": "Quantum Blade",
+          "source": "Heroic Black Morass — Aeonus"
+        },
+        {
+          "name": "The Burning Crusader",
+          "source": "Quest — Nexus-King Salhadaar (Netherstorm)"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Barrel-Blade Longrifle",
+          "source": "World boss — Doomwalker"
+        },
+        {
+          "name": "Felsteel Whisper Knives",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+      "source": "Cenarion Expedition — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Brawn (+12 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Strength (+15 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting (Potency as budget option)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Stats (+4 all stats)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Bold Living Ruby (+8 Str)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid Dawnstone (+8 hit) until 9% hit cap, then Smooth Dawnstone (+8 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Jagged Talasite (+4 crit / +6 stamina)"
+    }
+  ]
+}

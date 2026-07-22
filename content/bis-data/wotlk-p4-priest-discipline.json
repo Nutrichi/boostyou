@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "priest",
+  "spec": "discipline",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Discipline Priest gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Crimson Acolyte line (Discipline/Holy share the same armor-art names; Shadow uses spec-flavored names for the same tier, e.g. Cowl/Mantle/Raiments). Main-Hand lists the legendary Val'anyr, Hammer of Ancient Kings (Ulduar fragment questline) as a ranked alternative to the guaranteed ICC drop. Enchants/gems reused across WotLK Int healer specs where applicable; gems here use the Discipline-specific spellpower/mana profile from the source page.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Crimson Acolyte Hood (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Blood Queen's Crimson Choker",
+          "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Crimson Acolyte Shoulderpads (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Burning Dusk",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanctified Crimson Acolyte Robe (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Fiery Night",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Crimson Acolyte Gloves (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Crushing Coldwraith Belt",
+          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Kilt of Untreated Wounds",
+          "source": "Icecrown Citadel 10 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Plague Scientist's Boots",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashen Band of Endless Wisdom",
+          "source": "The Ashen Verdict — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Rapid Ascent",
+          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Althor's Abacus",
+          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Glowing Twilight Scale",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Royal Scepter of Terenas II",
+          "source": "Icecrown Citadel 25 Heroic — The Lich King (or the legendary Val'anyr, Hammer of Ancient Kings from Ulduar if available)"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Shadow Silk Spindle",
+          "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Corpse-Impaling Spike",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Wisdom",
+      "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Brilliant Spellthread",
+      "source": "Tailoring (Sanctified Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Staff — Greater Spellpower",
+      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Ametrine (+Int/spellpower)"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+    }
+  ]
+}

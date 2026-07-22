@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "warlock",
+  "spec": "demonology",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 4/5 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Demonology Warlock gear guide (anchor phase-4-andamp-5-tier-10). Tier set: Sanctified Dark Coven line — this spec keeps the tier legs (unlike Affliction/Destruction, which swap to a non-tier drop). Correction: Icy Veins' own table mistakenly repeats the Helm item in the Shoulders row (site error, see Affliction notes) — shoulder name inferred from the mage/priest \"Shoulderpads\" tier naming pattern. Enchants/gems shared by all three warlock specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Sanctified Dark Coven Hood (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Amulet of the Silent Eulogy",
+          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Dark Coven Shoulderpads (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Greatcloak of the Turned Champion",
+          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang's Cache"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanguine Silk Robes",
+          "source": "Icecrown Citadel 25 Heroic — Prince Valanar"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Death Surgeon's Sleeves",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Dark Coven Gloves (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Lingering Illness",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Sanctified Dark Coven Leggings (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Plague Scientist's Boots",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashen Band of Endless Destruction",
+          "source": "The Ashen Verdict — reward from Path of Destruction"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Memory of Malygos",
+          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Phylactery of the Nameless Lich",
+          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Dislodged Foreign Object",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+          "source": "Icecrown Citadel 25 Heroic — The Lich King"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Sundial of Eternal Dusk",
+          "source": "Icecrown Citadel 10 Heroic — Sindragosa"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Nightmare Ender",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting (Major Spirit alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Brilliant Spellthread",
+      "source": "Tailoring (Sanctified Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Staff — Greater Spellpower",
+      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+    }
+  ]
+}

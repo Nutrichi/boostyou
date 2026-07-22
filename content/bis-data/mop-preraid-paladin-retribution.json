@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "paladin",
+  "spec": "retribution",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for Warriors and Holy Paladins). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-18",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helmet of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty (tier token))"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Malkorok's Tainted Dog Tags",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Pauldrons of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse (tier token))"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Gong-Lu, Strength of Xuen",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Battleplate of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride (tier token))"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Blind Hatred",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (multiple bosses)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim (tier token))"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Demolisher's Reinforced Belt",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of Unthinking Strife",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Wolf-Rider Spurs",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Seal of the Forgotten Kings",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Bloodclaw Band",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Evil Eye of Galakras",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Thok's Tail Tip",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Greatsword of Pride's Fall",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Super Strength (+170 Str)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
+      "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Fierce Vermilion Onyx (+80 Str / +160 haste)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Lightning Wild Jade (+160 haste / +160 hit)"
+    }
+  ]
+}

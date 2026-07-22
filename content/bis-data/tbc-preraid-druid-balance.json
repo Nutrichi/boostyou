@@ -1,0 +1,279 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "druid",
+  "spec": "balance",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Crafted Spellfire three-piece plus Spellstrike Pants; engineering goggles compete for the helm. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power (+22 spell damage / +14 hit)",
+      "source": "The Sha'tar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+      "source": "Enchanting (Spell Strike if short on hit)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Sunfire (+50 arcane/fire damage)",
+      "source": "Enchanting (Major Spellpower as budget option)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Spellpower (+12 spell damage)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Magnified Moon Specs",
+          "source": "Engineering (crafted, engineers only)"
+        },
+        {
+          "name": "Spellstrike Hood",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Druidic Helmet of Second Sight",
+          "source": "Quest — Teron Gorefiend, I am..."
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Heightened Potential",
+          "source": "Shadow Labyrinth — Blackheart the Inciter"
+        },
+        {
+          "name": "Hydra-fang Necklace",
+          "source": "Heroic Underbog — Ghaz'an"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mana-Etched Spaulders",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Spaulders of Oblivion",
+          "source": "Shadow Labyrinth — Murmur"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sethekk Oracle Cloak",
+          "source": "Sethekk Halls — Talon King Ikiss"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Spellfire Robe",
+          "source": "Spellfire Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Havok",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Windhawk Bracers",
+          "source": "Tribal Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Spellfire Gloves",
+          "source": "Spellfire Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Spellfire Belt",
+          "source": "Spellfire Tailoring (crafted)"
+        },
+        {
+          "name": "Girdle of Ruination",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Spellstrike Pants",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sigil-Laced Boots",
+          "source": "The Arcatraz — Harbinger Skyriss"
+        },
+        {
+          "name": "Extravagant Boots of Malice",
+          "source": "Heroic Mana-Tombs — Tavarok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashyen's Gift",
+          "source": "Cenarion Expedition — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Sparking Arcanite Ring",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Badge vendor — 41 Badges of Justice"
+        },
+        {
+          "name": "Dark Iron Smoking Pipe",
+          "source": "Brewfest — Coren Direbrew"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Quagmirran's Eye",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Scryer's Bloodgem",
+          "source": "The Scryers — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Gladiator's War Staff",
+          "source": "Arena vendor — Arena Points"
+        },
+        {
+          "name": "Terokk's Shadowstaff",
+          "source": "Heroic Sethekk Halls — Talon King Ikiss"
+        },
+        {
+          "name": "Gavel of Unearthed Secrets (one-hand, with off-hand)",
+          "source": "Lower City — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Talisman of Kalecgos (only with a one-hand weapon)",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Idol",
+      "items": [
+        {
+          "name": "Ivory Idol of the Moongoddess",
+          "source": "The Shattered Halls — Grand Warlock Nethekurse"
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+    }
+  ]
+}

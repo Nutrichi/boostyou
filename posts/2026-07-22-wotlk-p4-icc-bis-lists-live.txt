@@ -1,0 +1,13 @@
+WotLK Tier 10 BiS lists are live for all 30 specs — Icecrown Citadel and The Ruby Sanctum
+
+The BiS browser now covers WotLK Classic Phase 4: full Icecrown Citadel 25 Heroic best-in-slot lists for every class and spec, updated with The Ruby Sanctum's final upgrades — including Death Knights and all three Druid specs available at this tier.
+
+Tier 10 armor is purchased through Emblems of Frost plus a Mark of Sanctification token from the raid's final bosses, layered on top of direct drops from names like Lord Marrowgar, Rotface, Festergut, Deathbringer Saurfang, Valithria Dreamwalker, the Blood Prince Council, Sindragosa and The Lich King himself. Several lists also flag the legendaries that remain BiS at this stage — Shadowmourne for strength melee, Val'anyr for healers who picked it up back in Ulduar.
+
+A few sourcing notes worth knowing: a couple of Icy Veins pages mislabel one item's origin raid (corrected here against the actual encounter list), one class's shoulder piece name had to be inferred from the matching tier-set naming pattern since the source page repeated the wrong item in that row, and Destruction Warlock's table doesn't yet carry a separate Ruby Sanctum update on the source site.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick WotLK, Phase 4, your class and spec. Every item links to Wowhead.
+
+Next up: WotLK Pre-Raid, then Naxxramas/Phase 1 and onward through the rest of Wrath's raid tiers.

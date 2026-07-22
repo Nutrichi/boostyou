@@ -1,0 +1,319 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "priest",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Crafted Primal Mooncloth and Whitemend pieces are the backbone; the rest comes from heroics and badges. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+      "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Faith (+46 healing)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Major Spirit (+15 spirit)",
+      "source": "Enchanting (Restore Mana Prime as alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Superior Healing (+30 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Healing (+35 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread (+66 healing / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Healing (+81 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Healing Power (+20 healing)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Whitemend Hood",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Hallowed Crown",
+          "source": "Heroic Arcatraz — Harbinger Skyriss"
+        },
+        {
+          "name": "Watcher's Cowl",
+          "source": "Cenarion Expedition — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Necklace of Eternal Hope",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Karja's Medallion",
+          "source": "Quest — Shutting Down Manaforge Ara"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Primal Mooncloth Shoulders",
+          "source": "Mooncloth Tailoring (crafted)"
+        },
+        {
+          "name": "Hallowed Pauldrons",
+          "source": "Shadow Labyrinth — Grandmaster Vorpil"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Lifegiving Cloak",
+          "source": "World drop (BoE)"
+        },
+        {
+          "name": "Avian Cloak of Feathers",
+          "source": "Sethekk Halls — Talon King Ikiss"
+        },
+        {
+          "name": "Bishop's Cloak",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Primal Mooncloth Robe",
+          "source": "Mooncloth Tailoring (crafted)"
+        },
+        {
+          "name": "Hallowed Garments",
+          "source": "Shadow Labyrinth — Murmur"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bands of the Benevolent",
+          "source": "Heroic Sethekk Halls — Talon King Ikiss"
+        },
+        {
+          "name": "Bindings of the Timewalker",
+          "source": "Keepers of Time — Exalted"
+        },
+        {
+          "name": "Bracers of Havok",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Hallowed Handwraps",
+          "source": "The Shattered Halls — Warchief Kargath Bladefist"
+        },
+        {
+          "name": "Prismatic Mittens of Mending",
+          "source": "The Botanica — Commander Sarannis"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Primal Mooncloth Belt",
+          "source": "Mooncloth Tailoring (crafted)"
+        },
+        {
+          "name": "Cord of Sanctification",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Pontifex Kilt",
+          "source": "Heroic Steamvault — Warlord Kalithresh"
+        },
+        {
+          "name": "Pontiff's Pantaloons of Prophecy",
+          "source": "Heroic Old Hillsbrad — Captain Skarloc"
+        },
+        {
+          "name": "Kamaei's Cerulean Skirt",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Pious",
+          "source": "Heroic Mechanar — Pathaleon the Calculator"
+        },
+        {
+          "name": "Slippers of Serenity",
+          "source": "Auchenai Crypts — Exarch Maladaar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Fabled Hope",
+          "source": "Heroic Underbog — The Black Stalker"
+        },
+        {
+          "name": "Band of Halos",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Convalescence / Ancestral Band",
+          "source": "Honor Hold / Thrallmar — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "Badge vendor — 41 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Darkmoon Card: Blue Dragon",
+          "source": "Darkmoon Faire — Beasts Deck"
+        },
+        {
+          "name": "Scarab of the Infinite Cycle",
+          "source": "The Black Morass — Aeonus"
+        },
+        {
+          "name": "Lower City Prayerbook",
+          "source": "Lower City — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Gladiator's Salvation",
+          "source": "Arena vendor — Arena Points"
+        },
+        {
+          "name": "Hand of Eternity",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "Shockwave Truncheon",
+          "source": "Heroic Shadow Labyrinth — Murmur"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Windcaller's Orb",
+          "source": "Cenarion Expedition — Exalted"
+        },
+        {
+          "name": "Tears of Heaven",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Soul-Wand of the Aldor",
+          "source": "Shadow Labyrinth — Ambassador Hellmaw"
+        },
+        {
+          "name": "Flawless Wand",
+          "source": "World drop (BoE)"
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Nightseye (+9 healing / +2 mp5) — or Purified Shadow Pearl (+9 healing / +4 spirit)"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "expansion": "mop",
+  "phase": "p3",
+  "class": "warrior",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Hit and Expertise caps come first for active mitigation uptime; gem avoidance or expertise after that. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Greathelm of the Warchief",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Blackfuse's Blasting Cord",
+          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Pauldrons of Violent Eruption",
+          "source": "Siege of Orgrimmar Heroic — Immerseus"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Qian-Ying, Fortitude of Niuzao",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Earthbreaker's Steaming Chestplate",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Blood Rage Bracers",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handguards of the Prehistoric Marauder (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Untarnishable Greatbelt",
+          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of the Prehistoric Marauder (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Treads of Unchained Hate",
+          "source": "Siege of Orgrimmar Heroic — Immerseus"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Galakrond Control Band",
+          "source": "Siege of Orgrimmar Heroic — Galakras"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of the Iron Tomb",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Vial of Living Corruption",
+          "source": "Siege of Orgrimmar Heroic — Malkorok"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Curse of Hubris",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Haromm's Frozen Crescent",
+          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Shield of Mockery",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Major Dodge (+170 dodge)",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — River's Song",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Greater Parry (+170 parry)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
+    },
+    {
+      "color": "Blue",
+      "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+    }
+  ]
+}

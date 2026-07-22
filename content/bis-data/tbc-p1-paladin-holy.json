@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p1",
+  "class": "paladin",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). Heavy on Karazhan drops — the Chess Event alone covers legs and boots. Draft compiled from the Icy Veins TBC Classic Holy Paladin gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Justicar Diadem (Tier 4)",
+          "source": "Karazhan — Prince Malchezaar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Emberspur Talisman",
+          "source": "Karazhan — Nightbane"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Justicar Pauldrons (Tier 4)",
+          "source": "Gruul's Lair — High King Maulgar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Stainless Cloak of the Pure Hearted",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Justicar Chestpiece (Tier 4)",
+          "source": "Magtheridon's Lair — Magtheridon (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Blessed Bracers",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of Renewed Hope",
+          "source": "Karazhan — Attumen the Huntsman"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Primal Mooncloth Belt",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of the Innocent",
+          "source": "Karazhan — Chess Event"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Forestlord Striders",
+          "source": "Karazhan — Chess Event"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Jade Ring of the Everliving",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Naaru Lightwarden's Band",
+          "source": "Magtheridon's Lair — Magtheridon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Ribbon of Sacrifice",
+          "source": "Karazhan — Opera Event"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "Badge of Justice vendor — 41 badges"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Light's Justice",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Aegis of the Vindicator",
+          "source": "Magtheridon's Lair — Magtheridon"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Blessed Book of Nagrand",
+          "source": "Quest: The Ultimate Bloodsport (Nagrand)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+      "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Faith (+46 healing)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Armor (+120 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Restore Mana Prime (+6 mp5)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Superior Healing (+30 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Healing (+35 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread (+66 healing / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Healing (+81 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Healing Power (+20 healing)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Living Ruby (+18 healing)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Noble Topaz (+9 healing / +4 Int)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Nightseye (+9 healing / +2 mp5)"
+    }
+  ]
+}

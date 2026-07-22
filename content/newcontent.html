@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>WoW Classic News — Latest Updates, Leaks & Content Drops | Boostyou.ai</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="The latest WoW Classic news: phase launches, Camelot leak coverage, BiS list updates and fresh leveling routes. Subscribe to get the news via mail." />
+  <meta name="robots" content="index, follow" />
+
+  <link rel="canonical" href="https://boostyou.ai/content/newcontent.html" />
+  <meta name="author" content="Boostyou.ai" />
+  <link rel="icon" href="../assets/favicon.ico" />
+
+  <meta property="og:title" content="WoW Classic News — Boostyou.ai" />
+  <meta property="og:description" content="Phase launches, Camelot leak coverage, BiS updates and fresh routes — all the WoW Classic news in one feed." />
+  <meta property="og:url" content="https://boostyou.ai/content/newcontent.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://boostyou.ai/assets/og-image-mobile.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "Boostyou.ai News",
+    "url": "https://boostyou.ai/content/newcontent.html",
+    "description": "WoW Classic news: phase launches, Camelot leak coverage, BiS list updates and leveling routes.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Boostyou.ai",
+      "url": "https://boostyou.ai",
+      "logo": { "@type": "ImageObject", "url": "https://boostyou.ai/assets/boostyou.png" }
+    }
+  }
+  </script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8NDLSEBGZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-V8NDLSEBGZ');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg-primary: rgb(15, 23, 42);
+      --bg-secondary: rgb(30, 41, 59);
+      --bg-card: rgba(51, 65, 85, 0.6);
+      --accent-primary: #3b82f6;
+      --accent-yellow: #fbbf24;
+      --accent-green: #10b981;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    .page-header {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 1.5rem;
+      text-align: center;
+    }
+
+    .page-header h1 {
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      font-weight: 900;
+      background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.15;
+      margin-bottom: 0.75rem;
+    }
+
+    .page-header p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .news-layout {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1.5rem 1.5rem 4rem;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 360px;
+      gap: 2rem;
+      align-items: start;
+    }
+
+    /* Blog feed */
+    .blog-post {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 1.75rem 2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .blog-date {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 0.4rem;
+    }
+
+    .blog-post h2 {
+      color: var(--accent-yellow);
+      font-size: 1.45rem;
+      font-weight: 800;
+      margin-bottom: 0.9rem;
+      line-height: 1.3;
+    }
+
+    .blog-post p {
+      color: var(--text-secondary);
+      margin-bottom: 0.9rem;
+      font-size: 0.98rem;
+    }
+
+    .blog-post p:last-child {
+      margin-bottom: 0;
+    }
+
+    .blog-post a {
+      color: var(--accent-primary);
+      text-decoration: none;
+    }
+
+    .blog-post a:hover {
+      text-decoration: underline;
+    }
+
+    .blog-status {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 1.5rem 0;
+      font-weight: 600;
+    }
+
+    /* Sidebar */
+    .news-sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      position: sticky;
+      top: 90px;
+    }
+
+    .side-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 1.5rem;
+    }
+
+    .side-box h3 {
+      color: var(--text-primary);
+      font-size: 1.05rem;
+      font-weight: 800;
+      margin-bottom: 1rem;
+    }
+
+    .social-btn {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.95rem;
+      padding: 0.85rem 1rem;
+      border-radius: 0.6rem;
+      margin-bottom: 0.75rem;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .social-btn:hover {
+      transform: translateY(-1px);
+    }
+
+    .btn-youtube {
+      background: radial-gradient(circle at 20% 30%, rgba(255,255,255,0.18), transparent 35%), linear-gradient(135deg, #ff3b30, #e11d48 55%, #7f1d1d);
+      box-shadow: 0 14px 28px -12px rgba(239, 68, 68, 0.9);
+      border: 1px solid rgba(239, 68, 68, 0.8);
+    }
+
+    .btn-twitch {
+      background: radial-gradient(circle at 20% 30%, rgba(255,255,255,0.18), transparent 35%), linear-gradient(135deg, #c084fc, #8b5cf6 55%, #6d28d9);
+      box-shadow: 0 14px 28px -12px rgba(124, 58, 237, 0.9);
+      border: 1px solid rgba(124, 58, 237, 0.8);
+      margin-bottom: 0;
+    }
+
+    .video-embed {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      border-radius: 0.6rem;
+      overflow: hidden;
+      margin-top: 1rem;
+      border: 1px solid var(--border-color);
+    }
+
+    .video-embed iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    .pack-list {
+      list-style: none;
+    }
+
+    .pack-list li {
+      padding: 0.45rem 0;
+      border-bottom: 1px solid var(--border-color);
+      font-size: 0.92rem;
+    }
+
+    .pack-list li:last-child {
+      border-bottom: 0;
+    }
+
+    .pack-list a {
+      color: var(--accent-primary);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .pack-list a:hover {
+      text-decoration: underline;
+    }
+
+    .pack-list .free-tag {
+      color: var(--accent-green);
+      font-size: 0.75rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      margin-right: 0.4rem;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border-color);
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
+    }
+
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+    }
+
+    .footer-bottom {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.3;
+      padding-top: 0.35rem;
+    }
+
+    @media (max-width: 1024px) {
+      .news-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .news-sidebar {
+        position: static;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .news-layout {
+        padding: 1rem 1rem 3rem;
+      }
+
+      .blog-post {
+        padding: 1.25rem 1.25rem;
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="../assets/cta.css" />
+  <script src="../assets/cta.js" defer></script>
+  <script src="../assets/blog.js" defer></script>
+<link rel="stylesheet" href="../assets/nav.css" />
+<script src="../assets/nav.js" defer></script>
+</head>
+<body>
+  <!-- sitenav:start (generated by tools/stamp_nav.py — do not edit by hand) -->
+<nav class="nav">
+  <div class="nav-container">
+    <a href="../" class="logo-link"><img src="../assets/boostyou.png" alt="Boostyou.ai logo" /></a>
+    <button class="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu" aria-expanded="false" aria-controls="navMenu">☰</button>
+    <ul class="nav-menu" id="navMenu">
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="class-guides.html" class="nav-link">Classes<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Classes menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Warrior</span>
+            <a href="warrior-arms.html">Arms</a>
+            <a href="warrior-fury.html">Fury</a>
+            <a href="warrior-protection.html">Protection</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Paladin</span>
+            <a href="paladin-holy.html">Holy</a>
+            <a href="paladin-protection.html">Protection</a>
+            <a href="paladin-retribution.html">Retribution</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Hunter</span>
+            <a href="hunter-beast-mastery.html">Beast Mastery</a>
+            <a href="hunter-marksmanship.html">Marksmanship</a>
+            <a href="hunter-survival.html">Survival</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Rogue</span>
+            <a href="rogue-assassination.html">Assassination</a>
+            <a href="rogue-combat.html">Combat</a>
+            <a href="rogue-subtlety.html">Subtlety</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Priest</span>
+            <a href="priest-discipline.html">Discipline</a>
+            <a href="priest-holy.html">Holy</a>
+            <a href="priest-shadow.html">Shadow</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Death Knight</span>
+            <a href="death-knight-blood.html">Blood</a>
+            <a href="death-knight-frost.html">Frost</a>
+            <a href="death-knight-unholy.html">Unholy</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Shaman</span>
+            <a href="shaman-elemental.html">Elemental</a>
+            <a href="shaman-enhancement.html">Enhancement</a>
+            <a href="shaman-restoration.html">Restoration</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Mage</span>
+            <a href="mage-arcane.html">Arcane</a>
+            <a href="mage-fire.html">Fire</a>
+            <a href="mage-frost.html">Frost</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Warlock</span>
+            <a href="warlock-affliction.html">Affliction</a>
+            <a href="warlock-demonology.html">Demonology</a>
+            <a href="warlock-destruction.html">Destruction</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Druid</span>
+            <a href="druid-balance.html">Balance</a>
+            <a href="druid-feral.html">Feral</a>
+            <a href="druid-restoration.html">Restoration</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="class-guides.html">View all class guides →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="fast-leveling.html" class="nav-link">Leveling<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Leveling menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Speed Routes</span>
+            <a href="fastest-1-60.html">Classic 1–60</a>
+            <a href="fastest-60-70.html">TBC 60–70</a>
+            <a href="fastest-70-80.html">WotLK 70–80</a>
+            <a href="fastest-80-85.html">Cata 80–85</a>
+            <a href="fastest-85-90.html">MoP 85–90</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Methods & Comparisons</span>
+            <a href="dungeon-vs-questing.html">Dungeon vs Questing</a>
+            <a href="free-vs-premium.html">Free vs Premium</a>
+            <a href="restedxp-vs-zygor.html">RestedXP vs Zygor</a>
+            <a href="restedxp-vs-joana.html">RestedXP vs Joana</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="fast-leveling.html">Speed leveling overview →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="professions.html" class="nav-link">Professions<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open Professions menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Crafting</span>
+            <a href="alchemy.html">Alchemy</a>
+            <a href="blacksmithing.html">Blacksmithing</a>
+            <a href="enchanting.html">Enchanting</a>
+            <a href="engineering.html">Engineering</a>
+            <a href="inscription.html">Inscription</a>
+            <a href="jewelcrafting.html">Jewelcrafting</a>
+            <a href="leatherworking.html">Leatherworking</a>
+            <a href="tailoring.html">Tailoring</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Gathering</span>
+            <a href="herbalism.html">Herbalism</a>
+            <a href="mining.html">Mining</a>
+            <a href="skinning.html">Skinning</a>
+          </div>
+          <div class="menu-group">
+            <span class="menu-group-title">Secondary</span>
+            <a href="cooking.html">Cooking</a>
+            <a href="first-aid.html">First Aid</a>
+            <a href="fishing.html">Fishing</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="professions.html">All professions →</a></div>
+        </div>
+      </li>
+      <li class="nav-item has-dropdown">
+        <div class="nav-item-row">
+          <a href="bis.html" class="nav-link">BiS Lists<span class="caret" aria-hidden="true">▾</span></a>
+          <button class="submenu-toggle" aria-expanded="false" aria-label="Open BiS Lists menu">▾</button>
+        </div>
+        <div class="dropdown">
+          <div class="dropdown-inner">
+          <div class="menu-group">
+            <span class="menu-group-title">Expansions</span>
+            <a href="bis.html#classic">Classic</a>
+            <a href="bis.html#tbc">TBC</a>
+            <a href="bis.html#wotlk">WotLK</a>
+            <a href="bis.html#cata">Cataclysm</a>
+            <a href="bis.html#mop">MoP</a>
+          </div>
+          </div>
+          <div class="dropdown-cta"><a href="bis.html">Open the BiS browser →</a></div>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a href="wow-camelot.html" class="nav-link camelot-pill">Camelot</a>
+      </li>
+      <li class="nav-item">
+        <a href="newcontent.html" class="nav-link new-pill active">NEWS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!-- sitenav:end -->
+<!-- breadcrumbs:start (generated) -->
+<div class="breadcrumbs"><a href="../">Home</a><span class="crumb-sep">›</span><span class="crumb-current">News</span></div>
+<!-- breadcrumbs:end -->
+
+  <header class="page-header">
+    <h1>WoW Classic News</h1>
+    <p>Phase launches, Camelot leak coverage, BiS list updates and fresh leveling routes — everything new, newest first. Keep scrolling for the archive.</p>
+  </header>
+
+  <div class="news-layout">
+    <main>
+      <div id="blogFeed"></div>
+      <div class="blog-status" id="blogStatus">Loading…</div>
+      <!-- news-pages:start (generated by tools/post_pages.py) -->
+<section aria-label="All news posts" style="margin-top:2rem;">
+  <h2 style="font-size:1.05rem;color:#f1f5f9;margin-bottom:0.6rem;">All posts</h2>
+  <ul style="list-style:none;padding:0;">
+    <li><a href="news-2026-07-22-wotlk-p4-icc-bis-lists-live.html">WotLK Tier 10 BiS lists are live for all 30 specs — Icecrown Citadel and The Ruby Sanctum</a> <span style="color:#94a3b8;font-size:0.85rem;">22 July 2026</span></li>
+    <li><a href="news-2026-07-22-mop-t15-bis-lists-live.html">MoP Tier 15 BiS lists are live for all 34 specs — Throne of Thunder is fully covered</a> <span style="color:#94a3b8;font-size:0.85rem;">22 July 2026</span></li>
+    <li><a href="news-2026-07-20-tbc-p1-bis-lists-live.html">TBC Phase 1 BiS lists are live for all 27 specs — Karazhan, Gruul &amp; Magtheridon</a> <span style="color:#94a3b8;font-size:0.85rem;">20 July 2026</span></li>
+    <li><a href="news-2026-07-20-mop-t14-bis-lists-live.html">MoP Tier 14 BiS lists are live for all 34 specs — Vaults, Heart of Fear &amp; Terrace</a> <span style="color:#94a3b8;font-size:0.85rem;">20 July 2026</span></li>
+    <li><a href="news-2026-07-19-mop-preraid-bis-lists-live.html">Fresh 90? MoP pre-raid BiS lists are live for all 34 specs</a> <span style="color:#94a3b8;font-size:0.85rem;">19 July 2026</span></li>
+    <li><a href="news-2026-07-10-tbc-preraid-bis-lists-live.html">Fresh 70? TBC pre-raid BiS lists are live for all 27 specs</a> <span style="color:#94a3b8;font-size:0.85rem;">10 July 2026</span></li>
+    <li><a href="news-2026-07-10-tbc-p2-bis-lists-live.html">SSC &amp; Tempest Keep BiS lists are live for every TBC class</a> <span style="color:#94a3b8;font-size:0.85rem;">10 July 2026</span></li>
+    <li><a href="news-2026-07-10-mop-soo-bis-lists-live.html">Siege of Orgrimmar BiS lists are live for all 34 specs</a> <span style="color:#94a3b8;font-size:0.85rem;">10 July 2026</span></li>
+    <li><a href="news-2026-07-07-tbc-anniversary-phase-2-is-live.html">TBC Anniversary Phase 2 is live: Serpentshrine Cavern &amp; Tempest Keep</a> <span style="color:#94a3b8;font-size:0.85rem;">7 July 2026</span></li>
+    <li><a href="news-2026-06-28-mop-classic-siege-of-orgrimmar.html">MoP Classic opens Siege of Orgrimmar</a> <span style="color:#94a3b8;font-size:0.85rem;">28 June 2026</span></li>
+    <li><a href="news-2026-06-15-wow-camelot-leak-tracker.html">WoW Camelot: what we know so far</a> <span style="color:#94a3b8;font-size:0.85rem;">15 June 2026</span></li>
+    <li><a href="news-2026-05-30-free-restedxp-guide-packs.html">Free RestedXP guide packs for Classic, TBC and WotLK</a> <span style="color:#94a3b8;font-size:0.85rem;">30 May 2026</span></li>
+  </ul>
+</section>
+<!-- news-pages:end -->
+<div id="blogSentinel"></div>
+    </main>
+
+    <aside class="news-sidebar">
+      <div class="newsletter-cta"
+           data-heading="Get the latest news via mail"
+           data-sub=""></div>
+
+      <div class="side-box">
+        <h3>📺 Watch &amp; hang out</h3>
+        <a class="social-btn btn-youtube" href="https://www.youtube.com/@nutri_r1?sub_confirmation=1" target="_blank" rel="noreferrer">Subscribe on YouTube</a>
+        <a class="social-btn btn-twitch" href="https://www.twitch.tv/nutri_r1" target="_blank" rel="noreferrer">Catch me on Twitch</a>
+        <div class="video-embed">
+          <iframe
+            src="https://www.youtube.com/embed/videoseries?list=UUpmxHiFItoNHeJaMtPcMSTg&rel=0&modestbranding=1&playsinline=1"
+            title="Newest YouTube video"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+
+      <div class="side-box">
+        <h3>🎁 Free RestedXP guide packs</h3>
+        <ul class="pack-list">
+          <li><span class="free-tag">Free</span><a href="https://www.curseforge.com/wow/addons/nutri-free-restedxp-classic-guide" target="_blank" rel="noreferrer">Classic 1-60 pack (CurseForge)</a></li>
+          <li><span class="free-tag">Free</span><a href="https://www.curseforge.com/wow/addons/nutri-free-restedxp-tbc-guide" target="_blank" rel="noreferrer">TBC 60-70 pack (CurseForge)</a></li>
+          <li><span class="free-tag">Free</span><a href="https://www.curseforge.com/wow/addons/nutri-free-restedxp-wotlk-guide" target="_blank" rel="noreferrer">WotLK 70-80 pack (CurseForge)</a></li>
+          <li><span class="free-tag">Free</span><a href="https://www.curseforge.com/wow/addons/nutri-free-restedxp-cata-guide" target="_blank" rel="noreferrer">Cata 80-85 pack (CurseForge)</a></li>
+          <li><span class="free-tag">Free</span><a href="https://www.curseforge.com/wow/addons/nutri-free-restedxp-mop-guide" target="_blank" rel="noreferrer">MoP 85-90 pack (CurseForge)</a></li>
+        </ul>
+      </div>
+
+      <div class="rxp-mini">
+        Want the full routes? <a href="https://shop.restedxp.com/ref/nutri/" rel="sponsored noopener" target="_blank">Get 10% off RestedXP →</a>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-bottom" style="border-top:0;">
+        © 2026 Boostyou.ai - WoW Classic Guides. All rights reserved.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

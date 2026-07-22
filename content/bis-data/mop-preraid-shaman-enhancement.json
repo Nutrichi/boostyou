@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Drafted from the Phase 5 pre-raid best-in-slot table on Icy Veins' Enhancement Shaman pre-raid gear page (sources listed there simply as 'Celestial Dungeons'; boss attribution taken from the matching Siege of Orgrimmar drops). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-19",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helmet of Celestial Harmony (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Immerseus' Crystalline Eye",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Spaulders of Celestial Harmony (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Fen-Yu, Fury of Xuen",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Ancient Archer's Chestguard",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Infinite Pipes",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Grips of Celestial Harmony (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Arrowflight Girdle",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of Celestial Harmony (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Minelayer's Padded Boots",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Kil'ruk's Band of Ascendancy",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Reality Ripper Ring",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Assurance of Consequence",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Haromm's Talisman",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Korven's Crimson Crescent",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Korven's Crimson Crescent",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+    },
+    {
+      "color": "Red",
+      "name": "Adept Vermilion Onyx (+80 Agi / +160 mastery) — or Keen Vermilion Onyx (+160 expertise / +160 mastery)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Fractured Sun's Radiance (+320 mastery)"
+    },
+    {
+      "color": "Blue",
+      "name": "Sensei's Wild Jade (+160 mastery / +160 hit)"
+    }
+  ]
+}

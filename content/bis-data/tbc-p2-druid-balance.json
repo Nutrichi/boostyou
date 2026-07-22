@@ -1,0 +1,303 @@
+{
+  "expansion": "tbc",
+  "phase": "p2",
+  "class": "druid",
+  "spec": "balance",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Crafted tailoring (Spellstrike) competes with Tier 5 (Nordrassil) — the list mixes both. The Nexus Key staff is BiS; with a one-hand weapon add Fathomstone. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Nordrassil Headpiece (Tier 5)",
+          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
+        },
+        {
+          "name": "Spellstrike Hood",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Antlers of Malorne (Tier 4)",
+          "source": "Karazhan — Prince Malchezaar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "The Sun King's Talisman",
+          "source": "Tempest Keep — Kael'thas Sunstrider"
+        },
+        {
+          "name": "Adornment of Stolen Souls",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Nordrassil Wrath-Mantle (Tier 5)",
+          "source": "Tempest Keep — Void Reaver (tier token)"
+        },
+        {
+          "name": "Pauldrons of Malorne (Tier 4)",
+          "source": "Gruul's Lair — High King Maulgar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Ancient Spellcloak of the Highborne",
+          "source": "World boss — Doom-Lord Kazzak"
+        },
+        {
+          "name": "Brute Cloak of the Ogre-Magi",
+          "source": "Gruul's Lair — High King Maulgar"
+        },
+        {
+          "name": "Ruby Drape of the Mysticant",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Nordrassil Chestpiece (Tier 5)",
+          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+        },
+        {
+          "name": "Vestments of the Sea-Witch",
+          "source": "Serpentshrine Cavern — Lady Vashj"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Mindstorm Wristbands",
+          "source": "Tempest Keep — Al'ar"
+        },
+        {
+          "name": "Windhawk Bracers",
+          "source": "Tribal Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Nordrassil Gauntlets (Tier 5)",
+          "source": "Serpentshrine Cavern — Leotheras the Blind (tier token)"
+        },
+        {
+          "name": "Spellfire Gloves",
+          "source": "Spellfire Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Blasting",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Cord of Screaming Terrors",
+          "source": "Serpentshrine Cavern — The Lurker Below"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Spellstrike Pants",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Nordrassil Wrath-Kilt (Tier 5)",
+          "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Velvet Boots of the Guardian",
+          "source": "Serpentshrine Cavern — The Lurker Below"
+        },
+        {
+          "name": "Boots of Blasting",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Eternity",
+          "source": "Caverns of Time — quest reward"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Endless Coils",
+          "source": "Serpentshrine Cavern — Lady Vashj"
+        },
+        {
+          "name": "Ring of Recurrence",
+          "source": "Karazhan — Echo of Medivh"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Badge vendor — 41 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Quagmirran's Eye",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Sextant of Unstable Currents",
+          "source": "Serpentshrine Cavern — Fathom-Lord Karathress"
+        },
+        {
+          "name": "Dark Iron Smoking Pipe",
+          "source": "Brewfest — Coren Direbrew"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "The Nexus Key (staff)",
+          "source": "Tempest Keep — Kael'thas Sunstrider"
+        },
+        {
+          "name": "Merciless Gladiator's War Staff",
+          "source": "Arena vendor — Arena Points"
+        },
+        {
+          "name": "Nathrezim Mindblade (one-hand, with Fathomstone)",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Fathomstone (only with a one-hand weapon)",
+          "source": "Serpentshrine Cavern — Hydross the Unstable"
+        }
+      ]
+    },
+    {
+      "slot": "Idol",
+      "items": [
+        {
+          "name": "Ivory Idol of the Moongoddess",
+          "source": "The Shattered Halls — Grand Warlock Nethekurse"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power (+22 spell damage / +14 hit)",
+      "source": "The Sha'tar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+      "source": "Enchanting (Spell Strike if short on hit)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Sunfire (+50 arcane/fire damage)",
+      "source": "Enchanting (Major Spellpower as budget option)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Spellpower (+12 spell damage)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+    }
+  ]
+}

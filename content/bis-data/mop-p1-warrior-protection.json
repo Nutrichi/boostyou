@@ -1,0 +1,231 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "warrior",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Four-piece Resounding Rings (guardian pieces) with Kilrak and Qiang's shield. Draft compiled from the Icy Veins MoP Classic Protection Warrior gear guide (Phase 1 & 2 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Faceguard of Resounding Rings (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Kaolan's Withering Necklace",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderguards of Resounding Rings (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Daybreak Drape",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Chestguard of Resounding Rings (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Six Oxen",
+          "source": "Mogu'shan Vaults Heroic — Feng the Accursed"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handguards of Resounding Rings (Tier 14)",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Protector's Girdle of Endless Spring",
+          "source": "Terrace of Endless Spring Heroic — Tsulong & Lei Shi (shared loot)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Articulated Legplates",
+          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Deepwater Greatboots",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Vizier's Ruby Signet",
+          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of the Shattered Shell",
+          "source": "Heart of Fear Heroic — Garalon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Vial of Dragon's Blood",
+          "source": "Mogu'shan Vaults Heroic — Elegon"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Stuff of Nightmares",
+          "source": "Terrace of Endless Spring Heroic — Tsulong"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Kilrak, Jaws of Terror",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Steelskin, Qiang's Impervious Shield",
+          "source": "Mogu'shan Vaults Heroic — The Spirit Kings"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Major Dodge (+170 dodge)",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — River's Song",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Greater Parry (+170 parry)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
+    },
+    {
+      "color": "Blue",
+      "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+    }
+  ]
+}

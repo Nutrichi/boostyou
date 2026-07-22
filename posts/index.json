@@ -1,0 +1,17 @@
+{
+  "comment": "Fallback list for the NEWS page when the GitHub API is unavailable. The API listing is the primary source; keeping this file current is optional but recommended when adding posts.",
+  "posts": [
+    "2026-07-22-wotlk-p4-icc-bis-lists-live.txt",
+    "2026-07-22-mop-t15-bis-lists-live.txt",
+    "2026-07-20-mop-t14-bis-lists-live.txt",
+    "2026-07-20-tbc-p1-bis-lists-live.txt",
+    "2026-07-19-mop-preraid-bis-lists-live.txt",
+    "2026-07-10-tbc-preraid-bis-lists-live.txt",
+    "2026-07-10-tbc-p2-bis-lists-live.txt",
+    "2026-07-10-mop-soo-bis-lists-live.txt",
+    "2026-07-07-tbc-anniversary-phase-2-is-live.txt",
+    "2026-06-28-mop-classic-siege-of-orgrimmar.txt",
+    "2026-06-15-wow-camelot-leak-tracker.txt",
+    "2026-05-30-free-restedxp-guide-packs.txt"
+  ]
+}

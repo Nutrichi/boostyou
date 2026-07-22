@@ -1,0 +1,320 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "warrior",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Defense cap (490) first, then stamina and avoidance toward uncrushable. Keepers of Time reputation covers legs and a trinket. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Helm of the Stalwart Defender",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "Felsteel Helm",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "Myrmidon's Headdress",
+          "source": "Quest — The Warlord's Hideout (Steamvault)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Necklace of the Juggernaut",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Strength of the Untamed",
+          "source": "Cenarion Expedition — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Fanblade Pauldrons",
+          "source": "Heroic Auchenai Crypts — Shirrak the Dead Watcher"
+        },
+        {
+          "name": "Shoulderguards of the Bold",
+          "source": "Shadow Labyrinth — Murmur"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Devilshark Cape",
+          "source": "The Steamvault — Warlord Kalithresh"
+        },
+        {
+          "name": "Cloak of Eternity",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Breastplate of the Bold",
+          "source": "The Arcatraz — Harbinger Skyriss"
+        },
+        {
+          "name": "Vindicator's Hauberk",
+          "source": "The Aldor — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of the Green Fortress",
+          "source": "Blacksmithing (crafted)"
+        },
+        {
+          "name": "Amber Bands of the Aggressor",
+          "source": "Heroic Steamvault — Warlord Kalithresh"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Felsteel Gloves",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of the Immovable",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Lion's Heart Girdle",
+          "source": "Heroic Hellfire Ramparts — Vazruden"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Timewarden's Leggings",
+          "source": "Keepers of Time — Revered"
+        },
+        {
+          "name": "Felsteel Leggings",
+          "source": "Blacksmithing (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Colossus",
+          "source": "Heroic Mana-Tombs — Pandemonius"
+        },
+        {
+          "name": "Flesh Beast's Metal Greaves",
+          "source": "Quest — Someone Else's Hard Work Pays Off"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Wind Trader's Band",
+          "source": "Quest — Dealing with the Overmaster (Netherstorm)"
+        },
+        {
+          "name": "Crystal Band of Valor",
+          "source": "Heroic Mana-Tombs — Tavarok"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Unyielding Force",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Elementium Band of the Sentry",
+          "source": "Heroic Arcatraz — Harbinger Skyriss"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Timelapse Shard",
+          "source": "Keepers of Time — Exalted"
+        },
+        {
+          "name": "Goblin Rocket Launcher",
+          "source": "Engineering (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Argussian Compass",
+          "source": "Heroic Underbog — The Black Stalker"
+        },
+        {
+          "name": "Adamantine Figurine",
+          "source": "Shadow Labyrinth — Blackheart the Inciter"
+        },
+        {
+          "name": "Regal Protectorate",
+          "source": "Quest — Cruel's Intentions / Overlord (Hellfire)"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Latro's Shifting Sword",
+          "source": "The Black Morass — Aeonus"
+        },
+        {
+          "name": "The Sun Eater",
+          "source": "Heroic Mechanar — Pathaleon the Calculator"
+        },
+        {
+          "name": "Honor's Call / Warbringer",
+          "source": "Honor Hold / Thrallmar — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Gladiator's Shield Wall",
+          "source": "Arena vendor — Arena Points"
+        },
+        {
+          "name": "Azure-Shield of Coldarra",
+          "source": "Badge vendor — 33 Badges of Justice"
+        },
+        {
+          "name": "Crest of the Sha'tar",
+          "source": "The Sha'tar — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Gyro-Balanced Khorium Destroyer",
+          "source": "Engineering (crafted)"
+        },
+        {
+          "name": "Mark V's Throwing Star",
+          "source": "Quest — Mark V is Alive! (Blade's Edge)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of the Defender (+16 defense / +17 dodge)",
+      "source": "Keepers of Time — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Health (+150 health)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Major Defense (+12 defense)",
+      "source": "Enchanting (Fortitude once defense-capped)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Major Stamina (+18 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Stats (+4 all stats)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist)"
+    },
+    {
+      "color": "Red",
+      "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Enduring Talasite (+4 defense / +6 stamina) — Steady Talasite toward crit immunity"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Star of Elune (+12 stamina)"
+    }
+  ]
+}

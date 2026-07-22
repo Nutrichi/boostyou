@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "p4",
+  "class": "death-knight",
+  "spec": "blood",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Blood Death Knight gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Scourgelord line. Enchants/gems reused across WotLK Str tank specs.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Broken Ram Skull Helm",
+          "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Bile-Encrusted Medallion",
+          "source": "Icecrown Citadel 25 Heroic — Rotface"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Pauldrons (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Royal Crimson Cloak",
+          "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Chestguard (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Dark Reckoning",
+          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Handguards (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Broken Bones",
+          "source": "Icecrown Citadel 25 Heroic — Festergut"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Sanctified Scourgelord Legguards (Tier 10)",
+          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Treads of Impending Resurrection",
+          "source": "The Ruby Sanctum 25 Heroic — Halion"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashen Band of Endless Courage",
+          "source": "The Ashen Verdict — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Devium's Eternally Cold Ring",
+          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Sindragosa's Flawless Fang",
+          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Unidentifiable Organ",
+          "source": "Icecrown Citadel 10 Heroic — Professor Putricide"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Oathbinder, Charge of the Ranger-General",
+          "source": "Icecrown Citadel 25 Heroic — The Lich King"
+        }
+      ]
+    },
+    {
+      "slot": "Sigil",
+      "items": [
+        {
+          "name": "Sigil of the Bone Gryphon",
+          "source": "Emblem of Frost Vendor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of the Stalwart Protector",
+      "source": "Argent Crusade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Gladiator",
+      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Major Stamina",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Precision",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Frosthide Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Greater Fortitude",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Rune of the Stoneskin Gargoyle",
+      "source": "Runeforging (Ebon Hold)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+    },
+    {
+      "color": "Red",
+      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+    }
+  ]
+}

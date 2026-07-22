@@ -1,0 +1,231 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "monk",
+  "spec": "brewmaster",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-18",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Hood of Blackened Tears",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gleaming Eye of the Devilsaur",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Spaulders of Seven Sacred Seals (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Qian-Le, Courage of Niuzao",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Blackened Watcher",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Laser Burn Bracers",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of the Golden Protector",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cord of Black Dreams",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Seven Sacred Seals (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Unrepentant Heels",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Reality Ripper Ring",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Restless Energy",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Thok's Tail Tip",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Haromm's Talisman",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Hellscream's Cleaver",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    },
+    {
+      "slot": "Off Hand",
+      "items": [
+        {
+          "name": "Hellscream's Cleaver",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Indomitable Primal Diamond (+324 stamina, chance on hit to gain 20% armor) — or Agile Primal Diamond offensively"
+    },
+    {
+      "color": "Red",
+      "name": "Precise Primordial Ruby (+320 expertise)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Accurate Imperial Amethyst (+160 hit / +160 expertise)"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "p1",
+  "class": "paladin",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Four-piece White Tiger (protection pieces) with Kilrak and Qiang's shield; Seal of the Bloodseeker comes from the Klaxxi quest Shadow of the Empire. Draft compiled from the Icy Veins MoP Classic Protection Paladin gear guide (Phase 1 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "White Tiger Helmet (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Shackle of Eversparks",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "White Tiger Pauldrons (Tier 14)",
+          "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Peacock Feathers",
+          "source": "Mogu'shan Vaults Heroic — Feng the Accursed"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "White Tiger Battleplate (Tier 14)",
+          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Defiled Earth",
+          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "White Tiger Gauntlets (Tier 14)",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Warbelt of Sealed Pods",
+          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Jang-xi's Devastating Legplates",
+          "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Impaling Treads",
+          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Seal of the Bloodseeker",
+          "source": "Quest: Shadow of the Empire (Klaxxi)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of the Bladed Tempest",
+          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Relic of Xuen",
+          "source": "Darkmoon Faire — Tiger Deck (Inscription)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Lei Shen's Final Orders",
+          "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Kilrak, Jaws of Terror",
+          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Steelskin, Qiang's Impervious Shield",
+          "source": "Mogu'shan Vaults Heroic — The Spirit Kings"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Mastery (+170 mastery)",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Heavy Leg Reinforcements (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Greater Parry (+170 parry)",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Indomitable Primal Diamond (+324 stamina, chance on hit to gain 20% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Wicked Vermilion Onyx (+80 expertise / +160 haste)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Lightning Wild Jade (+160 haste / +160 hit)"
+    }
+  ]
+}

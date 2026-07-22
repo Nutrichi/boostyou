@@ -1,0 +1,231 @@
+{
+  "expansion": "mop",
+  "phase": "p2",
+  "class": "monk",
+  "spec": "brewmaster",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Brewmaster Monk gear guide (dual-wield build, two Wu-Lai, Bladed Fan of the Empyreans). Tier set: Fire-Charm line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Fire-Charm Crown (Tier 15)",
+          "source": "Throne of Thunder Heroic — Twin Consorts"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Talisman of Living Poison",
+          "source": "Throne of Thunder Heroic — Horridon"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Fire-Charm Shoulderguards (Tier 15)",
+          "source": "Throne of Thunder Heroic — Iron Qon"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Grey Wind Mistcloak",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Rockfall Ribwraps",
+          "source": "Throne of Thunder Heroic — Tortos"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bindings of Multiplicative Strikes",
+          "source": "Throne of Thunder Heroic — Horridon"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of Cushioned Air",
+          "source": "Throne of Thunder Heroic — Primordius"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Featherflight Belt",
+          "source": "Throne of Thunder Heroic — Ji-Kun"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Crimson Bloom Legguards",
+          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Twist-Toe Tabi",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ra-den's Swift Seal",
+          "source": "Throne of Thunder Heroic — Ra-den"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Gore-Soaked Gear",
+          "source": "Throne of Thunder Heroic — Dark Animus"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Soul Barrier",
+          "source": "Throne of Thunder Heroic — Lei Shen"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Renataki's Soul Charm",
+          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Wu-Lai, Bladed Fan of the Empyreans",
+          "source": "Throne of Thunder Heroic — Twin Consorts"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Wu-Lai, Bladed Fan of the Empyreans",
+          "source": "Throne of Thunder Heroic — Twin Consorts"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Accuracy (+180 hit)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Indomitable Primal Diamond (+324 stamina, chance on hit to gain 20% armor) — or Agile Primal Diamond offensively"
+    },
+    {
+      "color": "Red",
+      "name": "Precise Primordial Ruby (+320 expertise)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Sun's Radiance (+320 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Accurate Imperial Amethyst (+160 hit / +160 expertise)"
+    }
+  ]
+}

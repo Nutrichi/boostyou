@@ -1,0 +1,226 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "paladin",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot, so you gear straight for SoO. Enchants and gems match our SoO list (same patch). Draft compiled from the Icy Veins MoP Classic pre-raid guide (Phase 5 table). Items are bought with August Stone Clusters earned in Celestial Dungeons.",
+  "updated": "2026-07-18",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Headguard of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Lost Necklace of the Mogu Empress",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Jina-Kang, Kindness of Chi-Ji",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Chestplate of Fallen Passion",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Smoldering Drakescale Bracers",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Greatbelt of Living Waters",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Greaves of Winged Triumph (Tier 16)",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Waterwalker Greatboots",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Seal of Eternal Sorrow",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Signet of the Dinomancers",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Prismatic Prison of Pride",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Nazgrim's Burnished Insignia",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Kardris' Scepter",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Revelations of Y'Shaarj",
+          "source": "Celestial Dungeons — August Stone Cluster"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+      "source": "Enchanting (Lightweave Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Super Intellect (+180 Int)",
+      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Greater Pearlescent Spellthread (+285 Int / +165 spirit)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Jade Spirit",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Burning Primal Diamond (+216 Int, 3% increased crit effect)"
+    },
+    {
+      "color": "Red",
+      "name": "Brilliant Primordial Ruby (+160 Int)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Artful Vermilion Onyx (+80 Int / +160 mastery)"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Imperial Amethyst (+80 Int / +160 spirit)"
+    }
+  ]
+}

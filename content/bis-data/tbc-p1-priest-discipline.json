@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p1",
+  "class": "priest",
+  "spec": "discipline",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). Icy Veins covers TBC healing priests with one Holy-oriented list — the same gear applies to Discipline raid healers in Phase 1. Draft compiled from the Icy Veins TBC Classic Holy Priest gear guide (Phase 1 Tier 4 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Light-Collar of the Incarnate (Tier 4)",
+          "source": "Karazhan — Prince Malchezaar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Teeth of Gruul",
+          "source": "Gruul's Lair — Gruul the Dragonkiller"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Primal Mooncloth Shoulders",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Stainless Cloak of the Pure Hearted",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Primal Mooncloth Robe",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bindings of the Timewalker",
+          "source": "Keepers of Time — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of Saintly Blessings",
+          "source": "Karazhan — Attumen the Huntsman"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Primal Mooncloth Belt",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Pantaloons of Repentance",
+          "source": "Karazhan — Netherspite"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Incorrupt",
+          "source": "Karazhan — Shade of Aran"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Violet Signet of the Grand Restorer",
+          "source": "The Violet Eye — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Jade Ring of the Everliving",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Darkmoon Card: Blue Dragon",
+          "source": "Darkmoon Faire — Beasts Deck"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Eye of Gruul",
+          "source": "Gruul's Lair — Gruul the Dragonkiller"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Light's Justice",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Windcaller's Orb",
+          "source": "Cenarion Expedition — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Blue Diamond Witchwand",
+          "source": "Karazhan — Opera Event"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+      "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Faith (+46 healing)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Major Spirit (+15 spirit)",
+      "source": "Enchanting (Restore Mana Prime as alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Superior Healing (+30 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Healing (+35 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread (+66 healing / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Healing (+81 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Healing Power (+20 healing)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Nightseye (+9 healing / +2 mp5) — or Purified Shadow Pearl (+9 healing / +4 spirit)"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "expansion": "tbc",
+  "phase": "p1",
+  "class": "warrior",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). The PvP bracers/belt are the Alliance Marshal's pieces — Horde uses the equivalent General's plate pieces from Honor Points. Doom Lord Kazzak and Doomwalker are outdoor world bosses. Draft compiled from the Icy Veins TBC Classic Protection Warrior gear guide (Phase 1 Tier 4 table).",
+  "updated": "2026-07-20",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Warbringer Greathelm (Tier 4)",
+          "source": "Karazhan — Prince Malchezaar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Necklace of the Juggernaut",
+          "source": "Badge of Justice vendor — 25 badges"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Warbringer Shoulderplates (Tier 4)",
+          "source": "Gruul's Lair — High King Maulgar (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Dark Reavers",
+          "source": "Karazhan — Shade of Aran"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Warbringer Chestguard (Tier 4)",
+          "source": "Magtheridon's Lair — Magtheridon (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Marshal's Plate Bracers",
+          "source": "PvP — Honor Points (Horde: General's Plate Bracers)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Topaz-Studded Battlegrips",
+          "source": "World boss — Doom Lord Kazzak"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Marshal's Plate Belt",
+          "source": "PvP — Honor Points (Horde: General's Plate Belt)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Wrynn Dynasty Greaves",
+          "source": "Karazhan — The Curator"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Battlescar Boots",
+          "source": "Karazhan — Chess Event"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Shapeshifter's Signet",
+          "source": "Lower City — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Violet Signet of the Great Protector",
+          "source": "The Violet Eye — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Icon of Unyielding Courage",
+          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Goblin Rocket Launcher",
+          "source": "Engineering (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "King's Defender",
+          "source": "Karazhan — Chess Event"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Aldori Legacy Defender",
+          "source": "Gruul's Lair — Gruul the Dragonkiller"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Barrel-Blade Longrifle",
+          "source": "World boss — Doomwalker"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of the Defender (+16 defense / +17 dodge)",
+      "source": "Keepers of Time — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Health (+150 health)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Major Defense (+12 defense)",
+      "source": "Enchanting (Fortitude once defense-capped)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Major Stamina (+18 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Stats (+4 all stats)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist)"
+    },
+    {
+      "color": "Red",
+      "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Enduring Talasite (+4 defense / +6 stamina) — Steady Talasite toward crit immunity"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Star of Elune (+12 stamina)"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "druid",
+  "spec": "guardian",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Drafted from the Phase 5 pre-raid best-in-slot table on Icy Veins' Guardian Druid pre-raid gear page (sources listed there simply as 'Celestial Dungeons'; boss attribution taken from the matching Siege of Orgrimmar drops). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-19",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Headguard of the Shattered Vale (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gleaming Eye of the Devilsaur",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderguards of the Shattered Vale (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Qian-Le, Courage of Niuzao",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Tunic of the Shattered Vale (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Laser Burn Bracers",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handguards of the Shattered Vale (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Snow Lily Belt",
+          "source": "Crafted — Leatherworking (Snow Lily profession recipe)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Snow Lily Britches",
+          "source": "Crafted — Leatherworking (Snow Lily profession recipe)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Unrepentant Heels",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Reality Ripper Ring",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Swift Serpent Signet",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Vial of Living Corruption",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Curse of Hubris",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Trident of Corrupted Waters",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Protection (+200 armor)",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Sha Armor Kit (+250 stamina)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Dancing Steel",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Austere Primal Diamond for progression)"
+    },
+    {
+      "color": "Red",
+      "name": "Crafty Vermilion Onyx (+160 crit / +80 hit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Smooth Sun's Radiance (+320 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Jagged Wild Jade (+160 crit / +240 stamina)"
+    }
+  ]
+}

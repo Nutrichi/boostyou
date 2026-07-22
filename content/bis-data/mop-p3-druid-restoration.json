@@ -1,0 +1,212 @@
+{
+  "expansion": "mop",
+  "phase": "p3",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Runs a two-handed staff, so there is no off-hand slot. Haste-lean gemming (Reckless) keeps Wild Growth and Rejuvenation ticking faster. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Self-Reflecting Mask",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Lost Necklace of the Mogu Empress",
+          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Jina-Kang, Kindness of Chi-Ji",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Castlebreaker Bracers",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handwraps of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Seal of Karmic Return",
+          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legwraps of the Shattered Vale (Tier 16)",
+          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Salt Water Sandals",
+          "source": "Siege of Orgrimmar Heroic — Immerseus"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Seal of Eternal Sorrow",
+          "source": "Siege of Orgrimmar Heroic — Immerseus"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Laser-Slice Signet",
+          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Prismatic Prison of Pride",
+          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Nazgrim's Burnished Insignia",
+          "source": "Siege of Orgrimmar Heroic — General Nazgrim"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Drakebinder Greatstaff",
+          "source": "Siege of Orgrimmar Heroic — Galakras"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+      "source": "Enchanting (Lightweave Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Super Intellect (+180 Int)",
+      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Greater Pearlescent Spellthread (+285 Int / +165 spirit)",
+      "source": "Tailoring (crafted, usable by all; Sanctified/Master's for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Jade Spirit",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Burning Primal Diamond (+216 Int, 3% increased crit effect)"
+    },
+    {
+      "color": "Red",
+      "name": "Brilliant Primordial Ruby (+160 Int)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Vermilion Onyx (+80 Int / +160 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Imperial Amethyst (+80 Int / +160 spirit)"
+    }
+  ]
+}

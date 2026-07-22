@@ -1,0 +1,260 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Crafted Windhawk three-piece (Tribal Leatherworking) leads; engineering goggles top the helm slot. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+      "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Faith (+46 healing)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Major Spirit (+15 spirit)",
+      "source": "Enchanting (Restore Mana Prime as alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Superior Healing (+30 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Healing (+35 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread (+66 healing / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Healing (+81 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield — Intellect (+12 Int)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Healing Power (+20 healing)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Living Replicator Specs",
+          "source": "Engineering (crafted, engineers only)"
+        },
+        {
+          "name": "Whitemend Hood",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Watcher's Cowl",
+          "source": "Cenarion Expedition — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gezzarak's Fang",
+          "source": "Quest — Gezzarak the Huntress (Terokkar)"
+        },
+        {
+          "name": "Natasha's Guardian Cord",
+          "source": "Quest — The Hound-Master (Blade's Edge)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of the Sea Wolf",
+          "source": "Heroic Mana-Tombs — Tavarok"
+        },
+        {
+          "name": "Primal Mooncloth Shoulders",
+          "source": "Mooncloth Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Lifegiving Cloak",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Windhawk Hauberk",
+          "source": "Tribal Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Windhawk Bracers",
+          "source": "Tribal Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Fathomheart Gauntlets",
+          "source": "The Steamvault — Warlord Kalithresh"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Windhawk Belt",
+          "source": "Tribal Leatherworking (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Whitemend Pants",
+          "source": "Tailoring (crafted)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Slippers of Serenity",
+          "source": "Auchenai Crypts — Exarch Maladaar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Convalescence / Ancestral Band",
+          "source": "Honor Hold / Thrallmar — Revered"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Gift of the Talonpriests",
+          "source": "Quest — Terokk (Terokkar)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "Badge vendor — 41 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Scarab of the Infinite Cycle",
+          "source": "The Black Morass — Aeonus"
+        },
+        {
+          "name": "Direbrew Hops",
+          "source": "Brewfest — Coren Direbrew"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Gladiator's Salvation",
+          "source": "Arena vendor — Arena Points"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Light-Bearer's Faith Shield",
+          "source": "Badge vendor — 33 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Totem",
+      "items": [
+        {
+          "name": "Totem of Spontaneous Regrowth",
+          "source": "Heroic Slave Pens — Mennu the Betrayer"
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Nightseye (+9 healing / +2 mp5) — or Purified Shadow Pearl (+9 healing / +4 spirit)"
+    }
+  ]
+}

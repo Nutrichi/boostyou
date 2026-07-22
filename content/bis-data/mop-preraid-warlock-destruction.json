@@ -1,0 +1,217 @@
+{
+  "expansion": "mop",
+  "phase": "preraid",
+  "class": "warlock",
+  "spec": "destruction",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no current Phase 5 pre-raid table for this spec (its pre-raid page still shows the Throne of Thunder-era catch-up list), so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+  "updated": "2026-07-19",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Hood of the Horned Nightmare (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Untainted Guardian's Chain",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of the Horned Nightmare (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Xing-Ho, Breath of Yu'lon",
+          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Mantid Vizier's Robes",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Avool's Ancestral Bracers",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of the Horned Nightmare (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Ominous Trembles",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Horned Nightmare (Tier 16)",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Bone-Inlaid Sandals",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Signet of the Dinomancers",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Iyyokuk's Hereditary Seal",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Purified Bindings of Immerseus",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Black Blood of Y'Shaarj",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    },
+    {
+      "slot": "Main Hand",
+      "items": [
+        {
+          "name": "Hellscream's War Staff",
+          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Shoulders",
+      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+      "source": "Enchanting (Lightweave Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Super Intellect (+180 Int)",
+      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Living Steel Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Greater Cerulean Spellthread (+285 Int / +165 crit)",
+      "source": "Tailoring (crafted, usable by all; Master's Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Jade Spirit",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Intellect (+160 Int)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
+    },
+    {
+      "color": "Red",
+      "name": "Brilliant Primordial Ruby (+160 Int) — or Artful Vermilion Onyx (+80 Int / +160 mastery)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Fractured Sun's Radiance (+320 mastery) — or Artful Vermilion Onyx"
+    },
+    {
+      "color": "Blue",
+      "name": "Veiled Imperial Amethyst (+80 Int / +160 hit) — or Sensei's Wild Jade (+160 mastery / +160 hit)"
+    }
+  ]
+}

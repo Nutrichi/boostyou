@@ -1,0 +1,323 @@
+{
+  "expansion": "tbc",
+  "phase": "preraid",
+  "class": "warlock",
+  "spec": "demonology",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Shares the Affliction pre-raid list — Frozen Shadoweave three-piece first. Wrists pick needs verification. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Spellstrike Hood",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Mag'hari Ritualist's Horns",
+          "source": "Quest — Hero of the Mag'har (Horde, Nagrand)"
+        },
+        {
+          "name": "Evoker's Helmet of Second Sight",
+          "source": "Quest — Teron Gorefiend, I am... (Shadowmoon)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Heightened Potential",
+          "source": "Shadow Labyrinth — Blackheart the Inciter"
+        },
+        {
+          "name": "Hydra-fang Necklace",
+          "source": "Heroic Underbog — Ghaz'an"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Shoulders",
+          "source": "Shadoweave Tailoring (crafted)"
+        },
+        {
+          "name": "Mantle of Three Terrors",
+          "source": "The Black Morass — Chrono Lord Deja"
+        },
+        {
+          "name": "Spaulders of the Torn-heart",
+          "source": "Quest — The Cipher of Damnation (Shadowmoon)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sethekk Oracle Cloak",
+          "source": "Sethekk Halls — Talon King Ikiss"
+        },
+        {
+          "name": "Cloak of Entropy",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Robe",
+          "source": "Shadoweave Tailoring (crafted)"
+        },
+        {
+          "name": "Robe of Oblivion",
+          "source": "Shadow Labyrinth — Murmur"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Havok",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Marshal's / General's Silk Cuffs",
+          "source": "PvP vendor — Honor Points"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Anger-Spark Gloves",
+          "source": "World boss — Doomwalker"
+        },
+        {
+          "name": "Gloves of Pandemonium",
+          "source": "World drop (BoE)"
+        },
+        {
+          "name": "Manaspark Gloves",
+          "source": "The Underbog — Hungarfen"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of Ruination",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Belt of Depravity",
+          "source": "Heroic Arcatraz — Harbinger Skyriss"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Spellstrike Pants",
+          "source": "Tailoring (crafted)"
+        },
+        {
+          "name": "Breeches of the Occultist",
+          "source": "Heroic Black Morass — Aeonus"
+        },
+        {
+          "name": "Trousers of Oblivion",
+          "source": "Sethekk Halls — Talon King Ikiss"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Frozen Shadoweave Boots",
+          "source": "Shadoweave Tailoring (crafted)"
+        },
+        {
+          "name": "Sigil-Laced Boots",
+          "source": "The Arcatraz — Harbinger Skyriss"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ashyen's Gift",
+          "source": "Cenarion Expedition — Exalted"
+        },
+        {
+          "name": "Seer's Signet",
+          "source": "The Scryers — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Seal of the Exorcist",
+          "source": "Spirit Shard vendor (Terokkar)"
+        },
+        {
+          "name": "Ring of Cryptic Dreams",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Badge vendor — 41 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Quagmirran's Eye",
+          "source": "Heroic Slave Pens — Quagmirran"
+        },
+        {
+          "name": "Scryer's Bloodgem",
+          "source": "The Scryers — Revered"
+        },
+        {
+          "name": "Arcanist's Stone",
+          "source": "Heroic Old Hillsbrad — Epoch Hunter"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Talon of the Tempest",
+          "source": "World boss — Doomwalker"
+        },
+        {
+          "name": "Gladiator's Spellblade",
+          "source": "Arena vendor — Arena Points"
+        },
+        {
+          "name": "Blade of Wizardry",
+          "source": "World drop (BoE)"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Orb of the Soul-Eater",
+          "source": "Badge vendor — 25 Badges of Justice"
+        },
+        {
+          "name": "Lamp of Peaceful Radiance",
+          "source": "The Arcatraz — Harbinger Skyriss"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "The Black Stalk",
+          "source": "Heroic Underbog — The Black Stalker"
+        },
+        {
+          "name": "Nether Core's Control Rod",
+          "source": "The Arcatraz — Dalliah the Doomsayer"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power (+22 spell damage / +14 hit)",
+      "source": "The Sha'tar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+      "source": "Enchanting (Spell Strike if short on hit)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Soulfrost (+54 shadow/frost damage)",
+      "source": "Enchanting (Major Spellpower as budget option)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Spellpower (+12 spell damage)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+9 spell damage)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "expansion": "tbc",
+  "phase": "p2",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Four-piece Tier 5 (Nordrassil) plus healing off-pieces from Karazhan. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+  "updated": "2026-07-10",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Nordrassil Headguard (Tier 5)",
+          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Lord Sanguinar's Claim",
+          "source": "Tempest Keep — Kael'thas Sunstrider"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Nordrassil Life-Mantle (Tier 5)",
+          "source": "Tempest Keep — Void Reaver (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sunshower Light Cloak",
+          "source": "Tempest Keep — Kael'thas Sunstrider"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Nordrassil Chestguard (Tier 5)",
+          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Grove-Bands of Remulos",
+          "source": "Serpentshrine Cavern — The Lurker Below"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Mitts of the Treemender",
+          "source": "Karazhan — Maiden of Virtue"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of Zaetar",
+          "source": "Tempest Keep — Void Reaver"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Earthsoul Leggings",
+          "source": "Karazhan — Opera Event"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Orca-Hide Boots",
+          "source": "Serpentshrine Cavern — Leotheras the Blind"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Coral Band of the Revived",
+          "source": "Serpentshrine Cavern — Lady Vashj"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Jade Ring of the Everliving",
+          "source": "Karazhan — Prince Malchezaar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "Badge vendor — 41 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Direbrew Hops",
+          "source": "Brewfest — Coren Direbrew"
+        },
+        {
+          "name": "Oshu'gun Relic",
+          "source": "Nagrand — Gava'xi"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Lightfathom Scepter",
+          "source": "Serpentshrine Cavern — Lady Vashj"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Tears of Heaven",
+          "source": "Badge vendor — 25 Badges of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Idol",
+      "items": [
+        {
+          "name": "Idol of the Emerald Queen",
+          "source": "Shadow Labyrinth — Ambassador Hellmaw"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+      "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Faith (+46 healing)",
+      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Subtlety (-2% threat)",
+      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Major Spirit (+15 spirit)",
+      "source": "Enchanting (Restore Mana Prime as alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer — Superior Healing (+30 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Healing (+35 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread (+66 healing / +20 stamina)",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Healing (+81 healing)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Healing Power (+20 healing)",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Shadow Pearl (+9 healing / +4 spirit)"
+    }
+  ]
+}
