@@ -1,0 +1,230 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "rogue",
+  "spec": "assassination",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Rogue Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Duplicitous Guise",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Clutch of Demise",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Slayer's Shoulderpads",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Cloak of Unforgivable Sin",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Bladed Chaos Tunic",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Slayer's Bracers",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gloves of Immortal Dusk",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Slayer's Belt",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Immortal Night",
+          "source": "Felmyst Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Slayer's Boots",
+          "source": "Felmyst Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Stormrage Signet Ring",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of Ruinous Delight",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Dragonspine Trophy",
+          "source": "Gruul The Dragonkiller Gruul's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackened Naaru Sliver",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Warglaive of Azzinoth",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Warglaive of Azzinoth",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Golden Bow of Quel'Thalas",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Assault",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet*",
+      "name": "Enchant Boots - Dexterity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Mongoose",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage) — or Swift Skyfire Diamond"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Living Ruby (+8 Agi) once hit-capped — or Glinting Noble Topaz/Pyrestone (Agi/hit) before that"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid Dawnstone (+8 crit) — or Rigid Lionseye; ignore non-red/yellow socket bonuses"
+    },
+    {
+      "color": "Blue",
+      "name": "Shifting Nightseye (+5 dodge / +6 stamina) — or Shifting Shadowsong Amethyst, only enough to activate the meta"
+    }
+  ]
+}

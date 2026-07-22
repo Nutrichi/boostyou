@@ -1,0 +1,213 @@
+{
+  "expansion": "classic",
+  "phase": "p2",
+  "class": "paladin",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Holy Paladin Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Crystal Adorned Crown",
+          "source": "Azuregos"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Animated Chain Necklace",
+          "source": "Ramstein the Gorger Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wild Growth Spaulders",
+          "source": "Majordomo Executus Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Hide of the Wild",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Exalted",
+          "source": "Baron Rivendare Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Wrist",
+      "items": [
+        {
+          "name": "Gallant's Wristguards",
+          "source": "Guards Dire Maul North"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Harmonious Gauntlets",
+          "source": "King Gordok Dire Maul North"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Sash of Mercy",
+          "source": "BoE World Drop"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Salamander Scale Pants",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Marshal's Lamellar Boots",
+          "source": "PvP Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Cauterizing Band",
+          "source": "Majordomo Executus Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Fordring's Seal",
+          "source": "In Dreams"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Shard of the Scale",
+          "source": "Onyxia Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Briarwood Reed",
+          "source": "Jed Runewatcher Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 3",
+      "items": [
+        {
+          "name": "Second Wind",
+          "source": "Golem Lord Argelmach Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Grand Marshal's Warhammer",
+          "source": "PvP Rank 14"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Lei of the Lifegiver",
+          "source": "Alterac Valley Exalted"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

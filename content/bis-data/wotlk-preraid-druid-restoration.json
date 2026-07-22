@@ -1,0 +1,235 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Restoration Druid Healer gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Runetotem's Headpiece of Triumph",
+          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Sapphire Amulet of Renewal",
+          "source": "60 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Runetotem's Spaulders of Triumph",
+          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Refreshing Winds",
+          "source": "30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Merlin's Robe",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bindings of the Ashen Saint",
+          "source": "30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Runetotem's Handguards of Triumph",
+          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Pale Thorns",
+          "source": "38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Runetotem's Leggings of Triumph",
+          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Blessed Cenarion Boots",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Conductive Seal",
+          "source": "60 Defiler's Scourgestone 30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Circle of the Darkmender",
+          "source": "60 Defiler's Scourgestone 30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Solace of the Defeated",
+          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Solace of the Fallen",
+          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+        },
+        {
+          "name": "Show of Faith",
+          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Icecore Staff",
+          "source": "Animated Constellation — Dalaran, 38 Sidereal Essence"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Idol of Awakening",
+          "source": "25 Emblem of Valor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Exceptional Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Shield — Greater Intellect",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+    }
+  ]
+}

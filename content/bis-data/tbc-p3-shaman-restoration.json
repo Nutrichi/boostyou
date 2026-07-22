@@ -1,0 +1,282 @@
+{
+  "expansion": "tbc",
+  "phase": "p3",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Restoration Shaman Healer gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Skyshatter Helmet",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Helm of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Nature's Mercy",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Skyshatter Shoulderpads",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Pauldrons of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of the Highborne",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Skyshatter Chestguard",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Chestguard of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Living Earth Bindings",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Botanist's Gloves of Growth",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Naturalist's Preserving Cinch",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Belt of Primal Majesty",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Angelista's Sash",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Skyshatter Leggings",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Leggings of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Treads of the Life Path",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Two-toed Sandals",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Blessed Band of Karabor",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Signet of the Quiet Forest",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Band of the Eternal Restorer",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Memento of Tyrande",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Essence of the Martyr",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Direbrew Hops",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Scarab of the Infinite Cycle",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Crystal Spire of Karabor",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Bastion of Light",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Felstone Bulwark",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Totem of Healing Rains",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal — from Thrallmar",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Faith — available once at Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Shadow Resistance",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Restore Mana Prime (Mana issues)",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Superior Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Intellect",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Healing Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond (+16 Int, mana-restore proc) — or Bracing Earthstorm Diamond if mana isn't an issue"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Crimson Spinel (+8 spell healing)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Lionseye (+4 spell healing / +4 haste) — used to unlock the meta"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Shadowsong Amethyst (+4 spell healing / +6 spirit)"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p4",
+  "class": "paladin",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Protection Paladin Tank gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Faceplate of the Impenetrable",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendant of Titans",
+          "source": "Reliquary of the Lost Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Lightbringer Shoulderguards",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Slikk's Cloak of Placation",
+          "source": "35 Badge of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Lightbringer Chestguard",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "The Seeker's Wristguards",
+          "source": "Shade of Akama Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Lightbringer Handguards",
+          "source": "Azgalor Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Girdle of Mighty Resolve",
+          "source": "Gurtogg Bloodboil Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Lightbringer Legguards",
+          "source": "The Illidari Council Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Tide-stomper's Greaves",
+          "source": "High Warlord Naj'entus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of the Abyssal Lord",
+          "source": "Supremus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ashyen's Gift",
+          "source": "Cenarion Expedition Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Hex Lord Malacrass Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Shadowmoon Insignia",
+          "source": "Gurtogg Bloodboil Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Tempest of Chaos",
+          "source": "Archimonde Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Bulwark of Azzinoth",
+          "source": "Supremus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Tome of the Lightbringer",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of the Defender — from the Keepers of Time in Caverns of Time.",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Knight",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Dodge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Health",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Fortitude",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercleft Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Fortitude",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Major Stamina",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Powerful Earthstorm Diamond (+16 stamina, +2% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Solid Star of Elune (+8 stamina) — used in most sockets regardless of color"
+    },
+    {
+      "color": "Yellow",
+      "name": "Solid Star of Elune (+8 stamina)"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Star of Elune (+8 stamina)"
+    }
+  ]
+}

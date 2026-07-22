@@ -1,0 +1,13 @@
+WoW Classic Era BiS lists are live — all 27 specs, every phase, Pre-Raid through Naxxramas
+
+The BiS browser now covers the original WoW Classic (2019) release in full: Pre-Raid, Phase 1 (Molten Core & Onyxia's Lair), Phase 2, Phase 3 (Blackwing Lair), Phase 4, Phase 5 (Ahn'Qiraj) and Phase 6 (Naxxramas) — 189 lists across every class and spec.
+
+Two honest notes on sourcing: our Phase 2 slot is filled with Icy Veins' own "refined" Molten Core/Onyxia list (with PvP and world boss items added) rather than a dedicated Dire Maul list — no such table exists on the source. Our Phase 4 slot uses Icy Veins' "Phase 4" table, which the guide itself describes as covering "Zul'Gurub and Blackwing Lair" gear together. Both are called out directly in the affected lists' notes.
+
+One more thing worth knowing if you're new to Classic: there are no gem sockets in this era at all — Blizzard didn't add those until Cataclysm, so don't go looking for a gems section here.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick Classic, your phase, your class and spec. Every item links to Wowhead.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+With this, Classic Era joins TBC as a fully-covered expansion on the site.

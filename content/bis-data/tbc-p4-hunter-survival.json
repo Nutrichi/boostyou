@@ -1,0 +1,225 @@
+{
+  "expansion": "tbc",
+  "phase": "p4",
+  "class": "hunter",
+  "spec": "survival",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Survival Hunter Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Gronnstalker's Helmet",
+          "source": "Archimonde — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Telonicus's Pendant of Mayhem",
+          "source": "Kael'thas Sunstrider — Tempest Keep"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Gronnstalker's Spaulders",
+          "source": "Mother Shahraz — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Thalassian Wildercloak",
+          "source": "Kael'thas Sunstrider — Tempest Keep"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Gronnstalker's Chestguard",
+          "source": "Illidan Stormrage — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Insidious Bands",
+          "source": "Teron Gorefiend — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gronnstalker's Gloves",
+          "source": "Azgalor — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Don Alejandro's Money Belt",
+          "source": "Anetheron — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Bow-stitched Leggings",
+          "source": "Azgalor — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Shadowmaster's Boots",
+          "source": "Mother Shahraz — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Signet of Primal Wrath",
+          "source": "Timed Chest in Zul'Aman The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Band of the Eternal Champion",
+          "source": "Timed Chest in Zul'Aman The Scale of the Sands — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Dragonspine Trophy",
+          "source": "Gruul The Dragonkiller — Gruul's Lair The Illidari Council — Black Temple"
+        },
+        {
+          "name": "Madness of the Betrayer",
+          "source": "Gruul The Dragonkiller — Gruul's Lair The Illidari Council — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapon",
+      "items": [
+        {
+          "name": "Blade of Infamy",
+          "source": "Anetheron — Hyjal Summit Anetheron — Hyjal Summit"
+        },
+        {
+          "name": "Blade of Infamy",
+          "source": "Anetheron — Hyjal Summit Anetheron — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Bristleblitz Striker",
+          "source": "Archimonde — Hyjal Summit"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity — from the Cenarion Expedition in Zangarmarsh.",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas . Greater Inscription of the Blade",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Assault",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Dexterity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "One-Handed Weapons",
+      "name": "Enchant Weapon - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Two-Handed Weapon",
+      "name": "Enchant 2H Weapon - Major Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Stabilized Eternium Scope",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Crimson Spinel (+8 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Wicked Pyrestone (+4 Agi / +4 hit)"
+    },
+    {
+      "color": "Blue",
+      "name": "Jagged Seaspray Emerald (+4 crit / +6 stamina) — or a green Agi/Hit gem to satisfy yellow+blue meta requirements at once"
+    }
+  ]
+}

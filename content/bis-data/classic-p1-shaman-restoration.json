@@ -1,0 +1,306 @@
+{
+  "expansion": "classic",
+  "phase": "p1",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Restoration Shaman Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Earthfury Helmet",
+          "source": "Garr in Molten Core Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Helmet of Ten Storms",
+          "source": "Garr in Molten Core Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros in Molten Core Ramstein the Gorger in (side-entrance) Stratholme General Drakkisath in Upper Blackrock Spire World drop BoE"
+        },
+        {
+          "name": "Animated Chain Necklace",
+          "source": "Ragnaros in Molten Core Ramstein the Gorger in (side-entrance) Stratholme General Drakkisath in Upper Blackrock Spire World drop BoE"
+        },
+        {
+          "name": "Tooth of Gnarr",
+          "source": "Ragnaros in Molten Core Ramstein the Gorger in (side-entrance) Stratholme General Drakkisath in Upper Blackrock Spire World drop BoE"
+        },
+        {
+          "name": "Jeweled Amulet of Cainwyn",
+          "source": "Ragnaros in Molten Core Ramstein the Gorger in (side-entrance) Stratholme General Drakkisath in Upper Blackrock Spire World drop BoE"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wild Growth Spaulders",
+          "source": "Majordomo Executus in Molten Core Baron Geddon in Molten Core"
+        },
+        {
+          "name": "Earthfury Epaulets",
+          "source": "Majordomo Executus in Molten Core Baron Geddon in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Hide of the Wild",
+          "source": "Leatherworking Archivist Galford in (main-entrance) Stratholme"
+        },
+        {
+          "name": "Archivist Cape",
+          "source": "Leatherworking Archivist Galford in (main-entrance) Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Exalted",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core"
+        },
+        {
+          "name": "Red Dragonscale Breastplate",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core"
+        },
+        {
+          "name": "Earthfury Vestments",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Loomguard Armbraces",
+          "source": "Kirtonos the Herald in Scholomance Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Earthfury Bracers",
+          "source": "Kirtonos the Herald in Scholomance Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Flarecore Wraps",
+          "source": "Kirtonos the Herald in Scholomance Molten Core drop BoE Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Hands of the Exalted Herald",
+          "source": "High Priestess of Thaurissan in Blackrock Depths Gehennas in Molten Core"
+        },
+        {
+          "name": "Earthfury Gauntlets",
+          "source": "High Priestess of Thaurissan in Blackrock Depths Gehennas in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Sash of Mercy",
+          "source": "World drop BoE Various Bosses in Molten Core Molten Core drop BoE"
+        },
+        {
+          "name": "Mana Igniting Cord",
+          "source": "World drop BoE Various Bosses in Molten Core Molten Core drop BoE"
+        },
+        {
+          "name": "Earthfury Belt",
+          "source": "World drop BoE Various Bosses in Molten Core Molten Core drop BoE"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Salamander Scale Pants",
+          "source": "Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core"
+        },
+        {
+          "name": "Flarecore Leggings",
+          "source": "Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core"
+        },
+        {
+          "name": "Earthfury Legguards",
+          "source": "Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core"
+        },
+        {
+          "name": "Legplates of Ten Storms",
+          "source": "Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Full Moon",
+          "source": "Captain Kromcrush in Dire Maul North Hydrospawn in Dire Maul East Lucifron in Molten Core"
+        },
+        {
+          "name": "Waterspout Boots",
+          "source": "Captain Kromcrush in Dire Maul North Hydrospawn in Dire Maul East Lucifron in Molten Core"
+        },
+        {
+          "name": "Earthfury Boots",
+          "source": "Captain Kromcrush in Dire Maul North Hydrospawn in Dire Maul East Lucifron in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Cauterizing Band",
+          "source": "Majordomo Executus in Molten Core In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Fordring's Seal",
+          "source": "Majordomo Executus in Molten Core In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        },
+        {
+          "name": "Rosewine Circle",
+          "source": "Majordomo Executus in Molten Core In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Enamored Water Spirit",
+          "source": "Da Voodoo in Sunken Temple Onyxia in Onyxia's Lair Jed Runewatcher in Upper Blackrock Spire Golem Lord Argelmach in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Shard of the Scale",
+          "source": "Da Voodoo in Sunken Temple Onyxia in Onyxia's Lair Jed Runewatcher in Upper Blackrock Spire Golem Lord Argelmach in Blackrock Depths"
+        },
+        {
+          "name": "Briarwood Reed",
+          "source": "Da Voodoo in Sunken Temple Onyxia in Onyxia's Lair Jed Runewatcher in Upper Blackrock Spire Golem Lord Argelmach in Blackrock Depths"
+        },
+        {
+          "name": "Second Wind",
+          "source": "Da Voodoo in Sunken Temple Onyxia in Onyxia's Lair Jed Runewatcher in Upper Blackrock Spire Golem Lord Argelmach in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "2H Weapons",
+      "items": [
+        {
+          "name": "Staff of Dominance",
+          "source": "Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "1H Weapons",
+      "items": [
+        {
+          "name": "Aurastone Hammer",
+          "source": "Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hands",
+      "items": [
+        {
+          "name": "Malistar's Defender",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+        },
+        {
+          "name": "Fire Runed Grimoire",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Serenity — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

@@ -1,0 +1,290 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "shaman",
+  "spec": "elemental",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Elemental Shaman Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Cowl of Gul'dan",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendant of Sunfire",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Amulet of Unfettered Magics",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Skyshatter Mantle",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Pauldrons of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Tattered Cape of Antonidas",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sunfire Robe",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Garments of Crashing Shores",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Sunmote",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Skyshatter Bands",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Bracers of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gauntlets of the Ancient Shadowmoon",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Skyshatter Cord",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Belt of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Chain Links of the Tumultuous Storm",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Skyshatter Treads",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Boots of the Forgotten Protector",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Ring of Omnipotence",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Loop of Forged Power",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Ring of Ancient Knowledge",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Band of the Eternal Sage",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Shifting Naaru Sliver",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "The Skull of Gul'dan",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "The Lightning Capacitor",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Dark Iron Smoking Pipe",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Sunflare",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Heart of the Pit",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Antonidas's Aegis of Rapt Concentration",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Relics",
+      "items": [
+        {
+          "name": "Totem of Ancestral Guidance",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Discipline — available once at Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Spell Penetration",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Intellect",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Crimson Spinel (+8 spell damage)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Pyrestone (+4 spell damage / +4 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Shadowsong Amethyst (+4 spell damage / +6 spirit) — need two to unlock the meta"
+    }
+  ]
+}

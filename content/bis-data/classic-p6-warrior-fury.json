@@ -1,0 +1,225 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "warrior",
+  "spec": "fury",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Lionheart Helm",
+          "source": "Blacksmithing"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Stormrage's Talisman of Seething",
+          "source": "Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Conqueror's Spaulders",
+          "source": "Viscidus or Princess Huhuran in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of Dominion",
+          "source": "Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Plated Abomination Ribcage",
+          "source": "Thaddius in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Wristguards of Vengeance",
+          "source": "Anub'Rekhan in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gauntlets of Annihilation",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Girdle of the Mentor",
+          "source": "Instructor Razuvious in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of Carnage",
+          "source": "Heigan the Unclean in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Chromatic Boots",
+          "source": "Chromaggus in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Unnatural Forces",
+          "source": "Loatheb in Naxxramas Alterac Valley Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Don Julio's Band",
+          "source": "Loatheb in Naxxramas Alterac Valley Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Drake Fang Talisman",
+          "source": "Ebonroc in Blackwing Lair Voodoo Feathers in Sunken Temple Sapphiron in Naxxramas Maexxna in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Diamond Flask",
+          "source": "Ebonroc in Blackwing Lair Voodoo Feathers in Sunken Temple Sapphiron in Naxxramas Maexxna in Naxxramas"
+        },
+        {
+          "name": "Slayer's Crest",
+          "source": "Ebonroc in Blackwing Lair Voodoo Feathers in Sunken Temple Sapphiron in Naxxramas Maexxna in Naxxramas"
+        },
+        {
+          "name": "Kiss of the Spider",
+          "source": "Ebonroc in Blackwing Lair Voodoo Feathers in Sunken Temple Sapphiron in Naxxramas Maexxna in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Gressil, Dawn of Ruin",
+          "source": "Kel'Thuzad in Naxxramas Kel'Thuzad in Naxxramas"
+        },
+        {
+          "name": "The Hungering Cold",
+          "source": "Kel'Thuzad in Naxxramas Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Might of Menethil",
+          "source": "Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Soulstring",
+          "source": "The Four Horsemen in Naxxramas"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon(s)",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

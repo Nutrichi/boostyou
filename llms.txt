@@ -16,16 +16,16 @@ Current game state covered (July 2026):
 
 ### Latest news posts (static pages)
 
+- [WotLK Pre-Raid BiS lists are live for all 30 specs](https://boostyou.ai/content/news-2026-07-22-wotlk-preraid-bis-lists-live.html) (2026-07-22)
 - [WotLK Tier 10 BiS lists are live for all 30 specs — Icecrown Citadel and The Ruby Sanctum](https://boostyou.ai/content/news-2026-07-22-wotlk-p4-icc-bis-lists-live.html) (2026-07-22)
+- [WotLK Phase 3 BiS lists are live for all 30 specs — Trial of the Crusader](https://boostyou.ai/content/news-2026-07-22-wotlk-p3-bis-lists-live.html) (2026-07-22)
+- [WotLK Phase 2 BiS lists are live for all 30 specs — Ulduar](https://boostyou.ai/content/news-2026-07-22-wotlk-p2-bis-lists-live.html) (2026-07-22)
+- [WotLK Phase 1 BiS lists are live — Naxxramas, The Obsidian Sanctum & The Eye of Eternity](https://boostyou.ai/content/news-2026-07-22-wotlk-p1-bis-lists-live.html) (2026-07-22)
+- [TBC Phase 5 BiS lists are live for all 27 specs — Sunwell Plateau](https://boostyou.ai/content/news-2026-07-22-tbc-p5-sunwell-bis-lists-live.html) (2026-07-22)
+- [TBC Phase 3 & 4 BiS lists are live for all 27 specs — Black Temple, Mount Hyjal & Zul'Aman](https://boostyou.ai/content/news-2026-07-22-tbc-p3-p4-bis-lists-live.html) (2026-07-22)
 - [MoP Tier 15 BiS lists are live for all 34 specs — Throne of Thunder is fully covered](https://boostyou.ai/content/news-2026-07-22-mop-t15-bis-lists-live.html) (2026-07-22)
-- [TBC Phase 1 BiS lists are live for all 27 specs — Karazhan, Gruul & Magtheridon](https://boostyou.ai/content/news-2026-07-20-tbc-p1-bis-lists-live.html) (2026-07-20)
-- [MoP Tier 14 BiS lists are live for all 34 specs — Vaults, Heart of Fear & Terrace](https://boostyou.ai/content/news-2026-07-20-mop-t14-bis-lists-live.html) (2026-07-20)
-- [Fresh 90? MoP pre-raid BiS lists are live for all 34 specs](https://boostyou.ai/content/news-2026-07-19-mop-preraid-bis-lists-live.html) (2026-07-19)
-- [Fresh 70? TBC pre-raid BiS lists are live for all 27 specs](https://boostyou.ai/content/news-2026-07-10-tbc-preraid-bis-lists-live.html) (2026-07-10)
-- [SSC & Tempest Keep BiS lists are live for every TBC class](https://boostyou.ai/content/news-2026-07-10-tbc-p2-bis-lists-live.html) (2026-07-10)
-- [Siege of Orgrimmar BiS lists are live for all 34 specs](https://boostyou.ai/content/news-2026-07-10-mop-soo-bis-lists-live.html) (2026-07-10)
-- [TBC Anniversary Phase 2 is live: Serpentshrine Cavern & Tempest Keep](https://boostyou.ai/content/news-2026-07-07-tbc-anniversary-phase-2-is-live.html) (2026-07-07)
-- [MoP Classic opens Siege of Orgrimmar](https://boostyou.ai/content/news-2026-06-28-mop-classic-siege-of-orgrimmar.html) (2026-06-28)
+- [Classic Era Pre-Raid BiS lists are live — Holy/Discipline Priest and Protection Warrior](https://boostyou.ai/content/news-2026-07-22-classic-preraid-bis-lists-live.html) (2026-07-22)
+- [WoW Classic Era BiS lists are live — all 27 specs, every phase, Pre-Raid through Naxxramas](https://boostyou.ai/content/news-2026-07-22-classic-era-bis-lists-complete.html) (2026-07-22)
 
 <!-- news-pages:end -->
 ## Leveling Routes
@@ -56,7 +56,7 @@ Current game state covered (July 2026):
 
 ## BiS Lists (PvE Best in Slot)
 
-- [BiS list index](https://boostyou.ai/content/bis-all.html): 247 published lists — per-spec BiS gear with exact drop sources, enchants and gems. Covered so far: MoP p1, MoP p2, MoP p3, MoP preraid, TBC p1, TBC p2, TBC preraid, WotLK p4. Individual pages: /content/bis-<expansion>-<phase>-<class>-<spec>.html, e.g. /content/bis-mop-p3-warrior-arms.html.
+- [BiS list index](https://boostyou.ai/content/bis-all.html): 625 published lists — per-spec BiS gear with exact drop sources, enchants and gems. Covered so far: Classic p1, Classic p2, Classic p3, Classic p4, Classic p5, Classic p6, Classic preraid, MoP p1, MoP p2, MoP p3, MoP preraid, TBC p1, TBC p2, TBC p3, TBC p4, TBC p5, TBC preraid, WotLK p1, WotLK p2, WotLK p3, WotLK p4, WotLK preraid. Individual pages: /content/bis-<expansion>-<phase>-<class>-<spec>.html, e.g. /content/bis-mop-p3-warrior-arms.html.
 - [Interactive BiS browser](https://boostyou.ai/content/bis.html): same data, pick expansion → phase → class → spec.
 - Raw data (JSON, one file per list): https://boostyou.ai/content/bis-data/<expansion>-<phase>-<class>-<spec>.json
 

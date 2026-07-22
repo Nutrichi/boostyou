@@ -1,0 +1,314 @@
+{
+  "expansion": "classic",
+  "phase": "p2",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Enhancement Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Crown of Destruction",
+          "source": "Ragnaros in Molten Core Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Warlord's Mail Helm",
+          "source": "Ragnaros in Molten Core Bought from the PvP Vendor at Rank 13"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "For All To See / Celebrating Good Times quests from turning in Head of Onyxia looted from Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Warlord's Mail Spaulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Pyroguard Emberseer in Upper Blackrock Spire Leatherworking"
+        },
+        {
+          "name": "Truestrike Shoulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Pyroguard Emberseer in Upper Blackrock Spire Leatherworking"
+        },
+        {
+          "name": "Black Dragonscale Shoulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Pyroguard Emberseer in Upper Blackrock Spire Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Puissant Cape",
+          "source": "Azuregos Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Azuregos Baron Rivendare in (side-entrance) Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Savage Gladiator Chain",
+          "source": "Gorosh the Dervish in Blackrock Depths Leatherworking Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Black Dragonscale Breastplate",
+          "source": "Gorosh the Dervish in Blackrock Depths Leatherworking Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Warlord's Mail Armor",
+          "source": "Gorosh the Dervish in Blackrock Depths Leatherworking Bought from the PvP Vendor at Rank 13"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Wristguards of True Flight",
+          "source": "Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West The Beast in Upper Blackrock Spire"
+        },
+        {
+          "name": "Bracers of the Eclipse",
+          "source": "Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West The Beast in Upper Blackrock Spire"
+        },
+        {
+          "name": "Blackmist Armguards",
+          "source": "Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West The Beast in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "General's Mail Gauntlets",
+          "source": "Bought from the PvP Vendor at Rank 12 Lord Kazzak Leatherworking"
+        },
+        {
+          "name": "Doomhide Gauntlets",
+          "source": "Bought from the PvP Vendor at Rank 12 Lord Kazzak Leatherworking"
+        },
+        {
+          "name": "Devilsaur Gauntlets",
+          "source": "Bought from the PvP Vendor at Rank 12 Lord Kazzak Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cloudrunner Girdle",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Side bosses in Scholomance"
+        },
+        {
+          "name": "Bloodmail Belt",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Side bosses in Scholomance"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Devilsaur Leggings",
+          "source": "Leatherworking Leatherworking Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Black Dragonscale Leggings",
+          "source": "Leatherworking Leatherworking Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Leggings",
+          "source": "Leatherworking Leatherworking Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sabatons of the Flamewalker",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Bloodmail Boots",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Black Dragonscale Boots",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Boots",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Quick Strike Ring",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Painweaver Band",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Hand of Justice",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+        },
+        {
+          "name": "Rune of the Guard Captain",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Sulfuras, Hand of Ragnaros",
+          "source": "Created through a quest chain, starting from getting the Eye of Sulfuras from Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core"
+        },
+        {
+          "name": "High Warlord's Battle Axe",
+          "source": "Created through a quest chain, starting from getting the Eye of Sulfuras from Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core"
+        },
+        {
+          "name": "Spinal Reaper",
+          "source": "Created through a quest chain, starting from getting the Eye of Sulfuras from Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "High Warlord's Cleaver",
+          "source": "Bought from the PvP Vendor at Rank 14 Onyxia in Onyxia's Lair Lord Kazzak"
+        },
+        {
+          "name": "Deathbringer",
+          "source": "Bought from the PvP Vendor at Rank 14 Onyxia in Onyxia's Lair Lord Kazzak"
+        },
+        {
+          "name": "Empyrean Demolisher",
+          "source": "Bought from the PvP Vendor at Rank 14 Onyxia in Onyxia's Lair Lord Kazzak"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Malistar's Defender",
+          "source": "Ragnaros in Molten Core Shards of the Felvine in Dire Maul East Various Bosses in Molten Core"
+        },
+        {
+          "name": "Milli's Lexicon",
+          "source": "Ragnaros in Molten Core Shards of the Felvine in Dire Maul East Various Bosses in Molten Core"
+        },
+        {
+          "name": "Fire Runed Grimoire",
+          "source": "Ragnaros in Molten Core Shards of the Felvine in Dire Maul East Various Bosses in Molten Core"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Damage : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Damage : Enchant Bracer - Superior Strength Totem Twisting : Enchant Bracer - Mana Regeneration",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

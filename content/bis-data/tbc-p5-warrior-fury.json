@@ -1,0 +1,240 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "warrior",
+  "spec": "fury",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Fury Warrior Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Coif of Alleria",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Hard Khorium Choker",
+          "source": "Jewelcrafting"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Pauldrons of Berserking",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Cloak of Unforgivable Sin",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Bladed Chaos Tunic",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Onslaught Bracers",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Thalassian Ranger Gauntlets",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Onslaught Belt",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Felfury Legplates",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Onslaught Treads",
+          "source": "Felmyst Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Ruinous Delight",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Hard Khorium Band",
+          "source": "Jewelcrafting"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Dragonspine Trophy",
+          "source": "Gruul the Dragonkiller Gruul's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackened Naaru Sliver",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Warglaive of Azzinoth",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Warglaive of Azzinoth",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Golden Bow of Quel'Thalas",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Brawn",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Strength",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Cat's Swiftness",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Finger",
+      "name": "Enchant Ring - Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Main Hand Weapon",
+      "name": "Enchant Weapon - Executioner",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Off Hand Weapon",
+      "name": "Enchant Weapon - Mongoose",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+37 crit rating, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Inscribed Noble Topaz (+8 Str) — or Inscribed Pyrestone"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid Dawnstone (+8 crit) — or Smooth Dawnstone/Lionseye for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Jagged Talasite (+4 crit / +6 stamina) — or Jagged Seaspray Emerald"
+    }
+  ]
+}

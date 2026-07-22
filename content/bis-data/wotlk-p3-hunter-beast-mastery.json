@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "p3",
+  "class": "hunter",
+  "spec": "beast-mastery",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Beast Mastery Hunter Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Windrunner's Headpiece of Triumph",
+          "source": "Via Regalia of the Grand Protector from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Charge of the Eredar",
+          "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Windrunner's Spaulders of Triumph",
+          "source": "Via Regalia of the Grand Protector from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sylvanas' Cunning",
+          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Cuirass of Cruel Intent",
+          "source": "Beasts of Northrend — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of the Silent Massacre",
+          "source": "Faction Champions — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Windrunner's Handguards of Triumph",
+          "source": "Via Regalia of the Grand Protector from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Waistguard of Deathly Dominion",
+          "source": "Anub'arak — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Windrunner's Legguards of Triumph",
+          "source": "Via Regalia of the Grand Protector from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Greaves of Ruthless Judgment",
+          "source": "Twin Valkyr — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Callous Aggression",
+          "source": "Anub'arak — Trial of the Crusader 25-Man HM Quest Item from Algalon the Observer — Ulduar 25m"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Brann's Signet Ring",
+          "source": "Anub'arak — Trial of the Crusader 25-Man HM Quest Item from Algalon the Observer — Ulduar 25m"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Death's Choice",
+          "source": "Twin Valkyr — Trial of the Crusader 25-Man HM Thorim — Ulduar 10-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Mjolnir Runestone",
+          "source": "Twin Valkyr — Trial of the Crusader 25-Man HM Thorim — Ulduar 10-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapon",
+      "items": [
+        {
+          "name": "Hellion Glaive",
+          "source": "Anub'arak — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Fezzik's Autocannon",
+          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Superior Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon — Superior Potency",
+      "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Heartseeker Scope",
+      "source": "Engineering (crafted scope, usable by all)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Cardinal Ruby (+23 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+    }
+  ]
+}

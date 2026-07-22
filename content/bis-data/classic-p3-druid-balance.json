@@ -1,0 +1,295 @@
+{
+  "expansion": "classic",
+  "phase": "p3",
+  "class": "druid",
+  "spec": "balance",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Balance Druid Ranged Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Mish'undare, Circlet of the Mind Flayer",
+          "source": "Nefarian in Blackwing Lair Auction House"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros in Molten Core Darkmoon Faire 1200 Ticket reward Balnazzar in Stratholme"
+        },
+        {
+          "name": "Orb of the Darkmoon",
+          "source": "Ragnaros in Molten Core Darkmoon Faire 1200 Ticket reward Balnazzar in Stratholme"
+        },
+        {
+          "name": "Star of Mystaria",
+          "source": "Ragnaros in Molten Core Darkmoon Faire 1200 Ticket reward Balnazzar in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of the Blackwing Cabal",
+          "source": "Razorgore the Untamed in Blackwing Lair Auction House"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Brood Lord",
+          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Archivist Cape",
+          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Sapphiron Drape",
+          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robe of Volatile Power",
+          "source": "Several bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Arcane Accuracy",
+          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Lord Incendius in Blackrock Depths The Unforgiven in Stratholme"
+        },
+        {
+          "name": "Dryad's Wrist Bindings",
+          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Lord Incendius in Blackrock Depths The Unforgiven in Stratholme"
+        },
+        {
+          "name": "Flameweave Cuffs",
+          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Lord Incendius in Blackrock Depths The Unforgiven in Stratholme"
+        },
+        {
+          "name": "Tearfall Bracers",
+          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Lord Incendius in Blackrock Depths The Unforgiven in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Slaghide Gauntlets",
+          "source": "Urok Doomhowl in Upper Blackrock Spire Quartermaster Zigris in Upper Blackrock Spire"
+        },
+        {
+          "name": "Hands of Power",
+          "source": "Urok Doomhowl in Upper Blackrock Spire Quartermaster Zigris in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Firemaw's Clutch",
+          "source": "Firemaw in Blackwing Lair Multiple bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
+        },
+        {
+          "name": "Mana Igniting Cord",
+          "source": "Firemaw in Blackwing Lair Multiple bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
+        },
+        {
+          "name": "Ban'thok Sash",
+          "source": "Firemaw in Blackwing Lair Multiple bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Skyshroud Leggings",
+          "source": "Auction House Highlord Omokk in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Snowblind Shoes",
+          "source": "Azuregos World Boss Auction House Golem Lord Argelmach in Blackrock Depths"
+        },
+        {
+          "name": "Omnicast Boots",
+          "source": "Azuregos World Boss Auction House Golem Lord Argelmach in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Multiple bosses in Molten Core Ebonroc in Blackwing Lair Reward from the quest The Princess Saved? in Blackrock Depths World drop bind on equip item"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of Forced Concentration",
+          "source": "Multiple bosses in Molten Core Ebonroc in Blackwing Lair Reward from the quest The Princess Saved? in Blackrock Depths World drop bind on equip item"
+        },
+        {
+          "name": "Eye of Orgrimmar",
+          "source": "Multiple bosses in Molten Core Ebonroc in Blackwing Lair Reward from the quest The Princess Saved? in Blackrock Depths World drop bind on equip item"
+        },
+        {
+          "name": "Songstone of Ironforge",
+          "source": "Multiple bosses in Molten Core Ebonroc in Blackwing Lair Reward from the quest The Princess Saved? in Blackrock Depths World drop bind on equip item"
+        },
+        {
+          "name": "Maiden's Circle",
+          "source": "Multiple bosses in Molten Core Ebonroc in Blackwing Lair Reward from the quest The Princess Saved? in Blackrock Depths World drop bind on equip item"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Neltharion's Tear",
+          "source": "Nefarian in Blackwing Lair Multiple Bosses in Molten Core Reward from the quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) Upper Blackrock Spire Jed Runewatcher in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Talisman of Ephemeral Power",
+          "source": "Nefarian in Blackwing Lair Multiple Bosses in Molten Core Reward from the quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) Upper Blackrock Spire Jed Runewatcher in Upper Blackrock Spire"
+        },
+        {
+          "name": "Eye of the Beast",
+          "source": "Nefarian in Blackwing Lair Multiple Bosses in Molten Core Reward from the quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) Upper Blackrock Spire Jed Runewatcher in Upper Blackrock Spire"
+        },
+        {
+          "name": "Briarwood Reed",
+          "source": "Nefarian in Blackwing Lair Multiple Bosses in Molten Core Reward from the quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) Upper Blackrock Spire Jed Runewatcher in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Weapons",
+      "items": [
+        {
+          "name": "High Warlord's Spellblade",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Claw of Chromaggus",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Fang of the Mystics",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Aurastone Hammer",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Staff of Dominance",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Ironbark Staff",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        },
+        {
+          "name": "Mindfang",
+          "source": "Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos World Boss Garr in Molten Core Golemagg the Incinerator in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hands",
+      "items": [
+        {
+          "name": "Tome of Arcane Domination",
+          "source": "Exalted with the Alterac Valley reputation The Lord of Blackrock in Blackwing Lair Bought from the PvP Vendor at Rank 14"
+        },
+        {
+          "name": "Master Dragonslayer's Orb",
+          "source": "Exalted with the Alterac Valley reputation The Lord of Blackrock in Blackwing Lair Bought from the PvP Vendor at Rank 14"
+        },
+        {
+          "name": "High Warlord's Tome of Destruction",
+          "source": "Exalted with the Alterac Valley reputation The Lord of Blackrock in Blackwing Lair Bought from the PvP Vendor at Rank 14"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

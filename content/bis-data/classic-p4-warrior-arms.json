@@ -1,0 +1,509 @@
+{
+  "expansion": "classic",
+  "phase": "p4",
+  "class": "warrior",
+  "spec": "arms",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 4\" table, which explicitly covers \"Zul'Gurub and Blackwing Lair\" gear together (per the source guide's own description) — used here for our Phase 4 (Zul'Gurub) slot, though some Blackwing Lair carryover items are included alongside genuine Zul'Gurub pieces. Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Lionheart Helm",
+          "source": "Blacksmithing Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 10 Vaelastrasz the Corrupt in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Warlord's Plate Headpiece",
+          "source": "Blacksmithing Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 10 Vaelastrasz the Corrupt in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Champion's Plate Helm",
+          "source": "Blacksmithing Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 10 Vaelastrasz the Corrupt in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Helm of Endless Rage",
+          "source": "Blacksmithing Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 10 Vaelastrasz the Corrupt in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Crown of Destruction",
+          "source": "Blacksmithing Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 10 Vaelastrasz the Corrupt in Blackwing Lair Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "Onyxia in Onyxia's Lair Hakkar in Zul'Gurub Darkmoon Faire 1200 Ticket reward In Dreams in Western Plaguelands"
+        },
+        {
+          "name": "The Eye of Hakkar",
+          "source": "Onyxia in Onyxia's Lair Hakkar in Zul'Gurub Darkmoon Faire 1200 Ticket reward In Dreams in Western Plaguelands"
+        },
+        {
+          "name": "Amulet of the Darkmoon",
+          "source": "Onyxia in Onyxia's Lair Hakkar in Zul'Gurub Darkmoon Faire 1200 Ticket reward In Dreams in Western Plaguelands"
+        },
+        {
+          "name": "Mark of Fordring",
+          "source": "Onyxia in Onyxia's Lair Hakkar in Zul'Gurub Darkmoon Faire 1200 Ticket reward In Dreams in Western Plaguelands"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Warlord's Plate Shoulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        },
+        {
+          "name": "Drake Talon Pauldrons",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        },
+        {
+          "name": "Defiler's Plate Spaulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        },
+        {
+          "name": "Champion's Plate Shoulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        },
+        {
+          "name": "Abyssal Plate Epaulets",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        },
+        {
+          "name": "Truestrike Shoulders",
+          "source": "Bought from the PvP Vendor at Rank 13 Drake bosses in Blackwing Lair Arathi Basin Exalted Bought from the PvP Vendor at Rank 10 Lord Skwol Pyroguard Emberseer in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Draconic Might",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Puissant Cape",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Cloak of Firemaw",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Windshear Cape",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Deathguard's Cloak",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        },
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Blackwing Lair trash mobs Azuregos Firemaw in Blackwing Lair High Marshal Whirlaxis Arathi Basin Exalted Baron Rivendare in (side-entrance) Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Savage Gladiator Chain",
+          "source": "Gorosh the Dervish in Blackrock Depths Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 8 Ebonroc in Blackwing Lair"
+        },
+        {
+          "name": "Warlord's Plate Armor",
+          "source": "Gorosh the Dervish in Blackrock Depths Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 8 Ebonroc in Blackwing Lair"
+        },
+        {
+          "name": "Legionnaire's Plate Hauberk",
+          "source": "Gorosh the Dervish in Blackrock Depths Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 8 Ebonroc in Blackwing Lair"
+        },
+        {
+          "name": "Malfurion's Blessed Bulwark",
+          "source": "Gorosh the Dervish in Blackrock Depths Bought from the PvP Vendor at Rank 13 Bought from the PvP Vendor at Rank 8 Ebonroc in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Berserker Bracers",
+          "source": "Warsong Gulch Exalted Baron Kazum Flamewalker Bosses in Molten Core Paragons of Power: The Vindicator's Armguards in Zul'Gurub Warchief Rend Blackhand in Upper Blackrock Spire"
+        },
+        {
+          "name": "Abyssal Plate Vambraces",
+          "source": "Warsong Gulch Exalted Baron Kazum Flamewalker Bosses in Molten Core Paragons of Power: The Vindicator's Armguards in Zul'Gurub Warchief Rend Blackhand in Upper Blackrock Spire"
+        },
+        {
+          "name": "Wristguards of Stability",
+          "source": "Warsong Gulch Exalted Baron Kazum Flamewalker Bosses in Molten Core Paragons of Power: The Vindicator's Armguards in Zul'Gurub Warchief Rend Blackhand in Upper Blackrock Spire"
+        },
+        {
+          "name": "Zandalar Vindicator's Armguards",
+          "source": "Warsong Gulch Exalted Baron Kazum Flamewalker Bosses in Molten Core Paragons of Power: The Vindicator's Armguards in Zul'Gurub Warchief Rend Blackhand in Upper Blackrock Spire"
+        },
+        {
+          "name": "Battleborn Armbraces",
+          "source": "Warsong Gulch Exalted Baron Kazum Flamewalker Bosses in Molten Core Paragons of Power: The Vindicator's Armguards in Zul'Gurub Warchief Rend Blackhand in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Edgemaster's Handguards",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        },
+        {
+          "name": "Flameguard Gauntlets",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        },
+        {
+          "name": "General's Plate Gauntlets",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        },
+        {
+          "name": "Chromatic Gauntlets",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        },
+        {
+          "name": "Sacrificial Gauntlets",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        },
+        {
+          "name": "Devilsaur Gauntlets",
+          "source": "World drop BoE Various Bosses in Molten Core Bought from the PvP Vendor at Rank 12 Leatherworking High Priest Bosses in Zul'Gurub Tribal Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Onslaught Girdle",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Zandalar Vindicator's Belt",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Therazane's Link",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Girdle of the Fallen Crusader",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Belt of Preserved Heads",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Brigam Girdle",
+          "source": "Ragnaros in Molten Core Paragons of Power: The Vindicator's Belt in Zul'Gurub Nefarian in Blackwing Lair Chromaggus in Blackwing Lair A Collection of Heads in Zul'Gurub General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "General's Plate Leggings",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Abyssal Plate Legplates",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Legguards of the Fallen Crusader",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Dark Heart Pants",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Cloudkeeper Legplates",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Devilsaur Leggings",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        },
+        {
+          "name": "Legionnaire's Plate Leggings",
+          "source": "Bought from the PvP Vendor at Rank 12 The Duke of Shards Firemaw in Blackwing Lair Lethon World drop BoE Tribal Leatherworking Bought from the PvP Vendor at Rank 8"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Chromatic Boots",
+          "source": "Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12 Side bosses in Scholomance Bought from the PvP Vendor at Rank 7"
+        },
+        {
+          "name": "General's Plate Boots",
+          "source": "Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12 Side bosses in Scholomance Bought from the PvP Vendor at Rank 7"
+        },
+        {
+          "name": "Bloodmail Boots",
+          "source": "Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12 Side bosses in Scholomance Bought from the PvP Vendor at Rank 7"
+        },
+        {
+          "name": "Blood Guard's Plate Greaves",
+          "source": "Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12 Side bosses in Scholomance Bought from the PvP Vendor at Rank 7"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Master Dragonslayer's Ring",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Quick Strike Ring",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Circle of Applied Force",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Don Julio's Band",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Band of Accuria",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Seal of Jin",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Band of Jin",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Seal of the Gurubashi Berserker",
+          "source": "The Lord of Blackrock in Blackwing Lair Multiple bosses in Molten Core Flamegor in Blackwing Lair Alterac Valley Exalted Ragnaros in Molten Core High Priest Thekal in Zul'Gurub High Priestess Mar'li in Zul'Gurub High Priest Bosses in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Diamond Flask",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Drake Fang Talisman",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        },
+        {
+          "name": "Hand of Justice",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        },
+        {
+          "name": "Blackhand's Breadth",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        },
+        {
+          "name": "Rune of the Guard Captain",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        },
+        {
+          "name": "Darkmoon Card: Maelstrom",
+          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair General Angerforge in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village Darkmoon Elementals Deck in Darkmoon Faire"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand / Off-Hand",
+      "items": [
+        {
+          "name": "Empyrean Demolisher",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "High Warlord's Cleaver",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Crul'shorukh, Edge of Chaos",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Chromatically Tempered Sword",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Maladath, Runed Blade of the Black Flight",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Deathbringer",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Vis'kag the Bloodletter",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Doom's Edge",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Brutality Blade",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Warblade of the Hakkari",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Warblade of the Hakkari",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        },
+        {
+          "name": "Ancient Hakkari Manslayer",
+          "source": "Lord Kazzak Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Broodlord Lashlayer in Blackwing Lair Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Blackwing Lair trash mobs Garr in Molten Core Hakkar in Zul'Gurub Bloodlord Mandokir in Zul'Gurub Hakkar in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Obsidian Edged Blade",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Bonereaver's Edge",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "High Warlord's Battle Axe",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "The Untamed Blade",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Sulfuras, Hand of Ragnaros",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Ashkandi, Greatsword of the Brotherhood",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Drake Talon Cleaver",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        },
+        {
+          "name": "Spinal Reaper",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 14 Razorgore the Untamed in Blackwing Lair Ragnaros in Molten Core Nefarian in Blackwing Lair Drake bosses in Blackwing Lair Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Striker's Mark",
+          "source": "Magmadar in Molten Core Hakkar in Zul'Gurub Golemagg the Incinerator in Molten Core Hero of the Frostwolf in Alterac Valley"
+        },
+        {
+          "name": "Gurubashi Dwarf Destroyer",
+          "source": "Magmadar in Molten Core Hakkar in Zul'Gurub Golemagg the Incinerator in Molten Core Hero of the Frostwolf in Alterac Valley"
+        },
+        {
+          "name": "Blastershot Launcher",
+          "source": "Magmadar in Molten Core Hakkar in Zul'Gurub Golemagg the Incinerator in Molten Core Hero of the Frostwolf in Alterac Valley"
+        },
+        {
+          "name": "Bloodseeker",
+          "source": "Magmadar in Molten Core Hakkar in Zul'Gurub Golemagg the Incinerator in Molten Core Hero of the Frostwolf in Alterac Valley"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon(s)",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

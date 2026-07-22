@@ -1,0 +1,290 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Enhancement Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Crown of Destruction",
+          "source": "Ragnaros in Molten Core The Only Prescription quest in Tanaris"
+        },
+        {
+          "name": "Gnomish Turban of Psychic Might",
+          "source": "Ragnaros in Molten Core The Only Prescription quest in Tanaris"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Stormrage's Talisman of Seething",
+          "source": "Kel'Thuzad in Naxxramas Vaelastrasz in Blackwing Lair"
+        },
+        {
+          "name": "Pendant of the Fallen Dragon",
+          "source": "Kel'Thuzad in Naxxramas Vaelastrasz in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of Wicked Revenge",
+          "source": "C'Thun in AQ40 C'Thun in AQ40"
+        },
+        {
+          "name": "Black Brood Pauldrons",
+          "source": "C'Thun in AQ40 C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Ghoul Skin Tunic",
+          "source": "Trash mobs in Naxxramas Fankriss The Unyielding in AQ40"
+        },
+        {
+          "name": "Robes of the Guardian Saint",
+          "source": "Trash mobs in Naxxramas Fankriss The Unyielding in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Qiraji Execution Bracers",
+          "source": "The Twin Emperors in AQ40 Razorgore the Untamed in Blackwing Lair"
+        },
+        {
+          "name": "Bracers of Ten Storms",
+          "source": "The Twin Emperors in AQ40 Razorgore the Untamed in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gloves of Enforcement",
+          "source": "Battleguard Sartura in AQ40 Princess Huhuran in AQ40"
+        },
+        {
+          "name": "Gloves of the Messiah",
+          "source": "Battleguard Sartura in AQ40 Princess Huhuran in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Belt of Never-ending Agony",
+          "source": "C'Thun in AQ40 C'Thun in AQ40"
+        },
+        {
+          "name": "Grasp of the Old God",
+          "source": "C'Thun in AQ40 C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Scaled Sand Reaver Leggings",
+          "source": "Fankriss The Unyielding in AQ40 Flamewalker Bosses in Molten Core"
+        },
+        {
+          "name": "Manastorm Leggings",
+          "source": "Fankriss The Unyielding in AQ40 Flamewalker Bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Shadow Flame",
+          "source": "Nefarian in Blackwing Lair Taerar"
+        },
+        {
+          "name": "Mendicant's Slippers",
+          "source": "Nefarian in Blackwing Lair Taerar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Unnatural Forces",
+          "source": "Loatheb in Naxxramas Viscidus in AQ40 Ragnaros in Molten Core Silithid Royalty in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of the Qiraji Fury",
+          "source": "Loatheb in Naxxramas Viscidus in AQ40 Ragnaros in Molten Core Silithid Royalty in AQ40"
+        },
+        {
+          "name": "Band of Sulfuras",
+          "source": "Loatheb in Naxxramas Viscidus in AQ40 Ragnaros in Molten Core Silithid Royalty in AQ40"
+        },
+        {
+          "name": "Ring of the Devoured",
+          "source": "Loatheb in Naxxramas Viscidus in AQ40 Ragnaros in Molten Core Silithid Royalty in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Kiss of the Spider",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Slayer's Crest",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        },
+        {
+          "name": "Jom Gabbar",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        },
+        {
+          "name": "Earthstrike",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        },
+        {
+          "name": "Shard of the Scale",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        },
+        {
+          "name": "Mindtap Talisman",
+          "source": "Maexxna in Naxxramas Sapphiron in Naxxramas Ouro in AQ40 Champion's Battlegear quest in Silithus Onyxia in Onyxia's Lair Magister Kalendris in Dire Maul West"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Nightfall",
+          "source": "Blacksmithing Kel'Thuzad in Naxxramas Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+        },
+        {
+          "name": "Might of Menethil",
+          "source": "Blacksmithing Kel'Thuzad in Naxxramas Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+        },
+        {
+          "name": "Blessed Qiraji Augur Staff",
+          "source": "Blacksmithing Kel'Thuzad in Naxxramas Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Misplaced Servo Arm",
+          "source": "Trash mobs in Naxxramas Garr in Molten Core"
+        },
+        {
+          "name": "Aurastone Hammer",
+          "source": "Trash mobs in Naxxramas Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Shield of Condemnation",
+          "source": "Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Totem of Rage",
+          "source": "Magmus in Blackrock Depths"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Damage : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Damage : Enchant Bracer - Superior Strength Totem Twisting : Enchant Bracer - Mana Regeneration",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

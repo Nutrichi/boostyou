@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "paladin",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Protection Paladin Tank gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Helm of Uther's Resolve",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Collar of the Pit Lord",
+          "source": "Brutallus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Lightbringer Shoulderguards",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Crimson Paragon's Cover",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Heroic Judicator's Chestguard",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Lightbringer Wristguards",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Lightbringer Handguards",
+          "source": "Azgalor Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Lightbringer Waistguard",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Judicator's Legguards",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Blue's Greaves of the Righteous Guardian",
+          "source": "75 Badge of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Fused Nethergon Band",
+          "source": "60 Badge of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ashyen's Gift",
+          "source": "Cenarion Expedition Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Hex Lord Malacrass Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Commendation of Kael'thas",
+          "source": "Priestess Delrissa Magister's Terrace"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Tempest of Chaos",
+          "source": "Archimonde Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Sword Breaker's Bulwark",
+          "source": "Felmyst Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Tome of the Lightbringer",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of the Defender — from the Keepers of Time in Caverns of Time.",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Knight",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Dodge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Health",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Fortitude",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercleft Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Fortitude",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Major Stamina",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Powerful Earthstorm Diamond (+16 stamina, +2% armor)"
+    },
+    {
+      "color": "Red",
+      "name": "Solid Star of Elune (+8 stamina) — used in most sockets regardless of color"
+    },
+    {
+      "color": "Yellow",
+      "name": "Solid Star of Elune (+8 stamina)"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Star of Elune (+8 stamina)"
+    }
+  ]
+}

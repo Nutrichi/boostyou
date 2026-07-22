@@ -1,0 +1,343 @@
+{
+  "expansion": "classic",
+  "phase": "preraid",
+  "class": "hunter",
+  "spec": "survival",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Hunter Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Backwood Helm",
+          "source": "Quest The Treasure of the Shen'dralar in Dire Maul The Unforgiven in Stratholme"
+        },
+        {
+          "name": "Mask of the Unforgiven",
+          "source": "Quest The Treasure of the Shen'dralar in Dire Maul The Unforgiven in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Mark of Fordring",
+          "source": "Quest In Dreams in Western Plaguelands Lord Valthalak in Upper Blackrock Spire Emperor Dagran Thaurissan in Blackrock Depths"
+        },
+        {
+          "name": "Pendant of Celerity",
+          "source": "Quest In Dreams in Western Plaguelands Lord Valthalak in Upper Blackrock Spire Emperor Dagran Thaurissan in Blackrock Depths"
+        },
+        {
+          "name": "Imperial Jewel",
+          "source": "Quest In Dreams in Western Plaguelands Lord Valthalak in Upper Blackrock Spire Emperor Dagran Thaurissan in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Truestrike Shoulders",
+          "source": "Pyroguard Emberseer in Upper Blackrock Spire Leatherworking Bind on equip items from the AH"
+        },
+        {
+          "name": "Black Dragonscale Shoulders",
+          "source": "Pyroguard Emberseer in Upper Blackrock Spire Leatherworking Bind on equip items from the AH"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Baron Rivendare in Stratholme Stonespine in Stratholme"
+        },
+        {
+          "name": "Stoneskin Gargoyle Cape",
+          "source": "Baron Rivendare in Stratholme Stonespine in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Savage Gladiator Chain",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Tombstone Breastplate",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Deathdealer Breastplate",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Cadaverous Armor",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Black Dragonscale Breastplate",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Beaststalker's Tunic",
+          "source": "Gorosh the Dervish in Blackrock Depths Darkmaster Gandling in Scholomance The Chest of Seven in Blackrock Depths Mini-bosses in Scholomance Leatherworking General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of the Eclipse",
+          "source": "Prince Tortheldrin in Dire Maul West Halycon in Lower Blackrock Spire Zone drop from Stratholme"
+        },
+        {
+          "name": "Slashclaw Bracers",
+          "source": "Prince Tortheldrin in Dire Maul West Halycon in Lower Blackrock Spire Zone drop from Stratholme"
+        },
+        {
+          "name": "Beaststalker's Bindings",
+          "source": "Prince Tortheldrin in Dire Maul West Halycon in Lower Blackrock Spire Zone drop from Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Devilsaur Gauntlets",
+          "source": "Leatherworking Shadow Hunter Vosh'gajin in Lower Blackrock Spire"
+        },
+        {
+          "name": "Trueaim Gauntlets",
+          "source": "Leatherworking Shadow Hunter Vosh'gajin in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Warpwood Binding",
+          "source": "Tendris Warpwood in Dire Maul West Zone drop from Blackrock Spire Bosses in Scholomance"
+        },
+        {
+          "name": "Beaststalker's Belt",
+          "source": "Tendris Warpwood in Dire Maul West Zone drop from Blackrock Spire Bosses in Scholomance"
+        },
+        {
+          "name": "Cadaverous Belt",
+          "source": "Tendris Warpwood in Dire Maul West Zone drop from Blackrock Spire Bosses in Scholomance"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Devilsaur Leggings",
+          "source": "Leatherworking Leatherworking Baron Rivendare in Stratholme"
+        },
+        {
+          "name": "Black Dragonscale Leggings",
+          "source": "Leatherworking Leatherworking Baron Rivendare in Stratholme"
+        },
+        {
+          "name": "Beaststalker's Pants",
+          "source": "Leatherworking Leatherworking Baron Rivendare in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Windreaver Greaves",
+          "source": "Kirtonos the Herald in Scholomance Nerub'enkan in Stratholme High Priestess of Thaurissan and Princess Moira Bronzebeard in Blackrock Depths"
+        },
+        {
+          "name": "Beaststalker's Boots",
+          "source": "Kirtonos the Herald in Scholomance Nerub'enkan in Stratholme High Priestess of Thaurissan and Princess Moira Bronzebeard in Blackrock Depths"
+        },
+        {
+          "name": "Swiftwalker Boots",
+          "source": "Kirtonos the Herald in Scholomance Nerub'enkan in Stratholme High Priestess of Thaurissan and Princess Moira Bronzebeard in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Tarnished Elven Ring",
+          "source": "King Gordok in Dire Maul North Princess Theradras in Maraudon General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Blackstone Ring",
+          "source": "King Gordok in Dire Maul North Princess Theradras in Maraudon General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Painweaver Band",
+          "source": "King Gordok in Dire Maul North Princess Theradras in Maraudon General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Royal Seal of Eldre'Thalas",
+          "source": "The Greatest Race of Hunters in Dire Maul General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village (H) General Angerforge in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "The Greatest Race of Hunters in Dire Maul General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village (H) General Angerforge in Blackrock Depths"
+        },
+        {
+          "name": "Rune of the Guard Captain",
+          "source": "The Greatest Race of Hunters in Dire Maul General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village (H) General Angerforge in Blackrock Depths"
+        },
+        {
+          "name": "Hand of Justice",
+          "source": "The Greatest Race of Hunters in Dire Maul General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village (H) General Angerforge in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapons",
+      "items": [
+        {
+          "name": "Barbarous Blade",
+          "source": "King Gordok in Dire Maul North Magistrate Barthilas in Stratholme World drop"
+        },
+        {
+          "name": "Peacemaker",
+          "source": "King Gordok in Dire Maul North Magistrate Barthilas in Stratholme World drop"
+        },
+        {
+          "name": "Warmonger",
+          "source": "King Gordok in Dire Maul North Magistrate Barthilas in Stratholme World drop"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Carapace Spine Crossbow",
+          "source": "Nerub'enkan in Stratholme Shadow Hunter Vosh'gajin in Lower Blackrock Spire Multiple bosses in Scholomance World drop"
+        },
+        {
+          "name": "Blackcrow",
+          "source": "Nerub'enkan in Stratholme Shadow Hunter Vosh'gajin in Lower Blackrock Spire Multiple bosses in Scholomance World drop"
+        },
+        {
+          "name": "Ancient Bone Bow",
+          "source": "Nerub'enkan in Stratholme Shadow Hunter Vosh'gajin in Lower Blackrock Spire Multiple bosses in Scholomance World drop"
+        },
+        {
+          "name": "Dwarven Hand Cannon",
+          "source": "Nerub'enkan in Stratholme Shadow Hunter Vosh'gajin in Lower Blackrock Spire Multiple bosses in Scholomance World drop"
+        }
+      ]
+    },
+    {
+      "slot": "Quiver",
+      "items": [
+        {
+          "name": "Ribbly's Quiver",
+          "source": "Ribbly Screwspigot in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Arrows",
+      "items": [
+        {
+          "name": "Doomshot",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering Engineering"
+        },
+        {
+          "name": "Thorium Shells",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering Engineering"
+        },
+        {
+          "name": "Thorium Headed Arrow",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering Engineering"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Chromatic Mantle of the Dawn",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Minor Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant 2H Weapon - Major Intellect — Only for 2H weapons. There is no useful enchant at launch for 1H weapons as a Hunter.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Sniper Scope",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

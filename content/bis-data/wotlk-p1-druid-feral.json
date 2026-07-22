@@ -1,0 +1,239 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "druid",
+  "spec": "feral",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Feral Druid Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Valorous Dreamwalker Headguard",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        },
+        {
+          "name": "Crown of the Lost Vanquisher",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Favor of the Dragon Queen",
+          "source": "Sapphiron — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Valorous Dreamwalker Shoulderpads",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        },
+        {
+          "name": "Mantle of the Lost Vanquisher",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Chestguard of the Recluse",
+          "source": "Malygos — 25-man The Eye of Eternity"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Sinner's Bindings",
+          "source": "Maexxna — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Frosted Adroit Handguards",
+          "source": "Malygos — 25-man The Eye of Eternity"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Stalk-Skin Belt",
+          "source": "Heigan the Unclean — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Honored",
+          "source": "2 or more Drakes Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Footwraps of Vile Deceit",
+          "source": "Loatheb — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Surge Needle Ring",
+          "source": "Malygos — 10-man The Eye of Eternity 25 Emblem of Valor"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Invincibility",
+          "source": "Malygos — 10-man The Eye of Eternity 25 Emblem of Valor"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Darkmoon Card: Greatness",
+          "source": "Inscription Various Bosses — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Grim Toll",
+          "source": "Inscription Various Bosses — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Journey's End",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Journey's End",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Idol of Worship",
+          "source": "Grand Widow Faerlina — 25-man Naxxramas"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Berserking",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Fractured Cardinal Ruby (+23 crit) — swap to Precise Cardinal Ruby once armor-pen soft-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator — the only blue gem needed)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid King's Amber (+16 crit / +23 Agi) for hit — or Accurate Ametrine for expertise, Inscribed Ametrine once capped"
+    }
+  ]
+}

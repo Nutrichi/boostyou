@@ -1,0 +1,260 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Enhancement Shaman Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Duplicitous Guise",
+          "source": "Kil'jaeden — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Hard Khorium Choker",
+          "source": "Supremus — Black Temple Jewelcrafting"
+        },
+        {
+          "name": "Clutch of Demise",
+          "source": "Supremus — Black Temple Jewelcrafting"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Demontooth Shoulderpads",
+          "source": "Kil'jaeden — Sunwell Plateau"
+        },
+        {
+          "name": "Sunmote",
+          "source": "Kil'jaeden — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Bladed Chaos Tunic",
+          "source": "M'uru — Sunwell Plateau"
+        },
+        {
+          "name": "Sunmote",
+          "source": "M'uru — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Skyshatter Wristguards",
+          "source": "Kalecgos — Sunwell Plateau"
+        },
+        {
+          "name": "Bracers of the Forgotten Protector",
+          "source": "Kalecgos — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Thalassian Ranger Gauntlets",
+          "source": "Kil'jaeden — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Skyshatter Girdle",
+          "source": "Brutallus — Sunwell Plateau"
+        },
+        {
+          "name": "Belt of the Forgotten Protector",
+          "source": "Brutallus — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Immortal Night",
+          "source": "Felmyst — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Skyshatter Greaves",
+          "source": "Felmyst — Sunwell Plateau"
+        },
+        {
+          "name": "Boots of the Forgotten Protector",
+          "source": "Felmyst — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Band of Ruinous Delight",
+          "source": "Eredar Twins — Sunwell Plateau Illidan Stormrage — Black Temple Third timed run chest — Zul'Aman 60 Badge of Justice"
+        },
+        {
+          "name": "Stormrage Signet Ring",
+          "source": "Eredar Twins — Sunwell Plateau Illidan Stormrage — Black Temple Third timed run chest — Zul'Aman 60 Badge of Justice"
+        },
+        {
+          "name": "Signet of Primal Wrath",
+          "source": "Eredar Twins — Sunwell Plateau Illidan Stormrage — Black Temple Third timed run chest — Zul'Aman 60 Badge of Justice"
+        },
+        {
+          "name": "Angelista's Revenge",
+          "source": "Eredar Twins — Sunwell Plateau Illidan Stormrage — Black Temple Third timed run chest — Zul'Aman 60 Badge of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Blackened Naaru Sliver",
+          "source": "M'uru — Sunwell Plateau Priestess Delrissa — Magisters' Terrace Gruul The Dragonkiller — Gruul's Lair Zul'jin — Zul'Aman The Illidari Council — Black Temple"
+        },
+        {
+          "name": "Shard of Contempt",
+          "source": "M'uru — Sunwell Plateau Priestess Delrissa — Magisters' Terrace Gruul The Dragonkiller — Gruul's Lair Zul'jin — Zul'Aman The Illidari Council — Black Temple"
+        },
+        {
+          "name": "Dragonspine Trophy",
+          "source": "M'uru — Sunwell Plateau Priestess Delrissa — Magisters' Terrace Gruul The Dragonkiller — Gruul's Lair Zul'jin — Zul'Aman The Illidari Council — Black Temple"
+        },
+        {
+          "name": "Berserker's Call",
+          "source": "M'uru — Sunwell Plateau Priestess Delrissa — Magisters' Terrace Gruul The Dragonkiller — Gruul's Lair Zul'jin — Zul'Aman The Illidari Council — Black Temple"
+        },
+        {
+          "name": "Madness of the Betrayer",
+          "source": "M'uru — Sunwell Plateau Priestess Delrissa — Magisters' Terrace Gruul The Dragonkiller — Gruul's Lair Zul'jin — Zul'Aman The Illidari Council — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Weapons",
+      "items": [
+        {
+          "name": "Hand of the Deceiver",
+          "source": "Kil'jaeden — Sunwell Plateau Trash in Sunwell Plateau"
+        },
+        {
+          "name": "Mounting Vengeance",
+          "source": "Kil'jaeden — Sunwell Plateau Trash in Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Stonebreaker's Totem",
+          "source": "G'eras in Shattrath — 20 Badge of Justice"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Vengeance — available once at Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Brawn",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Strength",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Cat's Swiftness",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "1x Enchant Weapon - Executioner and 1x Enchant Weapon - Mongoose",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Intellect",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Bold Crimson Spinel (+8 Str), used regardless of socket color"
+    },
+    {
+      "color": "Yellow",
+      "name": "Inscribed Pyrestone (+4 Str / +4 crit) — need two to unlock the meta"
+    },
+    {
+      "color": "Blue",
+      "name": "Sovereign Shadowsong Amethyst (+4 Str / +6 stamina) — need two to unlock the meta"
+    }
+  ]
+}

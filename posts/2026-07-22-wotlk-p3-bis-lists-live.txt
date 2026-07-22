@@ -1,0 +1,11 @@
+WotLK Phase 3 BiS lists are live for all 30 specs — Trial of the Crusader
+
+The BiS browser now covers WotLK Classic Phase 3 for every class and spec: full Tier 9 best-in-slot lists built around Trial of the Crusader 25-man Heroic and its Argent Crusade Tribute Chest set pieces.
+
+One thing worth flagging: Icy Veins splits some of its Phase 3 tables by faction. We've used the Alliance itemization throughout for consistency — the Horde equivalents come from the same bosses and the same tribute chest, just under different item names, at identical item level.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick WotLK, Phase 3, your class and spec. Every item links to Wowhead.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+With Phase 3 live, WotLK Classic is now covered wall to wall: Pre-Raid through Phase 4/Ruby Sanctum, with a Phase 1 gap for Paladin/Hunter/Rogue/Death Knight where Icy Veins itself has no table (flagged in the Phase 1 post).

@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "p2",
+  "class": "death-knight",
+  "spec": "blood",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Blood Death Knight Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Conqueror's Darkruned Faceguard",
+          "source": "Thorim — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Bronze Pendant of the Vanir",
+          "source": "Freya — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Conqueror's Darkruned Pauldrons",
+          "source": "Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Titanskin Cloak",
+          "source": "Mimiron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Conqueror's Darkruned Chestguard",
+          "source": "Hodir — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Mimiron's Inferno Couplings",
+          "source": "Flame Leviathan — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Conqueror's Darkruned Handguards",
+          "source": "Mimiron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Indestructible Plate Girdle",
+          "source": "Blacksmithing"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of the Endless Void",
+          "source": "Algalon the Observer — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Greaves of the Iron Army",
+          "source": "Mimiron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Fate's Clutch",
+          "source": "Thorim — Ulduar XT-002 Deconstructor — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Seal of Ulduar",
+          "source": "Thorim — Ulduar XT-002 Deconstructor — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Heart of Iron",
+          "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Royal Seal of King Llane",
+          "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Dark Edge of Depravity",
+          "source": "Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Sigil",
+      "items": [
+        {
+          "name": "Sigil of Deflection",
+          "source": "Razorscale — Ulduar"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of the Stalwart Protector",
+      "source": "Argent Crusade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Gladiator",
+      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Major Stamina",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Precision",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Frosthide Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Greater Fortitude",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Rune of the Stoneskin Gargoyle",
+      "source": "Runeforging (Ebon Hold)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+    },
+    {
+      "color": "Red",
+      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+    }
+  ]
+}

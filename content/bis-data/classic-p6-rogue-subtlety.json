@@ -1,0 +1,226 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "rogue",
+  "spec": "subtlety",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Bonescythe Helmet",
+          "source": "Thaddius in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Prestor's Talisman of Connivery",
+          "source": "Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Bonescythe Pauldrons",
+          "source": "Multiple Bosses in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Fallen God",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Deathdealer's Vest",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bonescythe Bracers",
+          "source": "Multiple Bosses in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Bonescythe Gauntlets",
+          "source": "Maexxna Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Bonescythe Waistguard",
+          "source": "Multiple Bosses Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Bonescythe Legplates",
+          "source": "Loatheb Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Bonescythe Sabatons",
+          "source": "Multiple Bosses in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Bonescythe Ring",
+          "source": "Kel'Thuzad in Naxxramas Loatheb in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of Unnatural Forces",
+          "source": "Kel'Thuzad in Naxxramas Loatheb in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Kiss of the Spider",
+          "source": "Maexxna in Naxxramas Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Mark of the Champion",
+          "source": "Maexxna in Naxxramas Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Swords",
+      "items": [
+        {
+          "name": "Gressil, Dawn of Ruin",
+          "source": "Kel'Thuzad in Naxxramas Kel'Thuzad in Naxxramas"
+        },
+        {
+          "name": "The Hungering Cold",
+          "source": "Kel'Thuzad in Naxxramas Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Daggers",
+      "items": [
+        {
+          "name": "Kingsfall",
+          "source": "Kel'Thuzad in Naxxramas C'Thun in AQ40"
+        },
+        {
+          "name": "Death's Sting",
+          "source": "Kel'Thuzad in Naxxramas C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Nerubian Slavemaker",
+          "source": "Kel'Thuzad in Naxxramas"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "N/A",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Chromatic Mantle of the Dawn",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "N/A",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon(s)",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged",
+      "name": "Sniper Scope",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

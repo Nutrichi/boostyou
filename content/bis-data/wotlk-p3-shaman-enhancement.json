@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p3",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Nobundo's Faceguard of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Charge of the Demon Lord",
+          "source": "Lord Jaraxxus — 25-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Nobundo's Shoulderguards of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Jaina's Radiance",
+          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Breastplate of Cruel Intent",
+          "source": "Beasts of Northrend — 25-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Armbands of the Northern Stalker",
+          "source": "Beasts of Northrend — 10-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Nobundo's Grips of Triumph",
+          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of the Merciless Killer",
+          "source": "Twin Valkyr — 25-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Nobundo's War-Kilt of Triumph",
+          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of Tremoring Earth",
+          "source": "Faction Champions — 25-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Callous Aggression",
+          "source": "Faction Champions — 25-man Trial of the Crusader HM Animated Constellation — Dalaran, 19 Sidereal Essence"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Nebula Band",
+          "source": "Faction Champions — 25-man Trial of the Crusader HM Animated Constellation — Dalaran, 19 Sidereal Essence"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Reign of the Unliving",
+          "source": "Anub'arak — 25-man Trial of the Crusader HM Algalon the Observer — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Comet's Trail",
+          "source": "Anub'arak — 25-man Trial of the Crusader HM Algalon the Observer — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Misery's End",
+          "source": "Anub'arak — 25-man Trial of the Crusader HM Anub'arak — 25-man Trial of the Crusader HM"
+        },
+        {
+          "name": "Stormpike Cleaver",
+          "source": "Anub'arak — 25-man Trial of the Crusader HM Anub'arak — 25-man Trial of the Crusader HM"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Totem of Electrifying Wind",
+          "source": "25 Emblem of Triumph"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Main Hand",
+      "name": "Enchant Weapon — Berserking",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off Hand",
+      "name": "Enchant Weapon — Berserking",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+    }
+  ]
+}

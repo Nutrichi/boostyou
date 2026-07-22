@@ -1,0 +1,235 @@
+{
+  "expansion": "classic",
+  "phase": "p2",
+  "class": "hunter",
+  "spec": "beast-mastery",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Hunter Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Giantstalker's Helmet",
+          "source": "Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Giantstalker's Epaulets",
+          "source": "Sulfuron Harbinger in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Shrouded Mists",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Giantstalker's Breastplate",
+          "source": "Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Giantstalker's Bracers",
+          "source": "Trash inside of Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Giantstalker's Gloves",
+          "source": "Shazzrah in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Giantstalker's Belt",
+          "source": "Trash inside of Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Giantstalker's Leggings",
+          "source": "Magmadar in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Giantstalker's Boots",
+          "source": "Gehennas in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Ragnaros in Molten Core Multiple bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Quick Strike Ring",
+          "source": "Ragnaros in Molten Core Multiple bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Royal Seal of Eldre'Thalas",
+          "source": "The Greatest Race of Hunters in Dire Maul Reward from General Drakkisath's Demise / For The Horde!"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "The Greatest Race of Hunters in Dire Maul Reward from General Drakkisath's Demise / For The Horde!"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapon",
+      "items": [
+        {
+          "name": "Lok'delar, Stave of the Ancient Keepers",
+          "source": "From the same quest chain as Rhok'delar"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Rhok'delar, Longbow of the Ancient Keepers",
+          "source": "How to obtain Rhok'delar"
+        }
+      ]
+    },
+    {
+      "slot": "Quiver",
+      "items": [
+        {
+          "name": "Ancient Sinew Wrapped Lamina",
+          "source": "From the same quest chain as Rhok'delar"
+        }
+      ]
+    },
+    {
+      "slot": "Arrows",
+      "items": [
+        {
+          "name": "Doomshot",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering"
+        },
+        {
+          "name": "Thorium Shells",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering"
+        },
+        {
+          "name": "Thorium Headed Arrow",
+          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire Engineering"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Chromatic Mantle of the Dawn",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Minor Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant 2H Weapon - Major Intellect — Only for 2H weapons. There is no useful enchant at launch for 1H weapons as a Hunter.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Sniper Scope",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

@@ -1,0 +1,268 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Restoration Shaman Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Valorous Earthshatter Headpiece",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        },
+        {
+          "name": "Helm of the Lost Protector",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Life-Binder's Locket",
+          "source": "Sapphiron — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Valorous Earthshatter Spaulders",
+          "source": "2 or more Drakes Sartharion in 25-man The Obsidian Sanctum"
+        },
+        {
+          "name": "Mantle of the Lost Protector",
+          "source": "2 or more Drakes Sartharion in 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Valorous Earthshatter Tunic",
+          "source": "The Four Horsemen — 25-man Naxxramas"
+        },
+        {
+          "name": "Breastplate of the Lost Protector",
+          "source": "The Four Horsemen — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bindings of the Decrepit",
+          "source": "Heigan the Unclean — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Winter Spectacle Gloves",
+          "source": "Malygos — 25-man The Eye of Eternity"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of Recuperation",
+          "source": "Instructor Razuvious — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Valorous Earthshatter Legguards",
+          "source": "Thaddius in 25-man Naxxramas"
+        },
+        {
+          "name": "Legplates of the Lost Protector",
+          "source": "Thaddius in 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Eruption-Scarred Boots",
+          "source": "Heigan the Unclean — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Signet of Manifested Pain",
+          "source": "Kel'Thuzad — 25-man Naxxramas Sapphiron — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Decaying Beauty",
+          "source": "Kel'Thuzad — 25-man Naxxramas Sapphiron — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+        },
+        {
+          "name": "Signet of the Kirin Tor",
+          "source": "Kel'Thuzad — 25-man Naxxramas Sapphiron — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+        },
+        {
+          "name": "Ring of the Fated",
+          "source": "Kel'Thuzad — 25-man Naxxramas Sapphiron — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Soul Preserver",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion in 25-man The Obsidian Sanctum Sjonnir The Ironshaper — Heroic Halls of Stone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Mercurial Alchemist Stone",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion in 25-man The Obsidian Sanctum Sjonnir The Ironshaper — Heroic Halls of Stone"
+        },
+        {
+          "name": "Illustration of the Dragon Soul",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion in 25-man The Obsidian Sanctum Sjonnir The Ironshaper — Heroic Halls of Stone"
+        },
+        {
+          "name": "Spark of Life",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion in 25-man The Obsidian Sanctum Sjonnir The Ironshaper — Heroic Halls of Stone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Torch of Holy Fire",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Voice of Reason",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Totem of Forest Growth",
+          "source": "15 Emblem of Heroism"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Greater Mana Restoration",
+      "source": "Enchanting (Powerful Stats alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mighty Spellpower",
+      "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Shield — Greater Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+    }
+  ]
+}

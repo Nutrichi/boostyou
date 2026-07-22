@@ -1,0 +1,245 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "warrior",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Protection Warrior Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Greathelm",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Boundless Ambition",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Pauldrons of Unnatural Death",
+          "source": "Anub'Rekhan — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Platinum Mesh Cloak",
+          "source": "25 x Emblem of Valor"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Dragonstorm Breastplate",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Dalaran's Parapets",
+          "source": "60 x Emblem of Valor"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Handguards",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Ablative Chitin Girdle",
+          "source": "Maexxna — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of Sovereignty",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sabatons of Endurance",
+          "source": "Thaddius — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Signet of the Impregnable Fortress",
+          "source": "25 x Emblem of Valor Sapphiron — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Gatekeeper",
+          "source": "25 x Emblem of Valor Sapphiron — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Mark of Norgannon",
+          "source": "Malygos — Eye of Eternity 25-Man Figurine - Monarch Crab"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Figurine - Monarch Crab",
+          "source": "Malygos — Eye of Eternity 25-Man Figurine - Monarch Crab"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand Weapon",
+      "items": [
+        {
+          "name": "Last Laugh",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Barricade of Eternity",
+          "source": "Malygos — Eye of Eternity 10-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Armor Plated Combat Shotgun",
+          "source": "Armor Plated Combat Shotgun"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of the Stalwart Protector",
+      "source": "Argent Crusade — Revered (Mind Amplification Dish for engineers if missing defense)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Gladiator",
+      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Mighty Armor",
+      "source": "Enchanting (Titanweave if missing defense; Flexweave Underlay for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Super Health",
+      "source": "Enchanting (Greater Defense if missing defense)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Major Stamina",
+      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Glove Reinforcements",
+      "source": "Blacksmithing (Enchant Gloves — Armsman/Precision otherwise; Reticulated Armor Webbing for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Frosthide Leg Armor",
+      "source": "Leatherworking (crafted, usable by all; Jormungar Leg Reinforcements for leatherworkers)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mongoose",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Shield",
+      "name": "Titanium Plating",
+      "source": "Blacksmithing (Enchant Shield — Major Stamina/Defense otherwise)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Stamina",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+    },
+    {
+      "color": "Red",
+      "name": "Guardian's Dreadstone (+16 defense / +19 stamina) — or Shifting Dreadstone (+19 stamina / +16 dodge)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Vivid Eye of Zul (+16 defense / +19 stamina) — or Enduring Eye of Zul (+16 hit / +19 stamina), or Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Majestic Zircon (+30 stamina)"
+    }
+  ]
+}

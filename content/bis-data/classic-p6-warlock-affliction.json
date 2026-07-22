@@ -1,0 +1,231 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "warlock",
+  "spec": "affliction",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Warlock Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Plagueheart Circlet",
+          "source": "Thaddius Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Gem of Trapped Innocents",
+          "source": "Kel'Thuzad Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Plagueheart Shoulderpads",
+          "source": "Shared Loot Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Necropolis",
+          "source": "Sapphiron Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Plagueheart Robe",
+          "source": "Four Horsemen Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wrist",
+      "items": [
+        {
+          "name": "Rockfury Bracers",
+          "source": "Cenarion Circle — Revered Stalwart's Battlegear"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Dark Storm Gauntlets",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Eyestalk Waist Cord",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Polarity",
+          "source": "Thaddius Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Plagueheart Sandals",
+          "source": "Shared Loot Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of the Fallen God",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Inevitable",
+          "source": "Noth the Plaguebringer Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Mark of the Champion",
+          "source": "Kel'Thuzad Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "The Restrained Essence of Sapphiron",
+          "source": "Sapphiron Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 3",
+      "items": [
+        {
+          "name": "Neltharion's Tear",
+          "source": "Nefarian Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Staff",
+      "items": [
+        {
+          "name": "Atiesh, Greatstaff of the Guardian",
+          "source": "Splinter of Atiesh Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Wraith Blade",
+          "source": "Maexxna Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Sapphiron's Left Eye",
+          "source": "Sapphiron Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Wand of Fates",
+          "source": "Patchwerk Naxxramas"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Shadow Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

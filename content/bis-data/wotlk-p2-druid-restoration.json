@@ -1,0 +1,244 @@
+{
+  "expansion": "wotlk",
+  "phase": "p2",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Conqueror's Nightsong Headpiece",
+          "source": "Thorim — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Sapphire Amulet of Renewal",
+          "source": "Hard Mode Assembly of Iron — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Conqueror's Nightsong Spaulders",
+          "source": "Algalon the Observer — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Vestments of the Blind Denizen",
+          "source": "Hard Mode General Vezax — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Grasps of Reason",
+          "source": "Hard Mode XT-002 Deconstructor — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Conqueror's Nightsong Handguards",
+          "source": "Mimiron — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Star-beaded Clutch",
+          "source": "Algalon the Observer — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Conqueror's Nightsong Leggings",
+          "source": "Freya — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of Fiery Resolution",
+          "source": "Hard Mode Flame Leviathan — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Conductive Seal",
+          "source": "Hard Mode Mimiron — 25-man Ulduar Hard Mode Freya — 10-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Fire Orchid Signet",
+          "source": "Hard Mode Mimiron — 25-man Ulduar Hard Mode Freya — 10-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Spark of Hope",
+          "source": "Kologarn — 10-man Ulduar Hard Mode Yogg-Saron in 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Show of Faith",
+          "source": "Kologarn — 10-man Ulduar Hard Mode Yogg-Saron in 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Val'anyr, Hammer of Ancient Kings",
+          "source": "Multiple Bosses — 25-man Ulduar Algalon the Observer — 25-man Ulduar"
+        },
+        {
+          "name": "Constellus",
+          "source": "Multiple Bosses — 25-man Ulduar Algalon the Observer — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Ironmender",
+          "source": "Kologarn — 25-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Icecore Staff",
+          "source": "Hard Mode Hodir — 10-man Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Idol of Awakening",
+          "source": "25 Emblem of Valor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Exceptional Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Shield — Greater Intellect",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+    }
+  ]
+}

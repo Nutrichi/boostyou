@@ -1,0 +1,285 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "warlock",
+  "spec": "destruction",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Destruction Warlock Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Valorous Plagueheart Circlet",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        },
+        {
+          "name": "Chaotic Skyflare Diamond",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        },
+        {
+          "name": "Reckless Monarch Topaz",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Wyrmrest Necklace of Power",
+          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man"
+        },
+        {
+          "name": "Purified Twilight Opal",
+          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Valorous Plagueheart Shoulderpads",
+          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+        },
+        {
+          "name": "Runed Scarlet Ruby",
+          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Pennant Cloak",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Valorous Plagueheart Robe",
+          "source": "Gluth — Naxxramas 25-Man"
+        },
+        {
+          "name": "Runed Scarlet Ruby",
+          "source": "Gluth — Naxxramas 25-Man"
+        },
+        {
+          "name": "Reckless Monarch Topaz",
+          "source": "Gluth — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Unsullied Cuffs",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        },
+        {
+          "name": "Runed Scarlet Ruby",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Valorous Plagueheart Gloves",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        },
+        {
+          "name": "Runed Scarlet Ruby",
+          "source": "Sartharion — Obsidian Sanctum 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Leash of Heedless Magic",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        },
+        {
+          "name": "Runed Scarlet Ruby",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Wanton Spellcaster",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Arcanic Tramplers",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Channeled Magic",
+          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Signet of Manifested Pain",
+          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Dying Curse",
+          "source": "Multiple Bosses — Naxxramas 25-Man Emblems"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Illustration of the Dragon Soul",
+          "source": "Multiple Bosses — Naxxramas 25-Man Emblems"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "The Turning Tide",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "The Turning Tide",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Matriarch's Spawn",
+          "source": "Gluth — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Gemmed Wand of the Nerubians",
+          "source": "Anub'Rekhan — Naxxramas 25-Man"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting (Major Spirit alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Brilliant Spellthread",
+      "source": "Tailoring (Sanctified Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Staff — Greater Spellpower",
+      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+TBC Phase 3 & 4 BiS lists are live for all 27 specs — Black Temple, Mount Hyjal & Zul'Aman
+
+The BiS browser now covers TBC Classic Phase 3 (Mount Hyjal and Black Temple, Tier 6) and Phase 4 (Zul'Aman) for every class and spec — a full 54 lists in one go.
+
+A quick note on timing: the live TBC Anniversary realm hasn't reached this content yet. These lists are drafted from the original 2007-2008 Burning Crusade release, which Icy Veins documents in full regardless of where any particular server currently stands. Illidan Stormrage, the Illidari Council, Archimonde, Zul'jin and the rest of the Black Temple, Hyjal and Zul'Aman rosters are all accounted for.
+
+One interesting finding: for about a third of specs (Holy Paladin, all three Hunter specs, all three Shaman specs, all three Druid specs), Icy Veins lists identical Phase 3 and Phase 4 gear — Zul'Aman apparently didn't offer any upgrades over Black Temple/Hyjal gear for those roles. That's called out directly in each affected list's notes.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick TBC, Phase 3 or Phase 4, your class and spec. Every item links to Wowhead.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+Only Sunwell Plateau (Phase 5) remains to complete TBC Classic's raid progression on the site.

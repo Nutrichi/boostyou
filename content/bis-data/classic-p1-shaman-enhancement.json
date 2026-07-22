@@ -1,0 +1,282 @@
+{
+  "expansion": "classic",
+  "phase": "p1",
+  "class": "shaman",
+  "spec": "enhancement",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Enhancement Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Crown of Destruction",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "Onyxia in Onyxia's Lair In Dreams in Western Plaguelands"
+        },
+        {
+          "name": "Mark of Fordring",
+          "source": "Onyxia in Onyxia's Lair In Dreams in Western Plaguelands"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Truestrike Shoulders",
+          "source": "Pyroguard Emberseer in Upper Blackrock Spire Leatherworking"
+        },
+        {
+          "name": "Black Dragonscale Shoulders",
+          "source": "Pyroguard Emberseer in Upper Blackrock Spire Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Baron Rivendare in (side-entrance) Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Savage Gladiator Chain",
+          "source": "Gorosh the Dervish in Blackrock Depths Leatherworking"
+        },
+        {
+          "name": "Black Dragonscale Breastplate",
+          "source": "Gorosh the Dervish in Blackrock Depths Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Wristguards of True Flight",
+          "source": "Majordomo Executus in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Chromatic Gauntlets",
+          "source": "Leatherworking Leatherworking"
+        },
+        {
+          "name": "Devilsaur Gauntlets",
+          "source": "Leatherworking Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cloudrunner Girdle",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Side bosses in Scholomance"
+        },
+        {
+          "name": "Bloodmail Belt",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Side bosses in Scholomance"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Devilsaur Leggings",
+          "source": "Leatherworking Leatherworking"
+        },
+        {
+          "name": "Black Dragonscale Leggings",
+          "source": "Leatherworking Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sabatons of the Flamewalker",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking"
+        },
+        {
+          "name": "Bloodmail Boots",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking"
+        },
+        {
+          "name": "Black Dragonscale Boots",
+          "source": "Various Bosses in Molten Core Side bosses in Scholomance Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Quick Strike Ring",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+        },
+        {
+          "name": "Painweaver Band",
+          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Hand of Justice",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village"
+        },
+        {
+          "name": "Rune of the Guard Captain",
+          "source": "Emperor Dagran Thaurissan in Blackrock Depths For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Sulfuras, Hand of Ragnaros",
+          "source": "Ragnaros in Molten Core Ragnaros in Molten Core"
+        },
+        {
+          "name": "Spinal Reaper",
+          "source": "Ragnaros in Molten Core Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Deathbringer",
+          "source": "Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shield",
+      "items": [
+        {
+          "name": "Malistar's Defender",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        },
+        {
+          "name": "Gizlock's Hypertech Buckler",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        },
+        {
+          "name": "Sacred Protector",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        },
+        {
+          "name": "Draconian Deflector",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        },
+        {
+          "name": "Force Reactive Disk",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        },
+        {
+          "name": "Skullflame Shield",
+          "source": "Ragnaros in Molten Core Tinkerer Gizlock in Maraudon The Scarlet Oracle, Demetria General Drakkisath in Upper Blackrock Spire Engineering World drop BoE"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Damage : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Damage : Enchant Bracer - Superior Strength Totem Twisting : Enchant Bracer - Mana Regeneration",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Rapidity — from the quest Libram of Rapidity in Dire Maul",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

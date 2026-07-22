@@ -1,0 +1,256 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "priest",
+  "spec": "holy",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Holy Priest Healer gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Velen's Cowl of Triumph",
+          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Zabra's Cowl of Triumph",
+          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Watchful Eye of Fate",
+          "source": "15 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Amice of Inconceivable Horror",
+          "source": "19 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shawl of the Refreshing Winds",
+          "source": "30 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Drape of the Refreshing Winds",
+          "source": "30 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Merlin's Robe",
+          "source": "Merlin's Robe — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bejeweled Wizard's Bracers",
+          "source": "Bejeweled Wizard's Bracers — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Velen's Gloves of Triumph",
+          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Zabra's Gloves of Triumph",
+          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cord of the White Dawn",
+          "source": "Cord of the White Dawn — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Woven Death",
+          "source": "Leggings of Woven Death — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Sandals of Consecration",
+          "source": "Sandals of Consecration — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Fire Orchid Signet",
+          "source": "15 x Sidereal Essence — Animated Constellation 35 x Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Invoker",
+          "source": "15 x Sidereal Essence — Animated Constellation 35 x Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Meteorite Crystal",
+          "source": "24 x Sidereal Essence 38 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Solace of the Fallen",
+          "source": "24 x Sidereal Essence 38 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Icecore Staff",
+          "source": "38 x Sidereal Essence — Animated Constellation 38 x Sidereal Essence — Animated Constellation"
+        },
+        {
+          "name": "Aesuga, Hand of the Ardent Champion",
+          "source": "38 x Sidereal Essence — Animated Constellation 38 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Shriveled Heart",
+          "source": "Halls of Reflection"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Petrified Ivy Sprig",
+          "source": "15 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Wisdom",
+      "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Brilliant Spellthread",
+      "source": "Tailoring (Sanctified Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Staff — Greater Spellpower",
+      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Luminous Ametrine"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick King's Amber (+16 haste / +10 Int) — or Brilliant King's Amber"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Intricate/Seer's Eye of Zul"
+    }
+  ]
+}

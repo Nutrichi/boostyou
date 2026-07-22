@@ -1,0 +1,250 @@
+{
+  "expansion": "classic",
+  "phase": "p1",
+  "class": "mage",
+  "spec": "arcane",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Mage Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Arcanist Crown",
+          "source": "Garr in Molten Core Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Netherwind Crown",
+          "source": "Garr in Molten Core Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Boreal Mantle",
+          "source": "Warder Stilgiss in Blackrock Depths Baron Geddon in Molten Core"
+        },
+        {
+          "name": "Arcanist Mantle",
+          "source": "Warder Stilgiss in Blackrock Depths Baron Geddon in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Archivist Cape",
+          "source": "Archivist Galford in Stratholme living side Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Sapphiron Drape",
+          "source": "Archivist Galford in Stratholme living side Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robe of the Archmage",
+          "source": "Tailoring ( Firebrand Pyromancer in Lower Blackrock Spire for pattern) Flamewalker Bosses in Molten Core"
+        },
+        {
+          "name": "Robe of Volatile Power",
+          "source": "Tailoring ( Firebrand Pyromancer in Lower Blackrock Spire for pattern) Flamewalker Bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Arcanist Bindings",
+          "source": "Molten Core drop BoE"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Hands of Power",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Shazzrah in Molten Core"
+        },
+        {
+          "name": "Arcanist Gloves",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Shazzrah in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Mana Igniting Cord",
+          "source": "Various Bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Netherwind Pants",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Arcanist Boots",
+          "source": "Lucifron in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Flamewalker Bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Flamewalker Bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Talisman of Ephemeral Power",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire General Drakkisath's Demise (Alliance) / For The Horde! quests in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Briarwood Reed",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire General Drakkisath's Demise (Alliance) / For The Horde! quests in Upper Blackrock Spire"
+        },
+        {
+          "name": "Eye of the Beast",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire General Drakkisath's Demise (Alliance) / For The Horde! quests in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Staff of Dominance",
+          "source": "Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Azuresong Mageblade",
+          "source": "Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Drakestone",
+          "source": "Green Dragon mini-bosses in Sunken Temple It's Dangerous to Go Alone quest in Un'Goro Crater"
+        },
+        {
+          "name": "Spirit of Aquementas",
+          "source": "Green Dragon mini-bosses in Sunken Temple It's Dangerous to Go Alone quest in Un'Goro Crater"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Bonecreeper Stylus",
+          "source": "Darkmaster Gandling in Scholomance World drop BoE"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Fire Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

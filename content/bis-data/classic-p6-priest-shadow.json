@@ -1,0 +1,222 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "priest",
+  "spec": "shadow",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Shadow Priest Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Preceptor's Hat",
+          "source": "Heigan the Unclean Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Rime Covered Mantle",
+          "source": "Gluth Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Devoured",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Crystal Webbed Robe",
+          "source": "Maexxna Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wrist",
+      "items": [
+        {
+          "name": "Burrower Bracers",
+          "source": "Ouro AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Dark Storm Gauntlets",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Firemaw's Clutch",
+          "source": "Firemaw Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Fel Infused Leggings",
+          "source": "Lord Kazzak"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Snowblind Shoes",
+          "source": "Azuregos"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of the Fallen God",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Signet Ring of the Bronze Dragonflight",
+          "source": "Brood of Nozdormu Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Neltharion's Tear",
+          "source": "Nefarian Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "The Restrained Essence of Sapphiron",
+          "source": "Sapphiron Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 3",
+      "items": [
+        {
+          "name": "Mark of the Champion",
+          "source": "Kel'Thuzad Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "The End of Dreams",
+          "source": "Grobbulus Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Sapphiron's Left Eye",
+          "source": "Sapphiron Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Wand of Qiraji Nobility",
+          "source": "Lord Kri AQ40"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Zandalar Signet of Mojo from Exalted with Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats (PvE)",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Mana Regeneration (PvE)",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "No suggested enchant.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon(s)",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

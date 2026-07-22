@@ -1,0 +1,235 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "priest",
+  "spec": "shadow",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Shadow Priest Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Dark Conjuror's Collar",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Amulet of Unfettered Magics",
+          "source": "Eredar Twins Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Shoulderpads of Absolution",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Tattered Cape of Antonidas",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sunfire Robe",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Bracers of Absolution",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Handguards of Defiled Worlds",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Cord of Absolution",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Pantaloons of Growing Strife",
+          "source": "Kalecgos Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Treads of Absolution",
+          "source": "Felmyst Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Omnipotence",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Ancient Knowledge",
+          "source": "Trash inside of Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Hex Lord Malacrass Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Shifting Naaru Sliver",
+          "source": "M'uru Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Sunflare",
+          "source": "Kil'jaeden Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Heart of the Pit",
+          "source": "Brutallus Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Wand of the Demonsoul",
+          "source": "Trash inside of Sunwell Plateau"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline ( The Aldor Exalted ) Greater Inscription of the Oracle ( The Scryers Exalted ) Power of the Scourge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Subtlety Enchant Cloak - Greater Shadow Resistance",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Health Enchant Chest - Major Spirit Enchant Chest - Restore Mana Prime",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrist",
+      "name": "Enchant Bracer - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Spellpower Enchant Gloves - Spell Strike",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread Mystic Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Soulfrost Enchant Weapon - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ring (Enchanting-only)",
+      "name": "Enchant Ring - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Mystical Skyfire Diamond (+16 spell crit, +2% shadow damage) — or Ember Skyfire Diamond"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+8 spell damage) — or Runed Crimson Spinel"
+    },
+    {
+      "color": "Yellow",
+      "name": "Potent Noble Topaz (+4 spell damage / +4 crit) — or Veiled Noble Topaz/Pyrestone if short on hit"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Nightseye (+4 spell damage / +6 spirit) — or Glowing Shadowsong Amethyst"
+    }
+  ]
+}

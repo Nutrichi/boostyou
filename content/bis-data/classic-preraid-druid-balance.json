@@ -1,0 +1,199 @@
+{
+  "expansion": "classic",
+  "phase": "preraid",
+  "class": "druid",
+  "spec": "balance",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Balance Druid Ranged Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Preceptor's Hat",
+          "source": "Heigan the Unclean in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Amulet of Vek'nilash",
+          "source": "Emperor Vek'nilash in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Rime Covered Mantle",
+          "source": "Gluth in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of the Necropolis",
+          "source": "Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Garb of Royal Ascension",
+          "source": "Trash drop in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Rockfury Bracers",
+          "source": "Reward from Stalwart's Battlegear"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Dark Storm Gauntlets",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Eyestalk Waist Cord",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Polarity",
+          "source": "Thaddius in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of Epiphany",
+          "source": "Emperor Vek'nilash in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of the Fallen God",
+          "source": "Reward from the quest you get from turning in the eye that drops from C'Thun in AQ40 Noth the Plaguebringer in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Inevitable",
+          "source": "Reward from the quest you get from turning in the eye that drops from C'Thun in AQ40 Noth the Plaguebringer in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Mark of the Champion",
+          "source": "Kel'thuzad in Naxxramas Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "The Restrained Essence of Sapphiron",
+          "source": "Kel'thuzad in Naxxramas Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Brimstone Staff",
+          "source": "Loatheb in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Idols",
+      "items": [
+        {
+          "name": "Idol of the Moon",
+          "source": "BoE world drop, bought from the Auction House"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Arcanum of Focus — from the quest Libram of Focus in Dire Maul .",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

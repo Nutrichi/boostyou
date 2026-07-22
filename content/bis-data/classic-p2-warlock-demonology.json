@@ -1,0 +1,213 @@
+{
+  "expansion": "classic",
+  "phase": "p2",
+  "class": "warlock",
+  "spec": "demonology",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Warlock Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Lieutenant Commander's Dreadweave Cowl",
+          "source": "PvP — Rank 10"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Lieutenant Commander's Dreadweave Spaulders",
+          "source": "PvP — Rank 10"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "No single BiS item — BoE World Drop",
+          "source": "BoE World Drop"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robe of Volatile Power",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Wrist",
+      "items": [
+        {
+          "name": "No single BiS item — BoE World Drop",
+          "source": "BoE World Drop"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Felcloth Gloves",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Mana Igniting Cord",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Fel Infused Leggings",
+          "source": "Lord Kazzak"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Snowblind Shoes",
+          "source": "Azuregos"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Briarwood Reed",
+          "source": "Jed Runewatcher Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Talisman of Ephemeral Power",
+          "source": "Shared Loot Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Grand Marshal's Mageblade",
+          "source": "PvP — Rank 14"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Tome of Shadow Force",
+          "source": "Alterac Valley — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Skul's Ghastly Touch",
+          "source": "Skul Stratholme"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Shadow Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

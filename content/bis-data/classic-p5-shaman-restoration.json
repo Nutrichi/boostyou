@@ -1,0 +1,247 @@
+{
+  "expansion": "classic",
+  "phase": "p5",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Restoration Shaman Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Don Rigoberto's Lost Hat",
+          "source": "Ouro in AQ40 Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Helmet of Ten Storms",
+          "source": "Ouro in AQ40 Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Amulet of the Fallen God",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wild Growth Spaulders",
+          "source": "Majordomo Executus in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Clarity",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Guardian Saint",
+          "source": "Fankriss The Unyielding in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracelets of Royal Redemption",
+          "source": "The Twin Emperors in AQ40 Razorgore the Untamed in Blackwing Lair"
+        },
+        {
+          "name": "Bracers of Ten Storms",
+          "source": "The Twin Emperors in AQ40 Razorgore the Untamed in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Wasphide Gauntlets",
+          "source": "Princess Huhuran in AQ40 Drake Bosses in Blackwing Lair"
+        },
+        {
+          "name": "Gauntlets of Ten Storms",
+          "source": "Princess Huhuran in AQ40 Drake Bosses in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Grasp of the Old God",
+          "source": "C'Thun in AQ40 Vaelastrasz the Corrupt in Blackwing Lair"
+        },
+        {
+          "name": "Belt of Ten Storms",
+          "source": "C'Thun in AQ40 Vaelastrasz the Corrupt in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Empowered Leggings",
+          "source": "Chromaggus in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of Pure Thought",
+          "source": "Blackwing Lair trash mobs"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Pure Elementium Band",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Cauterizing Band",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Rejuvenating Gem",
+          "source": "Drake Bosses in Blackwing Lair Ysondre"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Hibernation Crystal",
+          "source": "Drake Bosses in Blackwing Lair Ysondre"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Blessed Qiraji Augur Staff",
+          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Scepter of the False Prophet",
+          "source": "C'Thun in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Sartura's Might",
+          "source": "Battleguard Sartura in AQ40 Ouro in AQ40"
+        },
+        {
+          "name": "Wormscale Blocker",
+          "source": "Battleguard Sartura in AQ40 Ouro in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Totem of Life",
+          "source": "Fankriss The Unyielding in AQ40"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Serenity — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

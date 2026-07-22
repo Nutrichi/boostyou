@@ -1,0 +1,282 @@
+{
+  "expansion": "classic",
+  "phase": "p2",
+  "class": "shaman",
+  "spec": "elemental",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Infernal Headcage",
+          "source": "Lord Kazzak Onyxia in Onyxia's Lair Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Helmet of Ten Storms",
+          "source": "Lord Kazzak Onyxia in Onyxia's Lair Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Warlord's Mail Helm",
+          "source": "Lord Kazzak Onyxia in Onyxia's Lair Bought from the PvP Vendor at Rank 13"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Deep Earth Spaulders",
+          "source": "Various Bosses in Molten Core Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Warlord's Mail Spaulders",
+          "source": "Various Bosses in Molten Core Bought from the PvP Vendor at Rank 13"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Sapphiron Drape",
+          "source": "Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robe of Volatile Power",
+          "source": "Various Bosses in Molten Core Bought from the PvP Vendor at Rank 13"
+        },
+        {
+          "name": "Warlord's Mail Armor",
+          "source": "Various Bosses in Molten Core Bought from the PvP Vendor at Rank 13"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Sublime Wristguards",
+          "source": "Guard Slip'kik / Guard Mol'dar in Dire Maul North Lord Incendius in Blackrock Depths"
+        },
+        {
+          "name": "Pyremail Wristguards",
+          "source": "Guard Slip'kik / Guard Mol'dar in Dire Maul North Lord Incendius in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Earthfury Gauntlets",
+          "source": "Gehennas in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Gauntlets",
+          "source": "Gehennas in Molten Core Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Mana Igniting Cord",
+          "source": "Various Bosses in Molten Core Lord Kazzak"
+        },
+        {
+          "name": "Flayed Doomguard Belt",
+          "source": "Various Bosses in Molten Core Lord Kazzak"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legplates of Ten Storms",
+          "source": "Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Leggings",
+          "source": "Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Snowblind Shoes",
+          "source": "Azuregos Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Boots",
+          "source": "Azuregos Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Spell Power",
+          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Maiden's Circle",
+          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+        },
+        {
+          "name": "Eye of Orgrimmar",
+          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Talisman of Ephemeral Power",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul General Drakkisath's Demise (Alliance) / For The Horde! in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Briarwood Reed",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul General Drakkisath's Demise (Alliance) / For The Horde! in Upper Blackrock Spire"
+        },
+        {
+          "name": "Royal Seal of Eldre'Thalas",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul General Drakkisath's Demise (Alliance) / For The Horde! in Upper Blackrock Spire"
+        },
+        {
+          "name": "Eye of the Beast",
+          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul General Drakkisath's Demise (Alliance) / For The Horde! in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand Weapons",
+      "items": [
+        {
+          "name": "High Warlord's War Staff",
+          "source": "Bought from the PvP Vendor at Rank 14 Lord Kazzak Golemagg the Incinerator in Molten Core"
+        },
+        {
+          "name": "Amberseal Keeper",
+          "source": "Bought from the PvP Vendor at Rank 14 Lord Kazzak Golemagg the Incinerator in Molten Core"
+        },
+        {
+          "name": "Staff of Dominance",
+          "source": "Bought from the PvP Vendor at Rank 14 Lord Kazzak Golemagg the Incinerator in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand Weapons",
+      "items": [
+        {
+          "name": "Fang of the Mystics",
+          "source": "Azuregos Garr in Molten Core"
+        },
+        {
+          "name": "Aurastone Hammer",
+          "source": "Azuregos Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hands",
+      "items": [
+        {
+          "name": "Malistar's Defender",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+        },
+        {
+          "name": "Fire Runed Grimoire",
+          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Greater Intellect",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Frost Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Spell Power on DPS weapon",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

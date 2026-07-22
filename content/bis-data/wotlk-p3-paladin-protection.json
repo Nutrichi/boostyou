@@ -1,0 +1,235 @@
+{
+  "expansion": "wotlk",
+  "phase": "p3",
+  "class": "paladin",
+  "spec": "protection",
+  "role": "Tank",
+  "status": "draft",
+  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Protection Paladin Tank gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Liadrin's Faceguard of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Legionnaire's Gorget",
+          "source": "Twin Valkyr — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Liadrin's Shoulderguards of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cairne's Endurance",
+          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Hauberk of the Towering Monstrosity",
+          "source": "Beasts of Northrend — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Armguards of the Shieldmaiden",
+          "source": "Twin Valkyr — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Liadrin's Handguards of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Bloodied Scars",
+          "source": "Faction Champions — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Liadrin's Legguards of Triumph",
+          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Greaves of the Lingering Vortex",
+          "source": "Twin Valkyr — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Fate's Clutch",
+          "source": "Thorim — Ulduar Anub'arak — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of the Traitor King",
+          "source": "Thorim — Ulduar Anub'arak — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Heart of Iron",
+          "source": "Ignis the Furnace Master — Ulduar Faction Champions — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Juggernaut's Vitality",
+          "source": "Ignis the Furnace Master — Ulduar Faction Champions — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Hellscream Slicer",
+          "source": "Anub'arak — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Forlorn Barrier",
+          "source": "Beasts of Northrend — Trial of the Crusader"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Libram of Valiance",
+          "source": "Emblem of Triumph Vendor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of the Stalwart Protector",
+      "source": "Argent Crusade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Gladiator",
+      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Major Stamina",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Precision",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Frosthide Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Greater Fortitude",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mongoose",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+    },
+    {
+      "color": "Red",
+      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+    }
+  ]
+}

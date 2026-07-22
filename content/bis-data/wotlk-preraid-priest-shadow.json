@@ -1,0 +1,243 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "priest",
+  "spec": "shadow",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Shadow Priest Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Velen's Circlet of Triumph",
+          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Zabra's Circlet of Triumph",
+          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendant of Fiery Havoc",
+          "source": "60 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Amice of Inconceivable Horror",
+          "source": "19 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Messenger",
+          "source": "19 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Merlin's Robe",
+          "source": "Merlin's Robe — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bejeweled Wizard's Bracers",
+          "source": "Bejeweled Wizard's Bracers — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Velen's Handwraps of Triumph",
+          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Zabra's Handwraps of Triumph",
+          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Sash of Ancient Power",
+          "source": "Sash of Ancient Power — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Woven Death",
+          "source": "Leggings of Woven Death — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Deathfrost Boots",
+          "source": "Deathfrost Boots — Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Nebula Band",
+          "source": "19 x Sidereal Essence — Animated Constellation 15 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Shimmering Seal",
+          "source": "19 x Sidereal Essence — Animated Constellation 15 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Reign of the Unliving",
+          "source": "38 x Defiler's Scourgestone 60 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Reign of the Dead",
+          "source": "38 x Defiler's Scourgestone 60 x Defiler's Scourgestone"
+        },
+        {
+          "name": "Flare of the Heavens",
+          "source": "38 x Defiler's Scourgestone 60 x Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Icecore Staff",
+          "source": "38 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Petrified Ivy Sprig",
+          "source": "15 x Sidereal Essence — Animated Constellation"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting (Major Spirit alternative)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Superior Spellpower",
+      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Brilliant Spellthread",
+      "source": "Tailoring (Sanctified Spellthread for tailors)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Tuskarr's Vitality",
+      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mighty Spellpower",
+      "source": "Enchanting (one-hand); Enchant Staff — Greater Spellpower for staves"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine / Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+    }
+  ]
+}

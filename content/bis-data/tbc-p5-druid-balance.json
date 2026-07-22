@@ -1,0 +1,281 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "druid",
+  "spec": "balance",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Balance Druid Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Dark Conjuror's Collar",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Cover of Ursoc the Mighty",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Sunmote",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendant of Sunfire",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Amulet of Unfettered Magics",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Thunderheart Shoulderpads",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Tattered Cape of Antonidas",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sunfire Robe",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Fel Conquerer Raiments",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Thunderheart Vest",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Thunderheart Bands",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Bracers of the Forgotten Vanquisher",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Handguards of Defiled Worlds",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Thunderheart Cord",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Belt of the Forgotten Vanquisher",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Calamity",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Breeches of Natural Aggression",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Thunderheart Footwraps",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Boots of the Forgotten Vanquisher",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Ring of Omnipotence",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Loop of Forged Power",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Shifting Naaru Sliver",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "The Skull of Gul'dan",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Ashtongue Talisman of Equilibrium",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Dark Iron Smoking Pipe",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Sunflare",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Heart of the Pit",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Idols",
+      "items": [
+        {
+          "name": "Idol of the Raven Goddess",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge from Sapphiron in Naxxramas Greater Inscription of Discipline available once Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Spell Penetration",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Sunfire",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Crimson Spinel (+8 spell damage)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Pyrestone (+4 spell damage / +4 haste)"
+    },
+    {
+      "color": "Blue",
+      "name": "Glowing Shadowsong Amethyst (+4 spell damage / +6 spirit) — need two to unlock the meta"
+    }
+  ]
+}

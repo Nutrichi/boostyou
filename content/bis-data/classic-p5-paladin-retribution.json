@@ -1,0 +1,204 @@
+{
+  "expansion": "classic",
+  "phase": "p5",
+  "class": "paladin",
+  "spec": "retribution",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Retribution Paladin Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Avenger's Crown",
+          "source": "Emperor Vek'lor AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "Celebrating Good Times"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Avenger's Pauldrons",
+          "source": "Shared Loot AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cloak of Concentrated Hatred",
+          "source": "The Prophet Skeram AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Avenger's Breastplate",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Wrist",
+      "items": [
+        {
+          "name": "Hive Defiler Wristguards",
+          "source": "Princess Huhuran AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of the Righteous Champion",
+          "source": "Viscidus AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Ossirian's Binding",
+          "source": "Ossirian the Unscarred AQ20"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Avenger's Legguards",
+          "source": "Ouro AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Avenger's Greaves",
+          "source": "Shared Loot AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Ragnaros Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Signet Ring of the Bronze Dragonflight",
+          "source": "Brood of Nozdormu Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Heart of Wyrmthalak",
+          "source": "Overlord Wyrmthalak Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Darkmoon Card: Maelstrom",
+          "source": "Darkmoon Elementals Deck"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Dark Edge of Insanity",
+          "source": "C'Thun AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Libram of Fervor",
+          "source": "BoE World Drop"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

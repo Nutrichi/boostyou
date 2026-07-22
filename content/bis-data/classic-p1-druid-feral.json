@@ -1,0 +1,215 @@
+{
+  "expansion": "classic",
+  "phase": "p1",
+  "class": "druid",
+  "spec": "feral",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Feral Druid Melee Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Wolfshead Helm",
+          "source": "Crafted with Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Onyxia Tooth Pendant",
+          "source": "Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Truestrike Shoulders",
+          "source": "Pyroguard Emberseer in Upper Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Baron Rivendare in Stratholme Ragnaros in Molten Core"
+        },
+        {
+          "name": "Cloak of the Shrouded Mists",
+          "source": "Baron Rivendare in Stratholme Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Cadaverous Armor",
+          "source": "Mini-bosses in Scholomance"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Wristguards of Stability",
+          "source": "Multiple bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Devilsaur Gauntlets",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Cloudrunner Girdle",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
+        },
+        {
+          "name": "Girdle of Beastial Fury",
+          "source": "Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Devilsaur Leggings",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Swiftwalker Boots",
+          "source": "Princess Moira Bronzebeard in Blackrock Depths"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Ragnaros in Molten Core Several bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Quick Strike Ring",
+          "source": "Ragnaros in Molten Core Several bosses in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire General Angerforge in Blackrock Depths Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Hand of Justice",
+          "source": "Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire General Angerforge in Blackrock Depths Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+        },
+        {
+          "name": "Rune of the Guard Captain",
+          "source": "Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire General Angerforge in Blackrock Depths Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+        },
+        {
+          "name": "Gnomish Battle Chicken",
+          "source": "Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire General Angerforge in Blackrock Depths Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+        }
+      ]
+    },
+    {
+      "slot": "Weapons",
+      "items": [
+        {
+          "name": "Manual Crowd Pummeler",
+          "source": "Crowd Pummeler 9-60 in Gnomeregan Highlord Omokk in Lower Blackrock Spire"
+        },
+        {
+          "name": "Fist of Omokk",
+          "source": "Crowd Pummeler 9-60 in Gnomeregan Highlord Omokk in Lower Blackrock Spire"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Superior Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

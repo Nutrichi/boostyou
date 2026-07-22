@@ -1,0 +1,309 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "mage",
+  "spec": "arcane",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Arcane Mage Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Bloodmage Hood",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Chaotic Skyflare Diamond",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Sapphire Amulet of Renewal",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Bloodmage Shoulderpads",
+          "source": "Rueben Lauren — 60 Emblem of Frost"
+        },
+        {
+          "name": "Reckless Ametrine",
+          "source": "Rueben Lauren — 60 Emblem of Frost"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Refreshing Winds",
+          "source": "Emblem Vendors — 30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Bloodmage Robe",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bejeweled Wizard's Bracers",
+          "source": "Tailoring"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Khadgar's Gauntlets of Conquest",
+          "source": "T9 Vendors — 75 Emblem of Triumph + 1 Trophy of the Crusade"
+        },
+        {
+          "name": "Sunstrider's Gauntlets of Conquest",
+          "source": "T9 Vendors — 75 Emblem of Triumph + 1 Trophy of the Crusade"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "T9 Vendors — 75 Emblem of Triumph + 1 Trophy of the Crusade"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of the Tenebrous Mist",
+          "source": "Emblem Vendors — 38 Defiler's Scourgestone"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Emblem Vendors — 38 Defiler's Scourgestone"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "Emblem Vendors — 38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Bloodmage Leggings",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        },
+        {
+          "name": "Reckless Ametrine",
+          "source": "Rueben Lauren — 95 Emblem of Frost"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Deathfrost Boots",
+          "source": "Tailoring"
+        },
+        {
+          "name": "Purified Dreadstone",
+          "source": "Tailoring"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Conductive Seal",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone Harold Winston — Dalaran"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Runed Signet of the Kirin Tor",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone Harold Winston — Dalaran"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Flare of the Heavens",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone Emblem Vendors — 38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Reign of the Dead",
+          "source": "Emblem Vendors — 60 Defiler's Scourgestone Emblem Vendors — 38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Quel'Delar, Lens of the Mind",
+          "source": "Battered Hilt — Trash in ICC 5-man Dungeons, Auction House"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Talisman of Heedless Sins",
+          "source": "Emblem Vendors — 30 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Petrified Ivy Sprig",
+          "source": "Animated Constellation — 15 Sidereal Essence"
+        },
+        {
+          "name": "Runed Cardinal Ruby",
+          "source": "Animated Constellation — 15 Sidereal Essence"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Exceptional Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Mighty Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Off-Hand — Major Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Greater Spellpower",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyflare Diamond (+40 crit, +3% crit damage — requires two blue/purple/green gems)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare); Runed Dragon's Eye/Stormjewel for jewelcrafters"
+    },
+    {
+      "color": "Orange/Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit) if hit-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+    }
+  ]
+}

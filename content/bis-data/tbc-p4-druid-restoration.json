@@ -1,0 +1,269 @@
+{
+  "expansion": "tbc",
+  "phase": "p4",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Restoration Druid Healer gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Thunderheart Helmet",
+          "source": "Archimonde — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Nature's Mercy",
+          "source": "Akil'zon — Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderpads of Renewed Life",
+          "source": "Leatherworking Mother Shahraz — Black Temple"
+        },
+        {
+          "name": "Thunderheart Spaulders",
+          "source": "Leatherworking Mother Shahraz — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of the Highborne",
+          "source": "Illidan Stormrage — Black Temple Gurtogg Bloodboil — Black Temple Kael'thas Sunstrider — Tempest Keep"
+        },
+        {
+          "name": "Shroud of Forgiveness",
+          "source": "Illidan Stormrage — Black Temple Gurtogg Bloodboil — Black Temple Kael'thas Sunstrider — Tempest Keep"
+        },
+        {
+          "name": "Sunshower Light Cloak",
+          "source": "Illidan Stormrage — Black Temple Gurtogg Bloodboil — Black Temple Kael'thas Sunstrider — Tempest Keep"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Thunderheart Tunic",
+          "source": "Illidan Stormrage — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Swiftheal Wraps",
+          "source": "Tailoring Leatherworking Rage Winterchill — Hyjal Summit"
+        },
+        {
+          "name": "Bracers of Renewed Life",
+          "source": "Tailoring Leatherworking Rage Winterchill — Hyjal Summit"
+        },
+        {
+          "name": "Rejuvenating Bracers",
+          "source": "Tailoring Leatherworking Rage Winterchill — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Botanist's Gloves of Growth",
+          "source": "Teron Gorefiend — Black Temple Azgalor — Hyjal Summit Reliquary of the Lost — Black Temple"
+        },
+        {
+          "name": "Thunderheart Gloves",
+          "source": "Teron Gorefiend — Black Temple Azgalor — Hyjal Summit Reliquary of the Lost — Black Temple"
+        },
+        {
+          "name": "Gloves of Unfailing Faith",
+          "source": "Teron Gorefiend — Black Temple Azgalor — Hyjal Summit Reliquary of the Lost — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of Primal Majesty",
+          "source": "Gurtogg Bloodboil — Black Temple Kaz'rogal — Hyjal Summit First chest in a Zul'Aman timed run"
+        },
+        {
+          "name": "Angelista's Sash",
+          "source": "Gurtogg Bloodboil — Black Temple Kaz'rogal — Hyjal Summit First chest in a Zul'Aman timed run"
+        },
+        {
+          "name": "Life-step Belt",
+          "source": "Gurtogg Bloodboil — Black Temple Kaz'rogal — Hyjal Summit First chest in a Zul'Aman timed run"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Eternity",
+          "source": "Archimonde — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of the Divine Light",
+          "source": "Trash Waves — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Blessed Band of Karabor",
+          "source": "Trash in Black Temple Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Signet of the Quiet Forest",
+          "source": "Trash in Black Temple Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Band of the Eternal Restorer",
+          "source": "Trash in Black Temple Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        },
+        {
+          "name": "Direbrew Hops",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        },
+        {
+          "name": "Memento of Tyrande",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "Crystal Spire of Karabor",
+          "source": "Illidan Stormrage — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hands",
+      "items": [
+        {
+          "name": "Scepter of Purification",
+          "source": "Archimonde — Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Idols",
+      "items": [
+        {
+          "name": "Idol of the Emerald Queen",
+          "source": "Ambassador Hellmaw — Shadow Labyrinth"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal — from Thrallmar",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Faith — available once of Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Shadow Resistance",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Major Spirit",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Superior Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Healing Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond — or Bracing Earthstorm Diamond (personal preference: mana regen vs raw healing)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Crimson Spinel (+8 spell healing)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Lionseye (+4 spell healing / +4 haste) — occasional pick near a haste breakpoint, also unlocks the meta"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Shadowsong Amethyst (+4 spell healing / +6 spirit) — unlocks Insightful Earthstorm Diamond"
+    }
+  ]
+}

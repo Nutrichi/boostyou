@@ -1,0 +1,281 @@
+{
+  "expansion": "tbc",
+  "phase": "p5",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Restoration Druid Healer gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Cover of Ursol the Wise",
+          "source": "Kil'jaeden — Sunwell Plateau Kil'jaeden — Sunwell Plateau"
+        },
+        {
+          "name": "Cowl of Light's Purity",
+          "source": "Kil'jaeden — Sunwell Plateau Kil'jaeden — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Amulet of Flowing Life",
+          "source": "Jewelcrafting Akil'zon — Zul'Aman"
+        },
+        {
+          "name": "Brooch of Nature's Mercy",
+          "source": "Jewelcrafting Akil'zon — Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Spaulders of Reclamation",
+          "source": "Eredar Twins — Sunwell Plateau Eredar Twins — Sunwell Plateau"
+        },
+        {
+          "name": "Shawl of Wonderment",
+          "source": "Eredar Twins — Sunwell Plateau Eredar Twins — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of the Highborne",
+          "source": "Illidan Stormrage — Black Temple Gurtogg Bloodboil — Black Temple"
+        },
+        {
+          "name": "Shroud of Forgiveness",
+          "source": "Illidan Stormrage — Black Temple Gurtogg Bloodboil — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Sunglow Vest",
+          "source": "M'uru — Sunwell Plateau Leatherworking"
+        },
+        {
+          "name": "Leather Chestguard of the Sun",
+          "source": "M'uru — Sunwell Plateau Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Thunderheart Bracers",
+          "source": "Kalecgos — Sunwell Plateau"
+        },
+        {
+          "name": "Bracers of the Forgotten Vanquisher",
+          "source": "Kalecgos — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Tranquil Majesty Wraps",
+          "source": "Trash in Sunwell Plateau Leatherworking"
+        },
+        {
+          "name": "Leather Gauntlets of the Sun",
+          "source": "Trash in Sunwell Plateau Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Thunderheart Belt",
+          "source": "Brutallus — Sunwell Plateau"
+        },
+        {
+          "name": "Belt of the Forgotten Vanquisher",
+          "source": "Brutallus — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Breeches of Natural Splendor",
+          "source": "Kalecgos — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Thunderheart Boots",
+          "source": "Felmyst — Sunwell Plateau"
+        },
+        {
+          "name": "Boots of the Forgotten Vanquisher",
+          "source": "Felmyst — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Blessed Band of Karabor",
+          "source": "Trash in Black Temple Jewelcrafting Kalecgos — Sunwell Plateau Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Ring of Flowing Life",
+          "source": "Trash in Black Temple Jewelcrafting Kalecgos — Sunwell Plateau Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Band of Lucent Beams",
+          "source": "Trash in Black Temple Jewelcrafting Kalecgos — Sunwell Plateau Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Signet of the Quiet Forest",
+          "source": "Trash in Black Temple Jewelcrafting Kalecgos — Sunwell Plateau Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        },
+        {
+          "name": "Band of the Eternal Restorer",
+          "source": "Trash in Black Temple Jewelcrafting Kalecgos — Sunwell Plateau Third chest in a Zul'Aman timed run The Scale of the Sands — Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "Essence of the Martyr",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        },
+        {
+          "name": "Direbrew Hops",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        },
+        {
+          "name": "Memento of Tyrande",
+          "source": "41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest Illidan Stormrage — Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Weapons",
+      "items": [
+        {
+          "name": "Hammer of Sanctification",
+          "source": "Kil'jaeden — Sunwell Plateau Kil'jaeden — Sunwell Plateau"
+        },
+        {
+          "name": "Golden Staff of the Sin'dorei",
+          "source": "Kil'jaeden — Sunwell Plateau Kil'jaeden — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hands",
+      "items": [
+        {
+          "name": "Book of Highborne Hymns",
+          "source": "Eredar Twins — Sunwell Plateau"
+        }
+      ]
+    },
+    {
+      "slot": "Idols",
+      "items": [
+        {
+          "name": "Idol of the Emerald Queen",
+          "source": "Ambassador Hellmaw — Shadow Labyrinth"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Renewal — from Thrallmar",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Faith — available once of Exalted reputation with the The Aldor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Shadow Resistance",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Major Spirit",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Superior Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Golden Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Major Healing",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring - Healing Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthstorm Diamond — or Bracing Earthstorm Diamond (personal preference: mana regen vs raw healing)"
+    },
+    {
+      "color": "Red",
+      "name": "Teardrop Crimson Spinel (+8 spell healing)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Quick Lionseye (+4 spell healing / +4 haste) — occasional pick near a haste breakpoint, also unlocks the meta"
+    },
+    {
+      "color": "Blue",
+      "name": "Purified Shadowsong Amethyst (+4 spell healing / +6 spirit) — unlocks Insightful Earthstorm Diamond"
+    }
+  ]
+}

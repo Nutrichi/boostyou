@@ -1,0 +1,295 @@
+{
+  "expansion": "tbc",
+  "phase": "p4",
+  "class": "mage",
+  "spec": "arcane",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Arcane Mage Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Cowl of Tirisfal",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Cowl of the Tempest",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Brooch of Nature's Mercy",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "The Sun King's Talisman",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Loop of Cursed Bones",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Vindicator's Pendant of Subjugation",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of Tirisfal",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of the Highborne",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Cloak of the Illidari Council",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Shadowcaster's Drape",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of Tirisfal",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Robes of the Tempest",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Cuffs of Devastation",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Bracers of Nimble Thought",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of Tirisfal",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Anetheron's Noose",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of Channeled Elements",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Leggings of the Tempest",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Leggings of Tirisfal",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Slippers of the Seacaller",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Rings",
+      "items": [
+        {
+          "name": "Ring of Ancient Knowledge",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Band of the Eternal Sage",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Mana Attuned Band",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Trinkets",
+      "items": [
+        {
+          "name": "The Skull of Gul'dan",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Hex Shrunken Head",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Sextant of Unstable Currents",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Serpent-Coil Braid",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Mark of the Champion",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Dark Iron Smoking Pipe",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Ashtongue Talisman of Insight",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Weapons",
+      "items": [
+        {
+          "name": "Zhar'doom, Greatstaff of the Devourer",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Tempest of Chaos",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Chronicle of Dark Secrets",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    },
+    {
+      "slot": "Wand",
+      "items": [
+        {
+          "name": "Carved Witch Doctor's Stick",
+          "source": "Icy Veins TBC Classic gear guide"
+        },
+        {
+          "name": "Badge of Justice",
+          "source": "Icy Veins TBC Classic gear guide"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power ( The Sha'tar Revered)",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of Discipline ( Aldor Exalted) Greater Inscription of the Orb ( Scryers Exalted)",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Subtlety",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Spellpower Enchant Bracer - Major Intellect",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Boar's Speed",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Sunfire Enchant Weapon - Major Spellpower (cheaper)",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage) — needs two blue/purple/green gems"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Crimson Spinel (+8 spell damage, Tier 6) — Runed Living Ruby before Tier 6"
+    },
+    {
+      "color": "Yellow",
+      "name": "Potent Pyrestone (+4 spell damage / +4 crit, Tier 6) — or Veiled Pyrestone if short on hit"
+    },
+    {
+      "color": "Blue",
+      "name": "any blue/green gem sufficient to activate the meta (e.g. a Spirit/Mp5 hybrid) — minimize blue sockets otherwise"
+    }
+  ]
+}

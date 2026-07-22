@@ -1,0 +1,226 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "hunter",
+  "spec": "beast-mastery",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Beast Mastery Hunter Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Boundless Gaze",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendulum of Infinity",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of Fiery Vengeance",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Faceless General",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Embrace of the Gladiator",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of the Silent Massacre",
+          "source": "Season 4 Heroic Dungeons"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of the Steady Hand",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Waistguard of Deathly Dominion",
+          "source": "Season 4 Heroic Dungeons"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of Cunning Deception",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Greaves of Swift Vengeance",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Brann's Signet Ring",
+          "source": "Sidereal Essence Vendor Season 4 Heroic Dungeons"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Callous Aggression",
+          "source": "Sidereal Essence Vendor Season 4 Heroic Dungeons"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Death's Verdict",
+          "source": "Season 4 Heroic Dungeons Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Dark Matter",
+          "source": "Season 4 Heroic Dungeons Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapon",
+      "items": [
+        {
+          "name": "Dreambinder",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Skyforge Crossbow",
+          "source": "Sidereal Essence Vendor"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Major Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Superior Agility",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon — Superior Potency",
+      "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Heartseeker Scope",
+      "source": "Engineering (crafted scope, usable by all)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Cardinal Ruby (+23 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+    }
+  ]
+}

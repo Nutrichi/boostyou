@@ -1,0 +1,216 @@
+{
+  "expansion": "tbc",
+  "phase": "p3",
+  "class": "warlock",
+  "spec": "affliction",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Affliction Warlock Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Hood of the Malefic",
+          "source": "Archimonde Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "The Sun King's Talisman",
+          "source": "Kael'thas Sunstrider Tempest Keep"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Mantle of the Malefic",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Nethervoid Cloak",
+          "source": "BT/Hyjal Trash Mobs"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Vestments of the Sea-Witch",
+          "source": "Lady Vashj Serpentshrine Cavern"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Bracers of Nimble Thought",
+          "source": "Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gloves of the Malefic",
+          "source": "Azgalor Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Anetheron's Noose",
+          "source": "Anetheron Hyjal Summit"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Leggings of the Malefic",
+          "source": "The Illidari Council Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Slippers of the Seacaller",
+          "source": "High Warlord Naj'entus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Captured Storms",
+          "source": "High Warlord Naj'entus Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Ring of Ancient Knowledge",
+          "source": "Trash inside of Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "The Skull of Gul'dan",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Icon of the Silver Crescent",
+          "source": "41 × Badge of Justice"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Zhar'doom, Greatstaff of the Devourer",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Wand of the Forgotten Star",
+          "source": "High Astromancer Solarian Tempest Keep"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Power",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Power of the Scourge",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Subtlety",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Spellpower",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Runic Spellthread",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Soulfrost (or the easier-to-obtain Enchant Weapon - Major Spellpower )",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Living Ruby (+8 spell damage, pre-T6) — Runed Crimson Spinel from Phase 3 onward"
+    },
+    {
+      "color": "Yellow",
+      "name": "Potent Pyrestone (+4 spell damage / +4 crit, Phase 3 & 4) — Reckless Pyrestone in Phase 5; Veiled Noble Topaz/Pyrestone if short on hit"
+    },
+    {
+      "color": "Blue",
+      "name": "any blue gem sufficient to activate the meta — minimize blue sockets otherwise"
+    }
+  ]
+}

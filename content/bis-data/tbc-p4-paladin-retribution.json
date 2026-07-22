@@ -1,0 +1,221 @@
+{
+  "expansion": "tbc",
+  "phase": "p4",
+  "class": "paladin",
+  "spec": "retribution",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Retribution Paladin Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Cursed Vision of Sargeras",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendant of the Perilous",
+          "source": "Trash in Serpentshrine Cavern"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulder",
+      "items": [
+        {
+          "name": "Shoulderpads of the Stranger",
+          "source": "Hydross the Unstable Serpentshrine Cavern"
+        }
+      ]
+    },
+    {
+      "slot": "Cloak",
+      "items": [
+        {
+          "name": "Cloak of Fiends",
+          "source": "Timed run chest Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Lightbringer Breastplate",
+          "source": "Illidan Stormrage Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Bracer",
+      "items": [
+        {
+          "name": "Bindings of Lightning Reflexes",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Gloves of the Searing Grip",
+          "source": "Al'ar Tempest Keep"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Belt of One-Hundred Deaths",
+          "source": "Lady Vashj Serpentshrine Cavern"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Lightbringer Greaves",
+          "source": "The Illidari Council Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Boots",
+      "items": [
+        {
+          "name": "Shadowmaster's Boots",
+          "source": "Mother Shahraz Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Shapeshifter's Signet",
+          "source": "Lower City Exalted"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Unstoppable Aggressor's Ring",
+          "source": "Gurtogg Bloodboil Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Berserker's Call",
+          "source": "Zul'jin Zul'Aman"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Dragonspine Trophy",
+          "source": "Gruul The Dragonkiller Gruul's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Torch of the Damned",
+          "source": "Reliquary of the Lost Black Temple"
+        }
+      ]
+    },
+    {
+      "slot": "Libram",
+      "items": [
+        {
+          "name": "Libram of Avengement",
+          "source": "The Maker Blood Furnace"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Glyph of Ferocity — from the Cenarion Expedition in Zangarmarsh.",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Agility",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Exceptional Stats",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Brawn",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Major Strength",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Nethercobra Leg Armor",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Dexterity",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant Weapon - Mongoose",
+      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Bold Crimson Spinel (+8 Str) — or Bold Living Ruby — used regardless of socket color to maximize Strength"
+    },
+    {
+      "color": "Yellow",
+      "name": "Bold Crimson Spinel (+8 Str) — ignore yellow socket bonuses in favor of pure Strength"
+    },
+    {
+      "color": "Blue",
+      "name": "Sovereign Shadowsong Amethyst (+4 Str / +6 stamina) — or Sovereign Nightseye, only 2 needed to activate the meta"
+    }
+  ]
+}

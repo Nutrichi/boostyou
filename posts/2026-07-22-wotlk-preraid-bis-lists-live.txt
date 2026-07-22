@@ -1,0 +1,11 @@
+WotLK Pre-Raid BiS lists are live for all 30 specs
+
+The BiS browser now covers the WotLK Classic entry point: full pre-raid best-in-slot lists for every class and spec, for players gearing up before stepping into Icecrown Citadel.
+
+These lists lean heavily on 5-man heroic dungeons and their currencies — Emblems of Triumph, Defiler's Scourgestone, Sidereal Essence from the Argent Tournament dailies — plus crafted profession pieces (Blacksmithing, Leatherworking, Tailoring) that hold up surprisingly well at this stage. Where a slot has more than one strong option, both are listed as ranked picks.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick WotLK, Pre-Raid, your class and spec. Every item links to Wowhead.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.
+
+Next up: Naxxramas, the Obsidian Sanctum and the Eye of Eternity — WotLK Phase 1.

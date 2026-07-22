@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "warrior",
+  "spec": "fury",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Fury Warrior Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Helmet",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Favor of the Dragon Queen",
+          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Shoulderplates",
+          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Aged Winter Cloak",
+          "source": "Multiple Bosses — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Battleplate",
+          "source": "Multiple Bosses — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Wristbands of the Sentinel Huntress",
+          "source": "BoE"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Frosted Adroit Handguards",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Girdle of Razuvious",
+          "source": "Instructor Razuvious — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Valorous Dreadnaught Legplates",
+          "source": "Multiple Bosses — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Melancholy Sabatons",
+          "source": "Malygos — Eye of Eternity 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Surge Needle Ring",
+          "source": "BoE Sartharion — Obsidian Sanctum 10-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Greatring of Collision",
+          "source": "BoE Sartharion — Obsidian Sanctum 10-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Grim Toll",
+          "source": "Multiple Bosses — Naxxramas 25-Man Darkmoon Nobles Deck"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Darkmoon Card: Greatness",
+          "source": "Multiple Bosses — Naxxramas 25-Man Darkmoon Nobles Deck"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand Weapon",
+      "items": [
+        {
+          "name": "Betrayer of Humanity",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand Weapon",
+      "items": [
+        {
+          "name": "Betrayer of Humanity",
+          "source": "Kel'Thuzad — Naxxramas 25-Man"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Spinning Fate",
+          "source": "Multiple Bosses — Naxxramas 25-Man"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Berserking (both weapons)",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
+    },
+    {
+      "color": "Red",
+      "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (activates the meta gem by itself)"
+    }
+  ]
+}

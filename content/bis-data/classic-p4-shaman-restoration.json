@@ -1,0 +1,458 @@
+{
+  "expansion": "classic",
+  "phase": "p4",
+  "class": "shaman",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 4\" table, which explicitly covers \"Zul'Gurub and Blackwing Lair\" gear together (per the source guide's own description) — used here for our Phase 4 (Zul'Gurub) slot, though some Blackwing Lair carryover items are included alongside genuine Zul'Gurub pieces. Best in Slot from the Icy Veins WoW Classic Era Restoration Shaman Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Crystal Adorned Crown",
+          "source": "Azuregos Lethon Garr in Molten Core Onyxia in Onyxia's Lair High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Deviate Growth Cap",
+          "source": "Azuregos Lethon Garr in Molten Core Onyxia in Onyxia's Lair High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Earthfury Helmet",
+          "source": "Azuregos Lethon Garr in Molten Core Onyxia in Onyxia's Lair High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Helmet of Ten Storms",
+          "source": "Azuregos Lethon Garr in Molten Core Onyxia in Onyxia's Lair High Priest Bosses in Zul'Gurub"
+        },
+        {
+          "name": "Zulian Headdress",
+          "source": "Azuregos Lethon Garr in Molten Core Onyxia in Onyxia's Lair High Priest Bosses in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Jin'do's Evil Eye",
+          "source": "Jin'do the Hexxer in Zul'Gurub Ragnaros in Molten Core Lord Skwol Ramstein the Gorger in (side-entrance) Stratholme Vaelastrasz the Corrupt in Blackwing Lair"
+        },
+        {
+          "name": "Choker of the Fire Lord",
+          "source": "Jin'do the Hexxer in Zul'Gurub Ragnaros in Molten Core Lord Skwol Ramstein the Gorger in (side-entrance) Stratholme Vaelastrasz the Corrupt in Blackwing Lair"
+        },
+        {
+          "name": "Wavefront Necklace",
+          "source": "Jin'do the Hexxer in Zul'Gurub Ragnaros in Molten Core Lord Skwol Ramstein the Gorger in (side-entrance) Stratholme Vaelastrasz the Corrupt in Blackwing Lair"
+        },
+        {
+          "name": "Animated Chain Necklace",
+          "source": "Jin'do the Hexxer in Zul'Gurub Ragnaros in Molten Core Lord Skwol Ramstein the Gorger in (side-entrance) Stratholme Vaelastrasz the Corrupt in Blackwing Lair"
+        },
+        {
+          "name": "Pendant of the Fallen Dragon",
+          "source": "Jin'do the Hexxer in Zul'Gurub Ragnaros in Molten Core Lord Skwol Ramstein the Gorger in (side-entrance) Stratholme Vaelastrasz the Corrupt in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Wild Growth Spaulders",
+          "source": "Majordomo Executus in Molten Core Prince Skaldrenox Baron Geddon in Molten Core Chromaggus in Blackwing Lair"
+        },
+        {
+          "name": "Abyssal Mail Pauldrons",
+          "source": "Majordomo Executus in Molten Core Prince Skaldrenox Baron Geddon in Molten Core Chromaggus in Blackwing Lair"
+        },
+        {
+          "name": "Earthfury Epaulets",
+          "source": "Majordomo Executus in Molten Core Prince Skaldrenox Baron Geddon in Molten Core Chromaggus in Blackwing Lair"
+        },
+        {
+          "name": "Epaulets of Ten Storms",
+          "source": "Majordomo Executus in Molten Core Prince Skaldrenox Baron Geddon in Molten Core Chromaggus in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Shroud of Pure Thought",
+          "source": "Flamegor in Blackwing Lair Leatherworking Archivist Galford in (main-entrance) Stratholme Azuregos"
+        },
+        {
+          "name": "Hide of the Wild",
+          "source": "Flamegor in Blackwing Lair Leatherworking Archivist Galford in (main-entrance) Stratholme Azuregos"
+        },
+        {
+          "name": "Archivist Cape",
+          "source": "Flamegor in Blackwing Lair Leatherworking Archivist Galford in (main-entrance) Stratholme Azuregos"
+        },
+        {
+          "name": "Drape of Benediction",
+          "source": "Flamegor in Blackwing Lair Leatherworking Archivist Galford in (main-entrance) Stratholme Azuregos"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Robes of the Exalted",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core Nefarian in Blackwing Lair"
+        },
+        {
+          "name": "Red Dragonscale Breastplate",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core Nefarian in Blackwing Lair"
+        },
+        {
+          "name": "Earthfury Vestments",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core Nefarian in Blackwing Lair"
+        },
+        {
+          "name": "Breastplate of Ten Storms",
+          "source": "Baron Rivendare in (side-entrance) Stratholme Leatherworking Golemagg the Incinerator in Molten Core Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Abyssal Mail Armguards",
+          "source": "Lord Skwol Kirtonos the Herald in Scholomance Razorgore the Untamed in Blackwing Lair Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Loomguard Armbraces",
+          "source": "Lord Skwol Kirtonos the Herald in Scholomance Razorgore the Untamed in Blackwing Lair Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Bracers of Ten Storms",
+          "source": "Lord Skwol Kirtonos the Herald in Scholomance Razorgore the Untamed in Blackwing Lair Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Earthfury Bracers",
+          "source": "Lord Skwol Kirtonos the Herald in Scholomance Razorgore the Untamed in Blackwing Lair Molten Core drop BoE Tailoring"
+        },
+        {
+          "name": "Flarecore Wraps",
+          "source": "Lord Skwol Kirtonos the Herald in Scholomance Razorgore the Untamed in Blackwing Lair Molten Core drop BoE Tailoring"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gauntlets of Ten Storms",
+          "source": "Drake Bosses in Blackwing Lair King Gordok in Dire Maul North Gehennas in Molten Core"
+        },
+        {
+          "name": "Harmonious Gauntlets",
+          "source": "Drake Bosses in Blackwing Lair King Gordok in Dire Maul North Gehennas in Molten Core"
+        },
+        {
+          "name": "Earthfury Gauntlets",
+          "source": "Drake Bosses in Blackwing Lair King Gordok in Dire Maul North Gehennas in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Corehound Belt",
+          "source": "Leatherworking Vaelastrasz the Corrupt in Blackwing Lair World drop BoE Alzzin the Wildshaper in Dire Maul East Molten Core drop BoE"
+        },
+        {
+          "name": "Belt of Ten Storms",
+          "source": "Leatherworking Vaelastrasz the Corrupt in Blackwing Lair World drop BoE Alzzin the Wildshaper in Dire Maul East Molten Core drop BoE"
+        },
+        {
+          "name": "Sash of Mercy",
+          "source": "Leatherworking Vaelastrasz the Corrupt in Blackwing Lair World drop BoE Alzzin the Wildshaper in Dire Maul East Molten Core drop BoE"
+        },
+        {
+          "name": "Whipvine Cord",
+          "source": "Leatherworking Vaelastrasz the Corrupt in Blackwing Lair World drop BoE Alzzin the Wildshaper in Dire Maul East Molten Core drop BoE"
+        },
+        {
+          "name": "Earthfury Belt",
+          "source": "Leatherworking Vaelastrasz the Corrupt in Blackwing Lair World drop BoE Alzzin the Wildshaper in Dire Maul East Molten Core drop BoE"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Empowered Leggings",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Salamander Scale Pants",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Flarecore Leggings",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Earthfury Legguards",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Legplates of Ten Storms",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Leggings",
+          "source": "Chromaggus in Blackwing Lair Various Bosses in Molten Core Tailoring Magmadar in Molten Core Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Boots of Pure Thought",
+          "source": "Blackwing Lair trash mobs Broodlord Lashlayer in Blackwing Lair Lucifron in Molten Core Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Greaves of Ten Storms",
+          "source": "Blackwing Lair trash mobs Broodlord Lashlayer in Blackwing Lair Lucifron in Molten Core Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Earthfury Boots",
+          "source": "Blackwing Lair trash mobs Broodlord Lashlayer in Blackwing Lair Lucifron in Molten Core Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "Shimmering Geta",
+          "source": "Blackwing Lair trash mobs Broodlord Lashlayer in Blackwing Lair Lucifron in Molten Core Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+        },
+        {
+          "name": "General's Mail Boots",
+          "source": "Blackwing Lair trash mobs Broodlord Lashlayer in Blackwing Lair Lucifron in Molten Core Chromaggus in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Pure Elementium Band",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Drake Bosses in Blackwing Lair In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Cauterizing Band",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Drake Bosses in Blackwing Lair In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        },
+        {
+          "name": "Ring of Blackrock",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Drake Bosses in Blackwing Lair In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        },
+        {
+          "name": "Fordring's Seal",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Drake Bosses in Blackwing Lair In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        },
+        {
+          "name": "Rosewine Circle",
+          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Drake Bosses in Blackwing Lair In Dreams in Western Plaguelands War Master Voone in Lower Blackrock Spire"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Rejuvenating Gem",
+          "source": "Drake Bosses in Blackwing Lair Ysondre Da Voodoo in Sunken Temple Heart of Hakkar in Zul'Gurub Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Hibernation Crystal",
+          "source": "Drake Bosses in Blackwing Lair Ysondre Da Voodoo in Sunken Temple Heart of Hakkar in Zul'Gurub Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Enamored Water Spirit",
+          "source": "Drake Bosses in Blackwing Lair Ysondre Da Voodoo in Sunken Temple Heart of Hakkar in Zul'Gurub Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Zandalarian Hero Charm",
+          "source": "Drake Bosses in Blackwing Lair Ysondre Da Voodoo in Sunken Temple Heart of Hakkar in Zul'Gurub Onyxia in Onyxia's Lair"
+        },
+        {
+          "name": "Shard of the Scale",
+          "source": "Drake Bosses in Blackwing Lair Ysondre Da Voodoo in Sunken Temple Heart of Hakkar in Zul'Gurub Onyxia in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Two-Hand",
+      "items": [
+        {
+          "name": "Staff of the Shadow Flame",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "Staff of Rampant Growth",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "High Warlord's War Staff",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "Amberseal Keeper",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "Shadow Wing Focus Staff",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "Ironbark Staff",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        },
+        {
+          "name": "Will of Arlokk",
+          "source": "Nefarian in Blackwing Lair Ysondre , Taerar , Emeriss or Lethon Bought from the PvP Vendor at Rank 14 Lord Kazzak Drake Bosses in Blackwing Lair Arathi Basin Exalted High Priestess Arlokk in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "One-Hand",
+      "items": [
+        {
+          "name": "High Warlord's Battle Mace",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Lok'amir il Romathis",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Claw of Chromaggus",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Jin'do's Hexxer",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Fang of the Mystics",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Mindfang",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        },
+        {
+          "name": "Aurastone Hammer",
+          "source": "Bought from the PvP Vendor at Rank 14 Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Jin'do the Hexxer in Zul'Gurub Azuregos Arathi Basin Exalted Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Off-hand",
+      "items": [
+        {
+          "name": "Lei of the Lifegiver",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "Red Dragonscale Protector",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "High Warlord's Tome of Mending",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "Malistar's Defender",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "Brightly Glowing Stone",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "Fire Runed Grimoire",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        },
+        {
+          "name": "Milli's Lexicon",
+          "source": "Alterac Valley Exalted Vaelastrasz the Corrupt in Blackwing Lair Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core King Gordok in Dire Maul North Various Bosses in Molten Core Shards of the Felvine in Dire Maul East"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Resilience of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Serenity — available once of Exalted reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Greater Nature Resistance",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracer - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon - Healing Power",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shield",
+      "name": "Enchant Shield - Greater Stamina",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

@@ -1,0 +1,231 @@
+{
+  "expansion": "wotlk",
+  "phase": "preraid",
+  "class": "druid",
+  "spec": "feral",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Feral Druid Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Runetotem's Headguard of Triumph",
+          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Seed of Budding Carnage",
+          "source": "Animated Constellation — Dalaran, 19 Sidereal Essence"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Runetotem's Shoulderpads of Triumph",
+          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of the Faceless General",
+          "source": "Animated Constellation — Dalaran, 15 Sidereal Essence"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Runetotem's Raiments of Triumph",
+          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Bracers of Swift Death",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Runetotem's Handgrips of Triumph",
+          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Belt of the Pitiless Killer",
+          "source": "38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Bladeborn Leggings",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Footpads of Impending Death",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Lights",
+          "source": "Animated Constellation — Dalaran, 19 Sidereal Essence 35 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Dexterous Brightstone Ring",
+          "source": "Animated Constellation — Dalaran, 19 Sidereal Essence 35 Emblem of Triumph"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Mjolnir Runestone",
+          "source": "Animated Constellation — Dalaran, 19 Sidereal Essence 38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Death's Choice",
+          "source": "Animated Constellation — Dalaran, 19 Sidereal Essence 38 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Hellion Glaive",
+          "source": "76 Defiler's Scourgestone"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Idol of Mutilation",
+          "source": "25 Emblem of Triumph"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing (Frag Belt for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Berserking",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+    },
+    {
+      "color": "Red",
+      "name": "Fractured Cardinal Ruby (+23 crit) — swap to Precise Cardinal Ruby once armor-pen soft-capped"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator — the only blue gem needed)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Rigid King's Amber (+16 crit / +23 Agi) for hit — or Accurate Ametrine for expertise, Inscribed Ametrine once capped"
+    }
+  ]
+}

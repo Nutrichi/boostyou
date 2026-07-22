@@ -1,0 +1,9 @@
+WotLK Phase 1 BiS lists are live — Naxxramas, The Obsidian Sanctum & The Eye of Eternity
+
+The BiS browser now covers WotLK Classic Phase 1 for Warrior, Priest, Shaman, Mage, Warlock and Druid — full Tier 7 best-in-slot lists spanning Naxxramas 25-man, Sartharion in The Obsidian Sanctum, and Malygos in The Eye of Eternity.
+
+One honest gap: Icy Veins' own gear guides don't publish a separate Phase 1 table for Paladin, Hunter, Rogue or Death Knight — their pages jump straight from Pre-Raid to Phase 2.
+
+Browse your spec at https://boostyou.ai/content/bis.html — pick WotLK, Phase 1, your class and spec. Every item links to Wowhead.
+
+The lists are marked as drafts while we verify every source — spot something off? Tell us and we'll fix it fast.

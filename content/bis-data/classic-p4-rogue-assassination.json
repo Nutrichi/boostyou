@@ -1,0 +1,226 @@
+{
+  "expansion": "classic",
+  "phase": "p4",
+  "class": "rogue",
+  "spec": "assassination",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Icy Veins' own \"Phase 4\" table, which explicitly covers \"Zul'Gurub and Blackwing Lair\" gear together (per the source guide's own description) — used here for our Phase 4 (Zul'Gurub) slot, though some Blackwing Lair carryover items are included alongside genuine Zul'Gurub pieces. Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Darkmantle Cap",
+          "source": "Saving the Best for Last"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Prestor's Talisman of Connivery",
+          "source": "Nefarian in Onyxia's Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Zandalar Madcap's Mantle",
+          "source": "Multiple bosses in Zul'Gurub"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Cape of the Black Baron",
+          "source": "Baron Rivendare in Stratholme"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Bloodfang Chestpiece",
+          "source": "Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Darkmantle Bracers",
+          "source": "An Earnest Proposition"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Darkmantle Gloves",
+          "source": "Just Compensation"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Bloodfang Belt",
+          "source": "Vaelastrasz the Corrupt in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Bloodfang Pants",
+          "source": "Ragnaros in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Darkmantle Boots",
+          "source": "Anthion's Parting Words"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Accuria",
+          "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Master Dragonslayer's Ring",
+          "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Renataki's Charm of Trickery",
+          "source": "Multiple bosses in Zul'Gurub Ebonroc in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Drake Fang Talisman",
+          "source": "Multiple bosses in Zul'Gurub Ebonroc in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Swords",
+      "items": [
+        {
+          "name": "Chromatically Tempered Sword",
+          "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
+        },
+        {
+          "name": "Brutality Blade",
+          "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Daggers",
+      "items": [
+        {
+          "name": "Perdition's Blade",
+          "source": "Ragnaros in Molten Core Magmadar in Molten Core"
+        },
+        {
+          "name": "Core Hound Tooth",
+          "source": "Ragnaros in Molten Core Magmadar in Molten Core"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapon",
+      "items": [
+        {
+          "name": "Striker's Mark",
+          "source": "Magmadar in Molten Core"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "N/A",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Chromatic Mantle of the Dawn",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Superior Strength",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "N/A",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Minor Speed",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Weapon(s)",
+      "name": "Enchant Weapon - Crusader",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged",
+      "name": "Sniper Scope",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

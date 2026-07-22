@@ -1,0 +1,213 @@
+{
+  "expansion": "classic",
+  "phase": "p6",
+  "class": "hunter",
+  "spec": "marksmanship",
+  "role": "Ranged DPS",
+  "status": "draft",
+  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Hunter Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Helm",
+      "items": [
+        {
+          "name": "Cryptstalker Headpiece",
+          "source": "Thaddius in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Prestor's Talisman of Connivery",
+          "source": "Nefarian in Blackwing Lair"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Cryptstalker Spaulders",
+          "source": "Reward from the quest The Savior of Kalimdor which you get from the eye that C'Thun drops in AQ40"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Cryptstalker Tunic",
+          "source": "Four Horsemen in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Cryptstalker Wristguards",
+          "source": "Faerlina, Anub'Rekhan, and Gluth in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Gloves",
+      "items": [
+        {
+          "name": "Marshal's Chain Grips",
+          "source": "Rank 12 PvP set armor"
+        }
+      ]
+    },
+    {
+      "slot": "Belt",
+      "items": [
+        {
+          "name": "Cryptstalker Girdle",
+          "source": "Noth, Heigan, Gluth in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Cryptstalker Legguards",
+          "source": "Loatheb in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Cryptstalker Boots",
+          "source": "Instructor Razuvious, Gothik the Harvester, and Gluth in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of the Cryptstalker",
+          "source": "C'Thun in AQ40 Patchwerk in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Band of Reanimation",
+          "source": "C'Thun in AQ40 Patchwerk in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Blackhand's Breadth",
+          "source": "General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Slayer's Crest",
+          "source": "General Drakkisath's Demise (A) / For The Horde! (H) in Upper Blackrock Spire Sapphiron in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Melee Weapons",
+      "items": [
+        {
+          "name": "Kingsfall",
+          "source": "Kel'Thuzad in Naxxramas Instructor Razuvious in Naxxramas"
+        },
+        {
+          "name": "Iblis, Blade of the Fallen Seraph",
+          "source": "Kel'Thuzad in Naxxramas Instructor Razuvious in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged Weapons",
+      "items": [
+        {
+          "name": "Nerubian Slavemaker",
+          "source": "Kel'Thuzad in Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Quiver",
+      "items": [
+        {
+          "name": "Ancient Sinew Wrapped Lamina",
+          "source": "From the same quest chain as Rhok'delar"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Chromatic Mantle of the Dawn",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak - Lesser Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest - Greater Stats",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Bracers",
+      "name": "Enchant Bracer - Minor Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Gloves",
+      "name": "Enchant Gloves - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots - Greater Agility",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Melee Weapon",
+      "name": "Enchant 2H Weapon - Major Intellect — Only for 2H weapons. There is no useful enchant at launch for 1H weapons as a Hunter.",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Sniper Scope",
+      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+    }
+  ],
+  "gems": []
+}

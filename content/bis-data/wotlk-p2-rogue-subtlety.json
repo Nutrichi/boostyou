@@ -1,0 +1,240 @@
+{
+  "expansion": "wotlk",
+  "phase": "p2",
+  "class": "rogue",
+  "spec": "subtlety",
+  "role": "Melee DPS",
+  "status": "draft",
+  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Subtlety Rogue Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Mimiron's Flight Goggles",
+          "source": "Mimiron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Pendulum of Infinity",
+          "source": "General Vezax — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Shoulderpads of the Intruder",
+          "source": "Iron Council — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Back",
+      "items": [
+        {
+          "name": "Drape of Icy Intent",
+          "source": "Hodir — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "Embrace of the Gladiator",
+          "source": "Thorim — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Fluxing Energy Coils",
+          "source": "XT-002 Deconstructor — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Gloves of the Endless Dark",
+          "source": "Algalon the Observer — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Soul-Devouring Cinch",
+          "source": "Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of Cunning Deception",
+          "source": "Yogg-Saron — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Footpads of Silence",
+          "source": "Leatherworking"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Band of Lights",
+          "source": "Algalon the Observer — Ulduar Algalon the Observer — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Brann's Signet Ring",
+          "source": "Algalon the Observer — Ulduar Algalon the Observer — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Comet's Trail",
+          "source": "Algalon the Observer — Ulduar Thorim — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Mjolnir Runestone",
+          "source": "Algalon the Observer — Ulduar Thorim — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Main-Hand",
+      "items": [
+        {
+          "name": "Golden Saronite Dragon",
+          "source": "Flame Leviathan — Ulduar Freya — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Bladetwister",
+          "source": "Flame Leviathan — Ulduar Freya — Ulduar"
+        }
+      ]
+    },
+    {
+      "slot": "Ranged",
+      "items": [
+        {
+          "name": "Twirling Blades",
+          "source": "Flame Leviathan"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Torment",
+      "source": "Knights of the Ebon Blade — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Axe",
+      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Major Agility",
+      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Greater Assault",
+      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Crusher",
+      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+    },
+    {
+      "slot": "Legs",
+      "name": "Icescale Leg Armor",
+      "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting (Nitro Boosts for engineers)"
+    },
+    {
+      "slot": "Rings",
+      "name": "Enchant Ring — Assault",
+      "source": "Enchanting (enchanters only)"
+    },
+    {
+      "slot": "Melee Weapons",
+      "name": "Enchant Weapon — Berserking",
+      "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
+    },
+    {
+      "slot": "Ranged Weapon",
+      "name": "Sun Scope",
+      "source": "Engineering (crafted scope, usable by all)"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
+    },
+    {
+      "color": "Red",
+      "name": "Delicate Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber / Accurate Ametrine / Pristine Ametrine for socket bonus"
+    },
+    {
+      "color": "Blue",
+      "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Shifting Dreadstone"
+    }
+  ]
+}

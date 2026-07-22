@@ -1,0 +1,243 @@
+{
+  "expansion": "wotlk",
+  "phase": "p1",
+  "class": "druid",
+  "spec": "restoration",
+  "role": "Healer",
+  "status": "draft",
+  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+  "updated": "2026-07-22",
+  "slots": [
+    {
+      "slot": "Head",
+      "items": [
+        {
+          "name": "Headpiece of Reconciliation",
+          "source": "2 or more Drakes Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Neck",
+      "items": [
+        {
+          "name": "Chains of Adoration",
+          "source": "Various Bosses — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Shoulders",
+      "items": [
+        {
+          "name": "Mantle of Shattered Kinship",
+          "source": "25 Emblem of Valor"
+        }
+      ]
+    },
+    {
+      "slot": "Chest",
+      "items": [
+        {
+          "name": "The Sanctum's Flowing Vestments",
+          "source": "1 or more Drakes Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Wrists",
+      "items": [
+        {
+          "name": "Unsullied Cuffs",
+          "source": "2 or more Drakes Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Hands",
+      "items": [
+        {
+          "name": "Valorous Dreamwalker Handguards",
+          "source": "Sartharion — 25-man The Obsidian Sanctum"
+        },
+        {
+          "name": "Gauntlets of the Lost Vanquisher",
+          "source": "Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Waist",
+      "items": [
+        {
+          "name": "Leash of Heedless Magic",
+          "source": "Malygos — 25-man The Eye of Eternity"
+        }
+      ]
+    },
+    {
+      "slot": "Legs",
+      "items": [
+        {
+          "name": "Legguards of the Boneyard",
+          "source": "Sapphiron — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Feet",
+      "items": [
+        {
+          "name": "Arcanic Tramplers",
+          "source": "Malygos — 25-man The Eye of Eternity"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 1",
+      "items": [
+        {
+          "name": "Ring of Decaying Beauty",
+          "source": "Sapphiron — 25-man Naxxramas Sartharion — 25-man The Obsidian Sanctum 8,500 gold (before reputation discounts)"
+        }
+      ]
+    },
+    {
+      "slot": "Ring 2",
+      "items": [
+        {
+          "name": "Wyrmrest Band",
+          "source": "Sapphiron — 25-man Naxxramas Sartharion — 25-man The Obsidian Sanctum 8,500 gold (before reputation discounts)"
+        },
+        {
+          "name": "Loop of the Kirin Tor",
+          "source": "Sapphiron — 25-man Naxxramas Sartharion — 25-man The Obsidian Sanctum 8,500 gold (before reputation discounts)"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 1",
+      "items": [
+        {
+          "name": "Soul Preserver",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Trinket 2",
+      "items": [
+        {
+          "name": "Mercurial Alchemist Stone",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion — 25-man The Obsidian Sanctum"
+        },
+        {
+          "name": "Illustration of the Dragon Soul",
+          "source": "Mal'Ganis — Normal The Culling of Stratholme Alchemy Sartharion — 25-man The Obsidian Sanctum"
+        }
+      ]
+    },
+    {
+      "slot": "Weapon",
+      "items": [
+        {
+          "name": "Torch of Holy Fire",
+          "source": "Kel'Thuzad — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Off-Hand",
+      "items": [
+        {
+          "name": "Matriarch's Spawn",
+          "source": "Maexxna — 25-man Naxxramas"
+        }
+      ]
+    },
+    {
+      "slot": "Relic",
+      "items": [
+        {
+          "name": "Idol of Awakening",
+          "source": "Gothik the Harvester — 25-man Naxxramas"
+        }
+      ]
+    }
+  ],
+  "enchants": [
+    {
+      "slot": "Head",
+      "name": "Arcanum of Burning Mysteries",
+      "source": "The Kirin Tor — Revered"
+    },
+    {
+      "slot": "Shoulders",
+      "name": "Greater Inscription of the Storm",
+      "source": "Sons of Hodir — Exalted"
+    },
+    {
+      "slot": "Back",
+      "name": "Enchant Cloak — Greater Speed",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Chest",
+      "name": "Enchant Chest — Powerful Stats",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Wrists",
+      "name": "Enchant Bracers — Exceptional Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Hands",
+      "name": "Enchant Gloves — Exceptional Spellpower",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Waist",
+      "name": "Eternal Belt Buckle (+1 gem socket)",
+      "source": "Blacksmithing"
+    },
+    {
+      "slot": "Legs",
+      "name": "Sapphire Spellthread",
+      "source": "Tailoring (crafted, usable by all)"
+    },
+    {
+      "slot": "Feet",
+      "name": "Enchant Boots — Icewalker",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Weapon",
+      "name": "Enchant Weapon — Major Intellect",
+      "source": "Enchanting"
+    },
+    {
+      "slot": "Off-Hand",
+      "name": "Enchant Shield — Greater Intellect",
+      "source": "Enchanting"
+    }
+  ],
+  "gems": [
+    {
+      "color": "Meta",
+      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+    },
+    {
+      "color": "Red",
+      "name": "Runed Cardinal Ruby (+23 spellpower)"
+    },
+    {
+      "color": "Blue",
+      "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
+    },
+    {
+      "color": "Yellow",
+      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+    }
+  ]
+}
