@@ -1,235 +1,234 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Conqueror's Aegis Faceguard",
-          "source": "Thorim — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Bronze Pendant of the Vanir",
-          "source": "Freya — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Aegis Shoulderguards",
-          "source": "Yogg-Saron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Titanskin Cloak",
-          "source": "Mimiron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of the Timeless",
-          "source": "Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Mimiron's Inferno Couplings",
-          "source": "Flame Leviathan — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handguards of Revitalization",
-          "source": "Freya — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Shieldwarder Girdle",
-          "source": "Emblem of Conquest Vendor"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of the Endless Void",
-          "source": "Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of the Iron Army",
-          "source": "Mimiron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Platinum Band of the Aesir",
-          "source": "Auriaya — Ulduar Thorim — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Fate's Clutch",
-          "source": "Auriaya — Ulduar Thorim — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Heart of Iron",
-          "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Royal Seal of King Llane",
-          "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Serilas, Blood Blade of Invar One-Arm",
-          "source": "Freya — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Bulwark of Algalon",
-          "source": "Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of the Sacred Shield",
-          "source": "General Vezax — Ulduar"
-        }
-      ]
+     "name": "Conqueror's Aegis Faceguard",
+     "source": "Thorim — Ulduar"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of the Stalwart Protector",
-      "source": "Argent Crusade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Gladiator",
-      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Major Stamina",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Frosthide Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Greater Fortitude",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose",
-      "source": "Enchanting"
+     "name": "Bronze Pendant of the Vanir",
+     "source": "Freya — Ulduar"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
-    },
-    {
-      "color": "Red",
-      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+     "name": "Conqueror's Aegis Shoulderguards",
+     "source": "Yogg-Saron — Ulduar"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Titanskin Cloak",
+     "source": "Mimiron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of the Timeless",
+     "source": "Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Mimiron's Inferno Couplings",
+     "source": "Flame Leviathan — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of Revitalization",
+     "source": "Freya — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Shieldwarder Girdle",
+     "source": "Emblem of Conquest Vendor"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of the Endless Void",
+     "source": "Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of the Iron Army",
+     "source": "Mimiron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Platinum Band of the Aesir",
+     "source": "Auriaya — Ulduar Thorim — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Fate's Clutch",
+     "source": "Auriaya — Ulduar Thorim — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Iron",
+     "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Royal Seal of King Llane",
+     "source": "Ignis the Furnace Master — Ulduar Yogg-Saron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Serilas, Blood Blade of Invar One-Arm",
+     "source": "Freya — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Bulwark of Algalon",
+     "source": "Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of the Sacred Shield",
+     "source": "General Vezax — Ulduar"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Greater Fortitude",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+  }
+ ]
 }

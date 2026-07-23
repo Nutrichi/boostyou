@@ -1,0 +1,219 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "death-knight",
+ "spec": "blood",
+ "role": "Tank",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Blood Death Knight gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Rune of the Stoneskin Gargoyle"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Fine Lava Coral"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Lightstone"
+  },
+  {
+   "color": "Blue",
+   "name": "Puissant Elven Peridot"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Necrotic Boneplate Helmet",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Guardspike Choker",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Necrotic Boneplate Shoulderguards",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreadfire Drape",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Necrotic Boneplate Chestguard",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Graveheart Bracers",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Necrotic Boneplate Handguards",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Runescriven Demon Collar",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Necrotic Boneplate Legguards",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Stillheart Warboots",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Curled Twilight Claw",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Breathstealer Band",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Soulshifter Vortex",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Indomitable Pride",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Experimental Specimen Slicer",
+     "source": "Dragon Soul Heroic — Madness of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Gutripper Shard",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

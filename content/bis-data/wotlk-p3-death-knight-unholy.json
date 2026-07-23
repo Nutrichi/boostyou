@@ -1,244 +1,243 @@
 {
-  "expansion": "wotlk",
-  "phase": "p3",
-  "class": "death-knight",
-  "spec": "unholy",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Unholy Death Knight Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p3",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Unholy Death Knight Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Koltira's Helmet of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "The Executioner's Vice",
-          "source": "Twin Valkyr — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Koltira's Shoulderplates of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Garrosh's Rage",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Koltira's Battleplate of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Armbands of Bedlam",
-          "source": "Mimiron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Koltira's Gauntlets of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Bloodbath Girdle",
-          "source": "Lord Jaraxxus — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Ascension",
-          "source": "Twin Valkyr — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of Lifeless Night",
-          "source": "Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Seal of the Betrayed King",
-          "source": "Yogg-Saron — Ulduar Beasts of Northrend — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of the Violent Temperament",
-          "source": "Yogg-Saron — Ulduar Beasts of Northrend — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Comet's Trail",
-          "source": "Algalon the Observer — Ulduar Twin Valkyr — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Death's Choice",
-          "source": "Algalon the Observer — Ulduar Twin Valkyr — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Cudgel of the Damned",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Cudgel of the Damned",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Cudgel of the Damned",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Sigil",
-      "items": [
-        {
-          "name": "Sigil of Virulence",
-          "source": "Emblem of Triumph Vendor"
-        }
-      ]
+     "name": "Koltira's Helmet of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Rune of the Fallen Crusader",
-      "source": "Runeforging (Ebon Hold)"
+     "name": "The Executioner's Vice",
+     "source": "Twin Valkyr — Trial of the Crusader"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Bold Cardinal Ruby (+23 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
-    },
-    {
-      "color": "Blue",
-      "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+     "name": "Koltira's Shoulderplates of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Garrosh's Rage",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Koltira's Battleplate of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Armbands of Bedlam",
+     "source": "Mimiron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Koltira's Gauntlets of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Bloodbath Girdle",
+     "source": "Lord Jaraxxus — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Ascension",
+     "source": "Twin Valkyr — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of Lifeless Night",
+     "source": "Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of the Betrayed King",
+     "source": "Yogg-Saron — Ulduar Beasts of Northrend — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of the Violent Temperament",
+     "source": "Yogg-Saron — Ulduar Beasts of Northrend — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Comet's Trail",
+     "source": "Algalon the Observer — Ulduar Twin Valkyr — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Death's Choice",
+     "source": "Algalon the Observer — Ulduar Twin Valkyr — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Cudgel of the Damned",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Cudgel of the Damned",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Cudgel of the Damned",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Sigil of Virulence",
+     "source": "Emblem of Triumph Vendor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+  }
+ ]
 }

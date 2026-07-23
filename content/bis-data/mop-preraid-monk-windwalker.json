@@ -1,231 +1,230 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "monk",
-  "spec": "windwalker",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides. ⚠ One or more slots are Throne of Thunder drops that Icy Veins still rates BiS — those do NOT drop in Celestial Dungeons; run ToT for them or use any SoO Normal alternative from the same slot. Rune of Re-Origination (Lei Shen, ToT) is kept because it is dramatically stronger than any SoO alternative.",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "monk",
+ "spec": "windwalker",
+ "role": "Melee DPS",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides. ⚠ One or more slots are Throne of Thunder drops that Icy Veins still rates BiS — those do NOT drop in Celestial Dungeons; run ToT for them or use any SoO Normal alternative from the same slot. Rune of Re-Origination (Lei Shen, ToT) is kept because it is dramatically stronger than any SoO alternative.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Headpiece of Seven Sacred Seals (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Immerseus' Crystalline Eye",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Spaulders of Seven Sacred Seals (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Fen-Yu, Fury of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Robes of the Blackened Watcher",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bomber's Blackened Wristwatch",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Grips of Seven Sacred Seals (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Cord of Black Dreams",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Seven Sacred Seals (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Pandaren Roofsprinters",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Reality Ripper Ring",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Kil'ruk's Band of Ascendancy",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Rune of Re-Origination",
-          "source": "Throne of Thunder — Lei Shen (older-raid item, not obtainable in Celestial Dungeons)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Haromm's Talisman",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Hellscream's Cleaver",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Hellscream's Cleaver",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
-        }
-      ]
+     "name": "Headpiece of Seven Sacred Seals (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride, tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Accuracy (+180 hit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Greater Haste (+170 haste)",
-      "source": "Enchanting (Superior Expertise if needed for caps)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Agility (+160 Agi)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Immerseus' Crystalline Eye",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Agile Primal Diamond otherwise)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Primordial Ruby (+160 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Deadly Vermilion Onyx (+80 Agi / +160 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+     "name": "Spaulders of Seven Sacred Seals (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Fen-Yu, Fury of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of the Blackened Watcher",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bomber's Blackened Wristwatch",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Grips of Seven Sacred Seals (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of Black Dreams",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Seven Sacred Seals (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Pandaren Roofsprinters",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Reality Ripper Ring",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Norushen)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Kil'ruk's Band of Ascendancy",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Rune of Re-Origination",
+     "source": "Throne of Thunder — Lei Shen (older-raid item, not obtainable in Celestial Dungeons)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Haromm's Talisman",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Hellscream's Cleaver",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Hellscream's Cleaver",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Accuracy (+180 hit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Greater Haste (+170 haste)",
+   "source": "Enchanting (Superior Expertise if needed for caps)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Agility (+160 Agi)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Agile Primal Diamond otherwise)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Primordial Ruby (+160 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deadly Vermilion Onyx (+80 Agi / +160 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+  }
+ ]
 }

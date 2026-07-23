@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p2",
-  "class": "priest",
-  "spec": "discipline",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Icy Veins covers TBC healing priests with one Holy-oriented list — the same gear applies to Discipline raid healers in Phase 2. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p2",
+ "class": "priest",
+ "spec": "discipline",
+ "role": "Healer",
+ "notes": "Icy Veins covers TBC healing priests with one Holy-oriented list — the same gear applies to Discipline raid healers in Phase 2. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Cowl of the Avatar (Tier 5)",
-          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Lord Sanguinar's Claim",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of the Avatar (Tier 5)",
-          "source": "Tempest Keep — Void Reaver (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Sunshower Light Cloak",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Vestments of the Avatar (Tier 5)",
-          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bindings of the Timewalker",
-          "source": "Keepers of Time — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Avatar (Tier 5)",
-          "source": "Serpentshrine Cavern — Leotheras the Blind (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Long Road",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Breeches of the Avatar (Tier 5)",
-          "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Soul-Strider Boots",
-          "source": "Serpentshrine Cavern — Fathom-Lord Karathress"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Violet Signet of the Grand Restorer",
-          "source": "The Violet Eye — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Coral Band of the Revived",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Darkmoon Card: Blue Dragon",
-          "source": "Darkmoon Faire — Beasts Deck"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Eye of Gruul",
-          "source": "Gruul's Lair — Gruul the Dragonkiller"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Lightfathom Scepter",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Talisman of the Sun King",
-          "source": "Tempest Keep — Al'ar"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Luminescent Rod of the Naaru",
-          "source": "Serpentshrine Cavern — Morogrim Tidewalker"
-        }
-      ]
+     "name": "Cowl of the Avatar (Tier 5)",
+     "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
-      "source": "Honor Hold / Thrallmar — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Faith (+46 healing)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Subtlety (-2% threat)",
-      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Major Spirit (+15 spirit)",
-      "source": "Enchanting (Restore Mana Prime as alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Superior Healing (+30 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Healing (+35 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Golden Spellthread (+66 healing / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Healing (+81 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Healing Power (+20 healing)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Lord Sanguinar's Claim",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
-    },
-    {
-      "color": "Red",
-      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Nightseye (+9 healing / +2 mp5) — or Purified Shadow Pearl (+9 healing / +4 spirit)"
+     "name": "Mantle of the Avatar (Tier 5)",
+     "source": "Tempest Keep — Void Reaver (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Sunshower Light Cloak",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Vestments of the Avatar (Tier 5)",
+     "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of the Timewalker",
+     "source": "Keepers of Time — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Avatar (Tier 5)",
+     "source": "Serpentshrine Cavern — Leotheras the Blind (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Long Road",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Breeches of the Avatar (Tier 5)",
+     "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Soul-Strider Boots",
+     "source": "Serpentshrine Cavern — Fathom-Lord Karathress"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Violet Signet of the Grand Restorer",
+     "source": "The Violet Eye — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Coral Band of the Revived",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Blue Dragon",
+     "source": "Darkmoon Faire — Beasts Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Eye of Gruul",
+     "source": "Gruul's Lair — Gruul the Dragonkiller"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Lightfathom Scepter",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Talisman of the Sun King",
+     "source": "Tempest Keep — Al'ar"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Luminescent Rod of the Naaru",
+     "source": "Serpentshrine Cavern — Morogrim Tidewalker"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+   "source": "Honor Hold / Thrallmar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Faith (+46 healing)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Subtlety (-2% threat)",
+   "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Major Spirit (+15 spirit)",
+   "source": "Enchanting (Restore Mana Prime as alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Superior Healing (+30 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Healing (+35 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Golden Spellthread (+66 healing / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Healing (+81 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Healing Power (+20 healing)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+  },
+  {
+   "color": "Red",
+   "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Nightseye (+9 healing / +2 mp5) — or Purified Shadow Pearl (+9 healing / +4 spirit)"
+  }
+ ]
 }

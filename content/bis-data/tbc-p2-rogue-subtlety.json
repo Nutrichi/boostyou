@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p2",
-  "class": "rogue",
-  "spec": "subtlety",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Icy Veins publishes one TBC rogue list built around Combat (swords) — the dominant raid build; the gear applies to every rogue spec in Phase 2. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p2",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Icy Veins publishes one TBC rogue list built around Combat (swords) — the dominant raid build; the gear applies to every rogue spec in Phase 2. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Deathmantle Helm (Tier 5)",
-          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of Vile Intent",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Deathmantle Shoulderpads (Tier 5)",
-          "source": "Tempest Keep — Void Reaver (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of the Dark Reavers",
-          "source": "Karazhan — Shade of Aran"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Bloodsea Brigand's Vest",
-          "source": "Serpentshrine Cavern — Fathom-Lord Karathress"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Vambraces of Ending",
-          "source": "Tempest Keep — High Astromancer Solarian"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Deathmantle Handguards (Tier 5)",
-          "source": "Serpentshrine Cavern — Leotheras the Blind (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of One-Hundred Deaths",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Deathmantle Legguards (Tier 5)",
-          "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Edgewalker Longboots",
-          "source": "Karazhan — Moroes"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of the Ranger-General",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Lethality",
-          "source": "Serpentshrine Cavern — Hydross the Unstable"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Dragonspine Trophy",
-          "source": "Gruul's Lair — Gruul the Dragonkiller"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Warp-Spring Coil",
-          "source": "Tempest Keep — Void Reaver"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Talon of Azshara",
-          "source": "Serpentshrine Cavern — Morogrim Tidewalker"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Latro's Shifting Sword",
-          "source": "Heroic Black Morass — Aeonus"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Arcanite Steam-Pistol",
-          "source": "Tempest Keep — Al'ar"
-        }
-      ]
+     "name": "Deathmantle Helm (Tier 5)",
+     "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
-      "source": "Cenarion Expedition — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade; Naxx veterans: Might of the Scourge)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Assault (+24 AP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
-      "source": "Enchanting (Dexterity if speed is covered)"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
+     "name": "Choker of Vile Intent",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage — needs 2 red / 2 yellow / 2 blue)"
-    },
-    {
-      "color": "Red",
-      "name": "Glinting Noble Topaz (+4 Agi / +4 hit) until hit-capped, then Delicate Living Ruby (+8 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Rigid Dawnstone (+8 hit; Rigid Lionseye from P3)"
-    },
-    {
-      "color": "Blue",
-      "name": "Shifting Nightseye (+4 Agi / +6 stamina; Shifting Shadowsong Amethyst from P3)"
+     "name": "Deathmantle Shoulderpads (Tier 5)",
+     "source": "Tempest Keep — Void Reaver (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Dark Reavers",
+     "source": "Karazhan — Shade of Aran"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Bloodsea Brigand's Vest",
+     "source": "Serpentshrine Cavern — Fathom-Lord Karathress"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Vambraces of Ending",
+     "source": "Tempest Keep — High Astromancer Solarian"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Deathmantle Handguards (Tier 5)",
+     "source": "Serpentshrine Cavern — Leotheras the Blind (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of One-Hundred Deaths",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Deathmantle Legguards (Tier 5)",
+     "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Edgewalker Longboots",
+     "source": "Karazhan — Moroes"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of the Ranger-General",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Lethality",
+     "source": "Serpentshrine Cavern — Hydross the Unstable"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Dragonspine Trophy",
+     "source": "Gruul's Lair — Gruul the Dragonkiller"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Warp-Spring Coil",
+     "source": "Tempest Keep — Void Reaver"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Talon of Azshara",
+     "source": "Serpentshrine Cavern — Morogrim Tidewalker"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Latro's Shifting Sword",
+     "source": "Heroic Black Morass — Aeonus"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Arcanite Steam-Pistol",
+     "source": "Tempest Keep — Al'ar"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+   "source": "Cenarion Expedition — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade; Naxx veterans: Might of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Assault (+24 AP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+   "source": "Enchanting (Dexterity if speed is covered)"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage — needs 2 red / 2 yellow / 2 blue)"
+  },
+  {
+   "color": "Red",
+   "name": "Glinting Noble Topaz (+4 Agi / +4 hit) until hit-capped, then Delicate Living Ruby (+8 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Rigid Dawnstone (+8 hit; Rigid Lionseye from P3)"
+  },
+  {
+   "color": "Blue",
+   "name": "Shifting Nightseye (+4 Agi / +6 stamina; Shifting Shadowsong Amethyst from P3)"
+  }
+ ]
 }

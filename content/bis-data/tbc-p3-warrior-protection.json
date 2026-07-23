@@ -1,240 +1,239 @@
 {
-  "expansion": "tbc",
-  "phase": "p3",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Protection Warrior Tank gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p3",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Protection Warrior Tank gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Vengeful Gladiator's Plate Helm",
-          "source": "Arena Points"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Vindicator's Pendant of Triumph",
-          "source": "Honor Points"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulder",
-      "items": [
-        {
-          "name": "Onslaught Shoulderblades",
-          "source": "Mother Shahraz Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Cloak",
-      "items": [
-        {
-          "name": "Pepe's Shroud of Pacification",
-          "source": "Trash Mobs in Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Vengeful Gladiator's Plate Chestpiece",
-          "source": "Arena Points"
-        }
-      ]
-    },
-    {
-      "slot": "Bracer",
-      "items": [
-        {
-          "name": "Vindicator's Plate Bracers",
-          "source": "Honor Points"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Gauntlets of Enforcement",
-          "source": "Teron Gorefiend Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Belt of One-Hundred Deaths",
-          "source": "Lady Vashj Serpentshrine Cavern"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Onslaught Greaves",
-          "source": "The Illidari Council Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Boots",
-      "items": [
-        {
-          "name": "Myrmidon's Treads",
-          "source": "Shade of Akama Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Shapeshifter's Signet",
-          "source": "Exalted Lower City"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of the Eternal Champion",
-          "source": "Exalted The Scale of the Sands"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Darkmoon Card: Vengeance",
-          "source": "Darkmoon Furies Deck"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Darkmoon Card: Madness",
-          "source": "Darkmoon Lunacy Deck"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "The Brutalizer",
-          "source": "Supremus Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Bulwark of Azzinoth",
-          "source": "Illidan Stormrage Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Legionkiller",
-          "source": "Supremus Black Temple"
-        }
-      ]
+     "name": "Vengeful Gladiator's Plate Helm",
+     "source": "Arena Points"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of the Defender Best: Glyph of the Gladiator",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Agility",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Exceptional Health",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Fortitude Threat: Enchant Bracer - Stats",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Threat: Enchant Gloves - Threat Well Rounded: Enchant Gloves - Superior Agility Tanky: Glove Reinforcements Stamina: Heavy Knothide Armor Kit",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercleft Leg Armor",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Boar's Speed",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Finger",
-      "name": "Enchant Ring - Stats (Enchanting only)",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Mongoose Threat: Enchant Weapon - Executioner",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Major Stamina",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Vindicator's Pendant of Triumph",
+     "source": "Honor Points"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulder",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Powerful Earthstorm Diamond (+16 stamina, +2% armor) — or Relentless Earthstorm Diamond for threat"
-    },
-    {
-      "color": "Red",
-      "name": "Shifting Nightseye (+5 dodge / +6 stamina) — or Glinting Noble Topaz (hit) once hit-capped isn't needed"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Talasite (+4 defense / +6 stamina) — or Jagged/Glinting variants for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Star of Elune (+8 stamina)"
+     "name": "Onslaught Shoulderblades",
+     "source": "Mother Shahraz Black Temple"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Cloak",
+   "items": [
+    {
+     "name": "Pepe's Shroud of Pacification",
+     "source": "Trash Mobs in Hyjal Summit"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Vengeful Gladiator's Plate Chestpiece",
+     "source": "Arena Points"
+    }
+   ]
+  },
+  {
+   "slot": "Bracer",
+   "items": [
+    {
+     "name": "Vindicator's Plate Bracers",
+     "source": "Honor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Gauntlets of Enforcement",
+     "source": "Teron Gorefiend Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Belt of One-Hundred Deaths",
+     "source": "Lady Vashj Serpentshrine Cavern"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Onslaught Greaves",
+     "source": "The Illidari Council Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Boots",
+   "items": [
+    {
+     "name": "Myrmidon's Treads",
+     "source": "Shade of Akama Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Shapeshifter's Signet",
+     "source": "Exalted Lower City"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of the Eternal Champion",
+     "source": "Exalted The Scale of the Sands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Vengeance",
+     "source": "Darkmoon Furies Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Darkmoon Card: Madness",
+     "source": "Darkmoon Lunacy Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "The Brutalizer",
+     "source": "Supremus Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Bulwark of Azzinoth",
+     "source": "Illidan Stormrage Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Legionkiller",
+     "source": "Supremus Black Temple"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of the Defender Best: Glyph of the Gladiator",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Agility",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Exceptional Health",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Fortitude Threat: Enchant Bracer - Stats",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Threat: Enchant Gloves - Threat Well Rounded: Enchant Gloves - Superior Agility Tanky: Glove Reinforcements Stamina: Heavy Knothide Armor Kit",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercleft Leg Armor",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Boar's Speed",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Finger",
+   "name": "Enchant Ring - Stats (Enchanting only)",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Mongoose Threat: Enchant Weapon - Executioner",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Major Stamina",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Powerful Earthstorm Diamond (+16 stamina, +2% armor) — or Relentless Earthstorm Diamond for threat"
+  },
+  {
+   "color": "Red",
+   "name": "Shifting Nightseye (+5 dodge / +6 stamina) — or Glinting Noble Topaz (hit) once hit-capped isn't needed"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Talasite (+4 defense / +6 stamina) — or Jagged/Glinting variants for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Star of Elune (+8 stamina)"
+  }
+ ]
 }

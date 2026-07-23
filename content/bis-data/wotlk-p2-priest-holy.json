@@ -1,257 +1,256 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "priest",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Holy Priest Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "priest",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Holy Priest Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Crown of Luminescence",
-          "source": "Mimiron HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Charm of Meticulous Timing",
-          "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Amice of Inconceivable Horror",
-          "source": "Yogg-Saron HM — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Sunglimmer Cloak",
-          "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Conqueror's Robe of Sanctification",
-          "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
-        },
-        {
-          "name": "Breastplate of the Wayward Conqueror",
-          "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Grasps of Reason",
-          "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Pharos Gloves",
-          "source": "Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Starwatcher's Binding",
-          "source": "Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Conqueror's Leggings of Sanctification",
-          "source": "Freya — Ulduar 25-Man Emalon the Storm Watcher — Vault of Archavon 25-Man"
-        },
-        {
-          "name": "Legplates of the Wayward Conqueror",
-          "source": "Freya — Ulduar 25-Man Emalon the Storm Watcher — Vault of Archavon 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Fiery Resolution",
-          "source": "Flame Leviathan HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "Mimiron HM — Ulduar 25-Man Freya HM — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Fire Orchid Signet",
-          "source": "Mimiron HM — Ulduar 25-Man Freya HM — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Meteorite Crystal",
-          "source": "Algalon the Observer — Ulduar 10-Man Kologarn — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Spark of Hope",
-          "source": "Algalon the Observer — Ulduar 10-Man Kologarn — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Val'anyr, Hammer of Ancient Kings",
-          "source": "Shared Drop — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Val'anyr, Hammer of Ancient Kings",
-          "source": "Shared Drop — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Ironmender",
-          "source": "Kologarn — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Scepter of Lost Souls",
-          "source": "General Vezax — Ulduar 25-Man"
-        }
-      ]
+     "name": "Crown of Luminescence",
+     "source": "Mimiron HM — Ulduar 25-Man"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Wisdom",
-      "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Staff — Greater Spellpower",
-      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Charm of Meticulous Timing",
+     "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
-    },
-    {
-      "color": "Red",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Luminous Ametrine"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick King's Amber (+16 haste / +10 Int) — or Brilliant King's Amber"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Intricate/Seer's Eye of Zul"
+     "name": "Amice of Inconceivable Horror",
+     "source": "Yogg-Saron HM — Ulduar 10-Man"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Sunglimmer Cloak",
+     "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Conqueror's Robe of Sanctification",
+     "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
+    },
+    {
+     "name": "Breastplate of the Wayward Conqueror",
+     "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Grasps of Reason",
+     "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Pharos Gloves",
+     "source": "Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Starwatcher's Binding",
+     "source": "Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Conqueror's Leggings of Sanctification",
+     "source": "Freya — Ulduar 25-Man Emalon the Storm Watcher — Vault of Archavon 25-Man"
+    },
+    {
+     "name": "Legplates of the Wayward Conqueror",
+     "source": "Freya — Ulduar 25-Man Emalon the Storm Watcher — Vault of Archavon 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Fiery Resolution",
+     "source": "Flame Leviathan HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "Mimiron HM — Ulduar 25-Man Freya HM — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Fire Orchid Signet",
+     "source": "Mimiron HM — Ulduar 25-Man Freya HM — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Meteorite Crystal",
+     "source": "Algalon the Observer — Ulduar 10-Man Kologarn — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Spark of Hope",
+     "source": "Algalon the Observer — Ulduar 10-Man Kologarn — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Val'anyr, Hammer of Ancient Kings",
+     "source": "Shared Drop — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Val'anyr, Hammer of Ancient Kings",
+     "source": "Shared Drop — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Ironmender",
+     "source": "Kologarn — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Scepter of Lost Souls",
+     "source": "General Vezax — Ulduar 25-Man"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Wisdom",
+   "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Staff — Greater Spellpower",
+   "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Luminous Ametrine"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick King's Amber (+16 haste / +10 Int) — or Brilliant King's Amber"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Intricate/Seer's Eye of Zul"
+  }
+ ]
 }

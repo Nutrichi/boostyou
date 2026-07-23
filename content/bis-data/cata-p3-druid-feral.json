@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Feral Druid Dps gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Feral covers the cat (DPS) build, per the site convention; the source has a separate bear (tank) guide. Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant 2H Weapon - Mighty Agility",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet — used in nearly all sockets; only match other colors for strong socket bonuses"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel"
+  },
+  {
+   "color": "Yellow",
+   "name": "Adept Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Deep Earth Headpiece",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Choker of the Vanquished Lord",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Underdweller's Spaulders",
+     "source": "Dragon Soul Heroic — Morchok"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreadfire Drape",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Deep Earth Raiment",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Shadow Wing Armbands",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Deep Earth Grips",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Flayed Skin",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Deep Earth Legguards",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Molten Blood Footpads",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of Primordial Shadow",
+     "source": "Dragon Soul Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Grasping Mouths",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Wrath of Unchaining",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Vial of Shadows",
+     "source": "Dragon Soul Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Kiril, Fury of Beasts",
+     "source": "Dragon Soul Heroic — Madness of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Ripfang Relic",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/paladin/holy/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Exceptional Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Brilliant King's Amber (+23 Int)"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Faceguard of the Succumbed",
+     "source": "Thaddius - Naxxramas (25m)"
+    },
+    {
+     "name": "Headpiece of Reconciliation",
+     "source": "Sartharion - The Obsidian Sanctum (25m)"
+    },
+    {
+     "name": "Headpiece of Fungal Bloom",
+     "source": "Thaddius - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Redemption Spaulders",
+     "source": "60 Emblem of Valor"
+    },
+    {
+     "name": "Elevated Lair Pauldrons",
+     "source": "Malygos - The Eye of Eternity (25m)"
+    },
+    {
+     "name": "Noble Birthright Pauldrons",
+     "source": "Sapphiron - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Pennant Cloak",
+     "source": "Sartharion - The Obsidian Sanctum (25m)"
+    },
+    {
+     "name": "Shroud of Luminosity",
+     "source": "Shared Drop - Naxxramas (25m)"
+    },
+    {
+     "name": "Cloak of Kea Feathers",
+     "source": "25 Emblem of Valor"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Redemption Tunic",
+     "source": "Four Horsemen Chest - Naxxramas (25m)"
+    },
+    {
+     "name": "Heroes' Redemption Tunic",
+     "source": "80 Emblem of Heroism"
+    },
+    {
+     "name": "Fallout Impervious Tunic",
+     "source": "Grobbulus - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Abetment Bracers",
+     "source": "Gothik the Harvester - Naxxramas (25m)"
+    },
+    {
+     "name": "Unsullied Cuffs",
+     "source": "Sartharion - The Obsidian Sanctum (25m)"
+    },
+    {
+     "name": "Bindings of the Decrepit",
+     "source": "Heigan the Unclean - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Redemption Gloves",
+     "source": "Sartharion - The Obsidian Sanctum (25m)"
+    },
+    {
+     "name": "Heroes' Redemption Gloves",
+     "source": "60 Emblem of Heroism"
+    },
+    {
+     "name": "Winter Spectacle Gloves",
+     "source": "Malygos - The Eye of Eternity (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Waistguard of Divine Grace",
+     "source": "Patchwerk - Naxxramas (25m)"
+    },
+    {
+     "name": "Leash of Heedless Magic",
+     "source": "Malygos - The Eye of Eternity (25m)"
+    },
+    {
+     "name": "Magroth's Meditative Cincture",
+     "source": "40 Emblem of Heroism"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Valorous Redemption Greaves",
+     "source": "75 Emblem of Valor"
+    },
+    {
+     "name": "Heroes' Redemption Greaves",
+     "source": "Shared Drop - Naxxramas (10m)"
+    },
+    {
+     "name": "Leggings of Voracious Shadows",
+     "source": "Four Horsemen Chest - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Healing Energies",
+     "source": "Malygos - The Eye of Eternity (25m)"
+    },
+    {
+     "name": "Poignant Sabatons",
+     "source": "Shared Drop - Naxxramas (25m)"
+    },
+    {
+     "name": "Eruption-Scarred Boots",
+     "source": "Heigan the Unclean - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Wyrmrest Necklace of Power",
+     "source": "Heroic Judgment at the Eye of Eternity"
+    },
+    {
+     "name": "Chain of the Ancient Wyrm",
+     "source": "Judgment at the Eye of Eternity"
+    },
+    {
+     "name": "Cosmic Lights",
+     "source": "Sapphiron - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet of Manifested Pain",
+     "source": "Kel'Thuzad - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Decaying Beauty",
+     "source": "Sapphiron - Naxxramas (25m)"
+    },
+    {
+     "name": "Wyrmrest Band",
+     "source": "Sartharion - The Obsidian Sanctum (25m)"
+    },
+    {
+     "name": "Seized Beauty",
+     "source": "Shared Drop - Naxxramas (25m)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Darkmoon Nobles Deck - Nobles Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Soul Preserver",
+     "source": "Mal'Ganis - The Culling of Stratholme"
+    },
+    {
+     "name": "Figurine - Sapphire Owl",
+     "source": "Sapphire Owl - Jewelcrafting (400)"
+    },
+    {
+     "name": "Eye of Gruul",
+     "source": "Gruul the Dragonkiller - Gruul's Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Torch of Holy Fire",
+     "source": "Kel'Thuzad - Naxxramas (25m)"
+    },
+    {
+     "name": "The Turning Tide",
+     "source": "Kel'Thuzad - Naxxramas (25m)"
+    },
+    {
+     "name": "Hammer of the Astral Plane",
+     "source": "Kel'Thuzad - Naxxramas (10m)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Voice of Reason",
+     "source": "Kel'Thuzad - Naxxramas (25m)"
+    },
+    {
+     "name": "Shield of Assimilation",
+     "source": "Anub'Rekhan - Naxxramas (25m)"
+    },
+    {
+     "name": "Aegis of Damnation",
+     "source": "Shared Drop - Naxxramas (10m)"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Renewal",
+     "source": "15 Emblem of Heroism"
+    }
+   ]
+  }
+ ]
+}

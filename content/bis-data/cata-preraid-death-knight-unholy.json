@@ -1,0 +1,183 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Unholy Death Knight gear guide (pre-raid page): Firelands-era catch-up pre-bis (previous-tier vendor gear via Fissure Stone Fragments). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fierce Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Cloudburst Necklace",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloudburst Cloak",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Elementium Deathplate Breastplate",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Fists of Fury",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sky Strider Belt",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Elementium Deathplate Greaves",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Warboots of Mighty Lords",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Serrated Brimstone Signet",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "80 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Rage",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Solace",
+     "source": "Augh Lost City of the Tol'vir"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Reclaimed Ashkandi, Greatsword of the Brotherhood",
+     "source": "30 Fissure Stone Fragment"
+    }
+   ]
+  }
+ ]
+}

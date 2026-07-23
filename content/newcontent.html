@@ -45,10 +45,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
 
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-
-    :root {
+  <link rel="stylesheet" href="../assets/site.css">
+<style>
+:root {
       --bg-primary: rgb(15, 23, 42);
       --bg-secondary: rgb(30, 41, 59);
       --bg-card: rgba(51, 65, 85, 0.6);
@@ -60,8 +59,7 @@
       --text-muted: #94a3b8;
       --border-color: rgba(148, 163, 184, 0.1);
     }
-
-    body {
+body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
       color: var(--text-primary);
@@ -69,15 +67,13 @@
       min-height: 100vh;
       overflow-x: hidden;
     }
-
-    .page-header {
+.page-header {
       max-width: 1400px;
       margin: 0 auto;
       padding: 2.5rem 1.5rem 1.5rem;
       text-align: center;
     }
-
-    .page-header h1 {
+.page-header h1 {
       font-size: clamp(2rem, 5vw, 3.25rem);
       font-weight: 900;
       background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
@@ -87,224 +83,37 @@
       line-height: 1.15;
       margin-bottom: 0.75rem;
     }
-
-    .page-header p {
+.page-header p {
       color: var(--text-secondary);
       font-size: 1.1rem;
       max-width: 720px;
       margin: 0 auto;
     }
-
-    .news-layout {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 1.5rem 1.5rem 4rem;
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) 360px;
-      gap: 2rem;
-      align-items: start;
-    }
-
-    /* Blog feed */
-    .blog-post {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 1.75rem 2rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .blog-date {
-      color: var(--text-muted);
-      font-size: 0.82rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-bottom: 0.4rem;
-    }
-
-    .blog-post h2 {
-      color: var(--accent-yellow);
-      font-size: 1.45rem;
-      font-weight: 800;
-      margin-bottom: 0.9rem;
-      line-height: 1.3;
-    }
-
-    .blog-post p {
-      color: var(--text-secondary);
-      margin-bottom: 0.9rem;
-      font-size: 0.98rem;
-    }
-
-    .blog-post p:last-child {
-      margin-bottom: 0;
-    }
-
-    .blog-post a {
-      color: var(--accent-primary);
-      text-decoration: none;
-    }
-
-    .blog-post a:hover {
-      text-decoration: underline;
-    }
-
-    .blog-status {
-      text-align: center;
-      color: var(--text-muted);
-      padding: 1.5rem 0;
-      font-weight: 600;
-    }
-
-    /* Sidebar */
-    .news-sidebar {
-      display: flex;
-      flex-direction: column;
-      gap: 1.5rem;
-      position: sticky;
-      top: 90px;
-    }
-
-    .side-box {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 1.5rem;
-    }
-
-    .side-box h3 {
-      color: var(--text-primary);
-      font-size: 1.05rem;
-      font-weight: 800;
-      margin-bottom: 1rem;
-    }
-
-    .social-btn {
-      display: block;
-      text-align: center;
-      text-decoration: none;
-      color: #fff;
-      font-weight: 800;
-      font-size: 0.95rem;
-      padding: 0.85rem 1rem;
-      border-radius: 0.6rem;
-      margin-bottom: 0.75rem;
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-
-    .social-btn:hover {
-      transform: translateY(-1px);
-    }
-
-    .btn-youtube {
-      background: radial-gradient(circle at 20% 30%, rgba(255,255,255,0.18), transparent 35%), linear-gradient(135deg, #ff3b30, #e11d48 55%, #7f1d1d);
-      box-shadow: 0 14px 28px -12px rgba(239, 68, 68, 0.9);
-      border: 1px solid rgba(239, 68, 68, 0.8);
-    }
-
-    .btn-twitch {
-      background: radial-gradient(circle at 20% 30%, rgba(255,255,255,0.18), transparent 35%), linear-gradient(135deg, #c084fc, #8b5cf6 55%, #6d28d9);
-      box-shadow: 0 14px 28px -12px rgba(124, 58, 237, 0.9);
-      border: 1px solid rgba(124, 58, 237, 0.8);
-      margin-bottom: 0;
-    }
-
-    .video-embed {
-      position: relative;
-      width: 100%;
-      aspect-ratio: 16 / 9;
-      border-radius: 0.6rem;
-      overflow: hidden;
-      margin-top: 1rem;
-      border: 1px solid var(--border-color);
-    }
-
-    .video-embed iframe {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-
-    .pack-list {
-      list-style: none;
-    }
-
-    .pack-list li {
-      padding: 0.45rem 0;
-      border-bottom: 1px solid var(--border-color);
-      font-size: 0.92rem;
-    }
-
-    .pack-list li:last-child {
-      border-bottom: 0;
-    }
-
-    .pack-list a {
-      color: var(--accent-primary);
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    .pack-list a:hover {
-      text-decoration: underline;
-    }
-
-    .pack-list .free-tag {
-      color: var(--accent-green);
-      font-size: 0.75rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      margin-right: 0.4rem;
-    }
-
-    /* Footer */
-    .footer {
+.footer {
       background: var(--bg-secondary);
       border-top: 1px solid var(--border-color);
       padding: 1rem 1.25rem;
       margin-top: 1rem;
     }
-
-    .footer-content {
+.footer-content {
       max-width: 1400px;
       margin: 0 auto;
       display: flex;
       justify-content: center;
     }
-
-    .footer-bottom {
+.footer-bottom {
       text-align: center;
       color: var(--text-muted);
       font-size: 0.88rem;
       line-height: 1.3;
       padding-top: 0.35rem;
     }
-
-    @media (max-width: 1024px) {
-      .news-layout {
-        grid-template-columns: 1fr;
-      }
-
-      .news-sidebar {
-        position: static;
-      }
-    }
-
-    @media (max-width: 480px) {
-      .news-layout {
-        padding: 1rem 1rem 3rem;
-      }
-
-      .blog-post {
-        padding: 1.25rem 1.25rem;
-      }
-    }
-  </style>
+</style>
   <link rel="stylesheet" href="../assets/cta.css" />
   <script src="../assets/cta.js" defer></script>
+  <!-- mark JS availability before first paint so the crawlable "All posts" fallback
+       never flashes before the styled feed renders (blog.js un-marks on failure) -->
+  <script>document.documentElement.classList.add('js');</script>
   <script src="../assets/blog.js" defer></script>
 <link rel="stylesheet" href="../assets/nav.css" />
 <script src="../assets/nav.js" defer></script>
@@ -490,9 +299,11 @@
       <div id="blogFeed"></div>
       <div class="blog-status" id="blogStatus">Loading…</div>
       <!-- news-pages:start (generated by tools/post_pages.py) -->
-<section aria-label="All news posts" style="margin-top:2rem;">
+<section class="news-static-list" aria-label="All news posts" style="margin-top:2rem;">
   <h2 style="font-size:1.05rem;color:#f1f5f9;margin-bottom:0.6rem;">All posts</h2>
   <ul style="list-style:none;padding:0;">
+    <li><a href="news-2026-07-23-cata-bis-lists-complete.html">Cataclysm BiS lists are live — all 30 specs, Pre-Raid through Dragon Soul</a> <span style="color:#94a3b8;font-size:0.85rem;">23 July 2026</span></li>
+    <li><a href="news-2026-07-23-bis-browser-complete-757-lists.html">The BiS browser is complete — all 757 lists, every expansion, every phase, every spec</a> <span style="color:#94a3b8;font-size:0.85rem;">23 July 2026</span></li>
     <li><a href="news-2026-07-22-wotlk-preraid-bis-lists-live.html">WotLK Pre-Raid BiS lists are live for all 30 specs</a> <span style="color:#94a3b8;font-size:0.85rem;">22 July 2026</span></li>
     <li><a href="news-2026-07-22-wotlk-p4-icc-bis-lists-live.html">WotLK Tier 10 BiS lists are live for all 30 specs — Icecrown Citadel and The Ruby Sanctum</a> <span style="color:#94a3b8;font-size:0.85rem;">22 July 2026</span></li>
     <li><a href="news-2026-07-22-wotlk-p3-bis-lists-live.html">WotLK Phase 3 BiS lists are live for all 30 specs — Trial of the Crusader</a> <span style="color:#94a3b8;font-size:0.85rem;">22 July 2026</span></li>

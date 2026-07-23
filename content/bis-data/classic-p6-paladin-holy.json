@@ -1,213 +1,212 @@
 {
-  "expansion": "classic",
-  "phase": "p6",
-  "class": "paladin",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Holy Paladin Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p6",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Holy Paladin Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Redemption Headpiece",
-          "source": "Thaddius Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of the Fallen God",
-          "source": "Eye of C'Thun The Savior of Kalimdor"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Redemption Spaulders",
-          "source": "Shared Loot Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Suturing",
-          "source": "Patchwerk Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Redemption Tunic",
-          "source": "Four Horsemen Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Bracelets of Royal Redemption",
-          "source": "Emperor Vek'nilash AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Peacekeeper Gauntlets",
-          "source": "Hakkar Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Grasp of the Old God",
-          "source": "C'Thun AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Blazing Light",
-          "source": "Battleguard Sartura AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Redemption Boots",
-          "source": "Shared Loot Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Redemption",
-          "source": "Kel'Thuzad Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Pure Elementium Band",
-          "source": "Nefarian Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Eye of the Dead",
-          "source": "Sapphiron Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Rejuvenating Gem",
-          "source": "Ebonroc , Firemaw , Flamegor ; Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Hammer of the Twisting Nether",
-          "source": "Kel'Thuzad Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Shield of Condemnation",
-          "source": "Kel'Thuzad Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Light",
-          "source": "Noth the Plaguebringer Naxxramas"
-        }
-      ]
+     "name": "Redemption Headpiece",
+     "source": "Thaddius Naxxramas"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Amulet of the Fallen God",
+     "source": "Eye of C'Thun The Savior of Kalimdor"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Redemption Spaulders",
+     "source": "Shared Loot Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Suturing",
+     "source": "Patchwerk Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Redemption Tunic",
+     "source": "Four Horsemen Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Bracelets of Royal Redemption",
+     "source": "Emperor Vek'nilash AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Peacekeeper Gauntlets",
+     "source": "Hakkar Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Grasp of the Old God",
+     "source": "C'Thun AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Blazing Light",
+     "source": "Battleguard Sartura AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Redemption Boots",
+     "source": "Shared Loot Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Redemption",
+     "source": "Kel'Thuzad Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Pure Elementium Band",
+     "source": "Nefarian Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Eye of the Dead",
+     "source": "Sapphiron Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Rejuvenating Gem",
+     "source": "Ebonroc , Firemaw , Flamegor ; Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Hammer of the Twisting Nether",
+     "source": "Kel'Thuzad Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Shield of Condemnation",
+     "source": "Kel'Thuzad Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Light",
+     "source": "Noth the Plaguebringer Naxxramas"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

@@ -1,212 +1,211 @@
 {
-  "expansion": "mop",
-  "phase": "p3",
-  "class": "druid",
-  "spec": "guardian",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Guardian shares agility DPS gear; crit-leaning gems feed Savage Defense via Primal Fury. Swap toward stamina for progression. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p3",
+ "class": "druid",
+ "spec": "guardian",
+ "role": "Tank",
+ "notes": "Guardian shares agility DPS gear; crit-leaning gems feed Savage Defense via Primal Fury. Swap toward stamina for progression. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Headguard of the Shattered Vale (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Gleaming Eye of the Devilsaur",
-          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Ricocheting Shoulderguards",
-          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Qian-Le, Courage of Niuzao",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Tunic of the Shattered Vale (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Laser Burn Bracers",
-          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handguards of the Shattered Vale (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Damron's Belt of Darkness",
-          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Breeches of the Shattered Vale (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Unrepentant Heels",
-          "source": "Siege of Orgrimmar Heroic — Galakras"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Reality Ripper Ring",
-          "source": "Siege of Orgrimmar Heroic — Norushen"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Swift Serpent Signet",
-          "source": "Siege of Orgrimmar Heroic — Galakras"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Vial of Living Corruption",
-          "source": "Siege of Orgrimmar Heroic — Malkorok"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Haromm's Talisman",
-          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Trident of Corrupted Waters",
-          "source": "Siege of Orgrimmar Heroic — Immerseus"
-        }
-      ]
+     "name": "Headguard of the Shattered Vale (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Protection (+200 armor)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Sha Armor Kit (+250 stamina)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
+     "name": "Gleaming Eye of the Devilsaur",
+     "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Austere Primal Diamond for progression)"
-    },
-    {
-      "color": "Red",
-      "name": "Crafty Vermilion Onyx (+160 crit / +80 hit)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Smooth Sun's Radiance (+320 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Jagged Wild Jade (+160 crit / +240 stamina)"
+     "name": "Ricocheting Shoulderguards",
+     "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Qian-Le, Courage of Niuzao",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Tunic of the Shattered Vale (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Laser Burn Bracers",
+     "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of the Shattered Vale (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Damron's Belt of Darkness",
+     "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Breeches of the Shattered Vale (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Unrepentant Heels",
+     "source": "Siege of Orgrimmar Heroic — Galakras"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Reality Ripper Ring",
+     "source": "Siege of Orgrimmar Heroic — Norushen"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Swift Serpent Signet",
+     "source": "Siege of Orgrimmar Heroic — Galakras"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Vial of Living Corruption",
+     "source": "Siege of Orgrimmar Heroic — Malkorok"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Haromm's Talisman",
+     "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Trident of Corrupted Waters",
+     "source": "Siege of Orgrimmar Heroic — Immerseus"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Protection (+200 armor)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Sha Armor Kit (+250 stamina)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Austere Primal Diamond for progression)"
+  },
+  {
+   "color": "Red",
+   "name": "Crafty Vermilion Onyx (+160 crit / +80 hit)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Smooth Sun's Radiance (+320 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Jagged Wild Jade (+160 crit / +240 stamina)"
+  }
+ ]
 }

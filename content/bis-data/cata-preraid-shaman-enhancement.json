@@ -1,0 +1,225 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Enhancement Shaman gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Adept Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Spiritwalker's Helmet",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Cameo of Terrible Memories",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Spiritwalker's Spaulders",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Batwing Cloak",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Spiritwalker's Cuirass",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Dragonbelly Bracers",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Arrowflick Gauntlets",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of Dragon Sinew",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Spiritwalker's Legguards",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boneshard Boots",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of Primordial Shadow",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Emergency Descent Loop",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Wrath of Unchaining",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Vial of Shadows",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "No'Kaled, the Elements of Death",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Covenant of the Flame",
+     "source": "Crystallized Firestone plus the 700 Justice Points 378 version"
+    }
+   ]
+  }
+ ]
+}

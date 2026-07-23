@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "rogue",
+ "spec": "assassination",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Assassination Rogue gear guide (pre-raid page): Firelands-era catch-up pre-bis (previous-tier vendor gear via Fissure Stone Fragments). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Combat/Assassination/Subtlety each have their own page on the source. Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Adept Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Agile Bio-Optic Killshades",
+     "source": "Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Necklace of Smoke Signals",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wind Dancer's Spaulders",
+     "source": "60 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Mistral Drape",
+     "source": "28 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dark Phoenix Tunic",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Flamebinder Bracers",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Clutches of Evil",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Fallen Brood",
+     "source": "80 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Dark Phoenix Legguards",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of the Craft",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Splintered Brimstone Seal",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Mistral Circle",
+     "source": "28 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Prestor's Talisman of Machination",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Unsolvable Riddle",
+     "source": "Exalted Baradin's Wardens / Hellscream's Reach"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Twinblade of the Hakkari",
+     "source": "Jin'do the Godbreaker (H)Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Scaleslicer",
+     "source": "Blackwing Descent Heroic — Trash in"
+    }
+   ]
+  },
+  {
+   "slot": "Thrown",
+   "items": [
+    {
+     "name": "Morningstar Shard",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

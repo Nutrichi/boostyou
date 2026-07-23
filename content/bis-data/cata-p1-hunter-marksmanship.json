@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "hunter",
+ "spec": "marksmanship",
+ "role": "Ranged DPS",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Marksmanship Hunter gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant 2H Weapon - Mighty Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Gnomish X-Ray Scope"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deadly Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lightning-Charged Headguard",
+     "source": "Blackwing Descent — Nefarian —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mistral Pendant",
+     "source": "Al'Akir — Conclave of Wind"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Lightning-Charged Spaulders",
+     "source": "Bastion of Twilight — Chogall —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Mistral Drape",
+     "source": "Throne of the Four Winds — Al'Akir and —"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Lightning-Charged Tunic",
+     "source": "Bastion of Twilight — Halfus Wyrmbreaker —"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Chimaeron Armguards",
+     "source": "Blackwing Descent — Chimaeron —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Coil of Ten-Thousand Screams",
+     "source": "Bastion of Twilight — Chogall —"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Twilight Scale Leggings",
+     "source": "Bastion of Twilight — Sinestra —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Vertigo",
+     "source": "Blackwing Descent — Atramedes —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Lightning Conductor Band",
+     "source": "Blackwing Descent — Omnotron Defense System —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Mistral Circle",
+     "source": "Throne of the Four Winds — Conclave of Wind —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Essence of the Cyclone",
+     "source": "Bastion of Twilight — Halfus Wyrmbreaker —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Prestor's Talisman of Machination",
+     "source": "Blackwing Descent — Nefarian —"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Weapon",
+   "items": [
+    {
+     "name": "Malevolence",
+     "source": "Bastion of Twilight — Halfus Wyrmbreaker —"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Dragonheart Piercer",
+     "source": "Bastion of Twilight — Valiona —"
+    }
+   ]
+  }
+ ]
+}

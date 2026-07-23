@@ -1,234 +1,233 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "warrior",
-  "spec": "fury",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot, so you gear straight for SoO. Enchants and gems match our SoO list (same patch). Draft compiled from the Icy Veins MoP Classic pre-raid guide (Phase 5 table). Weapons: rank 1 is the Titan's Grip pair (two 2H), rank 2 the Single-Minded Fury pair (two 1H).",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot, so you gear straight for SoO. Enchants and gems match our SoO list (same patch). Draft compiled from the Icy Veins MoP Classic pre-raid guide (Phase 5 table). Weapons: rank 1 is the Titan's Grip pair (two 2H), rank 2 the Single-Minded Fury pair (two 1H).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helmet of the Prehistoric Marauder (Tier 16)",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Malkorok's Tainted Dog Tags",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of the Prehistoric Marauder (Tier 16)",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Gong-Lu, Strength of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of Shamanic Mirrors",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Blind Hatred",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Tar-Coated Gauntlets",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Ashen Wall Girdle",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Willful Doom",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of Sublime Superiority",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Bloodclaw Band",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Devilfang Band",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Evil Eye of Galakras",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Thok's Tail Tip",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Xal'atoh, Desecrated Image of Gorehowl",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Titan's Grip build"
-        },
-        {
-          "name": "Malkorok's Skullcleaver",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Single-Minded Fury build"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Xal'atoh, Desecrated Image of Gorehowl",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Titan's Grip build"
-        },
-        {
-          "name": "Malkorok's Skullcleaver",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Single-Minded Fury build"
-        }
-      ]
+     "name": "Helmet of the Prehistoric Marauder (Tier 16)",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
-      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
-      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Super Strength (+170 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Strength (+160 Str)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Malkorok's Tainted Dog Tags",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
-    },
-    {
-      "color": "Red",
-      "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Smooth Sun's Radiance (+320 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+     "name": "Pauldrons of the Prehistoric Marauder (Tier 16)",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Gong-Lu, Strength of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Shamanic Mirrors",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Blind Hatred",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Tar-Coated Gauntlets",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ashen Wall Girdle",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Willful Doom",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of Sublime Superiority",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Bloodclaw Band",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Devilfang Band",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Evil Eye of Galakras",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Thok's Tail Tip",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Xal'atoh, Desecrated Image of Gorehowl",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Titan's Grip build"
+    },
+    {
+     "name": "Malkorok's Skullcleaver",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Single-Minded Fury build"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Xal'atoh, Desecrated Image of Gorehowl",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Titan's Grip build"
+    },
+    {
+     "name": "Malkorok's Skullcleaver",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — Single-Minded Fury build"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+   "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+   "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Super Strength (+170 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Strength (+160 Str)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
+  },
+  {
+   "color": "Red",
+   "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Smooth Sun's Radiance (+320 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+  }
+ ]
 }

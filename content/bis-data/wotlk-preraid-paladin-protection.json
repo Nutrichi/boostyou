@@ -1,251 +1,250 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Protection Paladin Tank gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Protection Paladin Tank gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Turalyon's Faceguard of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Faceguard of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
+     "name": "Turalyon's Faceguard of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Bronze Pendant of the Vanir",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Turalyon's Shoulderguards of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Shoulderguards of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Titanskin Cloak",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Turalyon's Breastplate of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Breastplate of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Saronite Swordbreakers",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Turalyon's Handguards of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Handguards of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Verdigris Chain Belt",
-          "source": "60 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Pillars of Might",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Kingly Upheaval",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Fate's Clutch",
-          "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Clutch of Fortification",
-          "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Satrina's Impeding Scarab",
-          "source": "38 Defiler's Scourgestone 60 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Corroded Skeleton Key",
-          "source": "38 Defiler's Scourgestone 60 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Stormpike Cleaver",
-          "source": "50 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Crystal Plated Vanguard",
-          "source": "50 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Valiance",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Liadrin's Faceguard of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of the Stalwart Protector",
-      "source": "Argent Crusade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Gladiator",
-      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Major Stamina",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Frosthide Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Greater Fortitude",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose",
-      "source": "Enchanting"
+     "name": "Bronze Pendant of the Vanir",
+     "source": "60 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+     "name": "Turalyon's Shoulderguards of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "color": "Red",
-      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+     "name": "Liadrin's Shoulderguards of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Titanskin Cloak",
+     "source": "60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Turalyon's Breastplate of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Liadrin's Breastplate of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Saronite Swordbreakers",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Turalyon's Handguards of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Liadrin's Handguards of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Verdigris Chain Belt",
+     "source": "60 Emblem of Frost"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Pillars of Might",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Kingly Upheaval",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fate's Clutch",
+     "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Clutch of Fortification",
+     "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satrina's Impeding Scarab",
+     "source": "38 Defiler's Scourgestone 60 Emblem of Frost"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Corroded Skeleton Key",
+     "source": "38 Defiler's Scourgestone 60 Emblem of Frost"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Stormpike Cleaver",
+     "source": "50 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Crystal Plated Vanguard",
+     "source": "50 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Valiance",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Greater Fortitude",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+  }
+ ]
 }

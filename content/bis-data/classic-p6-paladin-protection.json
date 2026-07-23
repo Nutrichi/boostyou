@@ -1,218 +1,217 @@
 {
-  "expansion": "classic",
-  "phase": "p6",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p6",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Avenger's Crown",
-          "source": "Emperor Vek'lor AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Mark of C'Thun",
-          "source": "C'Thun AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of the Unrelenting",
-          "source": "Fankriss the Unyielding AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cryptfiend Silk Cloak",
-          "source": "Anub'Rekhan Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Enchanted Thorium Breastplate",
-          "source": "C'Thun AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Judgement Bindings",
-          "source": "Razorgore the Untamed Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gauntlets of Steadfast Determination",
-          "source": "Battleguard Sartura AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Royal Qiraji Belt",
-          "source": "Emperor Vek'lor AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Bloodsoaked Legplates",
-          "source": "Hakkar Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Unwavering Will",
-          "source": "The Prophet Skeram AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Signet Ring of the Bronze Dragonflight",
-          "source": "Brood of Nozdormu Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Emperor Vek'lor",
-          "source": "Emperor Vek'lor AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Styleen's Impeding Scarab",
-          "source": "Flamegor Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Onyxia Blood Talisman",
-          "source": "Celebrating Good Times"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "The End of Dreams",
-          "source": "Grobbulus Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "The Plague Bearer",
-          "source": "Patchwerk Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Hope",
-          "source": "Isalien Dire Maul East"
-        }
-      ]
+     "name": "Avenger's Crown",
+     "source": "Emperor Vek'lor AQ40"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Superior Defense",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Deflection",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon - Spell Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Greater Stamina",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Mark of C'Thun",
+     "source": "C'Thun AQ40"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of the Unrelenting",
+     "source": "Fankriss the Unyielding AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cryptfiend Silk Cloak",
+     "source": "Anub'Rekhan Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Enchanted Thorium Breastplate",
+     "source": "C'Thun AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Judgement Bindings",
+     "source": "Razorgore the Untamed Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Steadfast Determination",
+     "source": "Battleguard Sartura AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Royal Qiraji Belt",
+     "source": "Emperor Vek'lor AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Bloodsoaked Legplates",
+     "source": "Hakkar Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Unwavering Will",
+     "source": "The Prophet Skeram AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet Ring of the Bronze Dragonflight",
+     "source": "Brood of Nozdormu Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Emperor Vek'lor",
+     "source": "Emperor Vek'lor AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Styleen's Impeding Scarab",
+     "source": "Flamegor Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Onyxia Blood Talisman",
+     "source": "Celebrating Good Times"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "The End of Dreams",
+     "source": "Grobbulus Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "The Plague Bearer",
+     "source": "Patchwerk Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Hope",
+     "source": "Isalien Dire Maul East"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Superior Defense",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Deflection",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon - Spell Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Greater Stamina",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

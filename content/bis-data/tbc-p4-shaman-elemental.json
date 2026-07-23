@@ -1,240 +1,239 @@
 {
-  "expansion": "tbc",
-  "phase": "p4",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Elemental Shaman Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p4",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 4 (Zul'Aman) Best in Slot from the Icy Veins TBC Classic Elemental Shaman Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Skyshatter Headguard",
-          "source": "Archimonde — Hyjal Summit"
-        },
-        {
-          "name": "Helm of the Forgotten Protector",
-          "source": "Archimonde — Hyjal Summit"
-        }
-      ]
+     "name": "Skyshatter Headguard",
+     "source": "Archimonde — Hyjal Summit"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Brooch of Nature's Mercy",
-          "source": "Akil'zon — Zul'Aman Zul'jin — Zul'Aman"
-        },
-        {
-          "name": "Loop of Cursed Bones",
-          "source": "Akil'zon — Zul'Aman Zul'jin — Zul'Aman"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulder",
-      "items": [
-        {
-          "name": "Skyshatter Mantle",
-          "source": "The Illidari Council — Black Temple"
-        },
-        {
-          "name": "Pauldrons of the Forgotten Protector",
-          "source": "The Illidari Council — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Skyshatter Breastplate",
-          "source": "Illidan Stormrage — Black Temple"
-        },
-        {
-          "name": "Chestguard of the Forgotten Protector",
-          "source": "Illidan Stormrage — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Nimble Thought",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Skyshatter Gauntlets",
-          "source": "Azgalor — Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Flashfire Girdle",
-          "source": "Shade of Akama — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Channeled Elements",
-          "source": "Kaz'rogal — Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Boots",
-      "items": [
-        {
-          "name": "Slippers of the Seacaller",
-          "source": "High Warlord Naj'entus — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Rings",
-      "items": [
-        {
-          "name": "Ring of Ancient Knowledge",
-          "source": "Trash — Black Temple Exalted with The Scale of the Sands"
-        },
-        {
-          "name": "Band of the Eternal Sage",
-          "source": "Trash — Black Temple Exalted with The Scale of the Sands"
-        }
-      ]
-    },
-    {
-      "slot": "Trinkets",
-      "items": [
-        {
-          "name": "The Skull of Gul'dan",
-          "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
-        },
-        {
-          "name": "Hex Shrunken Head",
-          "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
-        },
-        {
-          "name": "The Lightning Capacitor",
-          "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
-        },
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
-        },
-        {
-          "name": "Dark Iron Smoking Pipe",
-          "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Zhar'doom, Greatstaff of the Devourer",
-          "source": "Illidan Stormrage — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Relics",
-      "items": [
-        {
-          "name": "Totem of Ancestral Guidance",
-          "source": "Teron Gorefiend — Black Temple"
-        }
-      ]
+     "name": "Helm of the Forgotten Protector",
+     "source": "Archimonde — Hyjal Summit"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Brooch of Nature's Mercy",
+     "source": "Akil'zon — Zul'Aman Zul'jin — Zul'Aman"
     },
     {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Discipline — available once at Exalted reputation with the The Aldor",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Spell Penetration",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Exceptional Stats",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Major Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Boar's Speed",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Major Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Intellect",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring - Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Loop of Cursed Bones",
+     "source": "Akil'zon — Zul'Aman Zul'jin — Zul'Aman"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulder",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage)"
+     "name": "Skyshatter Mantle",
+     "source": "The Illidari Council — Black Temple"
     },
     {
-      "color": "Red",
-      "name": "Runed Crimson Spinel (+8 spell damage)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Pyrestone (+4 spell damage / +4 haste)"
-    },
-    {
-      "color": "Blue",
-      "name": "Glowing Shadowsong Amethyst (+4 spell damage / +6 spirit) — need two to unlock the meta"
+     "name": "Pauldrons of the Forgotten Protector",
+     "source": "The Illidari Council — Black Temple"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Skyshatter Breastplate",
+     "source": "Illidan Stormrage — Black Temple"
+    },
+    {
+     "name": "Chestguard of the Forgotten Protector",
+     "source": "Illidan Stormrage — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Nimble Thought",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Skyshatter Gauntlets",
+     "source": "Azgalor — Hyjal Summit"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Flashfire Girdle",
+     "source": "Shade of Akama — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Channeled Elements",
+     "source": "Kaz'rogal — Hyjal Summit"
+    }
+   ]
+  },
+  {
+   "slot": "Boots",
+   "items": [
+    {
+     "name": "Slippers of the Seacaller",
+     "source": "High Warlord Naj'entus — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Rings",
+   "items": [
+    {
+     "name": "Ring of Ancient Knowledge",
+     "source": "Trash — Black Temple Exalted with The Scale of the Sands"
+    },
+    {
+     "name": "Band of the Eternal Sage",
+     "source": "Trash — Black Temple Exalted with The Scale of the Sands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinkets",
+   "items": [
+    {
+     "name": "The Skull of Gul'dan",
+     "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
+    },
+    {
+     "name": "Hex Shrunken Head",
+     "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
+    },
+    {
+     "name": "The Lightning Capacitor",
+     "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
+    },
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
+    },
+    {
+     "name": "Dark Iron Smoking Pipe",
+     "source": "Illidan Stormrage — Black Temple Hex Lord Malacrass — Zul'Aman Terestian Illhoof — Karazhan 41 Badge of Justice Coren Direbrew — Blackrock Depths during Brewfest"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Zhar'doom, Greatstaff of the Devourer",
+     "source": "Illidan Stormrage — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Relics",
+   "items": [
+    {
+     "name": "Totem of Ancestral Guidance",
+     "source": "Teron Gorefiend — Black Temple"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — from Sapphiron in Naxxramas Greater Inscription of Discipline — available once at Exalted reputation with the The Aldor",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Spell Penetration",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Exceptional Stats",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Boar's Speed",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Major Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Intellect",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring - Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Crimson Spinel (+8 spell damage)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Pyrestone (+4 spell damage / +4 haste)"
+  },
+  {
+   "color": "Blue",
+   "name": "Glowing Shadowsong Amethyst (+4 spell damage / +6 spirit) — need two to unlock the meta"
+  }
+ ]
 }

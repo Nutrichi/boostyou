@@ -1,240 +1,239 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "priest",
-  "spec": "shadow",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Shadow Priest gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Crimson Acolyte line, using the Shadow-flavored piece names (Cowl/Mantle/Raiments/Handwraps) rather than Discipline/Holy's Hood/Shoulderpads/Robe/Gloves — same tier, different armor art.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "priest",
+ "spec": "shadow",
+ "role": "Ranged DPS",
+ "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Shadow Priest gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Crimson Acolyte line, using the Shadow-flavored piece names (Cowl/Mantle/Raiments/Handwraps) rather than Discipline/Holy's Hood/Shoulderpads/Robe/Gloves — same tier, different armor art.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Crimson Acolyte Cowl (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of the Silent Eulogy",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Crimson Acolyte Mantle (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Burning Dusk",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanctified Crimson Acolyte Raiments (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Fiery Night",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Sanctified Crimson Acolyte Handwraps (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Crushing Coldwraith Belt",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Plaguebringer's Stained Pants",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Plague Scientist's Boots",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ashen Band of Endless Destruction",
-          "source": "The Ashen Verdict — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Rapid Ascent",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Phylactery of the Nameless Lich",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dislodged Foreign Object",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Royal Scepter of Terenas II",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Shadow Silk Spindle",
-          "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Corpse-Impaling Spike",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
+     "name": "Sanctified Crimson Acolyte Cowl (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Major Spirit alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (one-hand); Enchant Staff — Greater Spellpower for staves"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Amulet of the Silent Eulogy",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine / Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+     "name": "Sanctified Crimson Acolyte Mantle (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Burning Dusk",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanctified Crimson Acolyte Raiments (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Fiery Night",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sanctified Crimson Acolyte Handwraps (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Crushing Coldwraith Belt",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Plaguebringer's Stained Pants",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Plague Scientist's Boots",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ashen Band of Endless Destruction",
+     "source": "The Ashen Verdict — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Rapid Ascent",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Phylactery of the Nameless Lich",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dislodged Foreign Object",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Royal Scepter of Terenas II",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Shadow Silk Spindle",
+     "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Corpse-Impaling Spike",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Major Spirit alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (one-hand); Enchant Staff — Greater Spellpower for staves"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine / Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+  }
+ ]
 }

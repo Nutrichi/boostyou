@@ -1,0 +1,354 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/death-knight/unholy/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Obsidian Greathelm",
+     "source": "The Obsidian Sanctum 25 — Sartharion"
+    },
+    {
+     "name": "Valorous Scourgeborne Helmet",
+     "source": "Naxxramas 25 — Kel'Thuzad"
+    },
+    {
+     "name": "Helm of the Unsubmissive",
+     "source": "Naxxramas 10 — Sapphiron"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Shoulderplates",
+     "source": "Naxxramas 25 — Gluth and Loatheb"
+    },
+    {
+     "name": "Heroes' Scourgeborne Shoulderplates",
+     "source": "Naxxramas 10 — Gluth and Loatheb"
+    },
+    {
+     "name": "Shoulderguards of Opportunity",
+     "source": "Naxxramas 25 — Gluth and Noth the Plaguebringer"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Deadly Foe",
+     "source": "Naxxramas 25 — Kel'Thuzad"
+    },
+    {
+     "name": "Aged Winter Cloak",
+     "source": "Naxxramas 25 — Trash Drop"
+    },
+    {
+     "name": "Cloak of Darkening",
+     "source": "Naxxramas 10 — Instructor Razuvious"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Battleplate",
+     "source": "Naxxramas 25 — Gluth and Four Horsemen Chest"
+    },
+    {
+     "name": "Heroes' Scourgeborne Battleplate",
+     "source": "Arcanist Ivrenne / Magistrix Lambriesse — 80 Emblem of Heroism"
+    },
+    {
+     "name": "Chestguard of the Recluse",
+     "source": "The Eye of Eternity 25 — Malygos"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Unrelenting Attack",
+     "source": "Naxxramas 25 — Gothik the Harvester"
+    },
+    {
+     "name": "Bracers of the Tyrant",
+     "source": "Naxxramas 25 — Grand Widow Faerlina"
+    },
+    {
+     "name": "Bracers of Lost Sentiments",
+     "source": "Naxxramas 10 — Grand Widow Faerlina"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Gauntlets",
+     "source": "The Obsidian Sanctum 25 — Sartharion"
+    },
+    {
+     "name": "Heroes' Scourgeborne Gauntlets",
+     "source": "Arcanist Ivrenne / Magistrix Lambriesse — 60 Emblem of Heroism"
+    },
+    {
+     "name": "Zeliek's Gauntlets",
+     "source": "Naxxramas 25 — Four Horsemen Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Girdle of Chivalry",
+     "source": "Naxxramas 25 — Grobbulus"
+    },
+    {
+     "name": "Girdle of Razuvious",
+     "source": "Naxxramas 25 — Instructor Razuvious"
+    },
+    {
+     "name": "Verdungo's Barbarian Cord",
+     "source": "Arcanist Ivrenne / Magistrix Lambriesse — 40 Emblem of Heroism"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Legplates",
+     "source": "Naxxramas 25 — Gluth and Thaddius"
+    },
+    {
+     "name": "Heroes' Scourgeborne Legplates",
+     "source": "Naxxramas 10 — Gluth and Thaddius"
+    },
+    {
+     "name": "Riveted Abomination Leggings",
+     "source": "Naxxramas 25 — Thaddius"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Melancholy Sabatons",
+     "source": "The Eye of Eternity 25 — Malygos"
+    },
+    {
+     "name": "Sabatons of Sudden Reprisal",
+     "source": "Naxxramas 25 — Anub'Rekhan"
+    },
+    {
+     "name": "Iron-Spring Jumpers",
+     "source": "Naxxramas 25 — Gluth and Heigan the Unclean"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Favor of the Dragon Queen",
+     "source": "Naxxramas / The Eye of Eternity 25 — Reward from Heroic Judgment at the Eye of Eternity - Drops from Sapphiron"
+    },
+    {
+     "name": "Pendant of the Dragonsworn",
+     "source": "Naxxramas / The Eye of Eternity 10 — Reward from Judgment at the Eye of Eternity - Drops from Sapphiron"
+    },
+    {
+     "name": "Gem of Imprisoned Vassals",
+     "source": "Naxxramas 10 — Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ruthlessness",
+     "source": "Naxxramas 25 — : Instructor Razuvious, Patchwerk, Anub'Rekhan, Grand Widow Faerlina"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Circle of Death",
+     "source": "Naxxramas 10 — Sapphiron"
+    },
+    {
+     "name": "Strong-Handed Ring",
+     "source": "Naxxramas 25 — Any Boss"
+    },
+    {
+     "name": "Greatring of Collision",
+     "source": "The Obsidian Sanctum 10 — Sartharion"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Darkmoon Faire — Reward from Darkmoon Nobles Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Meteorite Whetstone",
+     "source": "Heroic: Utgarde Pinnacle — King Ymiron"
+    },
+    {
+     "name": "Grim Toll",
+     "source": "Naxxramas 25 — Grobbulus, Gothik the Harvester, Heigan the Unclean, and Maexxna"
+    },
+    {
+     "name": "Fury of the Five Flights",
+     "source": "The Obsidian Sanctum 25 — Sartharion"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Last Laugh",
+     "source": "Naxxramas 25 — Kel'Thuzad"
+    },
+    {
+     "name": "Angry Dread",
+     "source": "Naxxramas 25 — Noth the Plaguebringer"
+    },
+    {
+     "name": "Deadly Gladiator's Cleaver",
+     "source": "Requires a personal rating of at least 1930 — 3150 Arena Points"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Hailstorm",
+     "source": "The Eye of Eternity 10 — Malygos"
+    },
+    {
+     "name": "Last Laugh",
+     "source": "Naxxramas 25 — Kel'Thuzad"
+    },
+    {
+     "name": "Angry Dread",
+     "source": "Naxxramas 25 — Noth the Plaguebringer"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Deadly Gladiator's Sigil of Strife",
+     "source": "Xazi Smolderpipe — 1,200 Arena Points"
+    },
+    {
+     "name": "Sigil of Awareness",
+     "source": "Naxxramas 25 — Heigan the Unclean"
+    },
+    {
+     "name": "Sigil of the Wild Buck",
+     "source": "\"Grizzly\" D. Adams / Purkom — 30 Venture Coin"
+    }
+   ]
+  }
+ ]
+}

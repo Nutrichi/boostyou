@@ -1,226 +1,225 @@
 {
-  "expansion": "classic",
-  "phase": "p3",
-  "class": "rogue",
-  "spec": "combat",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p3",
+ "class": "rogue",
+ "spec": "combat",
+ "role": "Melee DPS",
+ "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Bloodfang Hood",
-          "source": "Blackwing Lair in Onyxia's Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Prestor's Talisman of Connivery",
-          "source": "Nefarian in Onyxia's Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Nightslayer Shoulder Pads",
-          "source": "Sulfuron Harbinger in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cape of the Black Baron",
-          "source": "Baron Rivendare in Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Bloodfang Chestpiece",
-          "source": "Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bloodfang Bracers",
-          "source": "Razorgore the Untamed in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Nightslayer Gloves",
-          "source": "Gehennas in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Bloodfang Belt",
-          "source": "Vaelastrasz the Corrupt in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Bloodfang Pants",
-          "source": "Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Shadow Flame",
-          "source": "Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Accuria",
-          "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Master Dragonslayer's Ring",
-          "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Hand of Justice",
-          "source": "General Angerforge in Blackrock Depths Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Drake Fang Talisman",
-          "source": "General Angerforge in Blackrock Depths Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Swords",
-      "items": [
-        {
-          "name": "Chromatically Tempered Sword",
-          "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
-        },
-        {
-          "name": "Brutality Blade",
-          "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Daggers",
-      "items": [
-        {
-          "name": "Perdition's Blade",
-          "source": "Ragnaros in Molten Core Magmadar in Molten Core"
-        },
-        {
-          "name": "Core Hound Tooth",
-          "source": "Ragnaros in Molten Core Magmadar in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged Weapon",
-      "items": [
-        {
-          "name": "Striker's Mark",
-          "source": "Magmadar in Molten Core"
-        }
-      ]
+     "name": "Bloodfang Hood",
+     "source": "Blackwing Lair in Onyxia's Lair"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "N/A",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Chromatic Mantle of the Dawn",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Lesser Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Greater Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "N/A",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon(s)",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Ranged",
-      "name": "Sniper Scope",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Prestor's Talisman of Connivery",
+     "source": "Nefarian in Onyxia's Lair"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Nightslayer Shoulder Pads",
+     "source": "Sulfuron Harbinger in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Bloodfang Chestpiece",
+     "source": "Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bloodfang Bracers",
+     "source": "Razorgore the Untamed in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Nightslayer Gloves",
+     "source": "Gehennas in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Bloodfang Belt",
+     "source": "Vaelastrasz the Corrupt in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Bloodfang Pants",
+     "source": "Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Shadow Flame",
+     "source": "Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Accuria",
+     "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Master Dragonslayer's Ring",
+     "source": "Ragnaros in Molten Core Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Hand of Justice",
+     "source": "General Angerforge in Blackrock Depths Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Drake Fang Talisman",
+     "source": "General Angerforge in Blackrock Depths Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Swords",
+   "items": [
+    {
+     "name": "Chromatically Tempered Sword",
+     "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
+    },
+    {
+     "name": "Brutality Blade",
+     "source": "Chromaggus in Blackwing Lair Garr in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Daggers",
+   "items": [
+    {
+     "name": "Perdition's Blade",
+     "source": "Ragnaros in Molten Core Magmadar in Molten Core"
+    },
+    {
+     "name": "Core Hound Tooth",
+     "source": "Ragnaros in Molten Core Magmadar in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Striker's Mark",
+     "source": "Magmadar in Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "N/A",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Chromatic Mantle of the Dawn",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Greater Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "N/A",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon(s)",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Ranged",
+   "name": "Sniper Scope",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

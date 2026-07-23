@@ -1,283 +1,282 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "druid",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Crafted Primal Mooncloth and Whitemend pieces lead; engineering goggles top the helm slot. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "enchants": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Crafted Primal Mooncloth and Whitemend pieces lead; engineering goggles top the helm slot. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+   "source": "Honor Hold / Thrallmar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Faith (+46 healing)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Subtlety (-2% threat)",
+   "source": "Enchanting (Greater Shadow Resistance for specific fights)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Major Spirit (+15 spirit)",
+   "source": "Enchanting (Restore Mana Prime as alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Superior Healing (+30 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Healing (+35 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Golden Spellthread (+66 healing / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Healing (+81 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Healing Power (+20 healing)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
-      "source": "Honor Hold / Thrallmar — Revered"
+     "name": "Wonderheal XT40 Shades",
+     "source": "Engineering (crafted, engineers only)"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Faith (+46 healing)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle; Naxx veterans: Resilience of the Scourge)"
+     "name": "Whitemend Hood",
+     "source": "Tailoring (crafted)"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak — Subtlety (-2% threat)",
-      "source": "Enchanting (Greater Shadow Resistance for specific fights)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Major Spirit (+15 spirit)",
-      "source": "Enchanting (Restore Mana Prime as alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Superior Healing (+30 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Healing (+35 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Golden Spellthread (+66 healing / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Healing (+81 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Healing Power (+20 healing)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Cowl of Naaru Blessings",
+     "source": "Badge vendor — 50 Badges of Justice"
     }
-  ],
-  "slots": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Wonderheal XT40 Shades",
-          "source": "Engineering (crafted, engineers only)"
-        },
-        {
-          "name": "Whitemend Hood",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Cowl of Naaru Blessings",
-          "source": "Badge vendor — 50 Badges of Justice"
-        }
-      ]
+     "name": "Karja's Medallion",
+     "source": "Quest — Shutting Down Manaforge Ara"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Karja's Medallion",
-          "source": "Quest — Shutting Down Manaforge Ara"
-        },
-        {
-          "name": "Natasha's Guardian Cord",
-          "source": "Quest — The Hound-Master (Blade's Edge)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Primal Mooncloth Shoulders",
-          "source": "Mooncloth Tailoring (crafted)"
-        },
-        {
-          "name": "Hallowed Pauldrons",
-          "source": "Shadow Labyrinth — Grandmaster Vorpil"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Lifegiving Cloak",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Avian Cloak of Feathers",
-          "source": "Sethekk Halls — Talon King Ikiss"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Primal Mooncloth Robe",
-          "source": "Mooncloth Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bindings of the Timewalker",
-          "source": "Keepers of Time — Exalted"
-        },
-        {
-          "name": "Windhawk Bracers",
-          "source": "Tribal Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Living Touch",
-          "source": "Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Primal Mooncloth Belt",
-          "source": "Mooncloth Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Whitemend Pants",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Pontifex Kilt",
-          "source": "Heroic Steamvault — Warlord Kalithresh"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Slippers of Serenity",
-          "source": "Auchenai Crypts — Exarch Maladaar"
-        },
-        {
-          "name": "Boots of the Pious",
-          "source": "Heroic Mechanar — Pathaleon the Calculator"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Fabled Hope",
-          "source": "Heroic Underbog — The Black Stalker"
-        },
-        {
-          "name": "Spiritualist's Mark of the Sha'tar",
-          "source": "Quest — Battle of the Crimson Watch"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Convalescence / Ancestral Band",
-          "source": "Honor Hold / Thrallmar — Revered"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Essence of the Martyr",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Lower City Prayerbook",
-          "source": "Lower City — Revered"
-        },
-        {
-          "name": "Direbrew Hops",
-          "source": "Brewfest — Coren Direbrew"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Gladiator's Salvation (one-hand, with off-hand)",
-          "source": "Arena vendor — Arena Points"
-        },
-        {
-          "name": "Serpentcrest Life-Staff (two-hand)",
-          "source": "The Steamvault — Mekgineer Steamrigger"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Tears of Heaven (only with a one-hand weapon)",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Windcaller's Orb",
-          "source": "Cenarion Expedition — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Idol",
-      "items": [
-        {
-          "name": "Idol of the Emerald Queen",
-          "source": "Shadow Labyrinth — Ambassador Hellmaw"
-        }
-      ]
+     "name": "Natasha's Guardian Cord",
+     "source": "Quest — The Hound-Master (Blade's Edge)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+     "name": "Primal Mooncloth Shoulders",
+     "source": "Mooncloth Tailoring (crafted)"
     },
     {
-      "color": "Red",
-      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Shadow Pearl (+9 healing / +4 spirit)"
+     "name": "Hallowed Pauldrons",
+     "source": "Shadow Labyrinth — Grandmaster Vorpil"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Lifegiving Cloak",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Avian Cloak of Feathers",
+     "source": "Sethekk Halls — Talon King Ikiss"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Primal Mooncloth Robe",
+     "source": "Mooncloth Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of the Timewalker",
+     "source": "Keepers of Time — Exalted"
+    },
+    {
+     "name": "Windhawk Bracers",
+     "source": "Tribal Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Living Touch",
+     "source": "Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Primal Mooncloth Belt",
+     "source": "Mooncloth Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Whitemend Pants",
+     "source": "Tailoring (crafted)"
+    },
+    {
+     "name": "Pontifex Kilt",
+     "source": "Heroic Steamvault — Warlord Kalithresh"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Slippers of Serenity",
+     "source": "Auchenai Crypts — Exarch Maladaar"
+    },
+    {
+     "name": "Boots of the Pious",
+     "source": "Heroic Mechanar — Pathaleon the Calculator"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Fabled Hope",
+     "source": "Heroic Underbog — The Black Stalker"
+    },
+    {
+     "name": "Spiritualist's Mark of the Sha'tar",
+     "source": "Quest — Battle of the Crimson Watch"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Convalescence / Ancestral Band",
+     "source": "Honor Hold / Thrallmar — Revered"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Essence of the Martyr",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Lower City Prayerbook",
+     "source": "Lower City — Revered"
+    },
+    {
+     "name": "Direbrew Hops",
+     "source": "Brewfest — Coren Direbrew"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Gladiator's Salvation (one-hand, with off-hand)",
+     "source": "Arena vendor — Arena Points"
+    },
+    {
+     "name": "Serpentcrest Life-Staff (two-hand)",
+     "source": "The Steamvault — Mekgineer Steamrigger"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Tears of Heaven (only with a one-hand weapon)",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Windcaller's Orb",
+     "source": "Cenarion Expedition — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Idol of the Emerald Queen",
+     "source": "Shadow Labyrinth — Ambassador Hellmaw"
+    }
+   ]
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+  },
+  {
+   "color": "Red",
+   "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Luminous Noble Topaz (+9 healing / +4 Int; haste gems arrive with P3+)"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Pearl (+9 healing / +4 spirit)"
+  }
+ ]
 }

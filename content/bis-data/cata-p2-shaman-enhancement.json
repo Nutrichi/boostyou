@@ -1,0 +1,229 @@
+{
+ "expansion": "cata",
+ "phase": "p2",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Tier 12 (Firelands, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Enhancement Shaman gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Adept Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Erupting Volcanic Helmet",
+     "source": "Firelands — Ragnaros —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Choker of the Vanquished Lord",
+     "source": "Firelands — Ragnaros —"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Erupting Volcanic Spaulders",
+     "source": "Firelands — Majordomo Staghelm —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreadfire Drape",
+     "source": "Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Erupting Volcanic Cuirass",
+     "source": "Firelands — Alysrazor —"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Hide-Bound Chains",
+     "source": "Crystallized Firestone plus the BoE trash drop 378 version"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Erupting Volcanic Grips",
+     "source": "Firelands — Baleroc —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Firearrow Belt",
+     "source": "Avengers of Hyjal Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Moltenfeather Leggings",
+     "source": "Firelands — Alysrazor —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Decimation Treads",
+     "source": "Firelands — Baleroc —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Viridian Signet of the Avengers",
+     "source": "Avengers of Hyjal Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Widow's Kiss",
+     "source": "Firelands — Bethtilac —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Matrix Restabilizer",
+     "source": "Firelands — Ragnaros —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Ancient Petrified Seed",
+     "source": "Avengers of Hyjal Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Shatterskull Bonecrusher",
+     "source": "Firelands — Multiple bosses in Firelands Baleroc —"
+    },
+    {
+     "name": "Gatecrasher",
+     "source": "Firelands — Multiple bosses in Firelands Baleroc —"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Covenant of the Flame",
+     "source": "Crystallized Firestone plus the 700 Valor Points 378 version"
+    }
+   ]
+  }
+ ]
+}

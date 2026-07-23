@@ -1,208 +1,207 @@
 {
-  "expansion": "classic",
-  "phase": "p6",
-  "class": "druid",
-  "spec": "feral",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Feral Druid Melee Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p6",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Feral Druid Melee Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Wolfshead Helm",
-          "source": "Crafted with Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Stormrage's Talisman of Seething",
-          "source": "Kel'Thuzad in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of Wicked Revenge",
-          "source": "Fankriss The Unyielding in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Shroud of Dominion",
-          "source": "Saphiron in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Ghoul Skin Tunic",
-          "source": "Trash Drop in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Qiraji Execution Bracers",
-          "source": "The Twin Emperors in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of Enforcement",
-          "source": "Battleguard Sartura in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Never-ending Agony",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Apocalypse",
-          "source": "Four Horsemen in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Vanguard",
-          "source": "General Rajaxx in AQ20"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Unnatural Forces",
-          "source": "Loatheb in Naxxramas Reward from Stalwart's Battlegear"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Might of Cenarius",
-          "source": "Loatheb in Naxxramas Reward from Stalwart's Battlegear"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mark of the Champion",
-          "source": "Kel'thuzad in Naxxramas Maexxna in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Kiss of the Spider",
-          "source": "Kel'thuzad in Naxxramas Maexxna in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "Manual Crowd Pummeler",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Legendary reward from utilizing the Splinter of Atiesh found in Naxxramas"
-        },
-        {
-          "name": "Atiesh, Greatstaff of the Guardian",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Legendary reward from utilizing the Splinter of Atiesh found in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Idols",
-      "items": [
-        {
-          "name": "Idol of Ferocity",
-          "source": "Lord Roccor in Blackrock Depths"
-        }
-      ]
+     "name": "Wolfshead Helm",
+     "source": "Crafted with Leatherworking"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Lesser Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Greater Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon - Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Stormrage's Talisman of Seething",
+     "source": "Kel'Thuzad in Naxxramas"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of Wicked Revenge",
+     "source": "Fankriss The Unyielding in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shroud of Dominion",
+     "source": "Saphiron in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Ghoul Skin Tunic",
+     "source": "Trash Drop in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Qiraji Execution Bracers",
+     "source": "The Twin Emperors in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Enforcement",
+     "source": "Battleguard Sartura in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Never-ending Agony",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Apocalypse",
+     "source": "Four Horsemen in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Vanguard",
+     "source": "General Rajaxx in AQ20"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Unnatural Forces",
+     "source": "Loatheb in Naxxramas Reward from Stalwart's Battlegear"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Might of Cenarius",
+     "source": "Loatheb in Naxxramas Reward from Stalwart's Battlegear"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mark of the Champion",
+     "source": "Kel'thuzad in Naxxramas Maexxna in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Kiss of the Spider",
+     "source": "Kel'thuzad in Naxxramas Maexxna in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Manual Crowd Pummeler",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Legendary reward from utilizing the Splinter of Atiesh found in Naxxramas"
+    },
+    {
+     "name": "Atiesh, Greatstaff of the Guardian",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Legendary reward from utilizing the Splinter of Atiesh found in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Idols",
+   "items": [
+    {
+     "name": "Idol of Ferocity",
+     "source": "Lord Roccor in Blackrock Depths"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Greater Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon - Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

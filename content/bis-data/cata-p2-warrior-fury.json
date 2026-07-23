@@ -1,0 +1,261 @@
+{
+ "expansion": "cata",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Tier 12 (Firelands, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Fury Warrior gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Strength (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Inscribed Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Bold Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Greathelm of the Voracious Maw",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Necklace of Fetishes",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of the Molten Giant",
+     "source": "Firelands Heroic — Majordomo Staghelm"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloudburst Cloak",
+     "source": "Satchel of the Cloudburst Cloak 12 × Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Battleplate of the Molten Giant",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Earthcrack Bracers",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of the Molten Giant",
+     "source": "Firelands Heroic — Baleroc"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Uncrushable Belt of Fury",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of the Molten Giant",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Arachnaflame Treads",
+     "source": "Firelands Heroic — Bethtilac"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Obsidian Signet of the Avengers",
+     "source": "Avengers of Hyjal ‒ Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Alysrazor's Band",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Apparatus of Khaz'goroth",
+     "source": "Firelands — Trash Mobs"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Vessel of Acceleration",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand (Titan's Grip)",
+   "items": [
+    {
+     "name": "Sulfuras, the Extinguished Hand",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand (Titan's Grip)",
+   "items": [
+    {
+     "name": "Sulfuras, the Extinguished Hand",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand (Single-Minded Fury)",
+   "items": [
+    {
+     "name": "Obsidium Cleaver",
+     "source": "1 × Obsidium Cleaver 1 × Crystallized Firestone"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand (Single-Minded Fury)",
+   "items": [
+    {
+     "name": "Obsidium Cleaver",
+     "source": "1 × Obsidium Cleaver 1 × Crystallized Firestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Giantslicer",
+     "source": "1 × Giantslicer 1 × Crystallized Firestone"
+    }
+   ]
+  }
+ ]
+}

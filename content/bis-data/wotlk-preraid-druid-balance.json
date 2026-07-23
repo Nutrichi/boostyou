@@ -1,248 +1,247 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "druid",
-  "spec": "balance",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Balance Druid Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "balance",
+ "role": "Ranged DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Balance Druid Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Runetotem's Cover of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendant of Fiery Havoc",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Runetotem's Mantle of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of Mortal Downfall",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Runetotem's Vestments of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bejeweled Wizard's Bracers",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Runetotem's Gloves of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Cord of Biting Cold",
-          "source": "38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Belt of Biting Cold",
-          "source": "38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Woven Death",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Deathfrost Boots",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "60 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Nebula Band",
-          "source": "60 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Reign of the Dead",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Flare of the Heavens",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Aesuga, Hand of the Ardent Champion",
-          "source": "Animated Constellation — Dalaran, 38 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Chalice of Searing Light",
-          "source": "30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Mystifying Charm",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Idol of Lunar Fury",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Runetotem's Cover of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Greater Mana Restoration alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Pendant of Fiery Havoc",
+     "source": "60 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
-    },
-    {
-      "color": "Yellow",
-      "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+     "name": "Runetotem's Mantle of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Mortal Downfall",
+     "source": "60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Runetotem's Vestments of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bejeweled Wizard's Bracers",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Runetotem's Gloves of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of Biting Cold",
+     "source": "38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Belt of Biting Cold",
+     "source": "38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Woven Death",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Deathfrost Boots",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "60 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Nebula Band",
+     "source": "60 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Reign of the Dead",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Flare of the Heavens",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Aesuga, Hand of the Ardent Champion",
+     "source": "Animated Constellation — Dalaran, 38 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Chalice of Searing Light",
+     "source": "30 Defiler's Scourgestone"
+    },
+    {
+     "name": "Mystifying Charm",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Idol of Lunar Fury",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Greater Mana Restoration alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
+  },
+  {
+   "color": "Yellow",
+   "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+  }
+ ]
 }

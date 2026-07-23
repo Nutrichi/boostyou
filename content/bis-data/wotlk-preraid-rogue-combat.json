@@ -1,272 +1,271 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "rogue",
-  "spec": "combat",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Combat Rogue Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "rogue",
+ "spec": "combat",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Combat Rogue Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Garona's Helmet of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "VanCleef's Helmet of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
+     "name": "Garona's Helmet of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendulum of Infinity",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Duskstalker Pauldrons",
-          "source": "45 Emblem of Triumph"
-        },
-        {
-          "name": "Duskstalker Shoulderpads",
-          "source": "45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of Icy Intent",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Garona's Breastplate of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "VanCleef's Breastplate of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Armbands of Dark Determination",
-          "source": "30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Bracers of Dark Determination",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Garona's Gauntlets of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "VanCleef's Gauntlets of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Soul-Devouring Cinch",
-          "source": "19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Garona's Legplates of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "VanCleef's Legplates of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Icewalker Treads",
-          "source": "38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Treads of the Icewalker",
-          "source": "38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Lights",
-          "source": "19 Sidereal Essence Sidereal Essence Vendor"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Callous Aggression",
-          "source": "19 Sidereal Essence Sidereal Essence Vendor"
-        },
-        {
-          "name": "Ring of Callous Aggression",
-          "source": "19 Sidereal Essence Sidereal Essence Vendor"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Death's Choice",
-          "source": "38 Defiler's Scourgestone 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Mjolnir Runestone",
-          "source": "38 Defiler's Scourgestone 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Hellscream Slicer",
-          "source": "50 Defiler's Scourgestone 25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Stormpike Cleaver",
-          "source": "50 Defiler's Scourgestone 25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Twirling Blades",
-          "source": "15 Sidereal Essence"
-        }
-      ]
+     "name": "VanCleef's Helmet of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
-    },
-    {
-      "slot": "Melee Weapons",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
-    },
-    {
-      "slot": "Ranged Weapon",
-      "name": "Sun Scope",
-      "source": "Engineering (crafted scope, usable by all)"
+     "name": "Pendulum of Infinity",
+     "source": "60 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
+     "name": "Duskstalker Pauldrons",
+     "source": "45 Emblem of Triumph"
     },
     {
-      "color": "Red",
-      "name": "Bright Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Pristine Ametrine (+16 hit / +16 expertise) — or Accurate Ametrine / Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Balanced Dreadstone"
+     "name": "Duskstalker Shoulderpads",
+     "source": "45 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Icy Intent",
+     "source": "60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Garona's Breastplate of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "VanCleef's Breastplate of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Armbands of Dark Determination",
+     "source": "30 Defiler's Scourgestone"
+    },
+    {
+     "name": "Bracers of Dark Determination",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Garona's Gauntlets of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "VanCleef's Gauntlets of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Soul-Devouring Cinch",
+     "source": "19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Garona's Legplates of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "VanCleef's Legplates of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Icewalker Treads",
+     "source": "38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Treads of the Icewalker",
+     "source": "38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Lights",
+     "source": "19 Sidereal Essence Sidereal Essence Vendor"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Callous Aggression",
+     "source": "19 Sidereal Essence Sidereal Essence Vendor"
+    },
+    {
+     "name": "Ring of Callous Aggression",
+     "source": "19 Sidereal Essence Sidereal Essence Vendor"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Death's Choice",
+     "source": "38 Defiler's Scourgestone 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mjolnir Runestone",
+     "source": "38 Defiler's Scourgestone 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Hellscream Slicer",
+     "source": "50 Defiler's Scourgestone 25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Stormpike Cleaver",
+     "source": "50 Defiler's Scourgestone 25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Twirling Blades",
+     "source": "15 Sidereal Essence"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  },
+  {
+   "slot": "Melee Weapons",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Sun Scope",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bright Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Pristine Ametrine (+16 hit / +16 expertise) — or Accurate Ametrine / Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Balanced Dreadstone"
+  }
+ ]
 }

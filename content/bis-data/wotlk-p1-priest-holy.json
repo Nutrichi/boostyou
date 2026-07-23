@@ -1,249 +1,248 @@
 {
-  "expansion": "wotlk",
-  "phase": "p1",
-  "class": "priest",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Holy Priest Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "priest",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Holy Priest Healer gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Valorous Crown of Faith",
-          "source": "Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Cosmic Lights",
-          "source": "Sapphiron — Naxxramas 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of the Locusts",
-          "source": "Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Pennant Cloak",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "The Sanctum's Flowing Vestments",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Unsullied Cuffs",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Valorous Handwraps of Faith",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Leash of Heedless Magic",
-          "source": "Malygos — Eye of Eternity 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Valorous Leggings of Faith",
-          "source": "Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Arcanic Tramplers",
-          "source": "Malygos — Eye of Eternity 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Channeled Magic",
-          "source": "25 x Emblem of Valor Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Signet of Manifested Pain",
-          "source": "25 x Emblem of Valor Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Forethought Talisman",
-          "source": "Multiple Bosses — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Illustration of the Dragon Soul",
-          "source": "Multiple Bosses — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Torch of Holy Fire",
-          "source": "Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Torch of Holy Fire",
-          "source": "Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Matriarch's Spawn",
-          "source": "Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Wand of the Archlich",
-          "source": "Kel'Thuzad — Naxxramas 10-Man"
-        }
-      ]
+     "name": "Valorous Crown of Faith",
+     "source": "Kel'Thuzad — Naxxramas 25-Man"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Wisdom",
-      "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Staff — Greater Spellpower",
-      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Cosmic Lights",
+     "source": "Sapphiron — Naxxramas 10-Man"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
-    },
-    {
-      "color": "Red",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Luminous Ametrine"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick King's Amber (+16 haste / +10 Int) — or Brilliant King's Amber"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Intricate/Seer's Eye of Zul"
+     "name": "Mantle of the Locusts",
+     "source": "Multiple Bosses — Naxxramas 25-Man"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Pennant Cloak",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "The Sanctum's Flowing Vestments",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Unsullied Cuffs",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Handwraps of Faith",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Leash of Heedless Magic",
+     "source": "Malygos — Eye of Eternity 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Valorous Leggings of Faith",
+     "source": "Multiple Bosses — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Arcanic Tramplers",
+     "source": "Malygos — Eye of Eternity 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Channeled Magic",
+     "source": "25 x Emblem of Valor Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Manifested Pain",
+     "source": "25 x Emblem of Valor Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Forethought Talisman",
+     "source": "Multiple Bosses — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Illustration of the Dragon Soul",
+     "source": "Multiple Bosses — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Torch of Holy Fire",
+     "source": "Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Torch of Holy Fire",
+     "source": "Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Matriarch's Spawn",
+     "source": "Multiple Bosses — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Wand of the Archlich",
+     "source": "Kel'Thuzad — Naxxramas 10-Man"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Greater/Master's Inscription of the Crag alternative)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Wisdom",
+   "source": "Enchanting (Lightweave/Darkglow Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Staff — Greater Spellpower",
+   "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower otherwise"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Luminous Ametrine"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick King's Amber (+16 haste / +10 Int) — or Brilliant King's Amber"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Intricate/Seer's Eye of Zul"
+  }
+ ]
 }

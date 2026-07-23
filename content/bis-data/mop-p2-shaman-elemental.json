@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "p2",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Elemental Shaman gear guide. Tier set: Witch Doctor line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p2",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Elemental Shaman gear guide. Tier set: Witch Doctor line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Clear-Mind Helm",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Soul Prism of Lei Shen",
-          "source": "Throne of Thunder Heroic — Lei Shen"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Shoulderwraps of the Witch Doctor (Tier 15)",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Deadly Glare Cape",
-          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Hauberk of the Witch Doctor (Tier 15)",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Loa-Ridden Bracers",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Witch Doctor (Tier 15)",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Longdraw Chain Belt",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Kilt of the Witch Doctor (Tier 15)",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Ghostbinder Greatboots",
-          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ra-den's Summoning Band",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ra-den's Evolving Signet",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Wushoolay's Final Choice",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Breath of the Hydra",
-          "source": "Throne of Thunder Heroic — Megaera"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Athame of the Sanguine Ritual",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Shield of Twinned Despair",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
+     "name": "Clear-Mind Helm",
+     "source": "Throne of Thunder Heroic — Primordius"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
-      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
-      "source": "Enchanting (Lightweave Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Super Intellect (+180 Int)",
-      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Greater Haste (+170 haste)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Greater Pearlescent Spellthread (+285 Int / +165 spirit)",
-      "source": "Tailoring (crafted, usable by all; Sanctified/Master's for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Jade Spirit",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
-      "source": "Enchanting"
+     "name": "Soul Prism of Lei Shen",
+     "source": "Throne of Thunder Heroic — Lei Shen"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
-    },
-    {
-      "color": "Red",
-      "name": "Artful Vermilion Onyx (+80 Int / +160 mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Fractured Sun's Radiance (+320 mastery)"
-    },
-    {
-      "color": "Blue",
-      "name": "Fractured Sun's Radiance (+320 mastery — ignore weak socket bonuses)"
+     "name": "Shoulderwraps of the Witch Doctor (Tier 15)",
+     "source": "Throne of Thunder Heroic — Iron Qon"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Deadly Glare Cape",
+     "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Hauberk of the Witch Doctor (Tier 15)",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Loa-Ridden Bracers",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Witch Doctor (Tier 15)",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Longdraw Chain Belt",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Kilt of the Witch Doctor (Tier 15)",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Ghostbinder Greatboots",
+     "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ra-den's Summoning Band",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ra-den's Evolving Signet",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Wushoolay's Final Choice",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Breath of the Hydra",
+     "source": "Throne of Thunder Heroic — Megaera"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Athame of the Sanguine Ritual",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Shield of Twinned Despair",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+   "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+   "source": "Enchanting (Lightweave Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Super Intellect (+180 Int)",
+   "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Greater Haste (+170 haste)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Greater Pearlescent Spellthread (+285 Int / +165 spirit)",
+   "source": "Tailoring (crafted, usable by all; Sanctified/Master's for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Jade Spirit",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
+  },
+  {
+   "color": "Red",
+   "name": "Artful Vermilion Onyx (+80 Int / +160 mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Sun's Radiance (+320 mastery)"
+  },
+  {
+   "color": "Blue",
+   "name": "Fractured Sun's Radiance (+320 mastery — ignore weak socket bonuses)"
+  }
+ ]
 }

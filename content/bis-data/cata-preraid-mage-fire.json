@@ -1,0 +1,239 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "mage",
+ "spec": "fire",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Fire Mage gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste — or Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Enchanted Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Intellect (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Burning Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet — or Brilliant Inferno Ruby"
+  },
+  {
+   "color": "Yellow",
+   "name": "Potent Lava Coral — or Potent Ember Topaz"
+  },
+  {
+   "color": "Blue",
+   "name": "Shadow Spinel — or Veiled Demonseye"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Brilliant Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Time Lord's Hood",
+     "source": "Final Twilight Protocol Boss or 55 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Opal of the Secret Order",
+     "source": "1250 Valor Points Sold by Jamus'Vaz/Faldren Tillsdale"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Time Lord's Mantle",
+     "source": "Final Twilight Protocol Boss or 45 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Nanoprecise Cape",
+     "source": "1650 Valor Points Sold by Jamus'Vaz/Faldren Tillsdale"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Time Lord's Robes",
+     "source": "Final Twilight Protocol Boss or 55 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Unconquered Power",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Liquid Smoke",
+     "source": "45 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Tentacular Belt",
+     "source": "1650 Valor Points Sold by Jamus'Vaz/Faldren Tillsdale"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Time Lord's Leggings",
+     "source": "Final Twilight Protocol Boss or 55 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Janglespur Jackboots",
+     "source": "45 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of the Grand Architect",
+     "source": "1250 Valor Points Sold by Jamus'Vaz/Faldren Tillsdale"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Infinite Loop",
+     "source": "Final Twilight Protocol Boss or 30 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Will of Unbinding",
+     "source": "Final Twilight Protocol Boss or 65 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Insignia of the Corrupted Mind",
+     "source": "Final Twilight Protocol Boss or 45 Obsidian Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Spire of Scarlet Pain",
+     "source": "BOE from Firelands, buy from Auction House Upgrade at Lurah Wrathvine with Crystallized Firestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Trail of Embers",
+     "source": "700 Valor Points, sold by Jamus'Vaz/Faldren Tillsdale Upgrade at Lurah Wrathvine with Crystallized Firestone"
+    }
+   ]
+  }
+ ]
+}

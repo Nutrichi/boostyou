@@ -1,0 +1,248 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Protection Warrior gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Greater Stamina (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Windwalk",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Mastery",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Fine Lava Coral — or Defender's Shadow Spinel"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Lightstone — or Regal Elven Peridot"
+  },
+  {
+   "color": "Blue",
+   "name": "Puissant Elven Peridot — or Solid Deepholm Iolite"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Fractured Chimera's Eye — or Solid Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Faceguard",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Guardspike Choker",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Shoulderguards",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Indefatigable Greatcloak",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Chestguard",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Graveheart Bracers",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Handguards",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Goriona's Collar",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Legguards",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Stillheart Warboots",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Curled Twilight Claw",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Hardheart Ring",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Soulshifter Vortex",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Indomitable Pride",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Souldrinker",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Blackhorn's Mighty Bulwark",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Unexpected Backup",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

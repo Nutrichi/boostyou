@@ -87,10 +87,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
   
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    
-    :root {
+  <link rel="stylesheet" href="../assets/site.css">
+<style>
+:root {
       --bg-primary: rgb(15, 23, 42);
       --bg-secondary: rgb(30, 41, 59);
       --bg-card: rgba(51, 65, 85, 0.6);
@@ -104,51 +103,14 @@
       --text-muted: #94a3b8;
       --border-color: rgba(148, 163, 184, 0.1);
     }
-    
-    body {
+body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
       color: var(--text-primary);
       line-height: 1.6;
       min-height: 100vh;
     }
-    
-    .nav {
-      background: rgba(30, 41, 59, 0.95);
-      backdrop-filter: blur(10px);
-      border-bottom: 1px solid var(--border-color);
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-    }
-    
-    .nav-container {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      min-height: 70px;
-    }
-    
-    .logo-link {
-      display: flex;
-      align-items: center;
-      text-decoration: none;
-      color: var(--text-primary);
-      font-weight: 800;
-      font-size: 1.25rem;
-    }
-    
-    .logo-link img {
-      height: 65px;
-      width: auto;
-      margin-right: 0.75rem;
-    }
-    
-    .back-link {
+.back-link {
       color: var(--accent-primary);
       text-decoration: none;
       font-weight: 600;
@@ -159,25 +121,18 @@
       border-radius: 0.5rem;
       transition: all 0.2s;
     }
-    
-    .back-link:hover {
-      background: rgba(59, 130, 246, 0.1);
-    }
-    
-    .container {
+.container {
       max-width: 1200px;
       margin: 0 auto;
       padding: 2rem 1.5rem 4rem;
     }
-    
-    .article-header {
+.article-header {
       text-align: center;
       margin-bottom: 3rem;
       padding-bottom: 2rem;
       border-bottom: 2px solid var(--border-color);
     }
-    
-    .article-header h1 {
+.article-header h1 {
       font-size: clamp(2rem, 5vw, 3.5rem);
       font-weight: 900;
       margin-bottom: 1rem;
@@ -187,8 +142,7 @@
       background-clip: text;
       line-height: 1.2;
     }
-    
-    .article-meta {
+.article-meta {
       display: flex;
       justify-content: center;
       gap: 2rem;
@@ -197,175 +151,25 @@
       font-size: 0.9rem;
       margin-top: 1rem;
     }
-    
-    .meta-item {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-    
-    .verdict-banner {
-      background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(139, 92, 246, 0.15) 100%);
-      border: 2px solid var(--accent-primary);
-      border-radius: 1rem;
-      padding: 2rem;
-      margin-bottom: 3rem;
-      text-align: center;
-    }
-    
-    .verdict-banner h2 {
-      color: var(--accent-yellow);
-      font-size: 1.75rem;
-      margin-bottom: 1rem;
-      font-weight: 800;
-    }
-    
-    .verdict-banner p {
-      color: var(--text-secondary);
-      font-size: 1.1rem;
-      line-height: 1.7;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    
-    .comparison-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1.5rem;
-      margin: 3rem 0;
-    }
-    
-    .method-card {
-      background: var(--bg-card);
-      border: 2px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 2rem;
-      transition: all 0.3s;
-    }
-    
-    .method-card:hover {
-      border-color: var(--accent-primary);
-      transform: translateY(-4px);
-    }
-    
-    .method-card.winner {
+.method-card.winner {
       border-color: var(--accent-green);
       background: linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(5, 150, 105, 0.1) 100%);
     }
-    
-    .method-card.alternative {
-      border-color: var(--accent-purple);
-      background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(124, 58, 237, 0.1) 100%);
-    }
-    
-    .card-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 1.5rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid var(--border-color);
-    }
-    
-    .card-title {
-      font-size: 1.75rem;
-      font-weight: 800;
-      color: var(--text-primary);
-    }
-    
-    .card-badge {
-      padding: 0.375rem 0.75rem;
-      border-radius: 0.5rem;
-      font-size: 0.75rem;
-      font-weight: 700;
-      text-transform: uppercase;
-    }
-    
-    .badge-winner {
-      background: var(--accent-green);
-      color: white;
-    }
-    
-    .badge-alternative {
-      background: var(--accent-purple);
-      color: white;
-    }
-    
-    .method-stat {
-      font-size: 1.75rem;
-      font-weight: 800;
-      color: var(--accent-yellow);
-      margin: 1rem 0 0.5rem;
-    }
-    
-    .stat-label {
+.stat-label {
       color: var(--text-muted);
       font-size: 0.9rem;
       margin-bottom: 1.5rem;
     }
-    
-    .feature-list {
-      list-style: none;
-      margin: 1.5rem 0;
-    }
-    
-    .feature-list li {
-      padding: 0.5rem 0;
-      color: var(--text-secondary);
-      display: flex;
-      align-items: flex-start;
-      gap: 0.75rem;
-    }
-    
-    .feature-list li::before {
-      content: '✓';
-      color: var(--accent-green);
-      font-weight: 700;
-      font-size: 1.25rem;
-      flex-shrink: 0;
-    }
-    
-    .content-section {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 2.5rem;
-      margin: 2rem 0;
-    }
-    
-    .content-section h2 {
-      color: var(--accent-yellow);
-      font-size: 2rem;
-      margin-bottom: 1.5rem;
-      font-weight: 800;
-    }
-    
-    .content-section h3 {
-      color: var(--text-primary);
-      font-size: 1.5rem;
-      margin: 2rem 0 1rem;
-      font-weight: 700;
-    }
-    
-    .content-section p {
-      color: var(--text-secondary);
-      font-size: 1.05rem;
-      line-height: 1.8;
-      margin-bottom: 1.25rem;
-    }
-    
-    .content-section ul,
+.content-section ul,
     .content-section ol {
       margin: 1rem 0 1rem 2rem;
       color: var(--text-secondary);
     }
-    
-    .content-section li {
+.content-section li {
       margin: 0.5rem 0;
       line-height: 1.7;
     }
-    
-    .comparison-table {
+.comparison-table {
       width: 100%;
       border-collapse: collapse;
       margin: 2rem 0;
@@ -373,12 +177,10 @@
       border-radius: 0.75rem;
       overflow: hidden;
     }
-    
-    .comparison-table thead {
+.comparison-table thead {
       background: rgba(59, 130, 246, 0.1);
     }
-    
-    .comparison-table th {
+.comparison-table th {
       padding: 1.25rem;
       text-align: left;
       color: var(--accent-yellow);
@@ -386,208 +188,85 @@
       font-size: 1.1rem;
       border-bottom: 2px solid var(--border-color);
     }
-    
-    .comparison-table td {
+.comparison-table td {
       padding: 1.25rem;
       color: var(--text-secondary);
       border-bottom: 1px solid var(--border-color);
       font-size: 1rem;
     }
-    
-    .comparison-table tr:last-child td {
+.comparison-table tr:last-child td {
       border-bottom: none;
     }
-    
-    .comparison-table tr:hover {
+.comparison-table tr:hover {
       background: rgba(59, 130, 246, 0.05);
     }
-    
-    .score-badge {
-      display: inline-block;
-      padding: 0.375rem 0.875rem;
-      border-radius: 0.5rem;
-      font-weight: 700;
-      font-size: 0.95rem;
-    }
-    
-    .score-high {
-      background: rgba(16, 185, 129, 0.2);
-      color: var(--accent-green);
-    }
-    
-    .score-medium {
-      background: rgba(251, 191, 36, 0.2);
-      color: var(--accent-yellow);
-    }
-    
-    .score-low {
-      background: rgba(239, 68, 68, 0.2);
-      color: var(--accent-red);
-    }
-    
-    .pros-cons-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 2rem;
-      margin: 2rem 0;
-    }
-    
-    .pros-cons-card {
-      background: var(--bg-secondary);
-      border-radius: 0.75rem;
-      padding: 1.5rem;
-    }
-    
-    .pros-cons-card h4 {
-      font-size: 1.25rem;
-      margin-bottom: 1rem;
-      font-weight: 700;
-    }
-    
-    .pros-card h4 {
-      color: var(--accent-green);
-    }
-    
-    .cons-card h4 {
-      color: var(--accent-red);
-    }
-    
-    .pros-cons-card ul {
+.pros-cons-card ul {
       list-style: none;
       margin: 0;
     }
-    
-    .pros-cons-card li {
-      padding: 0.5rem 0;
-      color: var(--text-secondary);
-      display: flex;
-      align-items: flex-start;
-      gap: 0.75rem;
-    }
-    
-    .pros-card li::before {
-      content: '✓';
-      color: var(--accent-green);
-      font-weight: 700;
-    }
-    
-    .cons-card li::before {
-      content: '✗';
-      color: var(--accent-red);
-      font-weight: 700;
-    }
-    
-    .toc {
+.toc {
       background: var(--bg-secondary);
       border: 1px solid var(--border-color);
       border-radius: 0.75rem;
       padding: 1.5rem;
       margin: 2rem 0;
     }
-    
-    .toc h3 {
+.toc h3 {
       color: var(--accent-yellow);
       font-size: 1.25rem;
       margin-bottom: 1rem;
       font-weight: 700;
     }
-    
-    .toc ul {
+.toc ul {
       list-style: none;
       margin: 0;
     }
-    
-    .toc li {
+.toc li {
       margin: 0.5rem 0;
     }
-    
-    .toc a {
+.toc a {
       color: var(--accent-primary);
       text-decoration: none;
       transition: color 0.2s;
     }
-    
-    .toc a:hover {
+.toc a:hover {
       color: var(--text-primary);
     }
-    
-    .highlight-box {
-      background: linear-gradient(135deg, rgba(251, 191, 36, 0.1) 0%, rgba(245, 158, 11, 0.1) 100%);
-      border-left: 4px solid var(--accent-yellow);
-      border-radius: 0.5rem;
-      padding: 1.5rem;
-      margin: 2rem 0;
-    }
-    
-    .highlight-box p {
-      margin: 0;
-      color: var(--text-primary);
-      font-weight: 500;
-    }
-    
-    .tip-box {
+.tip-box {
       background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(37, 99, 235, 0.1) 100%);
       border-left: 4px solid var(--accent-primary);
       border-radius: 0.5rem;
       padding: 1.5rem;
       margin: 2rem 0;
     }
-    
-    .tip-box h4 {
+.tip-box h4 {
       color: var(--accent-primary);
       font-size: 1.1rem;
       margin-bottom: 0.75rem;
       font-weight: 700;
     }
-    
-    .tip-box p {
+.tip-box p {
       margin: 0.5rem 0;
       color: var(--text-secondary);
     }
-    
-    .warning-box {
+.warning-box {
       background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(220, 38, 38, 0.1) 100%);
       border-left: 4px solid var(--accent-red);
       border-radius: 0.5rem;
       padding: 1.5rem;
       margin: 2rem 0;
     }
-    
-    .warning-box h4 {
+.warning-box h4 {
       color: var(--accent-red);
       font-size: 1.1rem;
       margin-bottom: 0.75rem;
       font-weight: 700;
     }
-    
-    .warning-box p {
+.warning-box p {
       margin: 0.5rem 0;
       color: var(--text-secondary);
     }
-    
-    .cta-section {
-      background: linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(5, 150, 105, 0.1) 100%);
-      border: 2px solid var(--accent-green);
-      border-radius: 1rem;
-      padding: 2.5rem;
-      margin: 3rem 0;
-      text-align: center;
-    }
-    
-    .cta-section h3 {
-      color: var(--accent-green);
-      font-size: 1.75rem;
-      margin-bottom: 1rem;
-      font-weight: 800;
-    }
-    
-    .cta-section p {
-      color: var(--text-secondary);
-      font-size: 1.1rem;
-      margin-bottom: 1.5rem;
-    }
-    
-    .cta-button {
+.cta-button {
       display: inline-block;
       background: var(--accent-green);
       color: white;
@@ -598,13 +277,11 @@
       font-size: 1.1rem;
       transition: all 0.3s;
     }
-    
-    .cta-button:hover {
+.cta-button:hover {
       transform: translateY(-2px);
       box-shadow: 0 10px 25px -5px rgba(16, 185, 129, 0.4);
     }
-    
-    .footer {
+.footer {
       background: var(--bg-secondary);
       border-top: 1px solid var(--border-color);
       padding: 1rem 1.25rem;
@@ -612,8 +289,7 @@
       display: flex;
       justify-content: center;
     }
-    
-    .footer-content {
+.footer-content {
       max-width: 1400px;
       margin: 0 auto;
       width: 100%;
@@ -621,51 +297,29 @@
       justify-content: center;
       align-items: center;
     }
-    
-    .footer-bottom {
+.footer-bottom {
       text-align: center;
       color: var(--text-muted);
       font-size: 0.88rem;
       line-height: 1.3;
       padding: 0;
     }
-    
-    .footer-bottom a {
+.footer-bottom a {
       color: var(--accent-primary);
       text-decoration: none;
     }
-    
-    .footer-bottom a:hover {
+.footer-bottom a:hover {
       text-decoration: underline;
     }
-    
-    @media (max-width: 768px) {
-      .comparison-grid {
-        grid-template-columns: 1fr;
-      }
-      
-      .pros-cons-grid {
-        grid-template-columns: 1fr;
-      }
-      
-      .article-meta {
+@media (max-width: 768px) { .article-meta {
         gap: 1rem;
-      }
-      
-      .comparison-table {
+      } .comparison-table {
         font-size: 0.9rem;
-      }
-      
-      .comparison-table th,
+      } .comparison-table th,
       .comparison-table td {
         padding: 0.875rem;
-      }
-      
-      .content-section {
-        padding: 1.5rem;
-      }
-    }
-  </style>
+      } }
+</style>
 <link rel="stylesheet" href="../assets/nav.css" />
 <script src="../assets/nav.js" defer></script>
 </head>
@@ -1457,6 +1111,17 @@
     
   </div>
   
+<!-- related:start (generated by tools/related_guides.py — do not edit by hand) -->
+<section class="related-guides" aria-label="Related guides">
+  <h2>Related guides</h2>
+  <div class="related-grid">
+    <a class="related-card" href="free-vs-premium.html"><span class="related-kicker">Comparison</span><span class="related-title">Free vs Premium</span></a>
+    <a class="related-card" href="restedxp-vs-zygor.html"><span class="related-kicker">Comparison</span><span class="related-title">RestedXP vs Zygor</span></a>
+    <a class="related-card" href="restedxp-vs-joana.html"><span class="related-kicker">Comparison</span><span class="related-title">RestedXP vs Joana</span></a>
+    <a class="related-card" href="fast-leveling.html"><span class="related-kicker">Overview</span><span class="related-title">Speed leveling</span></a>
+  </div>
+</section>
+<!-- related:end -->
   <footer class="footer">
     <div class="footer-content">
       <div class="footer-bottom">

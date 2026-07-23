@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "rogue",
+ "spec": "combat",
+ "role": "Melee DPS",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Combat Rogue gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Combat/Assassination/Subtlety each have their own page on the source. Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deft Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Wind Dancer's Helmet",
+     "source": "Blackwing Descent Heroic — Al'Akir or Nefarian (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Necklace of Strife",
+     "source": "Bastion of Twilight Heroic — Valiona and Theralion"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wind Dancer's Spaulders",
+     "source": "Bastion of Twilight Heroic — Al'Akir or Chogall (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Mistral Drape",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Wind Dancer's Tunic",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Parasitic Bands",
+     "source": "Blackwing Descent Heroic — Magmaw"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Wind Dancer's Gloves",
+     "source": "Blackwing Descent Heroic — Atramedes"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Fallen Brood",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Wind Stalker Leggings",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Storm Rider's Boots",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Lightning Conductor Band",
+     "source": "Blackwing Descent Heroic — Omnotron Defense System"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Mistral Circle",
+     "source": "Throne of the Four Winds Heroic — Conclave of Wind"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Prestor's Talisman of Machination",
+     "source": "Blackwing Descent Heroic — Nefarian"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Fluid Death",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Stormwake, the Tempest's Reach",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Uhn'agh Fash, the Darkest Betrayal",
+     "source": "Bastion of Twilight Heroic — Chogall"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Dragonheart Piercer",
+     "source": "Bastion of Twilight Heroic — Valiona and Theralion"
+    }
+   ]
+  }
+ ]
+}

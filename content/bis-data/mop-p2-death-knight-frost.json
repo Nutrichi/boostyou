@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "p2",
-  "class": "death-knight",
-  "spec": "frost",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Frost Death Knight gear guide (anchor phase-3-best-in-slot); dual-wields two Qon's Flaming Scimitar. Tier set: Pauldrons/Breastplate/Gauntlets/Greaves of the All-Consuming Maw. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p2",
+ "class": "death-knight",
+ "spec": "frost",
+ "role": "Melee DPS",
+ "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Frost Death Knight gear guide (anchor phase-3-best-in-slot); dual-wields two Qon's Flaming Scimitar. Tier set: Pauldrons/Breastplate/Gauntlets/Greaves of the All-Consuming Maw. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Crown of the Golden Golem",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Talisman of Angry Spirits",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of the All-Consuming Maw (Tier 15)",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Tigerclaw Cape",
-          "source": "Throne of Thunder Heroic — Cloak of Virtue (quest reward)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of the All-Consuming Maw (Tier 15)",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Caustic Spike Bracers of Mastery",
-          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gauntlets of the All-Consuming Maw (Tier 15)",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Flare-Forged Greatbelt",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Greaves of the All-Consuming Maw (Tier 15)",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of the Superior Being",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ra-den's Ruinous Ring",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of the Scaled Tyrant",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Fabled Feather of Ji-Kun",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Primordius' Talisman of Rage",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Qon's Flaming Scimitar",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Qon's Flaming Scimitar",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
+     "name": "Crown of the Golden Golem",
+     "source": "Throne of Thunder Heroic — Dark Animus"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
-      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
-      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Super Strength (+170 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
-      "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Rune of the Fallen Crusader (runeforge)",
-      "source": "Runeforging (Ebon Hold)"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Rune of Razorice (runeforge)",
-      "source": "Runeforging (Ebon Hold)"
+     "name": "Talisman of Angry Spirits",
+     "source": "Throne of Thunder Heroic — Council of Elders"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Skillful Vermilion Onyx (+80 Str / +160 mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Fractured Sun's Radiance (+320 mastery)"
-    },
-    {
-      "color": "Blue",
-      "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+     "name": "Pauldrons of the All-Consuming Maw (Tier 15)",
+     "source": "Throne of Thunder Heroic — Iron Qon"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Tigerclaw Cape",
+     "source": "Throne of Thunder Heroic — Cloak of Virtue (quest reward)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of the All-Consuming Maw (Tier 15)",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Caustic Spike Bracers of Mastery",
+     "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of the All-Consuming Maw (Tier 15)",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Flare-Forged Greatbelt",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Greaves of the All-Consuming Maw (Tier 15)",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of the Superior Being",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ra-den's Ruinous Ring",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of the Scaled Tyrant",
+     "source": "Throne of Thunder Heroic — Primordius"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Fabled Feather of Ji-Kun",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Primordius' Talisman of Rage",
+     "source": "Throne of Thunder Heroic — Primordius"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Qon's Flaming Scimitar",
+     "source": "Throne of Thunder Heroic — Iron Qon"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Qon's Flaming Scimitar",
+     "source": "Throne of Thunder Heroic — Iron Qon"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+   "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+   "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Super Strength (+170 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
+   "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Rune of the Fallen Crusader (runeforge)",
+   "source": "Runeforging (Ebon Hold)"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Rune of Razorice (runeforge)",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Skillful Vermilion Onyx (+80 Str / +160 mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Sun's Radiance (+320 mastery)"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+  }
+ ]
 }

@@ -1,240 +1,239 @@
 {
-  "expansion": "tbc",
-  "phase": "p2",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Stay uncrushable: 102.4% combined avoidance/block. Honor-point Veteran's pieces fill three slots — cheap and strong. Trinkets are situational threat/hit tools. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Stay uncrushable: 102.4% combined avoidance/block. Honor-point Veteran's pieces fill three slots — cheap and strong. Trinkets are situational threat/hit tools. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Destroyer Greathelm (Tier 5)",
-          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Veteran's Pendant of Triumph",
-          "source": "PvP vendor — Honor Points"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Destroyer Shoulderguards (Tier 5)",
-          "source": "Tempest Keep — Void Reaver (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Thalassian Wildercloak",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Destroyer Chestguard (Tier 5)",
-          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Veteran's Plate Bracers",
-          "source": "PvP vendor — Honor Points"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Searing Grip",
-          "source": "Tempest Keep — Al'ar"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of One-Hundred Deaths",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Destroyer Legguards (Tier 5)",
-          "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Veteran's Plate Greaves",
-          "source": "PvP vendor — Honor Points"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Shapeshifter's Signet",
-          "source": "Lower City — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Garona's Signet Ring",
-          "source": "Karazhan — The Curator"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Icon of Unyielding Courage",
-          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Goblin Rocket Launcher",
-          "source": "Engineering (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Mallet of the Tides",
-          "source": "Serpentshrine Cavern — The Lurker Below"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Aldori Legacy Defender",
-          "source": "Gruul's Lair — Gruul the Dragonkiller"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Barrel-Blade Longrifle",
-          "source": "World boss — Doomwalker"
-        }
-      ]
+     "name": "Destroyer Greathelm (Tier 5)",
+     "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of the Defender (+16 defense / +17 dodge)",
-      "source": "Keepers of Time — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Health (+150 health)",
-      "source": "Enchanting (Exceptional Stats for threat)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Fortitude (+12 stamina)",
-      "source": "Enchanting (Major Defense if below crit immunity)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
-      "source": "Enchanting (Glove Reinforcements for armor)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield — Major Stamina (+18 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Stats (+4 all stats)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Veteran's Pendant of Triumph",
+     "source": "PvP vendor — Honor Points"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist) — Relentless for threat"
-    },
-    {
-      "color": "Red",
-      "name": "Shifting Nightseye (+4 Agi / +6 stamina) — Glinting Noble Topaz while under hit cap"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Talasite (+4 defense / +6 stamina) — Steady Talasite toward crit immunity"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Star of Elune (+12 stamina; Solid Empyrean Sapphire from P3)"
+     "name": "Destroyer Shoulderguards (Tier 5)",
+     "source": "Tempest Keep — Void Reaver (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Thalassian Wildercloak",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Destroyer Chestguard (Tier 5)",
+     "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Veteran's Plate Bracers",
+     "source": "PvP vendor — Honor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Searing Grip",
+     "source": "Tempest Keep — Al'ar"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of One-Hundred Deaths",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Destroyer Legguards (Tier 5)",
+     "source": "Serpentshrine Cavern — Fathom-Lord Karathress (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Veteran's Plate Greaves",
+     "source": "PvP vendor — Honor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Shapeshifter's Signet",
+     "source": "Lower City — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Garona's Signet Ring",
+     "source": "Karazhan — The Curator"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Icon of Unyielding Courage",
+     "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Goblin Rocket Launcher",
+     "source": "Engineering (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Mallet of the Tides",
+     "source": "Serpentshrine Cavern — The Lurker Below"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Aldori Legacy Defender",
+     "source": "Gruul's Lair — Gruul the Dragonkiller"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Barrel-Blade Longrifle",
+     "source": "World boss — Doomwalker"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of the Defender (+16 defense / +17 dodge)",
+   "source": "Keepers of Time — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Health (+150 health)",
+   "source": "Enchanting (Exceptional Stats for threat)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Fortitude (+12 stamina)",
+   "source": "Enchanting (Major Defense if below crit immunity)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+   "source": "Enchanting (Glove Reinforcements for armor)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield — Major Stamina (+18 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Stats (+4 all stats)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist) — Relentless for threat"
+  },
+  {
+   "color": "Red",
+   "name": "Shifting Nightseye (+4 Agi / +6 stamina) — Glinting Noble Topaz while under hit cap"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Talasite (+4 defense / +6 stamina) — Steady Talasite toward crit immunity"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Star of Elune (+12 stamina; Solid Empyrean Sapphire from P3)"
+  }
+ ]
 }

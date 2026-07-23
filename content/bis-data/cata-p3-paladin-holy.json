@@ -1,0 +1,225 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Holy Paladin gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Ghostly Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Ember Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Spinel — or Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Lava Coral — or Brilliant Queen's Garnet"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Headguard of Radiant Glory",
+     "source": "Dragon Soul — Warmaster Blackhorn —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Petrified Fungal Heart",
+     "source": "Dragon Soul — Morchok —"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of Radiant Glory",
+     "source": "Dragon Soul — Hagara the Stormbinder —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Woundlicker Cover",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Radiant Glory",
+     "source": "Dragon Soul — Ultraxion —"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of the Golden Thorn",
+     "source": "Dragon Soul — Madness of Deathwing —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Dragonfracture Belt",
+     "source": "Dragon Soul — Ultraxion —"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Greaves of Radiant Glory",
+     "source": "Dragon Soul — Yor'sahj the Unsleeping —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Pillarfoot Greaves",
+     "source": "Dragon Soul — Morchok —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet of Suturing",
+     "source": "Dragon Soul — Drops off any of the first 6 bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of the Riven",
+     "source": "Dragon Soul — Hagara the Stormbinder —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Seal of the Seven Signs",
+     "source": "Dragon Soul — Warlord Zonozz —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Unliving",
+     "source": "Dragon Soul — Madness of Deathwing —"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Maw of the Dragonlord",
+     "source": "Dragon Soul — Madness of Deathwing —"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Timepiece of the Bronze Flight",
+     "source": "Dragon Soul — Warmaster Blackhorn —"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Lightning Spirit in a Bottle",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Protection Paladin gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Windwalk",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Shield - Mastery",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond — or Eternal Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Defender's Shadow Spinel — or Fine Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Deepholm Iolite — or Puissant Elven Peridot"
+  },
+  {
+   "color": "Yellow",
+   "name": "Regal Elven Peridot"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Daybreaker Helm",
+     "source": "Bastion of Twilight Heroic — Valiona and Theralion"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Caelestrasz's Will",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of Edward the Odd",
+     "source": "World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Permafrost Cape",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Reinforced Sapphirium Chestguard",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Impossible Strength",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gravitational Pull",
+     "source": "Bastion of Twilight Heroic — Ascendant Council"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Jumbotron Power Belt",
+     "source": "Blackwing Descent Heroic — Omnotron Defense System"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Reinforced Sapphirium Legplates",
+     "source": "Blackwing Descent Heroic — Maloriak"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Molten Tantrum Boots",
+     "source": "Blackwing Descent Heroic — Magmaw"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cloudburst Ring",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Lifebound Alchemist Stone",
+     "source": "Alchemy"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mirror of Broken Images",
+     "source": "Exalted Baradin's Wardens / Hellscream's Reach"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Mace of Acrid Death",
+     "source": "Blackwing Descent Heroic — Maloriak"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Akmin-Kurai, Dominion's Shield",
+     "source": "Blackwing Descent Heroic — Nefarian"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Relic of Khaz'goroth",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

@@ -1,320 +1,319 @@
 {
-  "expansion": "classic",
-  "phase": "p3",
-  "class": "druid",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p3",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Crystal Adorned Crown",
-          "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Insightful Hood",
-          "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Stormrage Cover",
-          "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
-        }
-      ]
+     "name": "Crystal Adorned Crown",
+     "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of the Fire Lord",
-          "source": "Ragnaros in Molten Core Ramstein the Gorger in Stratholme"
-        },
-        {
-          "name": "Animated Chain Necklace",
-          "source": "Ragnaros in Molten Core Ramstein the Gorger in Stratholme"
-        }
-      ]
+     "name": "Insightful Hood",
+     "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Wild Growth Spaulders",
-          "source": "Majordomo Executus in Molten Core Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Stormrage Pauldrons",
-          "source": "Majordomo Executus in Molten Core Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Shroud of Pure Thought",
-          "source": "Flamegor in Blackwing Lair Crafted through Leatherworking"
-        },
-        {
-          "name": "Hide of the Wild",
-          "source": "Flamegor in Blackwing Lair Crafted through Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Stormrage Chestguard",
-          "source": "Nefarian in Blackwing Lair Baron Rivendare in Stratholme"
-        },
-        {
-          "name": "Robes of the Exalted",
-          "source": "Nefarian in Blackwing Lair Baron Rivendare in Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Stormrage Bracers",
-          "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
-        },
-        {
-          "name": "Flarecore Wraps",
-          "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
-        },
-        {
-          "name": "Cenarion Bracers",
-          "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Stormrage Handguards",
-          "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
-        },
-        {
-          "name": "Hands of the Exalted Herald",
-          "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
-        },
-        {
-          "name": "Gloves of Restoration",
-          "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Corehound Belt",
-          "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Sash of Mercy",
-          "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Firemaw's Clutch",
-          "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Empowered Leggings",
-          "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
-        },
-        {
-          "name": "Salamander Scale Pants",
-          "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
-        },
-        {
-          "name": "Stormrage Legguards",
-          "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Pure Thought",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
-        },
-        {
-          "name": "Snowblind Shoes",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
-        },
-        {
-          "name": "Stormrage Boots",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Pure Elementium Band",
-          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Cauterizing Band",
-          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
-        },
-        {
-          "name": "Rosewine Circle",
-          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
-        },
-        {
-          "name": "Fordring's Seal",
-          "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Rejuvenating Gem",
-          "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Darkmoon Card: Blue Dragon",
-          "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
-        },
-        {
-          "name": "Shard of the Scale",
-          "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
-        },
-        {
-          "name": "Royal Seal of Eldre'Thalas",
-          "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
-        },
-        {
-          "name": "Mindtap Talisman",
-          "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "High Warlord's Battle Mace",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Lok'amir il Romathis",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Claw of Chromaggus",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Fang of the Mystics",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Aurastone Hammer",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Ironbark Staff",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Mindfang",
-          "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hands",
-      "items": [
-        {
-          "name": "Lei of the Lifegiver",
-          "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
-        },
-        {
-          "name": "High Warlord's Tome of Mending",
-          "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
-        },
-        {
-          "name": "Brightly Glowing Stone",
-          "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
-        }
-      ]
+     "name": "Stormrage Cover",
+     "source": "Azuregos , the world boss in Azshara Cho'Rush the Observer in Dire Maul North Onyxia in Onyxia's Lair"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Choker of the Fire Lord",
+     "source": "Ragnaros in Molten Core Ramstein the Gorger in Stratholme"
     },
     {
-      "slot": "Shoulders",
-      "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Animated Chain Necklace",
+     "source": "Ragnaros in Molten Core Ramstein the Gorger in Stratholme"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wild Growth Spaulders",
+     "source": "Majordomo Executus in Molten Core Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Stormrage Pauldrons",
+     "source": "Majordomo Executus in Molten Core Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shroud of Pure Thought",
+     "source": "Flamegor in Blackwing Lair Crafted through Leatherworking"
+    },
+    {
+     "name": "Hide of the Wild",
+     "source": "Flamegor in Blackwing Lair Crafted through Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Stormrage Chestguard",
+     "source": "Nefarian in Blackwing Lair Baron Rivendare in Stratholme"
+    },
+    {
+     "name": "Robes of the Exalted",
+     "source": "Nefarian in Blackwing Lair Baron Rivendare in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Stormrage Bracers",
+     "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
+    },
+    {
+     "name": "Flarecore Wraps",
+     "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
+    },
+    {
+     "name": "Cenarion Bracers",
+     "source": "Razorgore the Untamed in Blackwing Lair Crafted through Tailoring Trash BoE drop in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Stormrage Handguards",
+     "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
+    },
+    {
+     "name": "Hands of the Exalted Herald",
+     "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
+    },
+    {
+     "name": "Gloves of Restoration",
+     "source": "The three drakes in Blackwing Lair High Priestess of Thaurissan in Blackrock Depths Alzzin the Wildshaper in Dire Maul East"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Corehound Belt",
+     "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Sash of Mercy",
+     "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Firemaw's Clutch",
+     "source": "Crafted through Leatherworking Random world drop, bind on equip Firemaw in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Empowered Leggings",
+     "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
+    },
+    {
+     "name": "Salamander Scale Pants",
+     "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
+    },
+    {
+     "name": "Stormrage Legguards",
+     "source": "Chromaggus in Blackwing Lair Several bosses in Molten Core Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Pure Thought",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
+    },
+    {
+     "name": "Snowblind Shoes",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
+    },
+    {
+     "name": "Stormrage Boots",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Broodlord Lashlayer in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Pure Elementium Band",
+     "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cauterizing Band",
+     "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
+    },
+    {
+     "name": "Rosewine Circle",
+     "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
+    },
+    {
+     "name": "Fordring's Seal",
+     "source": "Nefarian in Blackwing Lair Majordomo Executus in Molten Core Urok Doomhowl in Lower Blackrock Spire Reward from the quest In Dreams in Western Plaguelands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Rejuvenating Gem",
+     "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Darkmoon Card: Blue Dragon",
+     "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
+    },
+    {
+     "name": "Shard of the Scale",
+     "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
+    },
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
+    },
+    {
+     "name": "Mindtap Talisman",
+     "source": "The three drakes in Blackwing Lair Reward from Darkmoon Beast Deck Onyxia in Onyxia's Lair Reward from The Emerald Dream... in Dire Maul Magister Kalendris in Dire Maul West"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "High Warlord's Battle Mace",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Lok'amir il Romathis",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Claw of Chromaggus",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Fang of the Mystics",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Aurastone Hammer",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Ironbark Staff",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Mindfang",
+     "source": "Rank 14 PvP Weapon Nefarian in Blackwing Lair Chromaggus in Blackwing Lair Azuregos , the world boss in Azshara Garr in Molten Core Exalted with the Arathi Basin reputation Exalted with the Arathi Basin reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hands",
+   "items": [
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
+    },
+    {
+     "name": "High Warlord's Tome of Mending",
+     "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
+    },
+    {
+     "name": "Brightly Glowing Stone",
+     "source": "Exalted with the Alterac Valley reputation Rank 14 PvP Weapon King Gordok in Dire Maul North"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

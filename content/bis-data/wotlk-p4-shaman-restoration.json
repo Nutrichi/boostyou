@@ -1,273 +1,272 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "shaman",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 4/5 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Restoration Shaman gear guide (anchor phase-5-best-in-slot-table). Tier set: Sanctified Frost Witch's line. Weapon lists the legendary Val'anyr, Hammer of Ancient Kings (Ulduar) as top pick over the guaranteed ICC drop. Rings/Trinkets split into two named slots with the top pick in slot 1.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "shaman",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Phase 4/5 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Restoration Shaman gear guide (anchor phase-5-best-in-slot-table). Tier set: Sanctified Frost Witch's line. Weapon lists the legendary Val'anyr, Hammer of Ancient Kings (Ulduar) as top pick over the guaranteed ICC drop. Rings/Trinkets split into two named slots with the top pick in slot 1.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Headpiece (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Blood Queen's Crimson Choker",
-          "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Spaulders (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Burning Dusk",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Frostbinder's Shredded Cape",
-          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Tunic (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Fiery Night",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Bloodsunder's Bracers",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Unclean Surgical Gloves",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Split Shape Belt",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Crushing Coldwraith Belt",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Legguards (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Plague Scientist's Boots",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Phased Regeneration",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Rapid Ascent",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        },
-        {
-          "name": "Ashen Band of Endless Wisdom",
-          "source": "The Ashen Verdict — reward from Path of Wisdom (Ormus the Penitent)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Solace of the Fallen",
-          "source": "Trial of the Crusader 25 Heroic — Lord Jaraxxus"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Glowing Twilight Scale",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Althor's Abacus",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Val'anyr, Hammer of Ancient Kings (Legendary)",
-          "source": "Ulduar 25 — fragments from all Ulduar bosses"
-        },
-        {
-          "name": "Royal Scepter of Terenas II",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        },
-        {
-          "name": "Trauma",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Bulwark of Smouldering Steel",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Totem",
-      "items": [
-        {
-          "name": "Totem of Calming Tides",
-          "source": "25 Emblem of Triumph vendor"
-        }
-      ]
+     "name": "Sanctified Frost Witch's Headpiece (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Greater Mana Restoration",
-      "source": "Enchanting (Powerful Stats alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Shield — Greater Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Blood Queen's Crimson Choker",
+     "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower)"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+     "name": "Sanctified Frost Witch's Spaulders (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Burning Dusk",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Frostbinder's Shredded Cape",
+     "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanctified Frost Witch's Tunic (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Fiery Night",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Bloodsunder's Bracers",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Unclean Surgical Gloves",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Split Shape Belt",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Crushing Coldwraith Belt",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sanctified Frost Witch's Legguards (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Plague Scientist's Boots",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Phased Regeneration",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Rapid Ascent",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+    },
+    {
+     "name": "Ashen Band of Endless Wisdom",
+     "source": "The Ashen Verdict — reward from Path of Wisdom (Ormus the Penitent)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Solace of the Fallen",
+     "source": "Trial of the Crusader 25 Heroic — Lord Jaraxxus"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Glowing Twilight Scale",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Althor's Abacus",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Val'anyr, Hammer of Ancient Kings (Legendary)",
+     "source": "Ulduar 25 — fragments from all Ulduar bosses"
+    },
+    {
+     "name": "Royal Scepter of Terenas II",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    },
+    {
+     "name": "Trauma",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Bulwark of Smouldering Steel",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Totem",
+   "items": [
+    {
+     "name": "Totem of Calming Tides",
+     "source": "25 Emblem of Triumph vendor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Greater Mana Restoration",
+   "source": "Enchanting (Powerful Stats alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower)"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Dreadstone (+10 spellpower / +10 spirit)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Quick King's Amber once mana is no longer an issue"
+  }
+ ]
 }

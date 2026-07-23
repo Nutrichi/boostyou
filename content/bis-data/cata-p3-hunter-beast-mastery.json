@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "hunter",
+ "spec": "beast-mastery",
+ "role": "Ranged DPS",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Beast Mastery Hunter gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant 2H Weapon - Mighty Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Gnomish X-Ray Scope"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deadly Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Wyrmstalker's Headguard",
+     "source": "Dragon Soul — Warmaster Blackhorn —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Cameo of Terrible Memories",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wyrmstalker's Spaulders",
+     "source": "Dragon Soul — Hagara the Stormbinder —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreadfire Drape",
+     "source": "Dragon Soul — Lord Rhyolith —"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Wyrmstalker's Tunic",
+     "source": "Dragon Soul — Ultraxion —"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sporebeard Gauntlets",
+     "source": "Dragon Soul — Morchok —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Beloved Companion",
+     "source": "Dragon Soul — Warmaster Blackhorn —"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Wyrmstalker's Legguards",
+     "source": "Dragon Soul — Yor'sahj the Unsleeping —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of Dormant Dreams",
+     "source": "Dragon Soul — Hagara the Stormbinder —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of Primordial Shadow",
+     "source": "Dragon Soul — Random Boss Drop —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Grasping Mouths",
+     "source": "Dragon Soul — Hagara the Stormbinder —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Wrath of Unchaining",
+     "source": "Dragon Soul — Spine of Deathwing —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Vial of Shadows",
+     "source": "Dragon Soul — Random Boss Drop —"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Weapon",
+   "items": [
+    {
+     "name": "Kiril, Fury of Beasts",
+     "source": "Dragon Soul — Madness of Deathwing —"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Vishanka, Jaws of the Earth",
+     "source": "Dragon Soul — Madness of Deathwing —"
+    }
+   ]
+  }
+ ]
+}

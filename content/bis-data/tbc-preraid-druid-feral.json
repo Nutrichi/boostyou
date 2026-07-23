@@ -1,286 +1,285 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "druid",
-  "spec": "feral",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Cat DPS list — Wolfshead Helm from day one, agility leather and quest blues fill the rest. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "enchants": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Cat DPS list — Wolfshead Helm from day one, agility leather and quest blues fill the rest. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+   "source": "Cenarion Expedition — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade; Naxx veterans: Might of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Brawn (+12 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant 2H Weapon — Major Agility (+35 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Stats (+4 all stats)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
-      "source": "Cenarion Expedition — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade; Naxx veterans: Might of the Scourge)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Brawn (+12 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant 2H Weapon — Major Agility (+35 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Stats (+4 all stats)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Wolfshead Helm",
+     "source": "Leatherworking (crafted)"
     }
-  ],
-  "slots": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Wolfshead Helm",
-          "source": "Leatherworking (crafted)"
-        }
-      ]
+     "name": "Braided Eternium Chain",
+     "source": "Jewelcrafting (crafted)"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Braided Eternium Chain",
-          "source": "Jewelcrafting (crafted)"
-        },
-        {
-          "name": "Necklace of Trophies",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Choker of Vile Intent",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
+     "name": "Necklace of Trophies",
+     "source": "World drop (BoE)"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Shoulderpads of Assassination",
-          "source": "Sethekk Halls — Talon King Ikiss"
-        },
-        {
-          "name": "Mantle of Perenolde",
-          "source": "Old Hillsbrad — Epoch Hunter"
-        },
-        {
-          "name": "Wastewalker Shoulderpads",
-          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Craft",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Auchenai Death Shroud",
-          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Tunic of Assassination",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        },
-        {
-          "name": "Vest of Vengeance",
-          "source": "The Blood Furnace — Keli'dan the Breaker"
-        },
-        {
-          "name": "Primalstrike Vest",
-          "source": "Elemental Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Shard-bound Bracers",
-          "source": "Ogri'la — Exalted"
-        },
-        {
-          "name": "Nightfall Wristguards",
-          "source": "Heroic Old Hillsbrad — Epoch Hunter"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Unbound",
-          "source": "The Arcatraz — Wrath-Scryer Soccothrates / Zereketh"
-        },
-        {
-          "name": "Fel Leather Gloves",
-          "source": "Leatherworking (crafted)"
-        },
-        {
-          "name": "Handgrips of Assassination",
-          "source": "The Black Morass — Aeonus / Temporus"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Socrethar's Girdle",
-          "source": "Quest — Turning Point (Netherstorm)"
-        },
-        {
-          "name": "Girdle of the Deathdealer",
-          "source": "Heroic Black Morass — Aeonus"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Clefthoof Hide Leggings",
-          "source": "Quest — Showdown (Blade's Edge)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Fel Leather Boots",
-          "source": "Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Overseer's Signet",
-          "source": "Quest — Shutting Down Manaforge Ara"
-        },
-        {
-          "name": "Shapeshifter's Signet",
-          "source": "Lower City — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Shaffar's Band of Brutality",
-          "source": "Heroic Mana-Tombs — Yor"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Bloodlust Brooch",
-          "source": "Badge vendor — 41 Badges of Justice"
-        },
-        {
-          "name": "Empty Mug of Direbrew",
-          "source": "Brewfest — Coren Direbrew"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Hourglass of the Unraveller",
-          "source": "The Black Morass — Temporus"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Staff of Natural Fury",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Gladiator's Maul",
-          "source": "Arena vendor — Arena Points"
-        }
-      ]
-    },
-    {
-      "slot": "Idol",
-      "items": [
-        {
-          "name": "Everbloom Idol",
-          "source": "Badge vendor — 15 Badges of Justice"
-        },
-        {
-          "name": "Idol of Feral Shadows",
-          "source": "The Arcatraz — Zereketh the Unbound"
-        }
-      ]
+     "name": "Choker of Vile Intent",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "No meta — Wolfshead Helm has no meta socket and still wins the slot"
+     "name": "Shoulderpads of Assassination",
+     "source": "Sethekk Halls — Talon King Ikiss"
     },
     {
-      "color": "Red",
-      "name": "Delicate Living Ruby (+8 Agi; Delicate Crimson Spinel from P3)"
+     "name": "Mantle of Perenolde",
+     "source": "Old Hillsbrad — Epoch Hunter"
     },
     {
-      "color": "Yellow",
-      "name": "Glinting Noble Topaz (+4 Agi / +4 hit) — only for strong socket bonuses, otherwise red"
-    },
-    {
-      "color": "Blue",
-      "name": "Shifting Nightseye (+4 Agi / +6 stamina) — only for strong socket bonuses, otherwise red"
+     "name": "Wastewalker Shoulderpads",
+     "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Craft",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Auchenai Death Shroud",
+     "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Tunic of Assassination",
+     "source": "The Mechanar — Pathaleon the Calculator"
+    },
+    {
+     "name": "Vest of Vengeance",
+     "source": "The Blood Furnace — Keli'dan the Breaker"
+    },
+    {
+     "name": "Primalstrike Vest",
+     "source": "Elemental Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Shard-bound Bracers",
+     "source": "Ogri'la — Exalted"
+    },
+    {
+     "name": "Nightfall Wristguards",
+     "source": "Heroic Old Hillsbrad — Epoch Hunter"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Unbound",
+     "source": "The Arcatraz — Wrath-Scryer Soccothrates / Zereketh"
+    },
+    {
+     "name": "Fel Leather Gloves",
+     "source": "Leatherworking (crafted)"
+    },
+    {
+     "name": "Handgrips of Assassination",
+     "source": "The Black Morass — Aeonus / Temporus"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Socrethar's Girdle",
+     "source": "Quest — Turning Point (Netherstorm)"
+    },
+    {
+     "name": "Girdle of the Deathdealer",
+     "source": "Heroic Black Morass — Aeonus"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Clefthoof Hide Leggings",
+     "source": "Quest — Showdown (Blade's Edge)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Fel Leather Boots",
+     "source": "Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Overseer's Signet",
+     "source": "Quest — Shutting Down Manaforge Ara"
+    },
+    {
+     "name": "Shapeshifter's Signet",
+     "source": "Lower City — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Shaffar's Band of Brutality",
+     "source": "Heroic Mana-Tombs — Yor"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bloodlust Brooch",
+     "source": "Badge vendor — 41 Badges of Justice"
+    },
+    {
+     "name": "Empty Mug of Direbrew",
+     "source": "Brewfest — Coren Direbrew"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Hourglass of the Unraveller",
+     "source": "The Black Morass — Temporus"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Staff of Natural Fury",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Gladiator's Maul",
+     "source": "Arena vendor — Arena Points"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Everbloom Idol",
+     "source": "Badge vendor — 15 Badges of Justice"
+    },
+    {
+     "name": "Idol of Feral Shadows",
+     "source": "The Arcatraz — Zereketh the Unbound"
+    }
+   ]
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "No meta — Wolfshead Helm has no meta socket and still wins the slot"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Living Ruby (+8 Agi; Delicate Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Noble Topaz (+4 Agi / +4 hit) — only for strong socket bonuses, otherwise red"
+  },
+  {
+   "color": "Blue",
+   "name": "Shifting Nightseye (+4 Agi / +6 stamina) — only for strong socket bonuses, otherwise red"
+  }
+ ]
 }

@@ -1,240 +1,239 @@
 {
-  "expansion": "wotlk",
-  "phase": "p3",
-  "class": "priest",
-  "spec": "shadow",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Shadow Priest Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p3",
+ "class": "priest",
+ "spec": "shadow",
+ "role": "Ranged DPS",
+ "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Shadow Priest Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Velen's Circlet of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Wail of the Val'kyr",
-          "source": "Twin Valkyr — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Velen's Mantle of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Jaina's Radiance",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Velen's Raiments of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Armbands of the Ashen Saint",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Pharos Gloves",
-          "source": "Algalon the Observer — Ulduar 10/25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Cord of the Tenebrous Mist",
-          "source": "Beasts of Northrend — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Velen's Pants of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Mourning Widow",
-          "source": "Faction Champions — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Deplorable Violence",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic Mimiron — Ulduar 25-Man/10-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic Mimiron — Ulduar 25-Man/10-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Reign of the Unliving",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic General Vezax — Ulduar 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Flare of the Heavens",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic General Vezax — Ulduar 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Misery's End",
-          "source": "Anub'arak — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Symbol of Transgression",
-          "source": "Lord Jaraxxus — Trial of the Crusader 25-Man Heroic"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Petrified Ivy Sprig",
-          "source": "Animated Constellation — Dalaran, 15 Sidereal Essence"
-        }
-      ]
+     "name": "Velen's Circlet of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Major Spirit alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (one-hand); Enchant Staff — Greater Spellpower for staves"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Wail of the Val'kyr",
+     "source": "Twin Valkyr — Trial of the Crusader 25-Man Heroic"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine / Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+     "name": "Velen's Mantle of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Jaina's Radiance",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Velen's Raiments of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Armbands of the Ashen Saint",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Pharos Gloves",
+     "source": "Algalon the Observer — Ulduar 10/25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of the Tenebrous Mist",
+     "source": "Beasts of Northrend — Trial of the Crusader 25-Man Heroic"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Velen's Pants of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Mourning Widow",
+     "source": "Faction Champions — Trial of the Crusader 25-Man Heroic"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Deplorable Violence",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic Mimiron — Ulduar 25-Man/10-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic Mimiron — Ulduar 25-Man/10-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Reign of the Unliving",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic General Vezax — Ulduar 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Flare of the Heavens",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic General Vezax — Ulduar 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Misery's End",
+     "source": "Anub'arak — Trial of the Crusader 25-Man Heroic"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Symbol of Transgression",
+     "source": "Lord Jaraxxus — Trial of the Crusader 25-Man Heroic"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Petrified Ivy Sprig",
+     "source": "Animated Constellation — Dalaran, 15 Sidereal Essence"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Major Spirit alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (one-hand); Enchant Staff — Greater Spellpower for staves"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine / Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit)"
+  }
+ ]
 }

@@ -1,242 +1,241 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "retribution",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Retribution Paladin Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "retribution",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Retribution Paladin Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Turalyon's Helm of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Helm of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
+     "name": "Turalyon's Helm of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Strength of the Heavens",
-          "source": "19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Trembling Rage",
-          "source": "45 Emblem of Triumph"
-        },
-        {
-          "name": "Shoulderplates of Trembling Rage",
-          "source": "45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Might of the Nerub",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Titanium Razorplate",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Titanium Spikeguards",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Turalyon's Gauntlets of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Gauntlets of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Soul-Devouring Cinch",
-          "source": "19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Painful Death",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Footpads of Impending Death",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Seal of the Betrayed King",
-          "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Bloodshed Band",
-          "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Death's Choice",
-          "source": "38 Defiler's Scourgestone 24 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dark Matter",
-          "source": "38 Defiler's Scourgestone 24 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Dual-blade Butcher",
-          "source": "78 Defiler's Scourgestone"
-        },
-        {
-          "name": "Justicebringer",
-          "source": "78 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Valiance",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Liadrin's Helm of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
+     "name": "Strength of the Heavens",
+     "source": "19 Sidereal Essence"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+     "name": "Pauldrons of Trembling Rage",
+     "source": "45 Emblem of Triumph"
     },
     {
-      "color": "Red",
-      "name": "Bold Cardinal Ruby (+23 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
-    },
-    {
-      "color": "Blue",
-      "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+     "name": "Shoulderplates of Trembling Rage",
+     "source": "45 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Might of the Nerub",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Titanium Razorplate",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Titanium Spikeguards",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Turalyon's Gauntlets of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Liadrin's Gauntlets of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Soul-Devouring Cinch",
+     "source": "19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Painful Death",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Footpads of Impending Death",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of the Betrayed King",
+     "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Bloodshed Band",
+     "source": "60 Defiler's Scourgestone 35 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Death's Choice",
+     "source": "38 Defiler's Scourgestone 24 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dark Matter",
+     "source": "38 Defiler's Scourgestone 24 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Dual-blade Butcher",
+     "source": "78 Defiler's Scourgestone"
+    },
+    {
+     "name": "Justicebringer",
+     "source": "78 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Valiance",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+  }
+ ]
 }

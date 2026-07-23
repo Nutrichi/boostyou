@@ -1,327 +1,326 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "mage",
-  "spec": "arcane",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Crafted tailoring rules pre-raid: Spellstrike and Spellfire pieces plus the Eye of the Night group-buff neck from Jewelcrafting. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "mage",
+ "spec": "arcane",
+ "role": "Ranged DPS",
+ "notes": "Crafted tailoring rules pre-raid: Spellstrike and Spellfire pieces plus the Eye of the Night group-buff neck from Jewelcrafting. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Spellstrike Hood",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Incanter's Cowl",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        },
-        {
-          "name": "Hydromancer's Headwrap",
-          "source": "Quest — The Warlord's Hideout (Steamvault)"
-        }
-      ]
+     "name": "Spellstrike Hood",
+     "source": "Tailoring (crafted)"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Charlotte's Ivy",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Eye of the Night / Chain of the Twilight Owl",
-          "source": "Jewelcrafting (crafted — strong group buff)"
-        },
-        {
-          "name": "Torc of the Sethekk Prophet",
-          "source": "Quest — Brother Against Brother (Sethekk Halls)"
-        }
-      ]
+     "name": "Incanter's Cowl",
+     "source": "The Mechanar — Pathaleon the Calculator"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mana-Etched Spaulders",
-          "source": "Heroic Slave Pens — Quagmirran"
-        },
-        {
-          "name": "Mantle of Three Terrors",
-          "source": "The Black Morass — Chrono Lord Deja"
-        },
-        {
-          "name": "Spaulders of the Torn-heart",
-          "source": "Quest — The Cipher of Damnation (Shadowmoon)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Shawl of Shifting Probabilities",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Ogre Slayer's Cover",
-          "source": "Quest — Cho'war the Pillager (Nagrand)"
-        },
-        {
-          "name": "Cloak of the Black Void",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Spellfire Robe",
-          "source": "Spellfire Tailoring (crafted)"
-        },
-        {
-          "name": "Will of Edward the Odd",
-          "source": "World drop (BoE)"
-        },
-        {
-          "name": "Robe of the Crimson Order",
-          "source": "World drop (BoE)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Marshal's / General's Silk Cuffs",
-          "source": "PvP vendor — Honor Points"
-        },
-        {
-          "name": "Bracers of Havok",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Spellfire Gloves",
-          "source": "Spellfire Tailoring (crafted)"
-        },
-        {
-          "name": "Mana-Etched Gloves",
-          "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Spellfire Belt",
-          "source": "Spellfire Tailoring (crafted)"
-        },
-        {
-          "name": "Glyph-Lined Sash",
-          "source": "Heroic Mana-Tombs — Nexus-Prince Shaffar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Spellstrike Pants",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Breeches of the Occultist",
-          "source": "Heroic Black Morass — Aeonus"
-        },
-        {
-          "name": "Kirin Tor Master's Trousers",
-          "source": "Heroic Shadow Labyrinth — Murmur"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sigil-Laced Boots",
-          "source": "The Arcatraz — Harbinger Skyriss"
-        },
-        {
-          "name": "Shattrath Jumpers",
-          "source": "Quest — Into the Heart of the Labyrinth"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Cryptic Dreams",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Lola's Eve",
-          "source": "World drop (BoE)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ryngo's Band of Ingenuity",
-          "source": "The Arcatraz — Wrath-Scryer Soccothrates"
-        },
-        {
-          "name": "Scintillating Coral Band",
-          "source": "The Steamvault — Hydromancer Thespia"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Quagmirran's Eye",
-          "source": "Heroic Slave Pens — Quagmirran"
-        },
-        {
-          "name": "Shiffar's Nexus-Horn",
-          "source": "The Arcatraz — Harbinger Skyriss"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Gladiator's War Staff",
-          "source": "Arena vendor — Arena Points"
-        },
-        {
-          "name": "Terokk's Shadowstaff",
-          "source": "Heroic Sethekk Halls — Talon King Ikiss"
-        },
-        {
-          "name": "Eternium Runed Blade (one-hand, with off-hand)",
-          "source": "Blacksmithing (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Talisman of Kalecgos (only with a one-hand weapon)",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Manual of the Nethermancer",
-          "source": "The Mechanar — Nethermancer Sepethrea"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Nether Core's Control Rod",
-          "source": "The Arcatraz — Dalliah the Doomsayer"
-        },
-        {
-          "name": "Nethekurse's Rod of Torment / Rod of Dire Shadows",
-          "source": "Quest — Honor Hold / Thrallmar"
-        }
-      ]
+     "name": "Hydromancer's Headwrap",
+     "source": "Quest — The Warlord's Hideout (Steamvault)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power (+22 spell damage / +14 hit)",
-      "source": "The Sha'tar — Revered"
+     "name": "Charlotte's Ivy",
+     "source": "World drop (BoE)"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb)"
+     "name": "Eye of the Night / Chain of the Twilight Owl",
+     "source": "Jewelcrafting (crafted — strong group buff)"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak — Subtlety (-2% threat)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
-      "source": "Enchanting (Spell Strike if short on hit)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Spellpower (+12 spell damage)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Torc of the Sethekk Prophet",
+     "source": "Quest — Brother Against Brother (Sethekk Halls)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+     "name": "Mana-Etched Spaulders",
+     "source": "Heroic Slave Pens — Quagmirran"
     },
     {
-      "color": "Red",
-      "name": "Runed Living Ruby (+9 spell damage)"
+     "name": "Mantle of Three Terrors",
+     "source": "The Black Morass — Chrono Lord Deja"
     },
     {
-      "color": "Yellow",
-      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+     "name": "Spaulders of the Torn-heart",
+     "source": "Quest — The Cipher of Damnation (Shadowmoon)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shawl of Shifting Probabilities",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Ogre Slayer's Cover",
+     "source": "Quest — Cho'war the Pillager (Nagrand)"
+    },
+    {
+     "name": "Cloak of the Black Void",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Spellfire Robe",
+     "source": "Spellfire Tailoring (crafted)"
+    },
+    {
+     "name": "Will of Edward the Odd",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Robe of the Crimson Order",
+     "source": "World drop (BoE)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Marshal's / General's Silk Cuffs",
+     "source": "PvP vendor — Honor Points"
+    },
+    {
+     "name": "Bracers of Havok",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Spellfire Gloves",
+     "source": "Spellfire Tailoring (crafted)"
+    },
+    {
+     "name": "Mana-Etched Gloves",
+     "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Spellfire Belt",
+     "source": "Spellfire Tailoring (crafted)"
+    },
+    {
+     "name": "Glyph-Lined Sash",
+     "source": "Heroic Mana-Tombs — Nexus-Prince Shaffar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Spellstrike Pants",
+     "source": "Tailoring (crafted)"
+    },
+    {
+     "name": "Breeches of the Occultist",
+     "source": "Heroic Black Morass — Aeonus"
+    },
+    {
+     "name": "Kirin Tor Master's Trousers",
+     "source": "Heroic Shadow Labyrinth — Murmur"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sigil-Laced Boots",
+     "source": "The Arcatraz — Harbinger Skyriss"
+    },
+    {
+     "name": "Shattrath Jumpers",
+     "source": "Quest — Into the Heart of the Labyrinth"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Cryptic Dreams",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Lola's Eve",
+     "source": "World drop (BoE)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ryngo's Band of Ingenuity",
+     "source": "The Arcatraz — Wrath-Scryer Soccothrates"
+    },
+    {
+     "name": "Scintillating Coral Band",
+     "source": "The Steamvault — Hydromancer Thespia"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Quagmirran's Eye",
+     "source": "Heroic Slave Pens — Quagmirran"
+    },
+    {
+     "name": "Shiffar's Nexus-Horn",
+     "source": "The Arcatraz — Harbinger Skyriss"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Gladiator's War Staff",
+     "source": "Arena vendor — Arena Points"
+    },
+    {
+     "name": "Terokk's Shadowstaff",
+     "source": "Heroic Sethekk Halls — Talon King Ikiss"
+    },
+    {
+     "name": "Eternium Runed Blade (one-hand, with off-hand)",
+     "source": "Blacksmithing (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Talisman of Kalecgos (only with a one-hand weapon)",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Manual of the Nethermancer",
+     "source": "The Mechanar — Nethermancer Sepethrea"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Nether Core's Control Rod",
+     "source": "The Arcatraz — Dalliah the Doomsayer"
+    },
+    {
+     "name": "Nethekurse's Rod of Torment / Rod of Dire Shadows",
+     "source": "Quest — Honor Hold / Thrallmar"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power (+22 spell damage / +14 hit)",
+   "source": "The Sha'tar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Subtlety (-2% threat)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+   "source": "Enchanting (Spell Strike if short on hit)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Spellpower (+12 spell damage)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Living Ruby (+9 spell damage)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+  }
+ ]
 }

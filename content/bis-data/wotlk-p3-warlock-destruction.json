@@ -1,320 +1,319 @@
 {
-  "expansion": "wotlk",
-  "phase": "p3",
-  "class": "warlock",
-  "spec": "destruction",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Destruction Warlock Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p3",
+ "class": "warlock",
+ "spec": "destruction",
+ "role": "Ranged DPS",
+ "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Destruction Warlock Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Kel'Thuzad's Hood of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Chaotic Skyflare Diamond",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Purified Dreadstone",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
+     "name": "Kel'Thuzad's Hood of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Wail of the Val'kyr",
-          "source": "Eydis Darkbane — Ulduar 25-Man HM"
-        },
-        {
-          "name": "Reckless Ametrine",
-          "source": "Eydis Darkbane — Ulduar 25-Man HM"
-        }
-      ]
+     "name": "Chaotic Skyflare Diamond",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Kel'Thuzad's Shoulderpads of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Reckless Ametrine",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Jaina's Radiance",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Kel'Thuzad's Robe of Triumph",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Purified Dreadstone",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bindings of Dark Essence",
-          "source": "Eydis Darkbane — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Reckless Ametrine",
-          "source": "Eydis Darkbane — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Kel'Thuzad's Gloves of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Cord of the Tenebrous Mist",
-          "source": "Ice Howl — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Purified Dreadstone",
-          "source": "Ice Howl — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Ice Howl — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Ice Howl — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Soothing Touch",
-          "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Purified Dreadstone",
-          "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Mourning Widow",
-          "source": "Faction Champions — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Purified Dreadstone",
-          "source": "Faction Champions — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Faction Champions — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Band of Deplorable Violence",
-          "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Reckless Ametrine",
-          "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Flare of the Heavens",
-          "source": "General Vezax — Ulduar 25-Man HM AnubArak — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Reign of the Unliving",
-          "source": "General Vezax — Ulduar 25-Man HM AnubArak — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Blade of the Unbroken Covenant",
-          "source": "Anub'arak — Trial of the Crusader 25-Man HM"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Anub'arak — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Symbol of Transgression",
-          "source": "Lord Jaraxxus — Trial of the Crusader 25m HM"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Petrified Ivy Sprig",
-          "source": "Animated Constellation — Dalaran, 12 Sidereal Essence"
-        },
-        {
-          "name": "Runed Cardinal Ruby",
-          "source": "Animated Constellation — Dalaran, 12 Sidereal Essence"
-        }
-      ]
+     "name": "Purified Dreadstone",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+     "name": "Wail of the Val'kyr",
+     "source": "Eydis Darkbane — Ulduar 25-Man HM"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Major Spirit alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Staff — Greater Spellpower",
-      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Reckless Ametrine",
+     "source": "Eydis Darkbane — Ulduar 25-Man HM"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
+     "name": "Kel'Thuzad's Shoulderpads of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     },
     {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+     "name": "Reckless Ametrine",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Jaina's Radiance",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Kel'Thuzad's Robe of Triumph",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Purified Dreadstone",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of Dark Essence",
+     "source": "Eydis Darkbane — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Reckless Ametrine",
+     "source": "Eydis Darkbane — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Kel'Thuzad's Gloves of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of the Tenebrous Mist",
+     "source": "Ice Howl — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Purified Dreadstone",
+     "source": "Ice Howl — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Ice Howl — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Ice Howl — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Soothing Touch",
+     "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Purified Dreadstone",
+     "source": "Lord Jaraxxus — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Mourning Widow",
+     "source": "Faction Champions — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Purified Dreadstone",
+     "source": "Faction Champions — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Faction Champions — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Band of Deplorable Violence",
+     "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Reckless Ametrine",
+     "source": "Mimiron — Ulduar 25-Man/10-Man HM Anub'Arak — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Flare of the Heavens",
+     "source": "General Vezax — Ulduar 25-Man HM AnubArak — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Reign of the Unliving",
+     "source": "General Vezax — Ulduar 25-Man HM AnubArak — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Blade of the Unbroken Covenant",
+     "source": "Anub'arak — Trial of the Crusader 25-Man HM"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Anub'arak — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Symbol of Transgression",
+     "source": "Lord Jaraxxus — Trial of the Crusader 25m HM"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Petrified Ivy Sprig",
+     "source": "Animated Constellation — Dalaran, 12 Sidereal Essence"
+    },
+    {
+     "name": "Runed Cardinal Ruby",
+     "source": "Animated Constellation — Dalaran, 12 Sidereal Essence"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Major Spirit alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Staff — Greater Spellpower",
+   "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+  }
+ ]
 }

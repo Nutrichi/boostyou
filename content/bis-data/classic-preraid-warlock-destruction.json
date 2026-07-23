@@ -1,213 +1,212 @@
 {
-  "expansion": "classic",
-  "phase": "preraid",
-  "class": "warlock",
-  "spec": "destruction",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Warlock Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "preraid",
+ "class": "warlock",
+ "spec": "destruction",
+ "role": "Ranged DPS",
+ "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Warlock Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Spellweaver's Turban",
-          "source": "General Drakkisath Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Diana's Pearl Necklace",
-          "source": "Cannon Master Willey Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Abyssal Cloth Amice",
-          "source": "Baron Kazum"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Crystalline Threaded Cape",
-          "source": "BoE"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Bloodvine Vest",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Rockfury Bracers",
-          "source": "Cenarion Circle — Revered Stalwart's Battlegear"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Atal'ai Gloves",
-          "source": "Mini-Bosses Sunken Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Ban'thok Sash",
-          "source": "Ok'thor the Breaker Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Bloodvine Leggings",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Bloodvine Boots",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Rune Band of Wizardry",
-          "source": "Lord Valthalak Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Don Mauricio's Band of Domination",
-          "source": "Darkmaster Gandling Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Briarwood Reed",
-          "source": "Jed Runewatcher Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Eye of the Beast",
-          "source": "General Drakkisath's Demise"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Verimonde's Last Resort",
-          "source": "The Argent Hold"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Scepter of Interminable Focus",
-          "source": "Sothos and Jarien Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Skul's Ghastly Touch",
-          "source": "Skul Stratholme"
-        }
-      ]
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath Upper Blackrock Spire"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Greater Intellect",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Shadow Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Spell Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Diana's Pearl Necklace",
+     "source": "Cannon Master Willey Stratholme"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Abyssal Cloth Amice",
+     "source": "Baron Kazum"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Crystalline Threaded Cape",
+     "source": "BoE"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Bloodvine Vest",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Rockfury Bracers",
+     "source": "Cenarion Circle — Revered Stalwart's Battlegear"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Atal'ai Gloves",
+     "source": "Mini-Bosses Sunken Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Bloodvine Leggings",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Bloodvine Boots",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Eye of the Beast",
+     "source": "General Drakkisath's Demise"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Verimonde's Last Resort",
+     "source": "The Argent Hold"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Scepter of Interminable Focus",
+     "source": "Sothos and Jarien Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Skul's Ghastly Touch",
+     "source": "Skul Stratholme"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Greater Intellect",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Shadow Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Hoodoo Hex — from the quest Hoodoo Hex from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Spell Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

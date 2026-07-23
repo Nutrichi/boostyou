@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "retribution",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Retribution Paladin gear guide (pre-raid page): Firelands-era catch-up pre-bis (previous-tier vendor gear via Fissure Stone Fragments). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Skillful Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Reinforced Sapphirium Helmet",
+     "source": "32 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Rage of Ages",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Reinforced Sapphirium Pauldrons",
+     "source": "32 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloudburst Cloak",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Immolation Battleplate",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Mat'redor",
+     "source": "80 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Immolation Gauntlets",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sky Strider Belt",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Immolation Legplates",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of Savage Beatings",
+     "source": "Blackwing Descent — Trash inside of"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Serrated Brimstone Signet",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "80 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Rage",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Impatience of Youth",
+     "source": "Exalted Baradin's Wardens / Hellscream's Reach"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Reclaimed Ashkandi, Greatsword of the Brotherhood",
+     "source": "30 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Relic of the Elemental Lords",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

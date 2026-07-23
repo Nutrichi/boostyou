@@ -1,0 +1,354 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "hunter",
+ "spec": "beast-mastery",
+ "role": "Ranged DPS",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/hunter/beast-mastery/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). Melee One-Hand/Two-Hand are stat-stick options (hunters wield either two 1H or one 2H). Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Superior Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon — Superior Potency",
+   "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Heartseeker Scope",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Cardinal Ruby (+23 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Valorous Cryptstalker Headpiece",
+     "source": "Naxxramas — 25man Kel'Thuzad - Crown of the Lost Protector"
+    },
+    {
+     "name": "Blue Aspect Helm",
+     "source": "The Eye of Eternity — 25man Malygos"
+    },
+    {
+     "name": "Helm of the Grave",
+     "source": "Naxxramas — 25man Four Horsemen Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Cryptstalker Spaulders",
+     "source": "Naxxramas — Dropped from 25man Loatheb and Gluth - Mantle of the Lost Protector"
+    },
+    {
+     "name": "Upstanding Spaulders",
+     "source": "The Obsidian Sanctum — Dropped from 25man Sartharion"
+    },
+    {
+     "name": "Shoulderpads of Secret Arts",
+     "source": "Naxxramas — Dropped from 25man Instructor Razuvious"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Deadly Foe",
+     "source": "Naxxramas — 25man Kel'Thuzad"
+    },
+    {
+     "name": "Hammerhead Sharkskin Cloak",
+     "source": "Dalaran — x25 Emblem of Valor"
+    },
+    {
+     "name": "Cloak of Mastery",
+     "source": "Naxxramas — 10man Sapphiron"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestguard of Flagrant Prowess",
+     "source": "The Obsidian Sanctum — Dropped from 10man Sartharion"
+    },
+    {
+     "name": "Tunic of Masked Suffering",
+     "source": "Naxxramas — Dropped from 25man Gluth"
+    },
+    {
+     "name": "Valorous Cryptstalker Tunic",
+     "source": "Naxxramas — Dropped from 25man Four Horsemen Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Slime Stream Bands",
+     "source": "Naxxramas — Dropped from 25man Grobbulus"
+    },
+    {
+     "name": "Armguard of the Tower Archer",
+     "source": "The Nexus — x60 Emblem of Valor"
+    },
+    {
+     "name": "Arachnoid Gold Band",
+     "source": "Naxxramas — Dropped from 25man Anub'Rekhan"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Frosted Adroit Handguards",
+     "source": "The Eye of Eternity — 25man Malygos"
+    },
+    {
+     "name": "Gloves of Calculated Risk",
+     "source": "Naxxramas — 25man Patchwerk"
+    },
+    {
+     "name": "Rusted-Link Spiked Gauntlets",
+     "source": "Naxxramas — 10man Grand Widow Faerlina"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Torn Web Wrapping",
+     "source": "Naxxramas — Dropped from 25man Maexxna"
+    },
+    {
+     "name": "Depraved Linked Belt",
+     "source": "Naxxramas — Dropped from 25man Grobbulus"
+    },
+    {
+     "name": "Spectral Rider's Girdle",
+     "source": "Naxxramas — Dropped from 10man Gothik the Harvester"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Failed Escape",
+     "source": "Naxxramas — 25man Gothik the Harvester"
+    },
+    {
+     "name": "Leggings of Colossal Strides",
+     "source": "Naxxramas — 25man Heigan the Unclean"
+    },
+    {
+     "name": "Leggings of the Stone Halls",
+     "source": "Halls of Stone — Heroic Sjonnir The Ironshaper"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Renewed Flight",
+     "source": "The Eye of Eternity — Dropped from 25man Malygos"
+    },
+    {
+     "name": "Crippled Treads",
+     "source": "Naxxramas — Dropped from 25man Noth the Plaguebringer"
+    },
+    {
+     "name": "Boots of the Great Construct",
+     "source": "Naxxramas — Dropped from 25man Sapphiron"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Favor of the Dragon Queen",
+     "source": "The Eye of Eternity — Reward from 25man Malygos - Heroic Judgment at the Eye of Eternity"
+    },
+    {
+     "name": "Fool's Trial",
+     "source": "Naxxramas — Trash Drop - 25man"
+    },
+    {
+     "name": "Gem of Imprisoned Vassals",
+     "source": "Naxxramas — Dropped from 10man Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Strong-Handed Ring",
+     "source": "Naxxramas — 25man Instructor Razuvious"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Surge Needle Ring",
+     "source": "The Eye of Eternity — 10man Malygos"
+    },
+    {
+     "name": "Ring of Invincibility",
+     "source": "Dalaran — 25x Emblem of Valor"
+    },
+    {
+     "name": "Sealing Ring of Grobbulus",
+     "source": "Naxxramas — Dropped from 10man Grobbulus"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Darkmoon Faire — Reward from Nobles Deck - Darkmoon Nobles Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mirror of Truth",
+     "source": "Dalaran — 40x Emblem of Heroism"
+    },
+    {
+     "name": "Fury of the Five Flights",
+     "source": "The Obsidian Sanctum — Drop from 25man Sartharion"
+    },
+    {
+     "name": "Incisor Fragment",
+     "source": "Drak'Tharon Keep — Drop from Heroic King Dred"
+    }
+   ]
+  },
+  {
+   "slot": "Melee One-Hand",
+   "items": [
+    {
+     "name": "Webbed Death",
+     "source": "Naxxramas — 25man Anub'Rekhan"
+    },
+    {
+     "name": "Sinister Revenge",
+     "source": "Naxxramas — 25man Kel'Thuzad"
+    },
+    {
+     "name": "Crypt Lord's Deft Blade",
+     "source": "Azjol-Nerub — Heroic Anub'arak"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Two-Hand",
+   "items": [
+    {
+     "name": "Journey's End",
+     "source": "Naxxramas — 25man Kel'Thuzad"
+    },
+    {
+     "name": "Betrayer of Humanity",
+     "source": "Naxxramas — 25man Kel'Thuzad"
+    },
+    {
+     "name": "Cryptfiend's Bite",
+     "source": "Naxxramas — 25man Heigan the Unclean"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Envoy of Mortality",
+     "source": "Naxxramas — 25man Kel'Thuzad"
+    },
+    {
+     "name": "Arrowsong",
+     "source": "Naxxramas — 25man Patchwerk"
+    },
+    {
+     "name": "Nerubian Conquerer",
+     "source": "Naxxramas — 10man Kel'Thuzad"
+    }
+   ]
+  }
+ ]
+}

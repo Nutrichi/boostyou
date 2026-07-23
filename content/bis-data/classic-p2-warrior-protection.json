@@ -1,350 +1,349 @@
 {
-  "expansion": "classic",
-  "phase": "p2",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Lionheart Helm",
-          "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
-        },
-        {
-          "name": "Helm of Wrath",
-          "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
-        },
-        {
-          "name": "Helm of Might",
-          "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
-        }
-      ]
+     "name": "Lionheart Helm",
+     "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Onyxia Tooth Pendant",
-          "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Medallion of Steadfast Might",
-          "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Eskhandar's Collar",
-          "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
-        }
-      ]
+     "name": "Helm of Wrath",
+     "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Might",
-          "source": "Sulfuron Harbinger in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Shrouded Mists",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
-        },
-        {
-          "name": "Dragon's Blood Cape",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
-        },
-        {
-          "name": "Shifting Cloak",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Savage Gladiator Chain",
-          "source": "Gorosh the Dervish in Blackrock Depths Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "Breastplate of Might",
-          "source": "Gorosh the Dervish in Blackrock Depths Golemagg the Incinerator in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Wristguards of True Flight",
-          "source": "Majordomo Executus in Molten Core Molten Core drop BoE"
-        },
-        {
-          "name": "Bracers of Might",
-          "source": "Majordomo Executus in Molten Core Molten Core drop BoE"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Edgemaster's Handguards",
-          "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
-        },
-        {
-          "name": "Aged Core Leather Gloves",
-          "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
-        },
-        {
-          "name": "Gauntlets of Might",
-          "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Onslaught Girdle",
-          "source": "Ragnaros in Molten Core Molten Core drop BoE"
-        },
-        {
-          "name": "Belt of Might",
-          "source": "Ragnaros in Molten Core Molten Core drop BoE"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Cloudkeeper Legplates",
-          "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
-        },
-        {
-          "name": "Legplates of Wrath",
-          "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
-        },
-        {
-          "name": "Legplates of Might",
-          "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of Might",
-          "source": "Gehennas in Molten Core Side bosses in Scholomance"
-        },
-        {
-          "name": "Bloodmail Boots",
-          "source": "Gehennas in Molten Core Side bosses in Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Accuria",
-          "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Quick Strike Ring",
-          "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
-        },
-        {
-          "name": "Don Julio's Band",
-          "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mark of the Chosen",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Hand of Justice",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        },
-        {
-          "name": "Blackhand's Breadth",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        },
-        {
-          "name": "Counterattack Lodestone",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        },
-        {
-          "name": "Vigilance Charm",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        },
-        {
-          "name": "Ramstein's Lightning Bolts",
-          "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand",
-      "items": [
-        {
-          "name": "Quel'Serrar",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Deathbringer",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Vis'kag the Bloodletter",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Empyrean Demolisher",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "High Warlord's Cleaver",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Perdition's Blade",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Core Hound Tooth",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Distracting Dagger",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        },
-        {
-          "name": "Brutality Blade",
-          "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "High Warlord's Shield Wall",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        },
-        {
-          "name": "Malistar's Defender",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        },
-        {
-          "name": "Drillborer Disk",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        },
-        {
-          "name": "The Immovable Object",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        },
-        {
-          "name": "Force Reactive Disk",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        },
-        {
-          "name": "Skullflame Shield",
-          "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Blastershot Launcher",
-          "source": "Golemagg the Incinerator in Molten Core Magmadar in Molten Core"
-        },
-        {
-          "name": "Striker's Mark",
-          "source": "Golemagg the Incinerator in Molten Core Magmadar in Molten Core"
-        }
-      ]
+     "name": "Helm of Might",
+     "source": "Blacksmithing Onyxia in Onyxia's Lair Garr in Molten Core"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Onyxia Tooth Pendant",
+     "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Medallion of Steadfast Might",
+     "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Back",
-      "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Thorium Shield Spike",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Eskhandar's Collar",
+     "source": "Head of Onyxia in Onyxia's Lair Magmadar in Molten Core Onyxia in Onyxia's Lair"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of Might",
+     "source": "Sulfuron Harbinger in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Shrouded Mists",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
+    },
+    {
+     "name": "Dragon's Blood Cape",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
+    },
+    {
+     "name": "Shifting Cloak",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Elemental Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish in Blackrock Depths Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "Breastplate of Might",
+     "source": "Gorosh the Dervish in Blackrock Depths Golemagg the Incinerator in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Wristguards of True Flight",
+     "source": "Majordomo Executus in Molten Core Molten Core drop BoE"
+    },
+    {
+     "name": "Bracers of Might",
+     "source": "Majordomo Executus in Molten Core Molten Core drop BoE"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Edgemaster's Handguards",
+     "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
+    },
+    {
+     "name": "Aged Core Leather Gloves",
+     "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
+    },
+    {
+     "name": "Gauntlets of Might",
+     "source": "World drop BoE Various Bosses in Molten Core Lucifron in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Onslaught Girdle",
+     "source": "Ragnaros in Molten Core Molten Core drop BoE"
+    },
+    {
+     "name": "Belt of Might",
+     "source": "Ragnaros in Molten Core Molten Core drop BoE"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Cloudkeeper Legplates",
+     "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
+    },
+    {
+     "name": "Legplates of Wrath",
+     "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
+    },
+    {
+     "name": "Legplates of Might",
+     "source": "World drop BoE Ragnaros in Molten Core Magmadar in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of Might",
+     "source": "Gehennas in Molten Core Side bosses in Scholomance"
+    },
+    {
+     "name": "Bloodmail Boots",
+     "source": "Gehennas in Molten Core Side bosses in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Accuria",
+     "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Quick Strike Ring",
+     "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Ragnaros in Molten Core Various Bosses in Molten Core Alterac Valley Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mark of the Chosen",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Hand of Justice",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    },
+    {
+     "name": "Blackhand's Breadth",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    },
+    {
+     "name": "Counterattack Lodestone",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    },
+    {
+     "name": "Vigilance Charm",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    },
+    {
+     "name": "Ramstein's Lightning Bolts",
+     "source": "The Pariah's Instructions in Maraudon General Angerforge in Blackrock Depths General Drakkisath's Demise / For The Horde! Gordok Tribute in Dire Maul North Immol'thar in Dire Maul West Ramstein the Gorger in (side-entrance) Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Quel'Serrar",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Deathbringer",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Vis'kag the Bloodletter",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Empyrean Demolisher",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "High Warlord's Cleaver",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Perdition's Blade",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Core Hound Tooth",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Distracting Dagger",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    },
+    {
+     "name": "Brutality Blade",
+     "source": "Quel'Serrar questline in Dire Maul Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Lord Kazzak Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Majordomo Executus in Molten Core Prince Tortheldrin in Dire Maul West Garr in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "High Warlord's Shield Wall",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    },
+    {
+     "name": "Malistar's Defender",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    },
+    {
+     "name": "Drillborer Disk",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    },
+    {
+     "name": "The Immovable Object",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    },
+    {
+     "name": "Force Reactive Disk",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    },
+    {
+     "name": "Skullflame Shield",
+     "source": "Bought from the PvP Vendor at Rank 14 Ragnaros in Molten Core Alterac Valley Exalted Garr in Molten Core Engineering World drop BoE"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Blastershot Launcher",
+     "source": "Golemagg the Incinerator in Molten Core Magmadar in Molten Core"
+    },
+    {
+     "name": "Striker's Mark",
+     "source": "Golemagg the Incinerator in Molten Core Magmadar in Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Thorium Shield Spike",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

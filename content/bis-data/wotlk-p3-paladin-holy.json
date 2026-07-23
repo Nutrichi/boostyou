@@ -1,240 +1,239 @@
 {
-  "expansion": "wotlk",
-  "phase": "p3",
-  "class": "paladin",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Holy Paladin Healer gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p3",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Holy Paladin Healer gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Liadrin's Headpiece of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Cry of the Val'kyr",
-          "source": "Twin Valkyr — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Liadrin's Spaulders of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Aethas' Intensity",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Chestplate of the Frozen Lake",
-          "source": "Twin Valkyr — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of the Broken Bond",
-          "source": "Faction Champions — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Liadrin's Gloves of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Binding of the Ice Burrower",
-          "source": "Beasts of Northrend — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Failing Light",
-          "source": "Lord Jaraxxus — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of Tremoring Earth",
-          "source": "Faction Champions — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Circle of the Darkmender",
-          "source": "Lord Jaraxxus — Trial of the Crusader Anub'arak — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Lurid Manifestation",
-          "source": "Lord Jaraxxus — Trial of the Crusader Anub'arak — Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Darkmoon Card: Greatness",
-          "source": "Darkmoon Faire Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Meteorite Crystal",
-          "source": "Darkmoon Faire Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Val'anyr, Hammer of Ancient Kings",
-          "source": "Multiple bosses — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Bastion of Resolve",
-          "source": "Faction Champions — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Renewal",
-          "source": "Emblem of Heroism Vendor"
-        }
-      ]
+     "name": "Liadrin's Headpiece of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Exceptional Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Shield — Greater Intellect",
-      "source": "Enchanting"
+     "name": "Cry of the Val'kyr",
+     "source": "Twin Valkyr — Trial of the Crusader"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
-    },
-    {
-      "color": "Red",
-      "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Brilliant King's Amber (+23 Int)"
-    },
-    {
-      "color": "Blue",
-      "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+     "name": "Liadrin's Spaulders of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Aethas' Intensity",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestplate of the Frozen Lake",
+     "source": "Twin Valkyr — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Broken Bond",
+     "source": "Faction Champions — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Liadrin's Gloves of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Binding of the Ice Burrower",
+     "source": "Beasts of Northrend — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Failing Light",
+     "source": "Lord Jaraxxus — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of Tremoring Earth",
+     "source": "Faction Champions — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Circle of the Darkmender",
+     "source": "Lord Jaraxxus — Trial of the Crusader Anub'arak — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Lurid Manifestation",
+     "source": "Lord Jaraxxus — Trial of the Crusader Anub'arak — Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Darkmoon Faire Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Meteorite Crystal",
+     "source": "Darkmoon Faire Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Val'anyr, Hammer of Ancient Kings",
+     "source": "Multiple bosses — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Bastion of Resolve",
+     "source": "Faction Champions — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Renewal",
+     "source": "Emblem of Heroism Vendor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Exceptional Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Brilliant King's Amber (+23 Int)"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+  }
+ ]
 }

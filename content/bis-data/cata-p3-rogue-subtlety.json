@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Subtlety Rogue gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Combat/Assassination/Subtlety each have their own page on the source. Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deft Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Blackfang Battleweave Helmet",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Cameo of Terrible Memories",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Dark Phoenix Spaulders",
+     "source": "Firelands Heroic — Majordomo Staghelm"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreadfire Drape",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Blackfang Battleweave Tunic",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Shadow Wing Armbands",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Dark Phoenix Gloves",
+     "source": "Firelands Heroic — Baleroc"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Flayed Skin",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Blackfang Battleweave Legguards",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Molten Blood Footpads",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of Primordial Shadow",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Grasping Mouths",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Vial of Shadows",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Wrath of Unchaining",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Golad, Twilight of Aspects",
+     "source": "Proving Your Worth"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Tiriosh, Nightmare of Ages",
+     "source": "Proving Your Worth"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Razor Saronite Chip",
+     "source": "Dragon Soul Heroic — Morchok"
+    }
+   ]
+  }
+ ]
+}

@@ -1,258 +1,257 @@
 {
-  "expansion": "classic",
-  "phase": "p1",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p1",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Helmet of Ten Storms",
-          "source": "Onyxia in Onyxia's Lair Cap of the Scarlet Savant"
-        },
-        {
-          "name": "Cap of the Scarlet Savant",
-          "source": "Onyxia in Onyxia's Lair Cap of the Scarlet Savant"
-        }
-      ]
+     "name": "Helmet of Ten Storms",
+     "source": "Onyxia in Onyxia's Lair Cap of the Scarlet Savant"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of the Fire Lord",
-          "source": "Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Deep Earth Spaulders",
-          "source": "Various Bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Sapphiron Drape",
-          "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
-        },
-        {
-          "name": "Spritecaster Cape",
-          "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
-        },
-        {
-          "name": "Deep Woodlands Cloak",
-          "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Robe of Volatile Power",
-          "source": "Various Bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Pyremail Wristguards",
-          "source": "Lord Incendius in Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Earthfury Gauntlets",
-          "source": "Gehennas in Molten Core Quartermaster Zigris in Lower Blackrock Spire"
-        },
-        {
-          "name": "Hands of Power",
-          "source": "Gehennas in Molten Core Quartermaster Zigris in Lower Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Mana Igniting Cord",
-          "source": "Various Bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
-        },
-        {
-          "name": "Ban'thok Sash",
-          "source": "Various Bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Flarecore Leggings",
-          "source": "Tailoring Ragnaros in Molten Core"
-        },
-        {
-          "name": "Legplates of Ten Storms",
-          "source": "Tailoring Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Omnicast Boots",
-          "source": "Golem Lord Argelmach in Blackrock Depths Stonespine in (side-entrance) Stratholme"
-        },
-        {
-          "name": "Verdant Footpads",
-          "source": "Golem Lord Argelmach in Blackrock Depths Stonespine in (side-entrance) Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Spell Power",
-          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Maiden's Circle",
-          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
-        },
-        {
-          "name": "Eye of Orgrimmar",
-          "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Talisman of Ephemeral Power",
-          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Briarwood Reed",
-          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
-        },
-        {
-          "name": "Eye of the Beast",
-          "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand Weapons",
-      "items": [
-        {
-          "name": "Staff of Dominance",
-          "source": "Golemagg the Incinerator in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand Weapons",
-      "items": [
-        {
-          "name": "Aurastone Hammer",
-          "source": "Garr in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hands",
-      "items": [
-        {
-          "name": "Malistar's Defender",
-          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
-        },
-        {
-          "name": "Fire Runed Grimoire",
-          "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
-        }
-      ]
+     "name": "Cap of the Scarlet Savant",
+     "source": "Onyxia in Onyxia's Lair Cap of the Scarlet Savant"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Greater Intellect",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Frost Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Spell Power on DPS weapon",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Greater Stamina",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Choker of the Fire Lord",
+     "source": "Ragnaros in Molten Core"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Deep Earth Spaulders",
+     "source": "Various Bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Sapphiron Drape",
+     "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
+    },
+    {
+     "name": "Spritecaster Cape",
+     "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
+    },
+    {
+     "name": "Deep Woodlands Cloak",
+     "source": "Onyxia in Onyxia's Lair High Interrogator Gerstahn in Blackrock Depths Wanted: Vile Priestess Hexx and Her Minions"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robe of Volatile Power",
+     "source": "Various Bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Pyremail Wristguards",
+     "source": "Lord Incendius in Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Earthfury Gauntlets",
+     "source": "Gehennas in Molten Core Quartermaster Zigris in Lower Blackrock Spire"
+    },
+    {
+     "name": "Hands of Power",
+     "source": "Gehennas in Molten Core Quartermaster Zigris in Lower Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Mana Igniting Cord",
+     "source": "Various Bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Various Bosses in Molten Core Ok'thor the Breaker in Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Flarecore Leggings",
+     "source": "Tailoring Ragnaros in Molten Core"
+    },
+    {
+     "name": "Legplates of Ten Storms",
+     "source": "Tailoring Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Omnicast Boots",
+     "source": "Golem Lord Argelmach in Blackrock Depths Stonespine in (side-entrance) Stratholme"
+    },
+    {
+     "name": "Verdant Footpads",
+     "source": "Golem Lord Argelmach in Blackrock Depths Stonespine in (side-entrance) Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Spell Power",
+     "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Maiden's Circle",
+     "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+    },
+    {
+     "name": "Eye of Orgrimmar",
+     "source": "Various Bosses in Molten Core World drop BoE The Princess Saved? in Orgrimmar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Talisman of Ephemeral Power",
+     "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Briarwood Reed",
+     "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire For The Horde! in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand Weapons",
+   "items": [
+    {
+     "name": "Staff of Dominance",
+     "source": "Golemagg the Incinerator in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand Weapons",
+   "items": [
+    {
+     "name": "Aurastone Hammer",
+     "source": "Garr in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hands",
+   "items": [
+    {
+     "name": "Malistar's Defender",
+     "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+    },
+    {
+     "name": "Fire Runed Grimoire",
+     "source": "Ragnaros in Molten Core Various Bosses in Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Greater Intellect",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Frost Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Spell Power on DPS weapon",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Greater Stamina",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

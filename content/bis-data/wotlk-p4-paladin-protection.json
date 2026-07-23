@@ -1,235 +1,234 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Protection Paladin gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Lightsworn line. Enchants/gems reused across WotLK Str tank specs.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Protection Paladin gear guide (anchor phase-5-tier-10-best-in-slot). Tier set: Sanctified Lightsworn line. Enchants/gems reused across WotLK Str tank specs.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Lightsworn Faceguard (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Bile-Encrusted Medallion",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Boneguard Commander's Pauldrons",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Royal Crimson Cloak",
-          "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanctified Lightsworn Chestguard (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Dark Reckoning",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Sanctified Lightsworn Handguards (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Broken Bones",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sanctified Lightsworn Legguards (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Treads of Impending Resurrection",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Devium's Eternally Cold Ring",
-          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Juggernaut Band",
-          "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Corroded Skeleton Key",
-          "source": "Emblem of Frost Vendor"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Sindragosa's Flawless Fang",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Bloodvenom Blade",
-          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Icecrown Glacial Wall",
-          "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Valiance",
-          "source": "Emblem of Triumph Vendor"
-        }
-      ]
+     "name": "Sanctified Lightsworn Faceguard (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of the Stalwart Protector",
-      "source": "Argent Crusade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Gladiator",
-      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Major Stamina",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Frosthide Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Greater Fortitude",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose",
-      "source": "Enchanting"
+     "name": "Bile-Encrusted Medallion",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
-    },
-    {
-      "color": "Red",
-      "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+     "name": "Boneguard Commander's Pauldrons",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Royal Crimson Cloak",
+     "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanctified Lightsworn Chestguard (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Dark Reckoning",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sanctified Lightsworn Handguards (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Broken Bones",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sanctified Lightsworn Legguards (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of Impending Resurrection",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Devium's Eternally Cold Ring",
+     "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Juggernaut Band",
+     "source": "Icecrown Citadel 25 Heroic — Lady Deathwhisper"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Corroded Skeleton Key",
+     "source": "Emblem of Frost Vendor"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Sindragosa's Flawless Fang",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Bloodvenom Blade",
+     "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Icecrown Glacial Wall",
+     "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Valiance",
+     "source": "Emblem of Triumph Vendor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Greater Fortitude",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+  }
+ ]
 }

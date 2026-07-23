@@ -1,226 +1,225 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "hunter",
-  "spec": "marksmanship",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Marksmanship Hunter Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "hunter",
+ "spec": "marksmanship",
+ "role": "Ranged DPS",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Marksmanship Hunter Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Boundless Gaze",
-          "source": "Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendulum of Infinity",
-          "source": "General Vezax — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of Fiery Vengeance",
-          "source": "Flame Leviathan — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of the Faceless General",
-          "source": "General Vezax — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Embrace of the Gladiator",
-          "source": "Thorim — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Fluxing Energy Coils",
-          "source": "XT-002 Deconstructor — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Steady Hand",
-          "source": "XT-002 Deconstructor — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Betrayed",
-          "source": "Thorim — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legguards of Cunning Deception",
-          "source": "Yogg-Saron — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of Swift Vengeance",
-          "source": "Iron Council — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Brann's Signet Ring",
-          "source": "Quest Item from Algalon the Observer — Ulduar 25m Quest Item from Algalon the Observer — Ulduar 10m"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Brann's Sealing Ring",
-          "source": "Quest Item from Algalon the Observer — Ulduar 25m Quest Item from Algalon the Observer — Ulduar 10m"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mjolnir Runestone",
-          "source": "Thorim — Ulduar Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dark Matter",
-          "source": "Thorim — Ulduar Algalon the Observer — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Melee Weapon",
-      "items": [
-        {
-          "name": "Dreambinder",
-          "source": "Algalon the Observer and Freya — Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged Weapon",
-      "items": [
-        {
-          "name": "Skyforge Crossbow",
-          "source": "Algalon the Observer and Thorim — Ulduar"
-        }
-      ]
+     "name": "Boundless Gaze",
+     "source": "Algalon the Observer — Ulduar"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Superior Agility",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon — Superior Potency",
-      "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
-    },
-    {
-      "slot": "Ranged Weapon",
-      "name": "Heartseeker Scope",
-      "source": "Engineering (crafted scope, usable by all)"
+     "name": "Pendulum of Infinity",
+     "source": "General Vezax — Ulduar"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Cardinal Ruby (+23 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+     "name": "Mantle of Fiery Vengeance",
+     "source": "Flame Leviathan — Ulduar"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Faceless General",
+     "source": "General Vezax — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Embrace of the Gladiator",
+     "source": "Thorim — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Fluxing Energy Coils",
+     "source": "XT-002 Deconstructor — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Steady Hand",
+     "source": "XT-002 Deconstructor — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Betrayed",
+     "source": "Thorim — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legguards of Cunning Deception",
+     "source": "Yogg-Saron — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of Swift Vengeance",
+     "source": "Iron Council — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Brann's Signet Ring",
+     "source": "Quest Item from Algalon the Observer — Ulduar 25m Quest Item from Algalon the Observer — Ulduar 10m"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Brann's Sealing Ring",
+     "source": "Quest Item from Algalon the Observer — Ulduar 25m Quest Item from Algalon the Observer — Ulduar 10m"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mjolnir Runestone",
+     "source": "Thorim — Ulduar Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dark Matter",
+     "source": "Thorim — Ulduar Algalon the Observer — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Weapon",
+   "items": [
+    {
+     "name": "Dreambinder",
+     "source": "Algalon the Observer and Freya — Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Skyforge Crossbow",
+     "source": "Algalon the Observer and Thorim — Ulduar"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Superior Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon — Superior Potency",
+   "source": "Enchanting (Enchant 2H Weapon — Massacre alternative)"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Heartseeker Scope",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — activate with Nightmare Tear)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Cardinal Ruby (+23 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Shifting Dreadstone for extra blue sockets"
+  }
+ ]
 }

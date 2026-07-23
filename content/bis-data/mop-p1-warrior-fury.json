@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "p1",
-  "class": "warrior",
-  "spec": "fury",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Titan's Grip list — two copies of the Shin'ka two-hander (main and off hand). Draft compiled from the Icy Veins MoP Classic Fury Warrior gear guide (Phase 1 & 2 table).",
-  "updated": "2026-07-20",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p1",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Titan's Grip list — two copies of the Shin'ka two-hander (main and off hand). Draft compiled from the Icy Veins MoP Classic Fury Warrior gear guide (Phase 1 & 2 table).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helmet of Resounding Rings (Tier 14)",
-          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Necklace of Congealed Weaknesses",
-          "source": "Heart of Fear Heroic — Garalon"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Shoulderpads of Misshapen Life",
-          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Peacock Feathers",
-          "source": "Mogu'shan Vaults Heroic — Feng the Accursed"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Battleplate of Resounding Rings (Tier 14)",
-          "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Defiled Earth",
-          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gauntlets of Resounding Rings (Tier 14)",
-          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Patroller's Girdle of Endless Spring",
-          "source": "Terrace of Endless Spring Heroic — Tsulong & Lei Shi (shared loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Resounding Rings (Tier 14)",
-          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Jasper Clawfeet",
-          "source": "Mogu'shan Vaults Heroic — The Stone Guard"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Bladed Tempest",
-          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Dread Shadow Ring",
-          "source": "Terrace of Endless Spring Heroic — Tsulong"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Relic of Xuen",
-          "source": "Darkmoon Faire — Tiger Deck (Inscription)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Lei Shen's Final Orders",
-          "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Shin'ka, Execution of Dominion",
-          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Shin'ka, Execution of Dominion (second copy)",
-          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
-        }
-      ]
+     "name": "Helmet of Resounding Rings (Tier 14)",
+     "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
-      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
-      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Super Strength (+170 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Strength (+160 Str)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Necklace of Congealed Weaknesses",
+     "source": "Heart of Fear Heroic — Garalon"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
-    },
-    {
-      "color": "Red",
-      "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Smooth Sun's Radiance (+320 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+     "name": "Shoulderpads of Misshapen Life",
+     "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Peacock Feathers",
+     "source": "Mogu'shan Vaults Heroic — Feng the Accursed"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Battleplate of Resounding Rings (Tier 14)",
+     "source": "Heart of Fear Heroic — Grand Empress Shek'zeer (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Defiled Earth",
+     "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Resounding Rings (Tier 14)",
+     "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Patroller's Girdle of Endless Spring",
+     "source": "Terrace of Endless Spring Heroic — Tsulong & Lei Shi (shared loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Resounding Rings (Tier 14)",
+     "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Jasper Clawfeet",
+     "source": "Mogu'shan Vaults Heroic — The Stone Guard"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Bladed Tempest",
+     "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Dread Shadow Ring",
+     "source": "Terrace of Endless Spring Heroic — Tsulong"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Relic of Xuen",
+     "source": "Darkmoon Faire — Tiger Deck (Inscription)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Lei Shen's Final Orders",
+     "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Shin'ka, Execution of Dominion",
+     "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Shin'ka, Execution of Dominion (second copy)",
+     "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+   "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+   "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Super Strength (+170 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Angerhide Leg Armor (+270 Str / +170 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Strength (+160 Str)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Primal Diamond (+216 Str, 3% increased crit effect)"
+  },
+  {
+   "color": "Red",
+   "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Smooth Sun's Radiance (+320 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Piercing Wild Jade (+160 crit / +160 hit)"
+  }
+ ]
 }

@@ -1,0 +1,351 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "rogue",
+ "spec": "assassination",
+ "role": "Melee DPS",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/rogue/assassination/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). The source lists one ranked one-hand weapon list; top pick stored as Main Hand, remaining ranked options as Off-Hand (site convention). Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  },
+  {
+   "slot": "Melee Weapons",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Sun Scope",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber / Accurate Ametrine / Pristine Ametrine for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Shifting Dreadstone"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Valorous Bonescythe Helmet",
+     "source": "Naxxramas (25) — Crown of the Lost Vanquisher from Kel'Thuzad"
+    },
+    {
+     "name": "Hood of the Exodus",
+     "source": "Naxxramas (25) — Gothik the Harvester"
+    },
+    {
+     "name": "Heroes' Bonescythe Helmet",
+     "source": "Naxxramas (10) — Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Bonescythe Pauldrons",
+     "source": "Naxxramas (25) — Loatheb"
+    },
+    {
+     "name": "Concealment Shoulderpads",
+     "source": "The Obsidian Sanctum (25) — Sartharion"
+    },
+    {
+     "name": "Spaulders of Egotism",
+     "source": "Naxxramas (25) — Instructor Razuvious"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Deadly Foe",
+     "source": "Naxxramas (25) — Kel'Thuzad"
+    },
+    {
+     "name": "Hammerhead Sharkskin Cloak",
+     "source": "Dalaran — Sold by Arcanist Adurin & Magister Brasael for 25 Emblem of Valor"
+    },
+    {
+     "name": "Aged Winter Cloak",
+     "source": "Naxxramas (25) — many bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestguard of the Recluse",
+     "source": "The Eye of Eternity (25) — Malygos"
+    },
+    {
+     "name": "Valorous Bonescythe Breastplate",
+     "source": "Naxxramas (25) — Contained in Four Horsemen Chest"
+    },
+    {
+     "name": "Tunic of Indulgence",
+     "source": "Naxxramas (25) — Grobbulus"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Thrusting Bands",
+     "source": "Naxxramas (25) — Noth the Plaguebringer"
+    },
+    {
+     "name": "Slayer's Bracers",
+     "source": "Sunwell Plateau — Bracers of the Forgotten Vanquisher from Kalecgos, Grand Warlock Alythess, & Lady Sacrolash"
+    },
+    {
+     "name": "Sinner's Bindings",
+     "source": "Naxxramas (25) — Maexxna"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Bonescythe Gauntlets",
+     "source": "The Obsidian Sanctum (25) — Sartharion"
+    },
+    {
+     "name": "Frosted Adroit Handguards",
+     "source": "The Eye of Eternity (25) — Malygos"
+    },
+    {
+     "name": "Dislocating Handguards",
+     "source": "Naxxramas (25) — Grand Widow Faerlina"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Stalk-Skin Belt",
+     "source": "Naxxramas (25) — Heigan the Unclean"
+    },
+    {
+     "name": "Slayer's Belt",
+     "source": "Sunwell Plateau — Belt of the Forgotten Vanquisher from Brutallus, Grand Warlock Alythess, & Lady Sacrolash"
+    },
+    {
+     "name": "Jorach's Crocolisk Skin Belt",
+     "source": "Dalaran — Sold by Arcanist Ivrenne & Magistrix Lambriesse for 40 Emblem of Heroism"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Honored",
+     "source": "The Obsidian Sanctum (25) — Sartharion"
+    },
+    {
+     "name": "Leggings of Discord",
+     "source": "Naxxramas (10) — Maexxna"
+    },
+    {
+     "name": "Infectious Skitterer Leggings",
+     "source": "Naxxramas (25) — Maexxna"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Dawnwalkers",
+     "source": "Naxxramas (25) — Anub'Rekhan"
+    },
+    {
+     "name": "Footwraps of Vile Deceit",
+     "source": "Naxxramas (25) — Loatheb"
+    },
+    {
+     "name": "Boots of Captain Ellis",
+     "source": "Naxxramas (25) — Sold by Arcanist Adurin & Magister Brasael for 40 Emblem of Valor"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Favor of the Dragon Queen",
+     "source": "The Eye of Eternity (25) / Naxxramas (25) — Reward from Heroic Judgment at the Eye of Eternity / Heroic Key to the Focusing Iris from Sapphiron"
+    },
+    {
+     "name": "Icy Blast Amulet",
+     "source": "Naxxramas (25) — Anub'Rekhan"
+    },
+    {
+     "name": "Collar of Dissolution",
+     "source": "Naxxramas (10) — Anub'Rekhan"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Surge Needle Ring",
+     "source": "The Eye of Eternity (10) — Malygos"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Invincibility",
+     "source": "Naxxramas (25) — Sold by Arcanist Adurin & Magister Brasael for 25 Emblem of Valor"
+    },
+    {
+     "name": "Strong-Handed Ring",
+     "source": "Naxxramas (25) — many bosses"
+    },
+    {
+     "name": "Hemorrhaging Circle",
+     "source": "Gundrak (H) — Gal'darah"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Reward from Darkmoon Nobles Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mirror of Truth",
+     "source": "Sold by Arcanist Ivrenne & Magistrix Lambriesse for 40 Emblem of Heroism"
+    },
+    {
+     "name": "Fury of the Five Flights",
+     "source": "The Obsidian Sanctum (25) — Sartharion"
+    },
+    {
+     "name": "Mark of Norgannon",
+     "source": "The Eye of Eternity (25) — Malygos"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Sinister Revenge",
+     "source": "Naxxramas (25) — Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Webbed Death",
+     "source": "Naxxramas (25) — Anub'Rekhan"
+    },
+    {
+     "name": "Twilight Mist",
+     "source": "Naxxramas (25) — Grobbulus"
+    },
+    {
+     "name": "Murder",
+     "source": "Naxxramas (25) — Sapphiron"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Envoy of Mortality",
+     "source": "Naxxramas (25) — Kel'Thuzad"
+    },
+    {
+     "name": "Spinning Fate",
+     "source": "Naxxramas (25) — Noth the Plaguebringer"
+    },
+    {
+     "name": "Final Voyage",
+     "source": "Naxxramas (25) — Contained in Four Horsemen Chest"
+    }
+   ]
+  }
+ ]
+}

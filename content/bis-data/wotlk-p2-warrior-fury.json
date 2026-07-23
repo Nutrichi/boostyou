@@ -1,240 +1,239 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "warrior",
-  "spec": "fury",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Fury Warrior Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Fury Warrior Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Helmet",
-          "source": "Thorim — Ulduar 25-Man 58 x Emblems of Conquest"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Frigid Strength of Hodir",
-          "source": "Hodir HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Shoulderplates",
-          "source": "Yogg-Saron — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of the Faceless General",
-          "source": "General Vezax HM — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Battleplate",
-          "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Armbands of Bedlam",
-          "source": "Mimiron HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Gauntlets",
-          "source": "Mimiron — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Colossal Rage",
-          "source": "Steelbreaker HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Plated Leggings of Ruination",
-          "source": "Flame Leviathan HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of Lifeless Night",
-          "source": "Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Brann's Signet Ring",
-          "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man Yogg-Saron HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Seal of the Betrayed King",
-          "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man Yogg-Saron HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mjolnir Runestone",
-          "source": "Thorim — Ulduar 10-Man Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Comet's Trail",
-          "source": "Thorim — Ulduar 10-Man Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand Weapon",
-      "items": [
-        {
-          "name": "Voldrethar, Dark Blade of Oblivion",
-          "source": "General Vezax HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand Weapon",
-      "items": [
-        {
-          "name": "Voldrethar, Dark Blade of Oblivion",
-          "source": "General Vezax HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Twirling Blades",
-          "source": "Flame Leviathan HM — Ulduar 10-Man"
-        }
-      ]
+     "name": "Conqueror's Siegebreaker Helmet",
+     "source": "Thorim — Ulduar 25-Man 58 x Emblems of Conquest"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Berserking (both weapons)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Frigid Strength of Hodir",
+     "source": "Hodir HM — Ulduar 25-Man"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
-    },
-    {
-      "color": "Red",
-      "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (activates the meta gem by itself)"
+     "name": "Conqueror's Siegebreaker Shoulderplates",
+     "source": "Yogg-Saron — Ulduar 25-Man"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Faceless General",
+     "source": "General Vezax HM — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Conqueror's Siegebreaker Battleplate",
+     "source": "Hodir — Ulduar 25-Man 58 x Emblems of Conquest"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Armbands of Bedlam",
+     "source": "Mimiron HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Conqueror's Siegebreaker Gauntlets",
+     "source": "Mimiron — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Colossal Rage",
+     "source": "Steelbreaker HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Plated Leggings of Ruination",
+     "source": "Flame Leviathan HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of Lifeless Night",
+     "source": "Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Brann's Signet Ring",
+     "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man Yogg-Saron HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Seal of the Betrayed King",
+     "source": "Heroic: All Is Well That Ends Well quest reward — Ulduar 25-Man Yogg-Saron HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mjolnir Runestone",
+     "source": "Thorim — Ulduar 10-Man Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Comet's Trail",
+     "source": "Thorim — Ulduar 10-Man Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand Weapon",
+   "items": [
+    {
+     "name": "Voldrethar, Dark Blade of Oblivion",
+     "source": "General Vezax HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand Weapon",
+   "items": [
+    {
+     "name": "Voldrethar, Dark Blade of Oblivion",
+     "source": "General Vezax HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Twirling Blades",
+     "source": "Flame Leviathan HM — Ulduar 10-Man"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Berserking (both weapons)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
+  },
+  {
+   "color": "Red",
+   "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (activates the meta gem by itself)"
+  }
+ ]
 }

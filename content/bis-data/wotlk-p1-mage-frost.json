@@ -1,386 +1,385 @@
 {
-  "expansion": "wotlk",
-  "phase": "p1",
-  "class": "mage",
-  "spec": "frost",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Frost Mage Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "mage",
+ "spec": "frost",
+ "role": "Ranged DPS",
+ "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Frost Mage Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Valorous Frostfire Circlet",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        },
-        {
-          "name": "Chaotic Skyflare Diamond",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        },
-        {
-          "name": "Hood of Rationality",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        },
-        {
-          "name": "Chaotic Skyflare Diamond",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
-        }
-      ]
+     "name": "Valorous Frostfire Circlet",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Wyrmrest Necklace of Power",
-          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
-        },
-        {
-          "name": "Purified Twilight Opal",
-          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
-        },
-        {
-          "name": "Chain of the Ancient Wyrm",
-          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
-        },
-        {
-          "name": "Purified Twilight Opal",
-          "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
-        }
-      ]
+     "name": "Chaotic Skyflare Diamond",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Valorous Frostfire Shoulderpads",
-          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
-        },
-        {
-          "name": "Reckless Monarch Topaz",
-          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
-        },
-        {
-          "name": "Mantle of the Corrupted",
-          "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
+     "name": "Runed Scarlet Ruby",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     },
     {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Pennant Cloak",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
-        },
-        {
-          "name": "Purified Twilight Opal",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
-        },
-        {
-          "name": "Disguise of the Kumiho",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
-        }
-      ]
+     "name": "Hood of Rationality",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     },
     {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Valorous Frostfire Robe",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Reckless Monarch Topaz",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "The Sanctum's Flowing Vestments",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Purified Twilight Opal",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Heigan's Putrid Vestments",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Purified Twilight Opal",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        },
-        {
-          "name": "Reckless Monarch Topaz",
-          "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
-        }
-      ]
+     "name": "Chaotic Skyflare Diamond",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     },
     {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Unsullied Cuffs",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
-        },
-        {
-          "name": "Bindings of the Expansive Mind",
-          "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Valorous Frostfire Gloves",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Leash of Heedless Magic",
-          "source": "Malygos — Eye of Eternity 25-Man Thaddius — Naxxramas 25-Man"
-        },
-        {
-          "name": "Cincture of Polarity",
-          "source": "Malygos — Eye of Eternity 25-Man Thaddius — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Wanton Spellcaster",
-          "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
-        },
-        {
-          "name": "Valorous Frostfire Leggings",
-          "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
-        },
-        {
-          "name": "Runed Scarlet Ruby",
-          "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
-        },
-        {
-          "name": "Reckless Monarch Topaz",
-          "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Arcanic Tramplers",
-          "source": "Malygos — Eye of Eternity 25-Man Loatheb — Naxxramas 25-Man"
-        },
-        {
-          "name": "Boots of Impetuous Ideals",
-          "source": "Malygos — Eye of Eternity 25-Man Loatheb — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Channeled Magic",
-          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Signet of Manifested Pain",
-          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
-        },
-        {
-          "name": "Signet of the Kirin Tor",
-          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
-        },
-        {
-          "name": "Lost Jewel",
-          "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Dying Curse",
-          "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Embrace of the Spider",
-          "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
-        },
-        {
-          "name": "Illustration of the Dragon Soul",
-          "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "The Turning Tide",
-          "source": "Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "The Turning Tide",
-          "source": "Kel'Thuzad — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Matriarch's Spawn",
-          "source": "Gluth — Naxxramas 25-Man Patchwerk — Naxxramas 25-Man"
-        },
-        {
-          "name": "Surplus Limb",
-          "source": "Gluth — Naxxramas 25-Man Patchwerk — Naxxramas 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Wand of the Archlich",
-          "source": "Kel'Thuzad — Naxxramas 10-Man Anub'Rekhan — Naxxramas 25-Man"
-        },
-        {
-          "name": "Gemmed Wand of the Nerubians",
-          "source": "Kel'Thuzad — Naxxramas 10-Man Anub'Rekhan — Naxxramas 25-Man"
-        }
-      ]
+     "name": "Runed Scarlet Ruby",
+     "source": "Kel'Thuzad — Naxxramas 25-Man Malygos — Eye of Eternity 25-Man"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
+     "name": "Wyrmrest Necklace of Power",
+     "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted"
+     "name": "Purified Twilight Opal",
+     "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
+     "name": "Chain of the Ancient Wyrm",
+     "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
     },
     {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Exceptional Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Off-Hand — Major Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Purified Twilight Opal",
+     "source": "Heroic Judgment at the Eye of Eternity quest reward — Eye of Eternity 25-Man Judgment at the Eye of Eternity quest reward — Eye of Eternity 10-Man"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 crit, +3% crit damage — requires two blue/purple/green gems)"
+     "name": "Valorous Frostfire Shoulderpads",
+     "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
     },
     {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare); Runed Dragon's Eye/Stormjewel for jewelcrafters"
+     "name": "Reckless Monarch Topaz",
+     "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
     },
     {
-      "color": "Orange/Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit) if hit-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+     "name": "Mantle of the Corrupted",
+     "source": "Multiple Bosses, Emblem Vendors (60 Emblem of Valor ) — Naxxramas 25-Man, Dalaran Multiple Bosses — Naxxramas 25-Man"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Pennant Cloak",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
+    },
+    {
+     "name": "Purified Twilight Opal",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
+    },
+    {
+     "name": "Disguise of the Kumiho",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Emblem Vendors (25 Emblem of Valor ) — Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Frostfire Robe",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Runed Scarlet Ruby",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Reckless Monarch Topaz",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "The Sanctum's Flowing Vestments",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Runed Scarlet Ruby",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Purified Twilight Opal",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Heigan's Putrid Vestments",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Purified Twilight Opal",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    },
+    {
+     "name": "Reckless Monarch Topaz",
+     "source": "Gluth — Naxxramas 25-Man Sartharion — Obsidian Sanctum 25-Man Heigan the Unclean — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Unsullied Cuffs",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
+    },
+    {
+     "name": "Runed Scarlet Ruby",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
+    },
+    {
+     "name": "Bindings of the Expansive Mind",
+     "source": "Sartharion — Obsidian Sanctum 25-Man Instructor Razuvious — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Frostfire Gloves",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    },
+    {
+     "name": "Runed Scarlet Ruby",
+     "source": "Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Leash of Heedless Magic",
+     "source": "Malygos — Eye of Eternity 25-Man Thaddius — Naxxramas 25-Man"
+    },
+    {
+     "name": "Cincture of Polarity",
+     "source": "Malygos — Eye of Eternity 25-Man Thaddius — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Wanton Spellcaster",
+     "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+    },
+    {
+     "name": "Valorous Frostfire Leggings",
+     "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+    },
+    {
+     "name": "Runed Scarlet Ruby",
+     "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+    },
+    {
+     "name": "Reckless Monarch Topaz",
+     "source": "Malygos — Eye of Eternity 25-Man Multiple Bosses, Emblem Vendors (75 Emblem of Valor ) — Naxxramas 25-Man, Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Arcanic Tramplers",
+     "source": "Malygos — Eye of Eternity 25-Man Loatheb — Naxxramas 25-Man"
+    },
+    {
+     "name": "Boots of Impetuous Ideals",
+     "source": "Malygos — Eye of Eternity 25-Man Loatheb — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Channeled Magic",
+     "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Manifested Pain",
+     "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
+    },
+    {
+     "name": "Signet of the Kirin Tor",
+     "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
+    },
+    {
+     "name": "Lost Jewel",
+     "source": "Emblem Vendors (25 Emblem of Valor ) — Dalaran Kel'Thuzad — Naxxramas 25-Man Harold Winston (8,075 ) — Dalaran Multiple Bosses — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Dying Curse",
+     "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Embrace of the Spider",
+     "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
+    },
+    {
+     "name": "Illustration of the Dragon Soul",
+     "source": "Multiple Bosses — Naxxramas 25-Man Maexxna — Naxxramas 10-Man Sartharion — Obsidian Sanctum 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "The Turning Tide",
+     "source": "Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "The Turning Tide",
+     "source": "Kel'Thuzad — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Matriarch's Spawn",
+     "source": "Gluth — Naxxramas 25-Man Patchwerk — Naxxramas 25-Man"
+    },
+    {
+     "name": "Surplus Limb",
+     "source": "Gluth — Naxxramas 25-Man Patchwerk — Naxxramas 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Wand of the Archlich",
+     "source": "Kel'Thuzad — Naxxramas 10-Man Anub'Rekhan — Naxxramas 25-Man"
+    },
+    {
+     "name": "Gemmed Wand of the Nerubians",
+     "source": "Kel'Thuzad — Naxxramas 10-Man Anub'Rekhan — Naxxramas 25-Man"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Exceptional Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand — Major Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 crit, +3% crit damage — requires two blue/purple/green gems)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare); Runed Dragon's Eye/Stormjewel for jewelcrafters"
+  },
+  {
+   "color": "Orange/Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit) if hit-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+  }
+ ]
 }

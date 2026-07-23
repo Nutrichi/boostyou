@@ -1,209 +1,208 @@
 {
-  "expansion": "classic",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Protection Paladin Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Gyth's Skull",
-          "source": "Gyth Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Medallion of Grand Marshal Morris",
-          "source": "BoE World Drop"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Stockade Pauldrons",
-          "source": "BoE World Drop"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Stoneskin Gargoyle Cape",
-          "source": "Stonespine Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Deathbone Chestplate",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Runed Golem Shackles",
-          "source": "BoE World Drop"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Deathbone Gauntlets",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Deathbone Girdle",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Deathbone Legguards",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Deathbone Sabatons",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Naglering",
-          "source": "Golem Lord Argelmach Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Drakeclaw Band",
-          "source": "Dragons Sunken Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Force of Will",
-          "source": "General Angerforge Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Demon's Blood",
-          "source": "You Are Rakh'likh, Demon"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Arbiter's Blade",
-          "source": "Warder Stilgiss Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Draconian Deflector",
-          "source": "General Drakkisath Upper Blackrock Spire"
-        }
-      ]
+     "name": "Gyth's Skull",
+     "source": "Gyth Upper Blackrock Spire"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Superior Defense",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Deflection",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Core Armor Kit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon - Spell Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Greater Stamina",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Medallion of Grand Marshal Morris",
+     "source": "BoE World Drop"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Stockade Pauldrons",
+     "source": "BoE World Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Stoneskin Gargoyle Cape",
+     "source": "Stonespine Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Deathbone Chestplate",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Runed Golem Shackles",
+     "source": "BoE World Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Deathbone Gauntlets",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Deathbone Girdle",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Deathbone Legguards",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Deathbone Sabatons",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Naglering",
+     "source": "Golem Lord Argelmach Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Drakeclaw Band",
+     "source": "Dragons Sunken Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Force of Will",
+     "source": "General Angerforge Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Demon's Blood",
+     "source": "You Are Rakh'likh, Demon"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Arbiter's Blade",
+     "source": "Warder Stilgiss Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Draconian Deflector",
+     "source": "General Drakkisath Upper Blackrock Spire"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Superior Defense",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Deflection",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Syncretist's Sigil — from the quest Syncretist's Sigil from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Core Armor Kit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon - Spell Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Greater Stamina",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

@@ -1,213 +1,212 @@
 {
-  "expansion": "classic",
-  "phase": "p5",
-  "class": "druid",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p5",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Deviate Growth Cap",
-          "source": "The Dragon world boss Lethon"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of the Fallen God",
-          "source": "Reward from turning in the eye that drops from C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Wild Growth Spaulders",
-          "source": "Majordomo Executus in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Clarity",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Robes of the Guardian Saint",
-          "source": "Fankriss The Unyielding in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracelets of Royal Redemption",
-          "source": "Emperor Vek'nilash in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Wasphide Gauntlets",
-          "source": "Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Grasp of the Old God",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Empowered Leggings",
-          "source": "Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Pure Thought",
-          "source": "Trash BoE in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Pure Elementium Band",
-          "source": "Nefarian in Blackwing Lair Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of the Martyr",
-          "source": "Nefarian in Blackwing Lair Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Rejuvenating Gem",
-          "source": "The three drakes in Blackwing Lair The Dragon world boss Ysondre"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Hibernation Crystal",
-          "source": "The three drakes in Blackwing Lair The Dragon world boss Ysondre"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "Scepter of the False Prophet",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hands",
-      "items": [
-        {
-          "name": "Sartura's Might",
-          "source": "Battleguard Sartura in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Idols",
-      "items": [
-        {
-          "name": "Idol of Health",
-          "source": "Viscidus in AQ40"
-        }
-      ]
+     "name": "Deviate Growth Cap",
+     "source": "The Dragon world boss Lethon"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Amulet of the Fallen God",
+     "source": "Reward from turning in the eye that drops from C'Thun in AQ40"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wild Growth Spaulders",
+     "source": "Majordomo Executus in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Clarity",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of the Guardian Saint",
+     "source": "Fankriss The Unyielding in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracelets of Royal Redemption",
+     "source": "Emperor Vek'nilash in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Wasphide Gauntlets",
+     "source": "Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Grasp of the Old God",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Empowered Leggings",
+     "source": "Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Pure Thought",
+     "source": "Trash BoE in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Pure Elementium Band",
+     "source": "Nefarian in Blackwing Lair Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of the Martyr",
+     "source": "Nefarian in Blackwing Lair Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Rejuvenating Gem",
+     "source": "The three drakes in Blackwing Lair The Dragon world boss Ysondre"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Hibernation Crystal",
+     "source": "The three drakes in Blackwing Lair The Dragon world boss Ysondre"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Scepter of the False Prophet",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hands",
+   "items": [
+    {
+     "name": "Sartura's Might",
+     "source": "Battleguard Sartura in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Idols",
+   "items": [
+    {
+     "name": "Idol of Health",
+     "source": "Viscidus in AQ40"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

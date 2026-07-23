@@ -87,7 +87,14 @@ STYLE = """
     .crumbs a { color: #60a5fa; text-decoration: none; }
     h1 { font-size: 1.9rem; font-weight: 900; color: #f1f5f9; line-height: 1.25; margin-bottom: 0.5rem; }
     .meta-line { color: #94a3b8; font-size: 0.95rem; margin-bottom: 1rem; }
-    .draft-badge { display: inline-block; background: rgba(251, 191, 36, 0.15); color: #fbbf24; border: 1px solid rgba(251, 191, 36, 0.4); border-radius: 0.4rem; padding: 0.1rem 0.55rem; font-size: 0.8rem; font-weight: 700; }
+    .bis-info-wrap { position: relative; display: inline-block; }
+    .bis-info { display: inline-flex; align-items: center; justify-content: center; width: 1.05rem; height: 1.05rem; border-radius: 50%; border: 1px solid rgba(148, 163, 184, 0.5); background: rgba(148, 163, 184, 0.12); color: #94a3b8; font-size: 0.68rem; font-weight: 800; font-style: italic; font-family: Georgia, serif; line-height: 1; cursor: pointer; padding: 0; vertical-align: text-bottom; }
+    .bis-info:hover, .bis-info:focus-visible { border-color: #3b82f6; color: #60a5fa; }
+    .bis-info-pop { display: none; position: absolute; bottom: calc(100% + 8px); left: 50%; transform: translateX(-50%); width: 230px; background: rgb(30, 41, 59); border: 1px solid rgba(148, 163, 184, 0.35); border-radius: 0.6rem; padding: 0.6rem 0.8rem; color: #cbd5e1; font-size: 0.82rem; font-weight: 400; line-height: 1.45; text-align: left; box-shadow: 0 12px 28px -10px rgba(0, 0, 0, 0.7); z-index: 50; }
+    .bis-info-pop::after { content: ''; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); border: 6px solid transparent; border-top-color: rgba(148, 163, 184, 0.35); }
+    .bis-info-pop a { color: #60a5fa; text-decoration: none; font-weight: 700; }
+    .bis-info-pop a:hover { text-decoration: underline; }
+    .bis-info-wrap:hover .bis-info-pop, .bis-info-wrap:focus-within .bis-info-pop { display: block; }
     .notes { background: rgba(59, 130, 246, 0.08); border-left: 3px solid #3b82f6; border-radius: 0 0.5rem 0.5rem 0; padding: 0.9rem 1.1rem; margin: 1.25rem 0; color: #cbd5e1; font-size: 0.95rem; }
     .app-link { display: inline-block; margin: 0.25rem 0 1.5rem; color: #60a5fa; font-weight: 600; text-decoration: none; }
     .app-link:hover { text-decoration: underline; }
@@ -189,8 +196,10 @@ def render_list_page(d, key, all_keys):
     out.append(f'<div class="crumbs"><a href="../index.html">Home</a> › <a href="bis-all.html">BiS Lists</a> › '
                f'{esc(exp_label)} · {esc(phase_label.split(" — ")[0])} › {esc(spec)} {esc(cls)}</div>')
     out.append(f"<h1>{esc(spec)} {esc(cls)} Best in Slot — {esc(exp_label)}, {esc(phase_label)}</h1>")
-    badge = ' <span class="draft-badge">Draft — being verified</span>' if d.get("status") == "draft" else ""
-    out.append(f'<p class="meta-line">{esc(d.get("role", ""))} · Updated {esc(d.get("updated", ""))}{badge}</p>')
+    info = (' <span class="bis-info-wrap"><button type="button" class="bis-info" aria-label="Report a mistake in this list">i</button>'
+            '<span class="bis-info-pop" role="tooltip">Spotted a mistake in this BiS list? Email '
+            '<a href="mailto:bis@boostyou.ai">bis@boostyou.ai</a> and we&#39;ll look into it.</span></span>')
+    out.append(f'<p class="meta-line">{esc(d.get("role", ""))} · Updated {esc(d.get("updated", ""))}{info}</p>')
     if d.get("notes"):
         out.append(f'<div class="notes">{esc(d["notes"])}</div>')
     out.append(f'<a class="app-link" href="{esc(hash_url)}">Open in the interactive BiS browser →</a>')
@@ -260,8 +269,7 @@ def render_hub(entries):
         out.append(f'<div class="hub-group"><h2>{esc(exp_label)} — {esc(phase_label)}</h2><ul class="hub-list">')
         for key, d in sorted(items, key=lambda kd: (kd[1]["class"], kd[1]["spec"])):
             label = f"{spec_label(d['spec'])} {CLASS_LABELS[d['class']]}"
-            draft = " (draft)" if d.get("status") == "draft" else ""
-            out.append(f'<li><a href="bis-{key}.html">{esc(label)}</a>{draft}</li>')
+            out.append(f'<li><a href="bis-{key}.html">{esc(label)}</a></li>')
         out.append("</ul></div>")
     out.append('<div class="cta-wrap"><div class="newsletter-cta" '
                'data-heading="New BiS lists, straight to your inbox" '

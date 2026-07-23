@@ -1,294 +1,293 @@
 {
-  "expansion": "classic",
-  "phase": "p5",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p5",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Conqueror's Crown",
-          "source": "The Twin Emperors in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Mark of C'Thun",
-          "source": "C'Thun in AQ40 Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Onyxia Tooth Pendant",
-          "source": "C'Thun in AQ40 Onyxia in Onyxia's Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of the Unrelenting",
-          "source": "Fankriss The Unyielding in AQ40 Viscidus or Princess Huhuran in AQ40"
-        },
-        {
-          "name": "Conqueror's Spaulders",
-          "source": "Fankriss The Unyielding in AQ40 Viscidus or Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Golden Hive",
-          "source": "Princess Huhuran in AQ40 C'Thun in AQ40"
-        },
-        {
-          "name": "Cloak of the Fallen God",
-          "source": "Princess Huhuran in AQ40 C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Conqueror's Breastplate",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracelets of Wrath",
-          "source": "Razorgore the Untamed in Blackwing Lair Princess Huhuran in AQ40"
-        },
-        {
-          "name": "Hive Defiler Wristguards",
-          "source": "Razorgore the Untamed in Blackwing Lair Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Edgemaster's Handguards",
-          "source": "World drop BoE Battleguard Sartura in AQ40"
-        },
-        {
-          "name": "Gauntlets of Steadfast Determination",
-          "source": "World drop BoE Battleguard Sartura in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Royal Qiraji Belt",
-          "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
-        },
-        {
-          "name": "Onslaught Girdle",
-          "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Wrath",
-          "source": "Ragnaros in Molten Core Ouro in AQ40"
-        },
-        {
-          "name": "Conqueror's Legguards",
-          "source": "Ragnaros in Molten Core Ouro in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Conqueror's Greaves",
-          "source": "Viscidus or Princess Huhuran in AQ40 Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Chromatic Boots",
-          "source": "Viscidus or Princess Huhuran in AQ40 Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Emperor Vek'lor",
-          "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Angelista's Touch",
-          "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
-        },
-        {
-          "name": "Signet Ring of the Bronze Dragonflight",
-          "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
-        },
-        {
-          "name": "Band of Accuria",
-          "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Lifegiving Gem",
-          "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Styleen's Impeding Scarab",
-          "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        },
-        {
-          "name": "Earthstrike",
-          "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        },
-        {
-          "name": "Diamond Flask",
-          "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        },
-        {
-          "name": "Drake Fang Talisman",
-          "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand",
-      "items": [
-        {
-          "name": "Thunderfury, Blessed Blade of the Windseeker",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Death's Sting",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Chromatically Tempered Sword",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Ancient Qiraji Ripper",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Blessed Qiraji War Axe",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Blessed Qiraji Pugio",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        },
-        {
-          "name": "Crul'shorukh, Edge of Chaos",
-          "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Blessed Qiraji Bulwark",
-          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Crossbow of Imminent Doom",
-          "source": "Ossirian the Unscarred in AQ20"
-        }
-      ]
+     "name": "Conqueror's Crown",
+     "source": "The Twin Emperors in AQ40"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Mark of C'Thun",
+     "source": "C'Thun in AQ40 Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Thorium Shield Spike",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Onyxia Tooth Pendant",
+     "source": "C'Thun in AQ40 Onyxia in Onyxia's Lair"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of the Unrelenting",
+     "source": "Fankriss The Unyielding in AQ40 Viscidus or Princess Huhuran in AQ40"
+    },
+    {
+     "name": "Conqueror's Spaulders",
+     "source": "Fankriss The Unyielding in AQ40 Viscidus or Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Golden Hive",
+     "source": "Princess Huhuran in AQ40 C'Thun in AQ40"
+    },
+    {
+     "name": "Cloak of the Fallen God",
+     "source": "Princess Huhuran in AQ40 C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Conqueror's Breastplate",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracelets of Wrath",
+     "source": "Razorgore the Untamed in Blackwing Lair Princess Huhuran in AQ40"
+    },
+    {
+     "name": "Hive Defiler Wristguards",
+     "source": "Razorgore the Untamed in Blackwing Lair Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Edgemaster's Handguards",
+     "source": "World drop BoE Battleguard Sartura in AQ40"
+    },
+    {
+     "name": "Gauntlets of Steadfast Determination",
+     "source": "World drop BoE Battleguard Sartura in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Royal Qiraji Belt",
+     "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
+    },
+    {
+     "name": "Onslaught Girdle",
+     "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Wrath",
+     "source": "Ragnaros in Molten Core Ouro in AQ40"
+    },
+    {
+     "name": "Conqueror's Legguards",
+     "source": "Ragnaros in Molten Core Ouro in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Conqueror's Greaves",
+     "source": "Viscidus or Princess Huhuran in AQ40 Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Chromatic Boots",
+     "source": "Viscidus or Princess Huhuran in AQ40 Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Emperor Vek'lor",
+     "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Angelista's Touch",
+     "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
+    },
+    {
+     "name": "Signet Ring of the Bronze Dragonflight",
+     "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
+    },
+    {
+     "name": "Band of Accuria",
+     "source": "The Twin Emperors in AQ40 Silithid Royalty in AQ40 Brood of Nozdormu Exalted Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Lifegiving Gem",
+     "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Styleen's Impeding Scarab",
+     "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    },
+    {
+     "name": "Earthstrike",
+     "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    },
+    {
+     "name": "Diamond Flask",
+     "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    },
+    {
+     "name": "Drake Fang Talisman",
+     "source": "Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Thunderfury, Blessed Blade of the Windseeker",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Death's Sting",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Chromatically Tempered Sword",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Ancient Qiraji Ripper",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Blessed Qiraji War Axe",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Blessed Qiraji Pugio",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    },
+    {
+     "name": "Crul'shorukh, Edge of Chaos",
+     "source": "Thunderfury questline C'Thun in AQ40 Chromaggus in Blackwing Lair Fankriss The Unyielding in AQ40 Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Blessed Qiraji Bulwark",
+     "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Crossbow of Imminent Doom",
+     "source": "Ossirian the Unscarred in AQ20"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Thorium Shield Spike",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

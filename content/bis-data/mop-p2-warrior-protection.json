@@ -1,231 +1,230 @@
 {
-  "expansion": "mop",
-  "phase": "p2",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 2 / Tier 15 (Throne of Thunder) reforge-optimized \"Balanced\" list from the Icy Veins MoP Classic Protection Warrior gear guide (anchor phase-3-and-4-balanced — Icy Veins numbers ToT as their Phase 3 & 4). No tier-set pieces appear in this table; Icy Veins' balanced profile favors standalone boss drops over the 5-piece set bonus for this spec. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 2 / Tier 15 (Throne of Thunder) reforge-optimized \"Balanced\" list from the Icy Veins MoP Classic Protection Warrior gear guide (anchor phase-3-and-4-balanced — Icy Veins numbers ToT as their Phase 3 & 4). No tier-set pieces appear in this table; Icy Veins' balanced profile favors standalone boss drops over the 5-piece set bonus for this spec. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list — same items across MoP raid content.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Puncture-Proof Greathelm",
-          "source": "Throne of Thunder Heroic — Horridon"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Moonjade Necklace",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Metabolically Boosted Shoulderplates",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "White Snow Skycloak",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Planet-Birthed Cuirass",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Shell-Coated Wristplates",
-          "source": "Throne of Thunder Heroic — Tortos"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Egg-Shard Grips",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Plated Toothbreaker Girdle",
-          "source": "Throne of Thunder Heroic — Megaera"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Black Blood Legplates",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sabatons of the Superior Being",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Durumu's Severed Tentacle",
-          "source": "Throne of Thunder Heroic — Durumu the Forgotten"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ra-den's Contemplative Loop",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Gaze of the Twins",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Soul Barrier",
-          "source": "Throne of Thunder Heroic — Lei Shen"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Acid-Spine Bonemace",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Visage of the Doomed",
-          "source": "Throne of Thunder Heroic — Horridon"
-        }
-      ]
+     "name": "Puncture-Proof Greathelm",
+     "source": "Throne of Thunder Heroic — Horridon"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
-      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Protection (+200 armor)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Major Dodge (+170 dodge)",
-      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — River's Song",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield — Greater Parry (+170 parry)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Moonjade Necklace",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
-    },
-    {
-      "color": "Red",
-      "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
-    },
-    {
-      "color": "Blue",
-      "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+     "name": "Metabolically Boosted Shoulderplates",
+     "source": "Throne of Thunder Heroic — Primordius"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "White Snow Skycloak",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Planet-Birthed Cuirass",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Shell-Coated Wristplates",
+     "source": "Throne of Thunder Heroic — Tortos"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Egg-Shard Grips",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Plated Toothbreaker Girdle",
+     "source": "Throne of Thunder Heroic — Megaera"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Black Blood Legplates",
+     "source": "Throne of Thunder Heroic — Primordius"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of the Superior Being",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Durumu's Severed Tentacle",
+     "source": "Throne of Thunder Heroic — Durumu the Forgotten"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ra-den's Contemplative Loop",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Gaze of the Twins",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Soul Barrier",
+     "source": "Throne of Thunder Heroic — Lei Shen"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Acid-Spine Bonemace",
+     "source": "Throne of Thunder Heroic — Primordius"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Visage of the Doomed",
+     "source": "Throne of Thunder Heroic — Horridon"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+   "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Protection (+200 armor)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Major Dodge (+170 dodge)",
+   "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — River's Song",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield — Greater Parry (+170 parry)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
+  },
+  {
+   "color": "Red",
+   "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
+  },
+  {
+   "color": "Blue",
+   "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+  }
+ ]
 }

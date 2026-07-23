@@ -1,0 +1,219 @@
+{
+ "expansion": "cata",
+ "phase": "p2",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Tier 12 (Firelands, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Unholy Death Knight gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fierce Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Elementium Deathplate Helmet",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Necklace of Fetishes",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Elementium Deathplate Pauldrons",
+     "source": "Firelands Heroic — Majordomo Staghelm"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Glittering Epidermis",
+     "source": "Bastion of Twilight Heroic — Ascendant Council"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Elementium Deathplate Breastplate",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Earthcrack Bracers",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Elementium Deathplate Gauntlets",
+     "source": "Firelands Heroic — Baleroc"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cinch of the Flaming Ember",
+     "source": "Avengers of Hyjal Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Lavaworm Legplates",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Arachnaflame Treads",
+     "source": "Firelands Heroic — Bethtilac"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Alysrazor's Band",
+     "source": "Firelands Heroic — Alysrazor"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Obsidian Signet of the Avengers",
+     "source": "Avengers of Hyjal Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Vessel of Acceleration",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Rage",
+     "source": "Blackwing Descent Heroic — Chimaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Sulfuras, the Extinguished Hand",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Relic of the Elemental Lords",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

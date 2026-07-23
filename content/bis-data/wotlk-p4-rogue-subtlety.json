@@ -1,240 +1,239 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "rogue",
-  "spec": "subtlety",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Subtlety Rogue gear guide (anchor phase-5-tier-10-best-in-slot) — identical gear list to Combat on this tier. Tier set: Sanctified Shadowblade line. Enchants/gems reused across all three rogue specs.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Subtlety Rogue gear guide (anchor phase-5-tier-10-best-in-slot) — identical gear list to Combat on this tier. Tier set: Sanctified Shadowblade line. Enchants/gems reused across all three rogue specs.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Shadowblade Helmet (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Sindragosa's Cruel Claw",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Shadowblade Pauldrons (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Vereesa's Dexterity (Alliance) / Sylvanas' Cunning (Horde)",
-          "source": "Trial of the Crusader 25 Heroic — Argent Crusade Tribute Chest"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Ikfirus's Sack of Wonder",
-          "source": "Icecrown Citadel 25 Heroic — trash mobs inside Icecrown Citadel"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Toskk's Maximized Wristguards",
-          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Aldriana's Gloves of Secrecy",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Astrylian's Sutured Cinch",
-          "source": "Icecrown Citadel 25 Heroic — Professor Putricide"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Gangrenous Leggings",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Frostbitten Fur Boots",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ashen Band of Endless Vengeance",
-          "source": "The Ashen Verdict — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Signet of Twilight",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Deathbringer's Will",
-          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Sharpened Twilight Scale",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Havoc's Call, Blade of Lordaeron Kings",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Scourgeborne Waraxe",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Fal'inrush, Defender of Quel'thalas",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
+     "name": "Sanctified Shadowblade Helmet (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
-    },
-    {
-      "slot": "Melee Weapons",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
-    },
-    {
-      "slot": "Ranged Weapon",
-      "name": "Sun Scope",
-      "source": "Engineering (crafted scope, usable by all)"
+     "name": "Sindragosa's Cruel Claw",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber / Accurate Ametrine / Pristine Ametrine for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Shifting Dreadstone"
+     "name": "Sanctified Shadowblade Pauldrons (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Multiple Bosses"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Vereesa's Dexterity (Alliance) / Sylvanas' Cunning (Horde)",
+     "source": "Trial of the Crusader 25 Heroic — Argent Crusade Tribute Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Ikfirus's Sack of Wonder",
+     "source": "Icecrown Citadel 25 Heroic — trash mobs inside Icecrown Citadel"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Toskk's Maximized Wristguards",
+     "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Aldriana's Gloves of Secrecy",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Astrylian's Sutured Cinch",
+     "source": "Icecrown Citadel 25 Heroic — Professor Putricide"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Gangrenous Leggings",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Frostbitten Fur Boots",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ashen Band of Endless Vengeance",
+     "source": "The Ashen Verdict — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Twilight",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Deathbringer's Will",
+     "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Sharpened Twilight Scale",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Havoc's Call, Blade of Lordaeron Kings",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Scourgeborne Waraxe",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Fal'inrush, Defender of Quel'thalas",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; cheaper Nerubian Leg Armor alternative)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  },
+  {
+   "slot": "Melee Weapons",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting (Enchant Weapon — Mongoose as a cheaper alternative)"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Sun Scope",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage) — or Thundering Skyflare Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Cardinal Ruby (+23 Agi) — or Precise Cardinal Ruby (+16 hit / +23 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Ametrine (+16 hit / +23 Agi) — or Rigid King's Amber / Accurate Ametrine / Pristine Ametrine for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Enchanted Tear / Shifting Dreadstone"
+  }
+ ]
 }

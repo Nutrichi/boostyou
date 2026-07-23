@@ -1,212 +1,211 @@
 {
-  "expansion": "mop",
-  "phase": "p3",
-  "class": "death-knight",
-  "spec": "unholy",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Cap Hit and Expertise at 7.5%, then favor Crit; match socket bonuses when they pay out. Capacitive Primal Diamond is the legendary meta from Wrathion's questline. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p3",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Cap Hit and Expertise at 7.5%, then favor Crit; match socket bonuses when they pay out. Capacitive Primal Diamond is the legendary meta from Wrathion's questline. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helmet of Cyclopean Dread (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Malkorok's Tainted Dog Tags",
-          "source": "Siege of Orgrimmar Heroic — Malkorok"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Cyclopean Dread (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Gong-Lu, Strength of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of Cyclopean Dread (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Blind Hatred",
-          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gauntlets of Cyclopean Dread (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Demolisher's Reinforced Belt",
-          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Willful Doom",
-          "source": "Siege of Orgrimmar Heroic — Malkorok"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of Sublime Superiority",
-          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Seal of the Forgotten Kings",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Asgorathian Blood Seal",
-          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Evil Eye of Galakras",
-          "source": "Siege of Orgrimmar Heroic — Galakras"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Thok's Tail Tip",
-          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Greatsword of Pride's Fall",
-          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
-        }
-      ]
+     "name": "Helmet of Cyclopean Dread (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
-      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
-      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Super Strength (+170 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
-      "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Rune of the Fallen Crusader (runeforge)",
-      "source": "Runeforging (Ebon Hold)"
+     "name": "Malkorok's Tainted Dog Tags",
+     "source": "Siege of Orgrimmar Heroic — Malkorok"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Bold Primordial Ruby (+160 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+     "name": "Pauldrons of Cyclopean Dread (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Gong-Lu, Strength of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Cyclopean Dread (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Sha of Pride (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Blind Hatred",
+     "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Cyclopean Dread (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Demolisher's Reinforced Belt",
+     "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Willful Doom",
+     "source": "Siege of Orgrimmar Heroic — Malkorok"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of Sublime Superiority",
+     "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of the Forgotten Kings",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Asgorathian Blood Seal",
+     "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Evil Eye of Galakras",
+     "source": "Siege of Orgrimmar Heroic — Galakras"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Thok's Tail Tip",
+     "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Greatsword of Pride's Fall",
+     "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+   "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+   "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Super Strength (+170 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
+   "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader (runeforge)",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Primordial Ruby (+160 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Inscribed Vermilion Onyx (+80 Str / +160 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+  }
+ ]
 }

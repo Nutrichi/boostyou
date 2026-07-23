@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Holy Paladin gear guide (pre-raid page): 4.1-era pre-bis (Zul'Aman/Zul'Gurub heroics). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Ghostly Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Ember Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Spinel — or Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Lava Coral — or Brilliant Queen's Garnet"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Specialized Bio-Optic Killshades",
+     "source": "Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Dorian's Lost Necklace",
+     "source": "World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Harp Shell Pauldrons",
+     "source": "Commander Ulthok (H) Throne of the Tides"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Ritssyn's Ruminous Drape",
+     "source": "World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Light Elementium Chestguard",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Hidden Purpose",
+     "source": "Akil'zon (H) Zul'Aman"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "World Keeper's Gauntlets",
+     "source": "Exalted The Earthen Ring"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sun King's Girdle",
+     "source": "Exalted Ramkahen"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Greaves of the Misguided",
+     "source": "Lord Godfrey (H) Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Eternal Pathfinders",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Twined Band of Flowers",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Secret Names",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Tyrande's Favorite Doll",
+     "source": "Archaeology"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Darkmoon Card: Tsunami",
+     "source": "Tsunami Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Amani Scepter of Rites",
+     "source": "Daakara (H) Zul'Aman"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Elementium Stormshield",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Captured Lightning",
+     "source": "Asaad (H) The Vortex Pinnacle"
+    }
+   ]
+  }
+ ]
+}

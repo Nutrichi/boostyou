@@ -1,231 +1,230 @@
 {
-  "expansion": "wotlk",
-  "phase": "p3",
-  "class": "druid",
-  "spec": "feral",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Feral Druid Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p3",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Phase 3 (Trial of the Crusader 25 Heroic / Argent Crusade Tribute Chest — Alliance itemization; Horde runs faction-mirrored items of equal value) Best in Slot from the Icy Veins WotLK Classic Feral Druid Dps gear guide. Alliance itemization used throughout (Icy Veins splits Phase 3 by faction on some class pages) — Horde equivalents come from the same Argent Crusade Tribute Chest / bosses at identical item level, just different names/appearance. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Malfurion's Headguard of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Charge of the Demon Lord",
-          "source": "Lord Jaraxxus — 25-man Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Malfurion's Shoulderpads of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Vereesa's Dexterity",
-          "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Malfurion's Raiments of Triumph",
-          "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Solar Bindings",
-          "source": "Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Silver Assassin",
-          "source": "Faction Champions — 10-man Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Merciless Killer",
-          "source": "Twin Valkyr — 25-man Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Malfurion's Legguards of Triumph",
-          "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Treads of the Icewalker",
-          "source": "Faction Champions — 25-man Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Callous Aggression",
-          "source": "Faction Champions — 25-man Trial of the Crusader Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Brann's Signet Ring",
-          "source": "Faction Champions — 25-man Trial of the Crusader Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Death's Verdict",
-          "source": "Twin Valkyr — 25-man Trial of the Crusader Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Mjolnir Runestone",
-          "source": "Twin Valkyr — 25-man Trial of the Crusader Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Archon Glaive",
-          "source": "Anub'arak — 25-man Trial of the Crusader"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Idol of Mutilation",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Malfurion's Headguard of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Charge of the Demon Lord",
+     "source": "Lord Jaraxxus — 25-man Trial of the Crusader"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Fractured Cardinal Ruby (+23 crit) — swap to Precise Cardinal Ruby once armor-pen soft-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator — the only blue gem needed)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Rigid King's Amber (+16 crit / +23 Agi) for hit — or Accurate Ametrine for expertise, Inscribed Ametrine once capped"
+     "name": "Malfurion's Shoulderpads of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Vereesa's Dexterity",
+     "source": "Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Malfurion's Raiments of Triumph",
+     "source": "Via Regalia of the Grand Conqueror from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Solar Bindings",
+     "source": "Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Silver Assassin",
+     "source": "Faction Champions — 10-man Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Merciless Killer",
+     "source": "Twin Valkyr — 25-man Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Malfurion's Legguards of Triumph",
+     "source": "Via Regalia of the Grand Vanquisher from Argent Crusade Tribute Chest — Trial of the Crusader 25-Man HM"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of the Icewalker",
+     "source": "Faction Champions — 25-man Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Callous Aggression",
+     "source": "Faction Champions — 25-man Trial of the Crusader Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Brann's Signet Ring",
+     "source": "Faction Champions — 25-man Trial of the Crusader Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Death's Verdict",
+     "source": "Twin Valkyr — 25-man Trial of the Crusader Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mjolnir Runestone",
+     "source": "Twin Valkyr — 25-man Trial of the Crusader Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Archon Glaive",
+     "source": "Anub'arak — 25-man Trial of the Crusader"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Idol of Mutilation",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Fractured Cardinal Ruby (+23 crit) — swap to Precise Cardinal Ruby once armor-pen soft-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator — the only blue gem needed)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Rigid King's Amber (+16 crit / +23 Agi) for hit — or Accurate Ametrine for expertise, Inscribed Ametrine once capped"
+  }
+ ]
 }

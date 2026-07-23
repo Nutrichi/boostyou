@@ -1,0 +1,346 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/paladin/protection/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Greater Fortitude",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Valorous Redemption Faceguard",
+     "source": "Naxxramas — Token drops from 25 man Kel'Thuzad"
+    },
+    {
+     "name": "Helm of Vital Protection",
+     "source": "Naxxramas — 25 man Gothik the Harvester"
+    },
+    {
+     "name": "Heroes' Redemption Faceguard",
+     "source": "Naxxramas — Token drops from 10 man Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Redemption Shoulderguards",
+     "source": "Griselda Hunderland/Magister Brasael & Naxxramas — Token purchaseable for 60 Emblem of Valor and it drops from 25 man Loatheb & Gluth"
+    },
+    {
+     "name": "Burdened Shoulderplates",
+     "source": "Naxxramas — Heroic Gothik the Harvester"
+    },
+    {
+     "name": "Pauldrons of Unnatural Death",
+     "source": "Naxxramas — 25 man Anub'Rekhan"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Platinum Mesh Cloak",
+     "source": "Norvin Alderman — Token purchaseable for 25 Emblem of Valor"
+    },
+    {
+     "name": "Shadow of the Ghoul",
+     "source": "Naxxramas — Zone drop"
+    },
+    {
+     "name": "Cloak of the Shadowed Sun",
+     "source": "Naxxramas — 25 man Maexxna"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Redemption Breastplate",
+     "source": "Naxxramas — 25 man Gluth"
+    },
+    {
+     "name": "Dragonstorm Breastplate",
+     "source": "The Obsidian Sanctum — 25 man Sartharion"
+    },
+    {
+     "name": "Heroes' Redemption Breastplate",
+     "source": "Griselda Hunderland / Naxxramas — Purchaseable for 80 Emblem of Heroism, drops from 10 man Gluth"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of the Hapless Prey",
+     "source": "Naxxramas — 25 man Maexxna"
+    },
+    {
+     "name": "Bracers of the Unholy Knight",
+     "source": "Naxxramas — 25 man Instructor Razuvious"
+    },
+    {
+     "name": "Bracers of Dalaran's Parapets",
+     "source": "Griselda Hunderland — Purchaseable for 60 Emblem of Valor"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Redemption Handguards",
+     "source": "The Obsidian Sanctum — 25 man Sartharion"
+    },
+    {
+     "name": "Callous-Hearted Gauntlets",
+     "source": "Naxxramas — 25 man Grand Widow Faerlina"
+    },
+    {
+     "name": "Gauntlets of the Disobedient",
+     "source": "Naxxramas — 25 man Gluth & Noth the Plaguebringer"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ablative Chitin Girdle",
+     "source": "Naxxramas — 25 man Maexxna"
+    },
+    {
+     "name": "Waistguard of the Tutor",
+     "source": "Naxxramas — 10 man Instructor Razuvious"
+    },
+    {
+     "name": "Fleshless Girdle",
+     "source": "Naxxramas — 25 man Patchwerk & Gluth"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Sovereignty",
+     "source": "The Eye of Eternity — 25 man Malygos"
+    },
+    {
+     "name": "Valorous Redemption Legguards",
+     "source": "Arcanist Adurin/Magister Brasael & Naxxramas — Token purchaseable for 75 Emblem of Valor and it drops from 25 man Thaddius & Gluth"
+    },
+    {
+     "name": "Dragon Brood Legguards",
+     "source": "The Obsidian Sanctum — 25 man Sartharion"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Inexorable Sabatons",
+     "source": "Naxxramas — 25 man Anub'Rekhan"
+    },
+    {
+     "name": "Sabatons of Endurance",
+     "source": "Naxxramas — 25 man Thaddius"
+    },
+    {
+     "name": "Kyzoc's Ground Stompers",
+     "source": "Sheddle Glossgleam — Token purchaseable for 40 Emblem of Valor"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Nexus War Champion Beads",
+     "source": "The Eye of Eternity — Reward from requires The Heroic Key to the Focusing Iris"
+    },
+    {
+     "name": "Boundless Ambition",
+     "source": "Naxxramas — 25 man Kel'Thuzad"
+    },
+    {
+     "name": "Medallion of the Disgraced",
+     "source": "Naxxramas — Zone Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Sand-Worn Band",
+     "source": "Naxxramas — Zone Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Gatekeeper",
+     "source": "Naxxramas — 25 man Sapphiron"
+    },
+    {
+     "name": "Signet of the Impregnable Fortress",
+     "source": "Harold Winston — Purchaseable for 25 Emblem of Valor"
+    },
+    {
+     "name": "Ring of Hardened Resolve",
+     "source": "Sunwell Plateau — M'uru"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Figurine - Monarch Crab",
+     "source": "Jewelcrafting — BoP Crafted Monarch Crab"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Essence of Gossamer",
+     "source": "Azjol-Nerub — Heroic Hadronox"
+    },
+    {
+     "name": "Figurine - Ruby Hare",
+     "source": "Jewelcrafting — BoP Crafted Ruby Hare"
+    },
+    {
+     "name": "Defender's Code",
+     "source": "Naxxramas — 25 man Maexxna, Gothik the Harvester, Grobbulus, and Heigan the Unclean"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Last Laugh",
+     "source": "Naxxramas — 25 man Kel'Thuzad"
+    },
+    {
+     "name": "Broken Promise",
+     "source": "Naxxramas — 25 man Four Horsemen Chest"
+    },
+    {
+     "name": "Red Sword of Courage",
+     "source": "Utgarde Pinnacle — Heroic King Ymiron"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Wall of Terror",
+     "source": "Naxxramas — 25 man Kel'Thuzad"
+    },
+    {
+     "name": "The Skull of Ruin",
+     "source": "Naxxramas — 10 man Grobbulus"
+    },
+    {
+     "name": "Hero's Surrender",
+     "source": "Naxxramas — 25 man Patchwerk"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Obstruction",
+     "source": "Arcanist Ivrenne — 15 Emblem of Heroism"
+    }
+   ]
+  }
+ ]
+}

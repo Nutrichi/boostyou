@@ -1,245 +1,244 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "mage",
-  "spec": "frost",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Frost Mage gear guide (anchor phase-5-tier-10). Tier set: Sanctified Bloodmage line (full 5-piece tier here, unlike Arcane/Fire). Enchants/gems shared by all three mage specs; item-specific gem suggestions from the source page are omitted here in favor of the general spec gem profile.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "mage",
+ "spec": "frost",
+ "role": "Ranged DPS",
+ "notes": "Phase 4 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Frost Mage gear guide (anchor phase-5-tier-10). Tier set: Sanctified Bloodmage line (full 5-piece tier here, unlike Arcane/Fire). Enchants/gems shared by all three mage specs; item-specific gem suggestions from the source page are omitted here in favor of the general spec gem profile.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Bloodmage Hood (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Blood Queen's Crimson Choker",
-          "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Bloodmage Shoulderpads (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Burning Dusk",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanctified Bloodmage Robe (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Fiery Night",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Sanctified Bloodmage Gloves (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Crushing Coldwraith Belt",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sanctified Bloodmage Leggings (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Plague Scientist's Boots",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ashen Band of Endless Destruction",
-          "source": "The Ashen Verdict — reward from Path of Destruction (Ormus the Penitent)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Rapid Ascent",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Charred Twilight Scale",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Phylactery of the Nameless Lich",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Shadow Silk Spindle",
-          "source": "Icecrown Citadel 25 Heroic — Prince Valanar"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Corpse-Impaling Spike",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
+     "name": "Sanctified Bloodmage Hood (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Exceptional Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Off-Hand — Major Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Blood Queen's Crimson Choker",
+     "source": "Icecrown Citadel 25 Heroic — Blood-Queen Lana'thel"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 crit, +3% crit damage — requires two blue/purple/green gems)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare); Runed Dragon's Eye/Stormjewel for jewelcrafters"
-    },
-    {
-      "color": "Orange/Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit) if hit-capped"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+     "name": "Sanctified Bloodmage Shoulderpads (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Burning Dusk",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanctified Bloodmage Robe (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Fiery Night",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sanctified Bloodmage Gloves (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Crushing Coldwraith Belt",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sanctified Bloodmage Leggings (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — Vanquisher's Mark of Sanctification — final wing bosses & The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Plague Scientist's Boots",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ashen Band of Endless Destruction",
+     "source": "The Ashen Verdict — reward from Path of Destruction (Ormus the Penitent)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Rapid Ascent",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Charred Twilight Scale",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Phylactery of the Nameless Lich",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Shadow Silk Spindle",
+     "source": "Icecrown Citadel 25 Heroic — Prince Valanar"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Corpse-Impaling Spike",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Exceptional Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand — Major Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 crit, +3% crit damage — requires two blue/purple/green gems)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare); Runed Dragon's Eye/Stormjewel for jewelcrafters"
+  },
+  {
+   "color": "Orange/Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit) if hit-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+  }
+ ]
 }

@@ -1,248 +1,247 @@
 {
-  "expansion": "wotlk",
-  "phase": "p1",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 1 (Naxxramas 25, The Obsidian Sanctum, The Eye of Eternity) Best in Slot from the Icy Veins WotLK Classic Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Valorous Earthshatter Helm",
-          "source": "Kel'Thuzad — 25-man Naxxramas"
-        },
-        {
-          "name": "Helm of the Lost Protector",
-          "source": "Kel'Thuzad — 25-man Naxxramas"
-        }
-      ]
+     "name": "Valorous Earthshatter Helm",
+     "source": "Kel'Thuzad — 25-man Naxxramas"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Wyrmrest Necklace of Power",
-          "source": "Sapphiron — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of the Corrupted",
-          "source": "2 or more Drakes Sartharion in 25-man The Obsidian Sanctum"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Valorous Earthshatter Hauberk",
-          "source": "The Four Horsemen — 25-man Naxxramas"
-        },
-        {
-          "name": "Breastplate of the Lost Protector",
-          "source": "The Four Horsemen — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bands of Mutual Respect",
-          "source": "Instructor Razuvious — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Benefactor's Gauntlets",
-          "source": "Thaddius — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Cincture of Polarity",
-          "source": "Thaddius — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Wanton Spellcaster",
-          "source": "Malygos — 25-man The Eye of Eternity"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Footsteps of Malygos",
-          "source": "Malygos — 10-man The Eye of Eternity"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Signet of Manifested Pain",
-          "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Signet of the Kirin Tor",
-          "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
-        },
-        {
-          "name": "Ring of the Fated",
-          "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Illustration of the Dragon Soul",
-          "source": "Sartharion in 25-man The Obsidian Sanctum Various Bosses — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dying Curse",
-          "source": "Sartharion in 25-man The Obsidian Sanctum Various Bosses — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Torch of Holy Fire",
-          "source": "Kel'Thuzad — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Voice of Reason",
-          "source": "Kel'Thuzad — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Totem of Hex",
-          "source": "Patchwerk — 25-man Naxxramas"
-        }
-      ]
+     "name": "Helm of the Lost Protector",
+     "source": "Kel'Thuzad — 25-man Naxxramas"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Greater Mana Restoration alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Shield — Greater Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Wyrmrest Necklace of Power",
+     "source": "Sapphiron — 25-man Naxxramas"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
-    },
-    {
-      "color": "Yellow",
-      "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+     "name": "Mantle of the Corrupted",
+     "source": "2 or more Drakes Sartharion in 25-man The Obsidian Sanctum"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Earthshatter Hauberk",
+     "source": "The Four Horsemen — 25-man Naxxramas"
+    },
+    {
+     "name": "Breastplate of the Lost Protector",
+     "source": "The Four Horsemen — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bands of Mutual Respect",
+     "source": "Instructor Razuvious — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Benefactor's Gauntlets",
+     "source": "Thaddius — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cincture of Polarity",
+     "source": "Thaddius — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Wanton Spellcaster",
+     "source": "Malygos — 25-man The Eye of Eternity"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Footsteps of Malygos",
+     "source": "Malygos — 10-man The Eye of Eternity"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet of Manifested Pain",
+     "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of the Kirin Tor",
+     "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+    },
+    {
+     "name": "Ring of the Fated",
+     "source": "Kel'Thuzad — 25-man Naxxramas 8,500 gold (before reputation discounts) Noth the Plaguebringer — 10-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Illustration of the Dragon Soul",
+     "source": "Sartharion in 25-man The Obsidian Sanctum Various Bosses — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dying Curse",
+     "source": "Sartharion in 25-man The Obsidian Sanctum Various Bosses — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Torch of Holy Fire",
+     "source": "Kel'Thuzad — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Voice of Reason",
+     "source": "Kel'Thuzad — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Totem of Hex",
+     "source": "Patchwerk — 25-man Naxxramas"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Greater Mana Restoration alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
+  },
+  {
+   "color": "Yellow",
+   "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+  }
+ ]
 }

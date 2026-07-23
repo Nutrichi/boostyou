@@ -1,299 +1,298 @@
 {
-  "expansion": "classic",
-  "phase": "p4",
-  "class": "druid",
-  "spec": "feral",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Icy Veins' own \"Phase 4\" table, which explicitly covers \"Zul'Gurub and Blackwing Lair\" gear together (per the source guide's own description) — used here for our Phase 4 (Zul'Gurub) slot, though some Blackwing Lair carryover items are included alongside genuine Zul'Gurub pieces. Best in Slot from the Icy Veins WoW Classic Era Feral Druid Melee Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p4",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Icy Veins' own \"Phase 4\" table, which explicitly covers \"Zul'Gurub and Blackwing Lair\" gear together (per the source guide's own description) — used here for our Phase 4 (Zul'Gurub) slot, though some Blackwing Lair carryover items are included alongside genuine Zul'Gurub pieces. Best in Slot from the Icy Veins WoW Classic Era Feral Druid Melee Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Wolfshead Helm",
-          "source": "Crafted with Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Prestor's Talisman of Connivery",
-          "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
-        },
-        {
-          "name": "Onyxia Tooth Pendant",
-          "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
-        },
-        {
-          "name": "The Eye of Hakkar",
-          "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Field Marshal's Dragonhide Spaulders",
-          "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
-        },
-        {
-          "name": "Defiler's Leather Shoulders",
-          "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
-        },
-        {
-          "name": "Truestrike Shoulders",
-          "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Draconic Might",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Puissant Cape",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Cape of the Black Baron",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Cloak of the Shrouded Mists",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
-        },
-        {
-          "name": "Deathguard's Cloak",
-          "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Field Marshal's Dragonhide Breastplate",
-          "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
-        },
-        {
-          "name": "Cadaverous Armor",
-          "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
-        },
-        {
-          "name": "Malfurion's Blessed Bulwark",
-          "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Forest Stalker's Bracers",
-          "source": "Exalted with the Warsong Gulch reputation Multiple bosses in Molten Core"
-        },
-        {
-          "name": "Wristguards of Stability",
-          "source": "Exalted with the Warsong Gulch reputation Multiple bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Marshal's Dragonhide Gauntlets",
-          "source": "Rank 12 PvP set armor Leatherworking"
-        },
-        {
-          "name": "Devilsaur Gauntlets",
-          "source": "Rank 12 PvP set armor Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Preserved Heads",
-          "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
-        },
-        {
-          "name": "Cloudrunner Girdle",
-          "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
-        },
-        {
-          "name": "Girdle of Beastial Fury",
-          "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Marshal's Dragonhide Legguards",
-          "source": "Rank 12 PvP set armor Leatherworking"
-        },
-        {
-          "name": "Devilsaur Leggings",
-          "source": "Rank 12 PvP set armor Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Shadow Flame",
-          "source": "Nefarian in Blackwing Lair Rank 12 PvP set armor"
-        },
-        {
-          "name": "Marshal's Dragonhide Boots",
-          "source": "Nefarian in Blackwing Lair Rank 12 PvP set armor"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Circle of Applied Force",
-          "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Accuria",
-          "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
-        },
-        {
-          "name": "Quick Strike Ring",
-          "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
-        },
-        {
-          "name": "Don Julio's Band",
-          "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
-        },
-        {
-          "name": "Tarnished Elven Ring",
-          "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Drake Fang Talisman",
-          "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Blackhand's Breadth",
-          "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
-        },
-        {
-          "name": "Counterattack Lodestone",
-          "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
-        },
-        {
-          "name": "Rune of the Guard Captain",
-          "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
-        },
-        {
-          "name": "Gnomish Battle Chicken",
-          "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "Manual Crowd Pummeler",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
-        },
-        {
-          "name": "Hammer of Bestial Fury",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
-        },
-        {
-          "name": "Draconic Maul",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
-        },
-        {
-          "name": "The Unstoppable Force",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
-        },
-        {
-          "name": "Grand Marshal's Battle Hammer",
-          "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
-        }
-      ]
+     "name": "Wolfshead Helm",
+     "source": "Crafted with Leatherworking"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Prestor's Talisman of Connivery",
+     "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
     },
     {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Onyxia Tooth Pendant",
+     "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak - Lesser Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Greater Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon - Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "The Eye of Hakkar",
+     "source": "Nefarian in Blackwing Lair Reward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair Hakkar in Zul'Gurub"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Field Marshal's Dragonhide Spaulders",
+     "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
+    },
+    {
+     "name": "Defiler's Leather Shoulders",
+     "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
+    },
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Rank 13 PvP set armor Exalted with the Arathi Basin reputation Pyroguard Emberseer in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Draconic Might",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Puissant Cape",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Cloak of the Shrouded Mists",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
+    },
+    {
+     "name": "Deathguard's Cloak",
+     "source": "Trash drop in Blackwing Lair Azuregos , the world boss in Azshara Baron Rivendare in Stratholme Ragnaros in Molten Core Exalted with the Arathi Basin reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Field Marshal's Dragonhide Breastplate",
+     "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
+    },
+    {
+     "name": "Cadaverous Armor",
+     "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
+    },
+    {
+     "name": "Malfurion's Blessed Bulwark",
+     "source": "Rank 13 PvP set armor Mini-bosses in Scholomance Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Forest Stalker's Bracers",
+     "source": "Exalted with the Warsong Gulch reputation Multiple bosses in Molten Core"
+    },
+    {
+     "name": "Wristguards of Stability",
+     "source": "Exalted with the Warsong Gulch reputation Multiple bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Marshal's Dragonhide Gauntlets",
+     "source": "Rank 12 PvP set armor Leatherworking"
+    },
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Rank 12 PvP set armor Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Preserved Heads",
+     "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
+    },
+    {
+     "name": "Cloudrunner Girdle",
+     "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
+    },
+    {
+     "name": "Girdle of Beastial Fury",
+     "source": "Reward from A Collection of Heads in Zul'Gurub Quartermaster Zigris in Lower Blackrock Spire Eviscerator in Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Marshal's Dragonhide Legguards",
+     "source": "Rank 12 PvP set armor Leatherworking"
+    },
+    {
+     "name": "Devilsaur Leggings",
+     "source": "Rank 12 PvP set armor Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Shadow Flame",
+     "source": "Nefarian in Blackwing Lair Rank 12 PvP set armor"
+    },
+    {
+     "name": "Marshal's Dragonhide Boots",
+     "source": "Nefarian in Blackwing Lair Rank 12 PvP set armor"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Circle of Applied Force",
+     "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Accuria",
+     "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
+    },
+    {
+     "name": "Quick Strike Ring",
+     "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
+    },
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Flamegor in Blackwing Lair Ragnaros in Molten Core Several bosses in Molten Core Exalted with the Alterac Valley reputation Tribute Runs in Dire Maul North"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Drake Fang Talisman",
+     "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+    },
+    {
+     "name": "Counterattack Lodestone",
+     "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+    },
+    {
+     "name": "Rune of the Guard Captain",
+     "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+    },
+    {
+     "name": "Gnomish Battle Chicken",
+     "source": "Ebonroc in Blackwing Lair Quest General Drakkisath's Demise (Alliance) / For The Horde! (Horde) in Upper Blackrock Spire Gordok Tribute in Dire Maul North Quest Job Opening: Guard Captain of Revantusk Village (Horde) in the Hinterlands Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Manual Crowd Pummeler",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
+    },
+    {
+     "name": "Hammer of Bestial Fury",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
+    },
+    {
+     "name": "Draconic Maul",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
+    },
+    {
+     "name": "The Unstoppable Force",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
+    },
+    {
+     "name": "Grand Marshal's Battle Hammer",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan Shared drop from the Dragon world bosses Trash drop from Blackwing Lair Exalted with the Alterac Valley reputation Rank 14 PvP weapon"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Greater Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon - Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

@@ -1,0 +1,248 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "priest",
+ "spec": "discipline",
+ "role": "Healer",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Discipline Priest gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste — or Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Ghostly Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Intellect (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Heartsong — or Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Ember Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Spinel"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Brilliant Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Cowl of Dying Light",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Petrified Fungal Heart",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mosswrought Shoulderguards",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Woundlicker Cover",
+     "source": "1,250 x Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of Dying Light",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Banished",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Liquid Smoke",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of the Slain Champion",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legwraps of Dying Light",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Splinterfoot Sandals",
+     "source": "1,650 x Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Riven",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Suturing",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Will of Unbinding",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Unliving",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Maw of the Dragonlord",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Ledger of Revolting Rituals",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Finger of Zon'ozz",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  }
+ ]
+}

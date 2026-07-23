@@ -1,231 +1,230 @@
 {
-  "expansion": "mop",
-  "phase": "p1",
-  "class": "mage",
-  "spec": "arcane",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Four-piece Burning Scroll with Regail's Crackling Dagger. Arcane bracers differ from the other mage specs (Attenuating Bracers). Draft compiled from the Icy Veins MoP Classic Arcane Mage gear guide (Phase 1 & 2 table).",
-  "updated": "2026-07-20",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p1",
+ "class": "mage",
+ "spec": "arcane",
+ "role": "Ranged DPS",
+ "notes": "Phase 1 / Tier 14 list (Mogu'shan Vaults, Heart of Fear, Terrace of Endless Spring — Heroic versions). Tier token bosses: helm = Sha of Fear, shoulders = Lei Shi, chest = Grand Empress Shek'zeer, hands = Wind Lord Mel'jarak, legs = Amber-Shaper Un'sok. Four-piece Burning Scroll with Regail's Crackling Dagger. Arcane bracers differ from the other mage specs (Attenuating Bracers). Draft compiled from the Icy Veins MoP Classic Arcane Mage gear guide (Phase 1 & 2 table).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Hood of the Burning Scroll (Tier 14)",
-          "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Worldwaker Cabochon",
-          "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of the Burning Scroll (Tier 14)",
-          "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Overwhelming Corruption",
-          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Robes of the Unknown Fear",
-          "source": "Terrace of Endless Spring Heroic — Lei Shi"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Attenuating Bracers",
-          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Burning Scroll (Tier 14)",
-          "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Malleable Amber",
-          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Burning Scroll (Tier 14)",
-          "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sandals of the Blackest Night",
-          "source": "Terrace of Endless Spring Heroic — Tsulong"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Fragment of Fear Made Flesh",
-          "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Watersoul Signet",
-          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Light of the Cosmos",
-          "source": "Mogu'shan Vaults Heroic — Elegon"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Essence of Terror",
-          "source": "Terrace of Endless Spring Heroic — Sha of Fear"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Regail's Crackling Dagger",
-          "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Tornado-Summoning Censer",
-          "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
-        }
-      ]
+     "name": "Hood of the Burning Scroll (Tier 14)",
+     "source": "Terrace of Endless Spring Heroic — Sha of Fear (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
-      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
-      "source": "Enchanting (Lightweave Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Super Intellect (+180 Int)",
-      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Greater Cerulean Spellthread (+285 Int / +165 crit)",
-      "source": "Tailoring (crafted, usable by all; Master's Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Jade Spirit",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Intellect (+160 Int)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Worldwaker Cabochon",
+     "source": "Mogu'shan Vaults Heroic — Will of the Emperor"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
-    },
-    {
-      "color": "Red",
-      "name": "Artful Vermilion Onyx (+80 Int / +160 mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Fractured Sun's Radiance (+320 mastery)"
-    },
-    {
-      "color": "Blue",
-      "name": "Sensei's Wild Jade (+160 mastery / +160 hit)"
+     "name": "Mantle of the Burning Scroll (Tier 14)",
+     "source": "Terrace of Endless Spring Heroic — Lei Shi (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Overwhelming Corruption",
+     "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of the Unknown Fear",
+     "source": "Terrace of Endless Spring Heroic — Lei Shi"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Attenuating Bracers",
+     "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Burning Scroll (Tier 14)",
+     "source": "Heart of Fear Heroic — Wind Lord Mel'jarak (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Malleable Amber",
+     "source": "Heart of Fear Heroic — Amber-Shaper Un'sok"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Burning Scroll (Tier 14)",
+     "source": "Heart of Fear Heroic — Amber-Shaper Un'sok (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sandals of the Blackest Night",
+     "source": "Terrace of Endless Spring Heroic — Tsulong"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fragment of Fear Made Flesh",
+     "source": "Heart of Fear Heroic — Imperial Vizier Zor'lok"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Watersoul Signet",
+     "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Light of the Cosmos",
+     "source": "Mogu'shan Vaults Heroic — Elegon"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Essence of Terror",
+     "source": "Terrace of Endless Spring Heroic — Sha of Fear"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Regail's Crackling Dagger",
+     "source": "Terrace of Endless Spring Heroic — Protectors of the Endless"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Tornado-Summoning Censer",
+     "source": "Heart of Fear Heroic — Blade Lord Ta'yak"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+   "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+   "source": "Enchanting (Lightweave Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Super Intellect (+180 Int)",
+   "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Greater Cerulean Spellthread (+285 Int / +165 crit)",
+   "source": "Tailoring (crafted, usable by all; Master's Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Jade Spirit",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand — Major Intellect (+165 Int)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Intellect (+160 Int)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
+  },
+  {
+   "color": "Red",
+   "name": "Artful Vermilion Onyx (+80 Int / +160 mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Sun's Radiance (+320 mastery)"
+  },
+  {
+   "color": "Blue",
+   "name": "Sensei's Wild Jade (+160 mastery / +160 hit)"
+  }
+ ]
 }

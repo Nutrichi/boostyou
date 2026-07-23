@@ -1,0 +1,248 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Elemental Shaman gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Ghostly Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Intellect (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Burning Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Spinel"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Brilliant Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Headpiece of the Raging Elements",
+     "source": "Blackwing Descent — Nefarian —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Planetary Amulet",
+     "source": "Throne of the Four Winds — Al'Akir —"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Shoulderwraps of the Raging Elements",
+     "source": "Bastion of Twilight — Chogall —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shroud of Endless Grief",
+     "source": "Bastion of Twilight — Sinestra and —"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Circuit Design Breastplate",
+     "source": "Blackwing Descent — Omnotron Defense System —"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Chaos Beast Bracers",
+     "source": "Blackwing Descent — Chimaeron —"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Raging Elements",
+     "source": "Blackwing Descent — Atramedes —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Waistguard of Hatred",
+     "source": "Bastion of Twilight — Valiona and Theralion —"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Kilt of the Raging Elements",
+     "source": "Blackwing Descent — Maloriak —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Az'galada",
+     "source": "Bastion of Twilight — Sinestra —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Planetary Band",
+     "source": "Throne of the Four Winds — Conclave of Wind —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of the Fifth Circle",
+     "source": "Throne of the Four Winds — Chogall —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bell of Enraging Resonance",
+     "source": "Blackwing Descent — Atramedes —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Darkmoon Card: Volcano",
+     "source": "Volcanic Deck at Darkmoon Faire"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Andoros, Fist of the Dragon King",
+     "source": "Blackwing Descent — Nefarian —"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Kingdom's Heart",
+     "source": "Bastion of Twilight — Halfus Wyrmbreaker —"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Relic of Eonar",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

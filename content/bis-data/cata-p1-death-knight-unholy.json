@@ -1,0 +1,219 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Unholy Death Knight gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fierce Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Magma Plated Helmet",
+     "source": "Blackwing Descent Heroic — Al'Akir or Nefarian (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Caelestrasz's Will",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Magma Plated Pauldrons",
+     "source": "Bastion of Twilight Heroic — Al'Akir or Chogall (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Glittering Epidermis",
+     "source": "Bastion of Twilight Heroic — Ascendant Council"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Magma Plated Battleplate",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Mat'redor",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Magma Plated Gauntlets",
+     "source": "Blackwing Descent Heroic — Atramedes"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sky Strider Belt",
+     "source": "Throne of the Four Winds Heroic — Conclave of Wind"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sky Strider Greaves",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Massacre Treads",
+     "source": "Blackwing Descent Heroic — Chimaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cloudburst Ring",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Rage",
+     "source": "Blackwing Descent Heroic — Chimaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Solace",
+     "source": "Augh (H) Lost City of the Tol'vir"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Reclaimed Ashkandi, Greatsword of the Brotherhood",
+     "source": "Blackwing Descent Heroic — Nefarian"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Relic of Aggramar",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

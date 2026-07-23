@@ -1,0 +1,219 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "death-knight",
+ "spec": "blood",
+ "role": "Tank",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Blood Death Knight gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Rune of the Stoneskin Gargoyle"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Fine Lava Coral"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Lightstone"
+  },
+  {
+   "color": "Blue",
+   "name": "Puissant Elven Peridot"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Magma Plated Faceguard",
+     "source": "Blackwing Descent Heroic — Al'Akir or Nefarian (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Caelestrasz's Will",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Magma Plated Shoulderguards",
+     "source": "Bastion of Twilight Heroic — Al'Akir or Chogall (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Permafrost Cape",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Magma Plated Chestguard",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Mat'redor",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Magma Plated Handguards",
+     "source": "Blackwing Descent Heroic — Atramedes"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Thunder Wall Belt",
+     "source": "Throne of the Four Winds Heroic — Conclave of Wind"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Magma Plated Legplates",
+     "source": "Blackwing Descent Heroic — Maloriak"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "War-Torn Crushers",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Permafrost Signet",
+     "source": "Throne of the Four Winds Heroic — Conclave of Wind"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Symbiotic Worm",
+     "source": "Blackwing Descent Heroic — Magmaw"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Mirror of Broken Images",
+     "source": "Exalted Baradin's Wardens / Hellscream's Reach"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Reclaimed Ashkandi, Greatsword of the Brotherhood",
+     "source": "Blackwing Descent Heroic — Nefarian"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Relic of Khaz'goroth",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

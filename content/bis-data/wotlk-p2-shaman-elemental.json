@@ -1,236 +1,235 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Helm",
-          "source": "Thorim — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendant of the Shallow Grave",
-          "source": "Hard Mode Thorim — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Shoulderpads",
-          "source": "Hard Mode Assembly of Iron — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Hauberk",
-          "source": "Hodir — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bindings of Winter Gale",
-          "source": "Hard Mode Hodir — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Pharos Gloves",
-          "source": "Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Star-beaded Clutch",
-          "source": "Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Kilt",
-          "source": "Freya — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Treads of the False Oracle",
-          "source": "Hard Mode Yogg-Saron — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "Hard Mode Mimiron — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Nebula Band",
-          "source": "Hard Mode Mimiron — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Flare of the Heavens",
-          "source": "Hard Mode General Vezax in 25-man Ulduar Various Bosses — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dying Curse",
-          "source": "Hard Mode General Vezax in 25-man Ulduar Various Bosses — 25-man Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Constellus",
-          "source": "Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Wisdom's Hold",
-          "source": "Hard Mode Thorim — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Totem of Hex",
-          "source": "25 Emblem of Valor"
-        }
-      ]
+     "name": "Conqueror's Worldbreaker Helm",
+     "source": "Thorim — 25-man Ulduar"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Greater Mana Restoration alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower",
-      "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Shield — Greater Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Pendant of the Shallow Grave",
+     "source": "Hard Mode Thorim — 10-man Ulduar"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
-    },
-    {
-      "color": "Yellow",
-      "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+     "name": "Conqueror's Worldbreaker Shoulderpads",
+     "source": "Hard Mode Assembly of Iron — 25-man Ulduar"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Conqueror's Worldbreaker Hauberk",
+     "source": "Hodir — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of Winter Gale",
+     "source": "Hard Mode Hodir — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Pharos Gloves",
+     "source": "Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Star-beaded Clutch",
+     "source": "Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Conqueror's Worldbreaker Kilt",
+     "source": "Freya — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of the False Oracle",
+     "source": "Hard Mode Yogg-Saron — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "Hard Mode Mimiron — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Nebula Band",
+     "source": "Hard Mode Mimiron — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Flare of the Heavens",
+     "source": "Hard Mode General Vezax in 25-man Ulduar Various Bosses — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dying Curse",
+     "source": "Hard Mode General Vezax in 25-man Ulduar Various Bosses — 25-man Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Constellus",
+     "source": "Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Wisdom's Hold",
+     "source": "Hard Mode Thorim — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Totem of Hex",
+     "source": "25 Emblem of Valor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Greater Mana Restoration alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower",
+   "source": "Enchanting (Enchant Staff — Greater Spellpower for staves)"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Veiled Ametrine if you need hit"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Dreadstone (+10 spellpower / +10 spirit) — need two to unlock the meta gem"
+  },
+  {
+   "color": "Yellow",
+   "name": "Veiled Ametrine (+16 spellpower / +10 hit) — or Reckless/Potent Ametrine once hit-capped"
+  }
+ ]
 }

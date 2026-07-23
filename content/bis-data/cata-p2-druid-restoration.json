@@ -1,0 +1,248 @@
+{
+ "expansion": "cata",
+ "phase": "p2",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Tier 12 (Firelands, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Restoration Druid gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste — or Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Ghostly Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Intellect (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent — or Enchant Weapon - Heartsong",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Ember Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Shadow Spinel"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Brilliant Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Obsidian Arborweave Helm",
+     "source": "Firelands — Ragnaros —"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Flowform Choker",
+     "source": "Firelands — Majordomo Staghelm —"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Obsidian Arborweave Mantle",
+     "source": "Firelands — Majordomo Staghelm —"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Wings of Flame",
+     "source": "Firelands — Alysrazor —"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Obsidian Arborweave Tunic",
+     "source": "Firelands — Alysrazor —"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Glowing Wing Bracers",
+     "source": "Firelands — Baleroc —"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Obsidian Arborweave Gloves",
+     "source": "Firelands — Baleroc —"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Firescar Sash",
+     "source": "Avengers of Hyjal Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Obsidian Arborweave Legwraps",
+     "source": "Firelands — Shannox —"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Phoenix-Down Treads",
+     "source": "Firelands — Alysrazor —"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Quicksilver Signet of the Avengers",
+     "source": "Avengers of Hyjal Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Soothing Brimstone Circle",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Jaws of Defeat",
+     "source": "Firelands — Majordomo Staghelm —"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Fall of Mortality",
+     "source": "Bastion of Twilight — Chogall —"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Ko'gun, Hammer of the Firelord",
+     "source": "Firelands — Ragnaros —"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Goblet of Anger",
+     "source": "Firelands — Shannox —"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Singed Plume of Aviana",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

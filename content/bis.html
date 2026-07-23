@@ -29,10 +29,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
 
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-
-    :root {
+  <link rel="stylesheet" href="../assets/site.css">
+<style>
+:root {
       --bg-primary: rgb(15, 23, 42);
       --bg-secondary: rgb(30, 41, 59);
       --bg-card: rgba(51, 65, 85, 0.6);
@@ -44,8 +43,7 @@
       --text-muted: #94a3b8;
       --border-color: rgba(148, 163, 184, 0.1);
     }
-
-    body {
+body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
       color: var(--text-primary);
@@ -53,15 +51,13 @@
       min-height: 100vh;
       overflow-x: hidden;
     }
-
-    .page-header {
+.page-header {
       max-width: 1100px;
       margin: 0 auto;
       padding: 2.5rem 1.5rem 1rem;
       text-align: center;
     }
-
-    .page-header h1 {
+.page-header h1 {
       font-size: clamp(2rem, 5vw, 3.25rem);
       font-weight: 900;
       background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
@@ -71,343 +67,38 @@
       line-height: 1.15;
       margin-bottom: 0.75rem;
     }
-
-    .page-header p {
+.page-header p {
       color: var(--text-secondary);
       font-size: 1.05rem;
       max-width: 700px;
       margin: 0 auto;
     }
-
-    .bis-wrap {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 1rem 1.5rem 4rem;
-    }
-
-    /* Picker */
-    .bis-picker {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 1rem;
-      padding: 1.25rem 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .bis-picker-row {
-      margin-bottom: 0.9rem;
-    }
-
-    .bis-picker-row:last-child {
-      margin-bottom: 0;
-    }
-
-    .bis-picker-label {
-      display: block;
-      color: var(--text-muted);
-      font-size: 0.72rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      margin-bottom: 0.4rem;
-    }
-
-    .bis-chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-    }
-
-    .bis-chip {
-      background: rgba(59, 130, 246, 0.08);
-      border: 1px solid rgba(148, 163, 184, 0.35);
-      border-radius: 999px;
-      color: var(--text-primary);
-      font-family: inherit;
-      font-size: 0.85rem;
-      font-weight: 600;
-      padding: 0.4rem 0.9rem;
-      cursor: pointer;
-      transition: all 0.15s;
-      white-space: nowrap;
-    }
-
-    .bis-chip:hover {
-      background: rgba(59, 130, 246, 0.25);
-      border-color: rgba(59, 130, 246, 0.6);
-    }
-
-    .bis-chip.active {
+.bis-chip.active {
       background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
       border-color: transparent;
       color: #fff;
       font-weight: 700;
     }
-
-    /* Result / list */
-    .bis-list-header h2 {
-      color: var(--accent-yellow);
-      font-size: 1.6rem;
-      font-weight: 800;
-    }
-
-    .bis-role {
-      font-size: 0.8rem;
-      font-weight: 700;
-      color: var(--accent-primary);
-      background: rgba(59, 130, 246, 0.15);
-      border-radius: 0.4rem;
-      padding: 0.15rem 0.5rem;
-      vertical-align: middle;
-    }
-
-    .bis-list-meta {
-      color: var(--text-muted);
-      font-size: 0.9rem;
-      margin: 0.25rem 0 0.75rem;
-    }
-
-    .draft-badge {
-      background: rgba(251, 191, 36, 0.15);
-      color: var(--accent-yellow);
-      border: 1px solid rgba(251, 191, 36, 0.4);
-      border-radius: 0.4rem;
-      font-size: 0.75rem;
-      font-weight: 700;
-      padding: 0.1rem 0.5rem;
-    }
-
-    .bis-notes {
-      color: var(--text-secondary);
-      font-size: 0.95rem;
-      background: rgba(59, 130, 246, 0.08);
-      border-left: 3px solid var(--accent-primary);
-      border-radius: 0 0.5rem 0.5rem 0;
-      padding: 0.75rem 1rem;
-      margin-bottom: 1rem;
-    }
-
-    .bis-hint {
-      color: var(--text-muted);
-      font-size: 0.85rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .bis-slot {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 0.6rem;
-      margin-bottom: 0.5rem;
-      overflow: hidden;
-    }
-
-    .bis-slot summary {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      padding: 0.7rem 1rem;
-      cursor: pointer;
-      list-style: none;
-    }
-
-    .bis-slot summary::-webkit-details-marker { display: none; }
-
-    .bis-slot summary:hover {
-      background: rgba(59, 130, 246, 0.08);
-    }
-
-    .bis-slot-name {
-      flex: 0 0 110px;
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-
-    .bis-slot-item {
-      flex: 1;
-      min-width: 0;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .bis-item-name {
-      color: #a78bfa;
-      font-weight: 700;
-      font-size: 0.98rem;
-      text-decoration: none;
-    }
-
-    .bis-item-name:hover {
-      text-decoration: underline;
-    }
-
-    .bis-item-plain {
-      color: var(--text-primary);
-      font-weight: 600;
-      font-size: 0.95rem;
-    }
-
-    .bis-source {
-      color: var(--text-muted);
-      font-size: 0.84rem;
-    }
-
-    .bis-chevron {
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      transition: transform 0.2s;
-    }
-
-    .bis-slot[open] .bis-chevron {
-      transform: rotate(180deg);
-    }
-
-    .bis-slot-alts {
-      border-top: 1px solid var(--border-color);
-      padding: 0.6rem 1rem 0.75rem calc(110px + 2rem);
-      background: rgba(15, 23, 42, 0.35);
-    }
-
-    .bis-alt {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.75rem;
-      padding: 0.4rem 0;
-    }
-
-    .rank-badge {
-      flex: 0 0 auto;
-      background: rgba(148, 163, 184, 0.15);
-      color: var(--text-secondary);
-      border-radius: 0.4rem;
-      font-size: 0.72rem;
-      font-weight: 800;
-      padding: 0.15rem 0.5rem;
-      margin-top: 0.15rem;
-      white-space: nowrap;
-    }
-
-    .rank-badge.rank-1 {
-      background: rgba(251, 191, 36, 0.2);
-      color: var(--accent-yellow);
-    }
-
-    .bis-alt-body {
-      display: flex;
-      flex-direction: column;
-      min-width: 0;
-    }
-
-    .bis-section-title {
-      color: var(--accent-yellow);
-      font-size: 1.15rem;
-      font-weight: 800;
-      margin: 1.75rem 0 0.6rem;
-    }
-
-    .bis-table {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 0.6rem;
-      overflow: hidden;
-    }
-
-    .bis-row {
-      display: flex;
-      align-items: baseline;
-      gap: 1rem;
-      padding: 0.55rem 1rem;
-      border-bottom: 1px solid var(--border-color);
-    }
-
-    .bis-row:last-child { border-bottom: 0; }
-
-    .gem-meta { color: #e2e8f0; }
-    .gem-red { color: #f87171; }
-    .gem-yellow { color: #fbbf24; }
-    .gem-blue { color: #60a5fa; }
-
-    /* Empty / coming soon */
-    .bis-empty {
-      background: var(--bg-card);
-      border: 1px dashed rgba(148, 163, 184, 0.35);
-      border-radius: 1rem;
-      padding: 2.5rem 1.5rem;
-      text-align: center;
-      color: var(--text-secondary);
-    }
-
-    .bis-empty-icon {
-      font-size: 2.5rem;
-      margin-bottom: 0.75rem;
-    }
-
-    .bis-empty h2 {
-      color: var(--text-primary);
-      font-size: 1.3rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .bis-empty a {
-      color: var(--accent-primary);
-      text-decoration: none;
-    }
-
-    .bis-empty a:hover { text-decoration: underline; }
-
-    .bis-empty-nudge {
-      margin-top: 0.75rem;
-      font-weight: 600;
-      color: var(--text-primary);
-    }
-
-    /* CTA row */
-    .bis-ctas {
-      margin-top: 2.5rem;
-      display: grid;
-      gap: 1.25rem;
-    }
-
-    /* Footer */
-    .footer {
+.footer {
       background: var(--bg-secondary);
       border-top: 1px solid var(--border-color);
       padding: 1rem 1.25rem;
       margin-top: 1rem;
     }
-
-    .footer-content {
+.footer-content {
       max-width: 1400px;
       margin: 0 auto;
       display: flex;
       justify-content: center;
     }
-
-    .footer-bottom {
+.footer-bottom {
       text-align: center;
       color: var(--text-muted);
       font-size: 0.88rem;
       line-height: 1.3;
       padding-top: 0.35rem;
     }
-
-    @media (max-width: 600px) {
-      .bis-slot summary {
-        flex-wrap: wrap;
-        gap: 0.25rem 1rem;
-      }
-
-      .bis-slot-name {
-        flex-basis: 100%;
-      }
-
-      .bis-slot-alts {
-        padding-left: 1rem;
-      }
-    }
-  </style>
+</style>
   <link rel="stylesheet" href="../assets/cta.css" />
   <script src="../assets/cta.js" defer></script>
   <script src="../assets/bis.js" defer></script>

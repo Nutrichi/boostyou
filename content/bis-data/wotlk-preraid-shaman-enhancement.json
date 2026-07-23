@@ -1,260 +1,259 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "shaman",
-  "spec": "enhancement",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Nobundo's Faceguard of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thrall's Faceguard of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        }
-      ]
+     "name": "Nobundo's Faceguard of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendant of Fiery Havoc",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Nobundo's Shoulderguards of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        },
-        {
-          "name": "Thrall's Shoulderguards of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of Icy Intent",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Nobundo's Chestguard of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thrall's Chestguard of Triumph",
-          "source": "Trophy of the Crusade + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Crusader's Dragonscale Bracers",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Nobundo's Grips of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        },
-        {
-          "name": "Thrall's Grips of Triumph",
-          "source": "Trophy of the Crusade + 45 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Merciless Killer",
-          "source": "38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Belt of the Pitiless Killer",
-          "source": "38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Draconic Bonesplinter Legguards",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Rock-Steady Treads",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Callous Aggression",
-          "source": "30 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Nebula Band",
-          "source": "30 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Reign of the Dead",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Comet's Trail",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Aesuga, Hand of the Ardent Champion",
-          "source": "Animated Constellation — Dalaran, 38 Sidereal Essence Animated Constellation — Dalaran, 25 Sidereal Essence"
-        },
-        {
-          "name": "Caress of Insanity",
-          "source": "Animated Constellation — Dalaran, 38 Sidereal Essence Animated Constellation — Dalaran, 25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Totem of Electrifying Wind",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Thrall's Faceguard of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Pendant of Fiery Havoc",
+     "source": "60 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+     "name": "Nobundo's Shoulderguards of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
     },
     {
-      "color": "Red",
-      "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+     "name": "Thrall's Shoulderguards of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Icy Intent",
+     "source": "60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Nobundo's Chestguard of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Thrall's Chestguard of Triumph",
+     "source": "Trophy of the Crusade + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Crusader's Dragonscale Bracers",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Nobundo's Grips of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+    },
+    {
+     "name": "Thrall's Grips of Triumph",
+     "source": "Trophy of the Crusade + 45 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Merciless Killer",
+     "source": "38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Belt of the Pitiless Killer",
+     "source": "38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Draconic Bonesplinter Legguards",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Rock-Steady Treads",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Callous Aggression",
+     "source": "30 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Nebula Band",
+     "source": "30 Defiler's Scourgestone Animated Constellation — Dalaran, 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Reign of the Dead",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Comet's Trail",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Aesuga, Hand of the Ardent Champion",
+     "source": "Animated Constellation — Dalaran, 38 Sidereal Essence Animated Constellation — Dalaran, 25 Sidereal Essence"
+    },
+    {
+     "name": "Caress of Insanity",
+     "source": "Animated Constellation — Dalaran, 38 Sidereal Essence Animated Constellation — Dalaran, 25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Totem of Electrifying Wind",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+  }
+ ]
 }

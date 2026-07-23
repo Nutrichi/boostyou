@@ -1,287 +1,286 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Crafted Netherstrike (Dragonscale Leatherworking) three-piece plus Spellstrike Pants — engineering goggles top the helm slot. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "enchants": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Crafted Netherstrike (Dragonscale Leatherworking) three-piece plus Spellstrike Pants — engineering goggles top the helm slot. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power (+22 spell damage / +14 hit)",
+   "source": "The Sha'tar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Subtlety (-2% threat)",
+   "source": "Enchanting (Spell Penetration for specific fights)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+   "source": "Enchanting (Spell Strike if short on hit)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Spellpower (+12 spell damage)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power (+22 spell damage / +14 hit)",
-      "source": "The Sha'tar — Revered"
+     "name": "Gadgetstorm Goggles",
+     "source": "Engineering (crafted, engineers only)"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
+     "name": "Incanter's Cowl",
+     "source": "The Mechanar — Pathaleon the Calculator"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak — Subtlety (-2% threat)",
-      "source": "Enchanting (Spell Penetration for specific fights)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
-      "source": "Enchanting (Spell Strike if short on hit)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Spellpower (+12 spell damage)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Spellstrike Hood",
+     "source": "Tailoring (crafted)"
     }
-  ],
-  "slots": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Gadgetstorm Goggles",
-          "source": "Engineering (crafted, engineers only)"
-        },
-        {
-          "name": "Incanter's Cowl",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        },
-        {
-          "name": "Spellstrike Hood",
-          "source": "Tailoring (crafted)"
-        }
-      ]
+     "name": "Natasha's Ember Necklace",
+     "source": "Quest — The Hound-Master (Blade's Edge)"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Natasha's Ember Necklace",
-          "source": "Quest — The Hound-Master (Blade's Edge)"
-        },
-        {
-          "name": "Brooch of Heightened Potential",
-          "source": "Shadow Labyrinth — Blackheart the Inciter"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Wild Magic",
-          "source": "Heroic Slave Pens — Quagmirran"
-        },
-        {
-          "name": "Spaulders of the Torn-heart",
-          "source": "Quest — The Cipher of Damnation"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Shawl of Shifting Probabilities",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Netherstrike Breastplate",
-          "source": "Dragonscale Leatherworking (crafted)"
-        },
-        {
-          "name": "Windhawk Hauberk",
-          "source": "Tribal Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Netherstrike Bracers",
-          "source": "Dragonscale Leatherworking (crafted)"
-        },
-        {
-          "name": "Windhawk Bracers",
-          "source": "Tribal Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Mana-Etched Gloves",
-          "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
-        },
-        {
-          "name": "Earth Mantle Handwraps",
-          "source": "The Steamvault — Mekgineer Steamrigger"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Netherstrike Belt",
-          "source": "Dragonscale Leatherworking (crafted)"
-        },
-        {
-          "name": "Girdle of Ruination",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Spellstrike Pants",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sigil-Laced Boots",
-          "source": "The Arcatraz — Harbinger Skyriss"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Seer's Signet",
-          "source": "The Scryers — Exalted"
-        },
-        {
-          "name": "Cobalt Band of Tyrigosa",
-          "source": "Heroic Mana-Tombs — Nexus-Prince Shaffar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Cryptic Dreams",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Band of Dominion",
-          "source": "World drop (BoE)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "Badge vendor — 41 Badges of Justice"
-        },
-        {
-          "name": "Dark Iron Smoking Pipe",
-          "source": "Brewfest — Coren Direbrew"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Quagmirran's Eye",
-          "source": "Heroic Slave Pens — Quagmirran"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Gladiator's Gavel",
-          "source": "Arena vendor — Arena Points"
-        },
-        {
-          "name": "Eternium Runed Blade",
-          "source": "Blacksmithing (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Khadgar's Knapsack",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Mazthoril Honor Shield",
-          "source": "Badge vendor — 33 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Totem",
-      "items": [
-        {
-          "name": "Totem of the Void",
-          "source": "The Mechanar — Cache of the Legion"
-        }
-      ]
+     "name": "Brooch of Heightened Potential",
+     "source": "Shadow Labyrinth — Blackheart the Inciter"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+     "name": "Pauldrons of Wild Magic",
+     "source": "Heroic Slave Pens — Quagmirran"
     },
     {
-      "color": "Red",
-      "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+     "name": "Spaulders of the Torn-heart",
+     "source": "Quest — The Cipher of Damnation"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shawl of Shifting Probabilities",
+     "source": "Badge vendor — 25 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Netherstrike Breastplate",
+     "source": "Dragonscale Leatherworking (crafted)"
+    },
+    {
+     "name": "Windhawk Hauberk",
+     "source": "Tribal Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Netherstrike Bracers",
+     "source": "Dragonscale Leatherworking (crafted)"
+    },
+    {
+     "name": "Windhawk Bracers",
+     "source": "Tribal Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Mana-Etched Gloves",
+     "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
+    },
+    {
+     "name": "Earth Mantle Handwraps",
+     "source": "The Steamvault — Mekgineer Steamrigger"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Netherstrike Belt",
+     "source": "Dragonscale Leatherworking (crafted)"
+    },
+    {
+     "name": "Girdle of Ruination",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Spellstrike Pants",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sigil-Laced Boots",
+     "source": "The Arcatraz — Harbinger Skyriss"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seer's Signet",
+     "source": "The Scryers — Exalted"
+    },
+    {
+     "name": "Cobalt Band of Tyrigosa",
+     "source": "Heroic Mana-Tombs — Nexus-Prince Shaffar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Cryptic Dreams",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Band of Dominion",
+     "source": "World drop (BoE)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "Badge vendor — 41 Badges of Justice"
+    },
+    {
+     "name": "Dark Iron Smoking Pipe",
+     "source": "Brewfest — Coren Direbrew"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Quagmirran's Eye",
+     "source": "Heroic Slave Pens — Quagmirran"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Gladiator's Gavel",
+     "source": "Arena vendor — Arena Points"
+    },
+    {
+     "name": "Eternium Runed Blade",
+     "source": "Blacksmithing (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Khadgar's Knapsack",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Mazthoril Honor Shield",
+     "source": "Badge vendor — 33 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Totem",
+   "items": [
+    {
+     "name": "Totem of the Void",
+     "source": "The Mechanar — Cache of the Legion"
+    }
+   ]
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyfire Diamond (+12 spell crit / +3% crit damage — needs 2 blue gems; recipe availability in P2 to verify)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Veiled Noble Topaz (+4 spell damage / +4 hit) until hit-capped, then Potent Noble Topaz (+4 spell damage / +4 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+  }
+ ]
 }

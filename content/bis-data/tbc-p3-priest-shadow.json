@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p3",
-  "class": "priest",
-  "spec": "shadow",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Shadow Priest Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p3",
+ "class": "priest",
+ "spec": "shadow",
+ "role": "Ranged DPS",
+ "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Shadow Priest Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Hood of Absolution",
-          "source": "Archimonde Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Translucent Spellthread Necklace",
-          "source": "Reliquary of Souls Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulder",
-      "items": [
-        {
-          "name": "Shoulderpads of Absolution",
-          "source": "Mother Shahraz Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Cloak",
-      "items": [
-        {
-          "name": "Nethervoid Cloak",
-          "source": "BT/Hyjal Trash Mobs"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Shroud of Absolution",
-          "source": "Illidan Stormrage Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Bracer",
-      "items": [
-        {
-          "name": "Bracers of Nimble Thought",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Handguards of Absolution",
-          "source": "Azgalor Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Waistwrap of Infinity",
-          "source": "Supremus Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Channeled Elements",
-          "source": "Kaz'rogal Hyjal Summit"
-        }
-      ]
-    },
-    {
-      "slot": "Boots",
-      "items": [
-        {
-          "name": "Frozen Shadoweave Boots",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of the Eternal Sage",
-          "source": "Exalted The Scale of the Sands"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Ancient Knowledge",
-          "source": "Trash inside of Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Darkmoon Card: Crusade",
-          "source": "Darkmoon Blessings Deck"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "41 × Badge of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "The Maelstrom's Fury",
-          "source": "High Warlord Naj'entus Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hand",
-      "items": [
-        {
-          "name": "Orb of the Soul-Eater",
-          "source": "25 × Badge of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Tirisfal Wand of Ascendancy",
-          "source": "Shade of Aran Karazhan"
-        }
-      ]
+     "name": "Hood of Absolution",
+     "source": "Archimonde Hyjal Summit"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Discipline ( The Aldor Exalted ) Greater Inscription of the Oracle ( The Scryers Exalted ) Power of the Scourge",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Subtlety Enchant Cloak - Greater Shadow Resistance",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Exceptional Health Enchant Chest - Major Spirit Enchant Chest - Restore Mana Prime",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrist",
-      "name": "Enchant Bracer - Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Major Spellpower Enchant Gloves - Spell Strike",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread Mystic Spellthread",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Boar's Speed",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Soulfrost Enchant Weapon - Major Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Ring (Enchanting-only)",
-      "name": "Enchant Ring - Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Translucent Spellthread Necklace",
+     "source": "Reliquary of Souls Black Temple"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulder",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Mystical Skyfire Diamond (+16 spell crit, +2% shadow damage) — or Ember Skyfire Diamond"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Living Ruby (+8 spell damage) — or Runed Crimson Spinel"
-    },
-    {
-      "color": "Yellow",
-      "name": "Potent Noble Topaz (+4 spell damage / +4 crit) — or Veiled Noble Topaz/Pyrestone if short on hit"
-    },
-    {
-      "color": "Blue",
-      "name": "Glowing Nightseye (+4 spell damage / +6 spirit) — or Glowing Shadowsong Amethyst"
+     "name": "Shoulderpads of Absolution",
+     "source": "Mother Shahraz Black Temple"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Cloak",
+   "items": [
+    {
+     "name": "Nethervoid Cloak",
+     "source": "BT/Hyjal Trash Mobs"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Shroud of Absolution",
+     "source": "Illidan Stormrage Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Bracer",
+   "items": [
+    {
+     "name": "Bracers of Nimble Thought",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Handguards of Absolution",
+     "source": "Azgalor Hyjal Summit"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Waistwrap of Infinity",
+     "source": "Supremus Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Channeled Elements",
+     "source": "Kaz'rogal Hyjal Summit"
+    }
+   ]
+  },
+  {
+   "slot": "Boots",
+   "items": [
+    {
+     "name": "Frozen Shadoweave Boots",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of the Eternal Sage",
+     "source": "Exalted The Scale of the Sands"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Ancient Knowledge",
+     "source": "Trash inside of Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Crusade",
+     "source": "Darkmoon Blessings Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "41 × Badge of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "The Maelstrom's Fury",
+     "source": "High Warlord Naj'entus Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hand",
+   "items": [
+    {
+     "name": "Orb of the Soul-Eater",
+     "source": "25 × Badge of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Tirisfal Wand of Ascendancy",
+     "source": "Shade of Aran Karazhan"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Discipline ( The Aldor Exalted ) Greater Inscription of the Oracle ( The Scryers Exalted ) Power of the Scourge",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Subtlety Enchant Cloak - Greater Shadow Resistance",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Exceptional Health Enchant Chest - Major Spirit Enchant Chest - Restore Mana Prime",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrist",
+   "name": "Enchant Bracer - Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Spellpower Enchant Gloves - Spell Strike",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread Mystic Spellthread",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Boar's Speed",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Soulfrost Enchant Weapon - Major Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Ring (Enchanting-only)",
+   "name": "Enchant Ring - Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Mystical Skyfire Diamond (+16 spell crit, +2% shadow damage) — or Ember Skyfire Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Living Ruby (+8 spell damage) — or Runed Crimson Spinel"
+  },
+  {
+   "color": "Yellow",
+   "name": "Potent Noble Topaz (+4 spell damage / +4 crit) — or Veiled Noble Topaz/Pyrestone if short on hit"
+  },
+  {
+   "color": "Blue",
+   "name": "Glowing Nightseye (+4 spell damage / +6 spirit) — or Glowing Shadowsong Amethyst"
+  }
+ ]
 }

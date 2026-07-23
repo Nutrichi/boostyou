@@ -1,297 +1,296 @@
 {
-  "expansion": "classic",
-  "phase": "p1",
-  "class": "warrior",
-  "spec": "arms",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p1",
+ "class": "warrior",
+ "spec": "arms",
+ "role": "Melee DPS",
+ "notes": "Phase 1 (Molten Core & Onyxia's Lair). Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Lionheart Helm",
-          "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Mask of the Unforgiven",
-          "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Eye of Rend",
-          "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
-        }
-      ]
+     "name": "Lionheart Helm",
+     "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Onyxia Tooth Pendant",
-          "source": "For All To See from Onyxia's Lair In Dreams in Western Plaguelands"
-        },
-        {
-          "name": "Mark of Fordring",
-          "source": "For All To See from Onyxia's Lair In Dreams in Western Plaguelands"
-        }
-      ]
+     "name": "Mask of the Unforgiven",
+     "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Truestrike Shoulders",
-          "source": "Pyroguard Emberseer in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cape of the Black Baron",
-          "source": "Baron Rivendare in (side-entrance) Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Savage Gladiator Chain",
-          "source": "Gorosh the Dervish in Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Wristguards of Stability",
-          "source": "Flamewalker Bosses in Molten Core Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Battleborn Armbraces",
-          "source": "Flamewalker Bosses in Molten Core Warchief Rend Blackhand in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Edgemaster's Handguards",
-          "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
-        },
-        {
-          "name": "Flameguard Gauntlets",
-          "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
-        },
-        {
-          "name": "Devilsaur Gauntlets",
-          "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Onslaught Girdle",
-          "source": "Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
-        },
-        {
-          "name": "Brigam Girdle",
-          "source": "Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Cloudkeeper Legplates",
-          "source": "World drop BoE Tribal Leatherworking"
-        },
-        {
-          "name": "Devilsaur Leggings",
-          "source": "World drop BoE Tribal Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Bloodmail Boots",
-          "source": "Side bosses in Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Quick Strike Ring",
-          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Accuria",
-          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
-        },
-        {
-          "name": "Painweaver Band",
-          "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Diamond Flask",
-          "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Hand of Justice",
-          "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
-        },
-        {
-          "name": "Blackhand's Breadth",
-          "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
-        },
-        {
-          "name": "Rune of the Guard Captain",
-          "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand / Off-Hand",
-      "items": [
-        {
-          "name": "Deathbringer",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Vis'kag the Bloodletter",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Perdition's Blade",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Brutality Blade",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Core Hound Tooth",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Ironfoe",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Felstriker",
-          "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand",
-      "items": [
-        {
-          "name": "Bonereaver's Edge",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
-        },
-        {
-          "name": "Spinal Reaper",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
-        },
-        {
-          "name": "Obsidian Edged Blade",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
-        },
-        {
-          "name": "Sulfuras, Hand of Ragnaros",
-          "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Striker's Mark",
-          "source": "Magmadar in Molten Core Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "Blastershot Launcher",
-          "source": "Magmadar in Molten Core Golemagg the Incinerator in Molten Core"
-        }
-      ]
+     "name": "Eye of Rend",
+     "source": "Blacksmithing The Unforgiven in (side-entrance) Stratholme Warchief Rend Blackhand in Upper Blackrock Spire"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Onyxia Tooth Pendant",
+     "source": "For All To See from Onyxia's Lair In Dreams in Western Plaguelands"
     },
     {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon(s)",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Mark of Fordring",
+     "source": "For All To See from Onyxia's Lair In Dreams in Western Plaguelands"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Pyroguard Emberseer in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare in (side-entrance) Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish in Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Wristguards of Stability",
+     "source": "Flamewalker Bosses in Molten Core Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Battleborn Armbraces",
+     "source": "Flamewalker Bosses in Molten Core Warchief Rend Blackhand in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Edgemaster's Handguards",
+     "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
+    },
+    {
+     "name": "Flameguard Gauntlets",
+     "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
+    },
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "World drop BoE Various Bosses in Molten Core Tribal Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Onslaught Girdle",
+     "source": "Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+    },
+    {
+     "name": "Brigam Girdle",
+     "source": "Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Cloudkeeper Legplates",
+     "source": "World drop BoE Tribal Leatherworking"
+    },
+    {
+     "name": "Devilsaur Leggings",
+     "source": "World drop BoE Tribal Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Bloodmail Boots",
+     "source": "Side bosses in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Quick Strike Ring",
+     "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Accuria",
+     "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "Various Bosses in Molten Core Ragnaros in Molten Core General Drakkisath in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Diamond Flask",
+     "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Hand of Justice",
+     "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+    },
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+    },
+    {
+     "name": "Rune of the Guard Captain",
+     "source": "Voodoo Feathers in Sunken Temple Emperor Dagran Thaurissan in Blackrock Depths General Drakkisath's Demise / For The Horde! in Upper Blackrock Spire Job Opening: Guard Captain of Revantusk Village in The Hinterlands"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand / Off-Hand",
+   "items": [
+    {
+     "name": "Deathbringer",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Vis'kag the Bloodletter",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Perdition's Blade",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Brutality Blade",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Core Hound Tooth",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Ironfoe",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Felstriker",
+     "source": "Onyxia in Onyxia's Lair Onyxia in Onyxia's Lair Ragnaros in Molten Core Garr in Molten Core Majordomo Executus in Molten Core Emperor Dagran Thaurissan in Blackrock Depths Warchief Rend Blackhand in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Bonereaver's Edge",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
+    },
+    {
+     "name": "Spinal Reaper",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
+    },
+    {
+     "name": "Obsidian Edged Blade",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
+    },
+    {
+     "name": "Sulfuras, Hand of Ragnaros",
+     "source": "Ragnaros in Molten Core Ragnaros in Molten Core Various Bosses in Molten Core Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Striker's Mark",
+     "source": "Magmadar in Molten Core Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "Blastershot Launcher",
+     "source": "Magmadar in Molten Core Golemagg the Incinerator in Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon(s)",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

@@ -1,0 +1,232 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "death-knight",
+ "spec": "frost",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Frost Death Knight gear guide (pre-raid page): launch pre-raid list (the most current pre-bis the source maintains). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main-hand Weapon",
+   "name": "Rune of Razorice"
+  },
+  {
+   "slot": "Off-hand Weapon",
+   "name": "Rune of the Fallen Crusader"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Skillful Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Reinforced Bio-Optic Killshades",
+     "source": "Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Gift of Nadun",
+     "source": "Exalted Ramkahen"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Raz's Pauldrons",
+     "source": "Ascendant Lord Obsidius (H)Blackrock Caverns"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Inimitable Fate",
+     "source": "World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Magma Plated Battleplate",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Alpha Bracers",
+     "source": "Anraphet (H)Halls of Origination"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Magma Plated Gauntlets",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Elementium Girdle of Pain",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Corefire Legplates",
+     "source": "World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Woe Breeder's Boots",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Blauvelt's Family Crest",
+     "source": "World BoE Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of Transformation",
+     "source": "Corla, Herald of Twilight (H)Blackrock Caverns"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "License to Slay",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Impatience of Youth",
+     "source": "Exalted Baradin's Wardens / Hellscream's Reach"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Scimitar of the Sirocco",
+     "source": "Archaeology"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Scimitar of the Sirocco",
+     "source": "Archaeology"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Relic of Aggramar",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

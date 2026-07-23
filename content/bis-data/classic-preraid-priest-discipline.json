@@ -1,213 +1,212 @@
 {
-  "expansion": "classic",
-  "phase": "preraid",
-  "class": "priest",
-  "spec": "discipline",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Priest Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "preraid",
+ "class": "priest",
+ "spec": "discipline",
+ "role": "Healer",
+ "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Priest Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Cassandra's Grace",
-          "source": "BoE World Drop"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Animated Chain Necklace",
-          "source": "Ramstein the Gorger Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Burial Shawl",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Hide of the Wild",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Truefaith Vestments",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Flameweave Cuffs",
-          "source": "Lord Incendius Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Atal'ai Gloves",
-          "source": "Mini-Bosses Sunken Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Whipvine Cord",
-          "source": "Alzzin the Wildshaper Dire Maul East"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Senior Designer's Pantaloons",
-          "source": "Fineous Darkvire Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Full Moon",
-          "source": "Captain Kromcrush Dire Maul North"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Fordring's Seal",
-          "source": "In Dreams"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Rumination",
-          "source": "Warchief Rend Blackhand Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Royal Seal of Eldre'Thalas",
-          "source": "Jed Runewatcher Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Draconic Infused Emblem",
-          "source": "General Drakkisath Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Grand Marshal's Warhammer",
-          "source": "PvP Rank 14"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Lei of the Lifegiver",
-          "source": "Alterac Valley Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Stormrager",
-          "source": "Order Must Be Restored"
-        }
-      ]
+     "name": "Cassandra's Grace",
+     "source": "BoE World Drop"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Prophetic Aura - from the quest Prophetic Aura in Zul'Gurub .",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Zandalar Signet of Serenity from Exalted with Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "No suggested enchant.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Prophetic Aura - from the quest Prophetic Aura in Zul'Gurub .",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Spirit",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon(s)",
-      "name": "Enchant Weapon - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger Stratholme"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Burial Shawl",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Truefaith Vestments",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Flameweave Cuffs",
+     "source": "Lord Incendius Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Atal'ai Gloves",
+     "source": "Mini-Bosses Sunken Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Whipvine Cord",
+     "source": "Alzzin the Wildshaper Dire Maul East"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Senior Designer's Pantaloons",
+     "source": "Fineous Darkvire Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Full Moon",
+     "source": "Captain Kromcrush Dire Maul North"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "In Dreams"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Rumination",
+     "source": "Warchief Rend Blackhand Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Jed Runewatcher Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Draconic Infused Emblem",
+     "source": "General Drakkisath Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Grand Marshal's Warhammer",
+     "source": "PvP Rank 14"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Alterac Valley Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Stormrager",
+     "source": "Order Must Be Restored"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Prophetic Aura - from the quest Prophetic Aura in Zul'Gurub .",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Zandalar Signet of Serenity from Exalted with Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "No suggested enchant.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Prophetic Aura - from the quest Prophetic Aura in Zul'Gurub .",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Spirit",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon(s)",
+   "name": "Enchant Weapon - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

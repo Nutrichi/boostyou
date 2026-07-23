@@ -1,243 +1,242 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "hunter",
-  "spec": "marksmanship",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Shares the Beast Mastery pre-raid list — Beast Lord four-piece plus crafted Primalstrike. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "hunter",
+ "spec": "marksmanship",
+ "role": "Ranged DPS",
+ "notes": "Shares the Beast Mastery pre-raid list — Beast Lord four-piece plus crafted Primalstrike. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Beast Lord Helm",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of Vile Intent",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Beast Lord Mantle",
-          "source": "The Steamvault — Warlord Kalithresh"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Vengeance Wrap",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Primalstrike Vest",
-          "source": "Elemental Leatherworking (crafted)"
-        },
-        {
-          "name": "Ebon Netherscale Breastplate",
-          "source": "Dragonscale Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Primalstrike Bracers",
-          "source": "Elemental Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Beast Lord Handguards",
-          "source": "The Shattered Halls — Warchief Kargath Bladefist"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Primalstrike Belt",
-          "source": "Elemental Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Beast Lord Leggings",
-          "source": "The Steamvault — Warlord Kalithresh"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Fel Leather Boots",
-          "source": "Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Slayer's Mark of the Redemption",
-          "source": "Quest — Dissension Amongst the Ranks (Shadowmoon)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ravenclaw Band",
-          "source": "Sethekk Halls — Talon King Ikiss"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Bloodlust Brooch",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Hourglass of the Unraveller",
-          "source": "The Black Morass — Temporus"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged Weapon",
-      "items": [
-        {
-          "name": "Wrathtide Longbow",
-          "source": "Heroic Steamvault — Warlord Kalithresh"
-        },
-        {
-          "name": "Veteran's Musket / Marksman's Bow",
-          "source": "Honor Hold / Thrallmar — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Melee Main Hand",
-      "items": [
-        {
-          "name": "Claw of the Watcher",
-          "source": "Heroic Auchenai Crypts — Shirrak the Dead Watcher"
-        }
-      ]
-    },
-    {
-      "slot": "Melee Off Hand",
-      "items": [
-        {
-          "name": "Void-Talon",
-          "source": "Vendor — Dealer Jadyan (Netherstorm)"
-        }
-      ]
+     "name": "Beast Lord Helm",
+     "source": "The Mechanar — Pathaleon the Calculator"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
-      "source": "Cenarion Expedition — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Assault (+24 AP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Dexterity (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Melee Weapons",
-      "name": "Enchant Weapon — Greater Agility (+20 Agi each)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Ranged",
-      "name": "Stabilized Eternium Scope (+28 crit)",
-      "source": "Engineering (crafted scope, usable by all)"
+     "name": "Choker of Vile Intent",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Living Ruby (+8 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Rigid Dawnstone (+8 hit) until 9% hit cap, then Agility"
-    },
-    {
-      "color": "Blue",
-      "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+     "name": "Beast Lord Mantle",
+     "source": "The Steamvault — Warlord Kalithresh"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Vengeance Wrap",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Primalstrike Vest",
+     "source": "Elemental Leatherworking (crafted)"
+    },
+    {
+     "name": "Ebon Netherscale Breastplate",
+     "source": "Dragonscale Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Primalstrike Bracers",
+     "source": "Elemental Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Beast Lord Handguards",
+     "source": "The Shattered Halls — Warchief Kargath Bladefist"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Primalstrike Belt",
+     "source": "Elemental Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Beast Lord Leggings",
+     "source": "The Steamvault — Warlord Kalithresh"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Fel Leather Boots",
+     "source": "Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Slayer's Mark of the Redemption",
+     "source": "Quest — Dissension Amongst the Ranks (Shadowmoon)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ravenclaw Band",
+     "source": "Sethekk Halls — Talon King Ikiss"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bloodlust Brooch",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Hourglass of the Unraveller",
+     "source": "The Black Morass — Temporus"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Wrathtide Longbow",
+     "source": "Heroic Steamvault — Warlord Kalithresh"
+    },
+    {
+     "name": "Veteran's Musket / Marksman's Bow",
+     "source": "Honor Hold / Thrallmar — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Main Hand",
+   "items": [
+    {
+     "name": "Claw of the Watcher",
+     "source": "Heroic Auchenai Crypts — Shirrak the Dead Watcher"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Off Hand",
+   "items": [
+    {
+     "name": "Void-Talon",
+     "source": "Vendor — Dealer Jadyan (Netherstorm)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+   "source": "Cenarion Expedition — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Assault (+24 AP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Dexterity (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapons",
+   "name": "Enchant Weapon — Greater Agility (+20 Agi each)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ranged",
+   "name": "Stabilized Eternium Scope (+28 crit)",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Living Ruby (+8 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Rigid Dawnstone (+8 hit) until 9% hit cap, then Agility"
+  },
+  {
+   "color": "Blue",
+   "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+  }
+ ]
 }

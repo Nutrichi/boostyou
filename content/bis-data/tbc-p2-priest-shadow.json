@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p2",
-  "class": "priest",
-  "spec": "shadow",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Crafted Frozen Shadoweave pieces stay BiS alongside two Tier 5 (Avatar) pieces — most of this list survives from Phase 1. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p2",
+ "class": "priest",
+ "spec": "shadow",
+ "role": "Ranged DPS",
+ "notes": "Crafted Frozen Shadoweave pieces stay BiS alongside two Tier 5 (Avatar) pieces — most of this list survives from Phase 1. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Hood of the Avatar (Tier 5)",
-          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Ritssyn's Lost Pendant",
-          "source": "Karazhan — trash drop"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Frozen Shadoweave Shoulders",
-          "source": "Shadoweave Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Shadow-Cloak of Dalaran",
-          "source": "Karazhan — Moroes"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Shroud of the Avatar (Tier 5)",
-          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bands of Nefarious Deeds",
-          "source": "Karazhan — Maiden of Virtue"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handwraps of Flowing Thought",
-          "source": "Karazhan — Attumen the Huntsman"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Blasting",
-          "source": "Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Trousers of the Astromancer",
-          "source": "Tempest Keep — High Astromancer Solarian"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Frozen Shadoweave Boots",
-          "source": "Shadoweave Tailoring (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Al'ar",
-          "source": "Tempest Keep — Al'ar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Violet Signet of the Archmage",
-          "source": "The Violet Eye — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Eye of Magtheridon",
-          "source": "Magtheridon's Lair — Magtheridon"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Nathrezim Mindblade",
-          "source": "Karazhan — Prince Malchezaar"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Orb of the Soul-Eater",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Tirisfal Wand of Ascendancy",
-          "source": "Karazhan — Shade of Aran"
-        }
-      ]
+     "name": "Hood of the Avatar (Tier 5)",
+     "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power (+22 spell damage / +14 hit)",
-      "source": "The Sha'tar — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Subtlety (-2% threat)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Spellpower (+15 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
-      "source": "Enchanting (Spell Strike if short on hit)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Soulfrost (+54 shadow/frost damage)",
-      "source": "Enchanting (Major Spellpower as budget option)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Spellpower (+12 spell damage)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Ritssyn's Lost Pendant",
+     "source": "Karazhan — trash drop"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Mystical Skyfire Diamond (spell haste proc)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Potent Noble Topaz (+4 spell damage / +4 crit) — Veiled Noble Topaz while under hit cap"
-    },
-    {
-      "color": "Blue",
-      "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+     "name": "Frozen Shadoweave Shoulders",
+     "source": "Shadoweave Tailoring (crafted)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shadow-Cloak of Dalaran",
+     "source": "Karazhan — Moroes"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Shroud of the Avatar (Tier 5)",
+     "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bands of Nefarious Deeds",
+     "source": "Karazhan — Maiden of Virtue"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handwraps of Flowing Thought",
+     "source": "Karazhan — Attumen the Huntsman"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Blasting",
+     "source": "Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Trousers of the Astromancer",
+     "source": "Tempest Keep — High Astromancer Solarian"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Frozen Shadoweave Boots",
+     "source": "Shadoweave Tailoring (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Al'ar",
+     "source": "Tempest Keep — Al'ar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Violet Signet of the Archmage",
+     "source": "The Violet Eye — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Eye of Magtheridon",
+     "source": "Magtheridon's Lair — Magtheridon"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Nathrezim Mindblade",
+     "source": "Karazhan — Prince Malchezaar"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Orb of the Soul-Eater",
+     "source": "Badge vendor — 25 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Tirisfal Wand of Ascendancy",
+     "source": "Karazhan — Shade of Aran"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power (+22 spell damage / +14 hit)",
+   "source": "The Sha'tar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Discipline (+18 spell damage / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Orb; Naxx veterans: Power of the Scourge)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Subtlety (-2% threat)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Spellpower (+15 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+   "source": "Enchanting (Spell Strike if short on hit)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread (+35 spell damage / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Soulfrost (+54 shadow/frost damage)",
+   "source": "Enchanting (Major Spellpower as budget option)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Spellpower (+12 spell damage)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Mystical Skyfire Diamond (spell haste proc)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Living Ruby (+9 spell damage; Runed Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Potent Noble Topaz (+4 spell damage / +4 crit) — Veiled Noble Topaz while under hit cap"
+  },
+  {
+   "color": "Blue",
+   "name": "Glowing Nightseye (+4 spell damage / +6 stamina — two of these keep the meta active)"
+  }
+ ]
 }

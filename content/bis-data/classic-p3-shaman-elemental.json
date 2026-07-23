@@ -1,370 +1,369 @@
 {
-  "expansion": "classic",
-  "phase": "p3",
-  "class": "shaman",
-  "spec": "elemental",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p3",
+ "class": "shaman",
+ "spec": "elemental",
+ "role": "Ranged DPS",
+ "notes": "Phase 3 (Blackwing Lair, early progression). Best in Slot from the Icy Veins WoW Classic Era Elemental Shaman Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Mish'undare, Circlet of the Mind Flayer",
-          "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Infernal Headcage",
-          "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Helmet of Ten Storms",
-          "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
-        }
-      ]
+     "name": "Mish'undare, Circlet of the Mind Flayer",
+     "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of the Fire Lord",
-          "source": "Ragnaros in Molten Core 1200 Tickets - Orb of the Darkmoon in Darkmoon Faire"
-        },
-        {
-          "name": "Orb of the Darkmoon",
-          "source": "Ragnaros in Molten Core 1200 Tickets - Orb of the Darkmoon in Darkmoon Faire"
-        }
-      ]
+     "name": "Infernal Headcage",
+     "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Deep Earth Spaulders",
-          "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        },
-        {
-          "name": "Mantle of the Blackwing Cabal",
-          "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        },
-        {
-          "name": "Warlord's Mail Spaulders",
-          "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Brood Lord",
-          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Archivist Cape",
-          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
-        },
-        {
-          "name": "Sapphiron Drape",
-          "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Robe of Volatile Power",
-          "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        },
-        {
-          "name": "Breastplate of Ten Storms",
-          "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        },
-        {
-          "name": "Warlord's Mail Armor",
-          "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Arcane Accuracy",
-          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
-        },
-        {
-          "name": "Dryad's Wrist Bindings",
-          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
-        },
-        {
-          "name": "Bracers of Ten Storms",
-          "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Hands of Power",
-          "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
-        },
-        {
-          "name": "Elven Spirit Claws",
-          "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
-        },
-        {
-          "name": "Earthfury Gauntlets",
-          "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
-        },
-        {
-          "name": "Gauntlets of Ten Storms",
-          "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Firemaw's Clutch",
-          "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Mana Igniting Cord",
-          "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Flayed Doomguard Belt",
-          "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Primalist's Linked Waistguard",
-          "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Flarecore Leggings",
-          "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Legplates of Ten Storms",
-          "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "General's Mail Leggings",
-          "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Primalist's Linked Legguards",
-          "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Snowblind Shoes",
-          "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
-        },
-        {
-          "name": "Greaves of Ten Storms",
-          "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
-        },
-        {
-          "name": "General's Mail Boots",
-          "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Spell Power",
-          "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Forced Concentration",
-          "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
-        },
-        {
-          "name": "Ring of Blackrock",
-          "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Neltharion's Tear",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Talisman of Ephemeral Power",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Briarwood Reed",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Royal Seal of Eldre'Thalas",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Eye of the Beast",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        },
-        {
-          "name": "Natural Alignment Crystal",
-          "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand Weapons",
-      "items": [
-        {
-          "name": "Staff of the Shadow Flame",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "High Warlord's War Staff",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "Ironbark Staff",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "Amberseal Keeper",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
-        },
-        {
-          "name": "Staff of Dominance",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand Weapons",
-      "items": [
-        {
-          "name": "Lok'amir il Romathis",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        },
-        {
-          "name": "High Warlord's Spellblade",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        },
-        {
-          "name": "Claw of Chromaggus",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        },
-        {
-          "name": "Fang of the Mystics",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        },
-        {
-          "name": "Mindfang",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        },
-        {
-          "name": "Aurastone Hammer",
-          "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hands",
-      "items": [
-        {
-          "name": "Therazane's Touch",
-          "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
-        },
-        {
-          "name": "Master Dragonslayer's Orb",
-          "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
-        },
-        {
-          "name": "Malistar's Defender",
-          "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
-        }
-      ]
+     "name": "Helmet of Ten Storms",
+     "source": "Nefarian in Blackwing Lair Lord Kazzak Onyxia in Onyxia's Lair"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Choker of the Fire Lord",
+     "source": "Ragnaros in Molten Core 1200 Tickets - Orb of the Darkmoon in Darkmoon Faire"
     },
     {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Greater Intellect",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Frost Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Spell Power on DPS weapon",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield - Greater Stamina",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Orb of the Darkmoon",
+     "source": "Ragnaros in Molten Core 1200 Tickets - Orb of the Darkmoon in Darkmoon Faire"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Deep Earth Spaulders",
+     "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    },
+    {
+     "name": "Mantle of the Blackwing Cabal",
+     "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    },
+    {
+     "name": "Warlord's Mail Spaulders",
+     "source": "Various Bosses in Molten Core Razorgore the Untamed in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Brood Lord",
+     "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+    },
+    {
+     "name": "Sapphiron Drape",
+     "source": "Nefarian in Blackwing Lair Archivist Galford in (main-entrance) Stratholme Onyxia in Onyxia's Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robe of Volatile Power",
+     "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    },
+    {
+     "name": "Breastplate of Ten Storms",
+     "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    },
+    {
+     "name": "Warlord's Mail Armor",
+     "source": "Various Bosses in Molten Core Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 13"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Arcane Accuracy",
+     "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
+    },
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
+    },
+    {
+     "name": "Bracers of Ten Storms",
+     "source": "Broodlord Lashlayer in Blackwing Lair Warsong Gulch Exalted Razorgore the Untamed in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Hands of Power",
+     "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
+    },
+    {
+     "name": "Elven Spirit Claws",
+     "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
+    },
+    {
+     "name": "Earthfury Gauntlets",
+     "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
+    },
+    {
+     "name": "Gauntlets of Ten Storms",
+     "source": "Quartermaster Zigris in Blackrock Spire World drop BoE Gehennas in Molten Core Various bosses in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Firemaw's Clutch",
+     "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Mana Igniting Cord",
+     "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Flayed Doomguard Belt",
+     "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Primalist's Linked Waistguard",
+     "source": "Firemaw in Blackwing Lair Various Bosses in Molten Core Lord Kazzak in Blasted Lands Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Flarecore Leggings",
+     "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Legplates of Ten Storms",
+     "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "General's Mail Leggings",
+     "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Primalist's Linked Legguards",
+     "source": "Tailoring Ragnaros in Molten Core Bought from the PvP Vendor at Rank 12 Firemaw in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Snowblind Shoes",
+     "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+    },
+    {
+     "name": "Greaves of Ten Storms",
+     "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+    },
+    {
+     "name": "General's Mail Boots",
+     "source": "Azuregos Broodlord Lashlayer in Blackwing Lair Bought from the PvP Vendor at Rank 12"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Spell Power",
+     "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Forced Concentration",
+     "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
+    },
+    {
+     "name": "Ring of Blackrock",
+     "source": "Various Bosses in Molten Core Ebonroc in Blackwing Lair Drake Bosses in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Neltharion's Tear",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Talisman of Ephemeral Power",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    },
+    {
+     "name": "Natural Alignment Crystal",
+     "source": "Nefarian in Blackwing Lair Various Bosses in Molten Core Jed Runewatcher in Upper Blackrock Spire Frost Shock and You in Dire Maul For The Horde! in Upper Blackrock Spire Firemaw in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand Weapons",
+   "items": [
+    {
+     "name": "Staff of the Shadow Flame",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "High Warlord's War Staff",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "Ironbark Staff",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "Amberseal Keeper",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
+    },
+    {
+     "name": "Staff of Dominance",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Arathi Basin Exalted Lord Kazzak Golemagg the Incinerator in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand Weapons",
+   "items": [
+    {
+     "name": "Lok'amir il Romathis",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    },
+    {
+     "name": "High Warlord's Spellblade",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    },
+    {
+     "name": "Claw of Chromaggus",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    },
+    {
+     "name": "Fang of the Mystics",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    },
+    {
+     "name": "Mindfang",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    },
+    {
+     "name": "Aurastone Hammer",
+     "source": "Nefarian in Blackwing Lair Bought from the PvP Vendor at Rank 14 Chromaggus in Blackwing Lair Azuregos Arathi Basin Exalted Garr in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hands",
+   "items": [
+    {
+     "name": "Therazane's Touch",
+     "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
+    },
+    {
+     "name": "Master Dragonslayer's Orb",
+     "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
+    },
+    {
+     "name": "Malistar's Defender",
+     "source": "Alterac Valley Exalted Nefarian in Blackwing Lair Ragnaros in Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Greater Intellect",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Frost Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Vodouisant's Vigilant Embrace — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Spell Power on DPS weapon",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Greater Stamina",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

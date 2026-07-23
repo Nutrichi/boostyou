@@ -1,255 +1,254 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "warlock",
-  "spec": "demonology",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Demonology Warlock Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "warlock",
+ "spec": "demonology",
+ "role": "Ranged DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Demonology Warlock Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Dark Coven Hood",
-          "source": "Rueben Lauren — 95 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendant of Fiery Havoc",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Cry of the Val'kyr",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Dark Coven Shoulderpads",
-          "source": "Rueben Lauren — 60 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of Mortal Downfall",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Shroud of Displacement",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Dark Coven Robe",
-          "source": "Rueben Lauren — 95 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bejeweled Wizard's Bracers",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Dark Coven Gloves",
-          "source": "Rueben Lauren — 60 Emblem of Frost"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Tenebrous Mist",
-          "source": "Kolara Dreamsmasher — 38 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Belt of Biting Cold",
-          "source": "Kolara Dreamsmasher — 38 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Woven Death",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Sandals of Consecration",
-          "source": "Tailoring Tailoring"
-        },
-        {
-          "name": "Deathfrost Boots",
-          "source": "Tailoring Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Runed Signet of the Kirin Tor",
-          "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Conductive Seal",
-          "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
-        },
-        {
-          "name": "Reckless Ametrine",
-          "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Flare of the Heavens",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Reign of the Dead",
-          "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Barb of Tarasque",
-          "source": "source not listed on the Icy Veins page"
-        },
-        {
-          "name": "Blade of Tarasque",
-          "source": "source not listed on the Icy Veins page"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Petrified Ivy Sprig",
-          "source": "source not listed on the Icy Veins page"
-        }
-      ]
+     "name": "Dark Coven Hood",
+     "source": "Rueben Lauren — 95 Emblem of Frost"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+     "name": "Pendant of Fiery Havoc",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting (Major Spirit alternative)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower",
-      "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread",
-      "source": "Tailoring (Sanctified Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Staff — Greater Spellpower",
-      "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower",
-      "source": "Enchanting (enchanters only)"
+     "name": "Cry of the Val'kyr",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+     "name": "Dark Coven Shoulderpads",
+     "source": "Rueben Lauren — 60 Emblem of Frost"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Mortal Downfall",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
+    },
+    {
+     "name": "Shroud of Displacement",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dark Coven Robe",
+     "source": "Rueben Lauren — 95 Emblem of Frost"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bejeweled Wizard's Bracers",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Dark Coven Gloves",
+     "source": "Rueben Lauren — 60 Emblem of Frost"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Tenebrous Mist",
+     "source": "Kolara Dreamsmasher — 38 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Belt of Biting Cold",
+     "source": "Kolara Dreamsmasher — 38 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Woven Death",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sandals of Consecration",
+     "source": "Tailoring Tailoring"
+    },
+    {
+     "name": "Deathfrost Boots",
+     "source": "Tailoring Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Runed Signet of the Kirin Tor",
+     "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Conductive Seal",
+     "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
+    },
+    {
+     "name": "Reckless Ametrine",
+     "source": "Harold Winston — Dalaran Kolara Dreamsmasher — 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Flare of the Heavens",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Reign of the Dead",
+     "source": "Kolara Dreamsmasher — 60 Defiler's Scourgestone Kolara Dreamsmasher — 38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Barb of Tarasque",
+     "source": "source not listed on the Icy Veins page"
+    },
+    {
+     "name": "Blade of Tarasque",
+     "source": "source not listed on the Icy Veins page"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Petrified Ivy Sprig",
+     "source": "source not listed on the Icy Veins page"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered (Arcanum of Power alternative)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Storm for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting (Lightweave Embroidery for tailors; Springy Arachnoweave for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting (Major Spirit alternative)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower",
+   "source": "Enchanting (Fur Lining — Spell Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread",
+   "source": "Tailoring (Sanctified Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Icewalker alternative; Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Staff — Greater Spellpower",
+   "source": "Enchanting (staff); Enchant Weapon — Mighty Spellpower for main-hand"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyflare Diamond (+40 spellpower, +3% crit damage — requires two blue/purple/green gems)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 spellpower) — or Runed Scarlet Ruby (rare)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+16 spellpower / +10 haste) — or Veiled Ametrine (+16 spellpower / +10 hit), Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+10 spellpower / +10 spirit) — or Purified Twilight Opal (rare)"
+  }
+ ]
 }

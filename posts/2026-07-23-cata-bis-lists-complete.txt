@@ -1,0 +1,11 @@
+Cataclysm BiS lists are live — all 30 specs, Pre-Raid through Dragon Soul
+
+The BiS browser now covers Cataclysm in full: Pre-Raid, Phase 1 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds), Phase 2 (Firelands) and Phase 3 (Dragon Soul) — 120 new lists across every class and spec, drafted from the Icy Veins Cataclysm Classic gear guides.
+
+A few sourcing notes worth knowing. The raid-tier lists are the Heroic itemization straight from the source's per-spec gear pages. Phase 1 covers Blizzard's original Phase 1 and 2 together — the Rise of the Zandalari patch added no raid tier, so the source (sensibly) keeps one T11 list. Our phase numbers follow raid tiers, so what Blizzard called Phase 3 (Firelands) and Phase 4 (Dragon Soul) are our P2 and P3.
+
+Pre-Raid is the entry point for a fresh level 85: wherever Icy Veins maintains a Hour of Twilight (4.3) pre-bis — dungeon drops from End Time, Well of Eternity and Hour of Twilight plus valor gear — that's what you'll find. For a handful of specs the source only maintains an earlier pre-raid list (launch or the Firelands-era vendor catch-up); those lists say so explicitly in their notes, so you know exactly what you're looking at.
+
+As always: everything starts as a draft with the draft badge shown on the list, and the badge comes off once a list has been hand-verified. If you spot something off, the notes on each list tell you exactly which source table it came from.
+
+Browse everything from the BiS Lists page — pick Cataclysm, your phase, class and spec, and get gear, enchants and gems with Wowhead links throughout.

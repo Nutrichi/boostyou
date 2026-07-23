@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Feral Druid Dps gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Feral covers the cat (DPS) build, per the site convention; the source has a separate bear (tank) guide. Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant 2H Weapon - Mighty Agility",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet — used in nearly all sockets; only match other colors for strong socket bonuses"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel"
+  },
+  {
+   "color": "Yellow",
+   "name": "Adept Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Deep Earth Headpiece",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Cameo of Terrible Memories",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Deep Earth Spaulders",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Batwing Cloak",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Deep Earth Raiment",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bladeshadow Wristguards",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Lightfinger Handwraps",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Hidden Keys",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Deep Earth Legguards",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Rooftop Griptoes",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Seal of Primordial Shadow",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Emergency Descent Loop",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Wrath of Unchaining",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Vial of Shadows",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Kiril, Fury of Beasts",
+     "source": "Protocol Twilight Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Covenant of the Flame",
+     "source": "Crystallized Firestone plus the 700 Justice Points 378 version"
+    }
+   ]
+  }
+ ]
+}

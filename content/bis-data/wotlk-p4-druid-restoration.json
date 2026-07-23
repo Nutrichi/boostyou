@@ -1,340 +1,339 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "druid",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Prioritize the 4-piece Tier 10 bonus (head/shoulders/hands/legs) — the Rejuvenation jump effect is incredibly powerful. Draft list compiled from era guides; verify before publishing.",
-  "updated": "2026-07-09",
-  "enchants": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Prioritize the 4-piece Tier 10 bonus (head/shoulders/hands/legs) — the Rejuvenation jump effect is incredibly powerful.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries (+30 SP / +20 crit)",
+   "source": "Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Crag (+24 SP / +6 mp5)",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed (+23 haste)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats (+10 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Superior Spellpower (+30 SP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower (+28 SP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Brilliant Spellthread (+50 SP / +20 spirit)",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality (+15 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mighty Spellpower (+63 SP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Spellpower (+23 SP)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries (+30 SP / +20 crit)",
-      "source": "Kirin Tor — Revered"
+     "name": "Sanctified Lasherweave Helmet (277)",
+     "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Crag (+24 SP / +6 mp5)",
-      "source": "Sons of Hodir — Exalted"
+     "name": "Sanctified Lasherweave Helmet (264)",
+     "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
     },
     {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed (+23 haste)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats (+10 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Superior Spellpower (+30 SP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower (+28 SP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Brilliant Spellthread (+50 SP / +20 spirit)",
-      "source": "Tailoring"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality (+15 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mighty Spellpower (+63 SP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Spellpower (+23 SP)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Lasherweave Helmet (251)",
+     "source": "95 Emblems of Frost — Emblem vendor, Dalaran"
     }
-  ],
-  "slots": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Lasherweave Helmet (277)",
-          "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
-        },
-        {
-          "name": "Sanctified Lasherweave Helmet (264)",
-          "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
-        },
-        {
-          "name": "Lasherweave Helmet (251)",
-          "source": "95 Emblems of Frost — Emblem vendor, Dalaran"
-        }
-      ]
+     "name": "Bone Sentinel's Amulet (277)",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Bone Sentinel's Amulet (277)",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        },
-        {
-          "name": "Bone Sentinel's Amulet (264)",
-          "source": "Icecrown Citadel 25 Normal — Lord Marrowgar"
-        },
-        {
-          "name": "Blood Queen's Crimson Choker (264)",
-          "source": "Icecrown Citadel 25 Normal — Blood-Queen Lana'thel"
-        }
-      ]
+     "name": "Bone Sentinel's Amulet (264)",
+     "source": "Icecrown Citadel 25 Normal — Lord Marrowgar"
     },
     {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Lasherweave Pauldrons (277)",
-          "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
-        },
-        {
-          "name": "Sanctified Lasherweave Pauldrons (264)",
-          "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
-        },
-        {
-          "name": "Lasherweave Pauldrons (251)",
-          "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Greatcloak of the Turned Champion (277)",
-          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
-        },
-        {
-          "name": "Greatcloak of the Turned Champion (264)",
-          "source": "Icecrown Citadel 25 Normal — Deathbringer Saurfang"
-        },
-        {
-          "name": "Cloak of Burning Dusk (284)",
-          "source": "Ruby Sanctum 25 Heroic — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanguine Silk Robes (277)",
-          "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
-        },
-        {
-          "name": "Sanguine Silk Robes (264)",
-          "source": "Icecrown Citadel 25 Normal — Blood Prince Council"
-        },
-        {
-          "name": "Sanctified Lasherweave Robes (264)",
-          "source": "Marks of Sanctification — Icecrown Citadel (tier alternative if not using offset)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Eternal Dreaming (277)",
-          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
-        },
-        {
-          "name": "Bracers of Eternal Dreaming (264)",
-          "source": "Icecrown Citadel 25 Normal — Valithria Dreamwalker"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Sanctified Lasherweave Gauntlets (277)",
-          "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
-        },
-        {
-          "name": "Sanctified Lasherweave Gauntlets (264)",
-          "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
-        },
-        {
-          "name": "Lasherweave Gauntlets (251)",
-          "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Professor's Bloodied Smock (277)",
-          "source": "Icecrown Citadel 25 Heroic — Professor Putricide"
-        },
-        {
-          "name": "Professor's Bloodied Smock (264)",
-          "source": "Icecrown Citadel 25 Normal — Professor Putricide"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sanctified Lasherweave Legplates (277)",
-          "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
-        },
-        {
-          "name": "Sanctified Lasherweave Legplates (264)",
-          "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
-        },
-        {
-          "name": "Plaguebringer's Stained Pants (264)",
-          "source": "Icecrown Citadel 25 Normal — Professor Putricide"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Plague Scientist's Boots (277)",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        },
-        {
-          "name": "Plague Scientist's Boots (264)",
-          "source": "Icecrown Citadel 25 Normal — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Memory of Malygos (277)",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        },
-        {
-          "name": "Memory of Malygos (264)",
-          "source": "Icecrown Citadel 25 Normal — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ashen Band of Endless Wisdom",
-          "source": "Ashen Verdict — Exalted reputation ring"
-        },
-        {
-          "name": "Ring of Rapid Ascent (264)",
-          "source": "Icecrown Citadel 25 Normal — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Althor's Abacus (277)",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
-        },
-        {
-          "name": "Althor's Abacus (264)",
-          "source": "Icecrown Citadel 25 Normal — Icecrown Gunship Battle"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Solace of the Fallen (272)",
-          "source": "Trial of the Grand Crusader 25 Heroic — Lord Jaraxxus"
-        },
-        {
-          "name": "Purified Lunar Dust (264)",
-          "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
-        },
-        {
-          "name": "Glowing Twilight Scale (271)",
-          "source": "Ruby Sanctum 25 Normal — Halion"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Val'anyr, Hammer of Ancient Kings (Legendary)",
-          "source": "Ulduar 25 — Fragments of Val'anyr from all bosses"
-        },
-        {
-          "name": "Royal Scepter of Terenas II (284)",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        },
-        {
-          "name": "Trauma (277)",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Sundial of Eternal Dusk (277)",
-          "source": "Icecrown Citadel 25 Heroic"
-        },
-        {
-          "name": "Shadow Silk Spindle (264)",
-          "source": "Icecrown Citadel 25 Normal — Blood Prince Council"
-        }
-      ]
-    },
-    {
-      "slot": "Idol",
-      "items": [
-        {
-          "name": "Idol of the Black Willow",
-          "source": "30 Emblems of Frost — Emblem vendor, Dalaran"
-        }
-      ]
+     "name": "Blood Queen's Crimson Choker (264)",
+     "source": "Icecrown Citadel 25 Normal — Blood-Queen Lana'thel"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+21 Int, chance to restore mana on spellcast)"
+     "name": "Sanctified Lasherweave Pauldrons (277)",
+     "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
     },
     {
-      "color": "Red",
-      "name": "Runed Cardinal Ruby (+23 SP)"
+     "name": "Sanctified Lasherweave Pauldrons (264)",
+     "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
     },
     {
-      "color": "Yellow",
-      "name": "Reckless Ametrine (+12 SP / +10 haste) — or Quick King's Amber (+20 haste) when stacking haste"
-    },
-    {
-      "color": "Blue",
-      "name": "Purified Dreadstone (+12 SP / +10 spirit) — only for meta activation or strong socket bonuses"
+     "name": "Lasherweave Pauldrons (251)",
+     "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Greatcloak of the Turned Champion (277)",
+     "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+    },
+    {
+     "name": "Greatcloak of the Turned Champion (264)",
+     "source": "Icecrown Citadel 25 Normal — Deathbringer Saurfang"
+    },
+    {
+     "name": "Cloak of Burning Dusk (284)",
+     "source": "Ruby Sanctum 25 Heroic — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanguine Silk Robes (277)",
+     "source": "Icecrown Citadel 25 Heroic — Blood Prince Council"
+    },
+    {
+     "name": "Sanguine Silk Robes (264)",
+     "source": "Icecrown Citadel 25 Normal — Blood Prince Council"
+    },
+    {
+     "name": "Sanctified Lasherweave Robes (264)",
+     "source": "Marks of Sanctification — Icecrown Citadel (tier alternative if not using offset)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Eternal Dreaming (277)",
+     "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+    },
+    {
+     "name": "Bracers of Eternal Dreaming (264)",
+     "source": "Icecrown Citadel 25 Normal — Valithria Dreamwalker"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sanctified Lasherweave Gauntlets (277)",
+     "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
+    },
+    {
+     "name": "Sanctified Lasherweave Gauntlets (264)",
+     "source": "60 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
+    },
+    {
+     "name": "Lasherweave Gauntlets (251)",
+     "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Professor's Bloodied Smock (277)",
+     "source": "Icecrown Citadel 25 Heroic — Professor Putricide"
+    },
+    {
+     "name": "Professor's Bloodied Smock (264)",
+     "source": "Icecrown Citadel 25 Normal — Professor Putricide"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sanctified Lasherweave Legplates (277)",
+     "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification (Heroic) — Icecrown Citadel 25 Heroic"
+    },
+    {
+     "name": "Sanctified Lasherweave Legplates (264)",
+     "source": "95 Emblems of Frost + Vanquisher's Mark of Sanctification — Icecrown Citadel 25 Normal / 10 Heroic"
+    },
+    {
+     "name": "Plaguebringer's Stained Pants (264)",
+     "source": "Icecrown Citadel 25 Normal — Professor Putricide"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Plague Scientist's Boots (277)",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    },
+    {
+     "name": "Plague Scientist's Boots (264)",
+     "source": "Icecrown Citadel 25 Normal — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Memory of Malygos (277)",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+    },
+    {
+     "name": "Memory of Malygos (264)",
+     "source": "Icecrown Citadel 25 Normal — Sindragosa"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ashen Band of Endless Wisdom",
+     "source": "Ashen Verdict — Exalted reputation ring"
+    },
+    {
+     "name": "Ring of Rapid Ascent (264)",
+     "source": "Icecrown Citadel 25 Normal — Icecrown Gunship Battle"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Althor's Abacus (277)",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle"
+    },
+    {
+     "name": "Althor's Abacus (264)",
+     "source": "Icecrown Citadel 25 Normal — Icecrown Gunship Battle"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Solace of the Fallen (272)",
+     "source": "Trial of the Grand Crusader 25 Heroic — Lord Jaraxxus"
+    },
+    {
+     "name": "Purified Lunar Dust (264)",
+     "source": "60 Emblems of Frost — Emblem vendor, Dalaran"
+    },
+    {
+     "name": "Glowing Twilight Scale (271)",
+     "source": "Ruby Sanctum 25 Normal — Halion"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Val'anyr, Hammer of Ancient Kings (Legendary)",
+     "source": "Ulduar 25 — Fragments of Val'anyr from all bosses"
+    },
+    {
+     "name": "Royal Scepter of Terenas II (284)",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    },
+    {
+     "name": "Trauma (277)",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Sundial of Eternal Dusk (277)",
+     "source": "Icecrown Citadel 25 Heroic"
+    },
+    {
+     "name": "Shadow Silk Spindle (264)",
+     "source": "Icecrown Citadel 25 Normal — Blood Prince Council"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Idol of the Black Willow",
+     "source": "30 Emblems of Frost — Emblem vendor, Dalaran"
+    }
+   ]
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+21 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Cardinal Ruby (+23 SP)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Reckless Ametrine (+12 SP / +10 haste) — or Quick King's Amber (+20 haste) when stacking haste"
+  },
+  {
+   "color": "Blue",
+   "name": "Purified Dreadstone (+12 SP / +10 spirit) — only for meta activation or strong socket bonuses"
+  }
+ ]
 }

@@ -1,255 +1,254 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "shaman",
-  "spec": "enhancement",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman Dps gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Boundless Gaze",
-          "source": "Algalon the Observer — 25-man Ulduar Thorim — 25-man Ulduar"
-        },
-        {
-          "name": "Conqueror's Worldbreaker Faceguard",
-          "source": "Algalon the Observer — 25-man Ulduar Thorim — 25-man Ulduar"
-        }
-      ]
+     "name": "Boundless Gaze",
+     "source": "Algalon the Observer — 25-man Ulduar Thorim — 25-man Ulduar"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Pendulum of Infinity",
-          "source": "Hard Mode General Vezax — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Shoulderguards",
-          "source": "Hard Mode Hodir — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Chestguard",
-          "source": "Hodir — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bindings of Winter Gale",
-          "source": "Hard Mode Hodir — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker Grips",
-          "source": "Mimiron — 25-man Ulduar Hard Mode XT-002 Deconstructor — 25-man Ulduar"
-        },
-        {
-          "name": "Gloves of the Steady Hand",
-          "source": "Mimiron — 25-man Ulduar Hard Mode XT-002 Deconstructor — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Dragons",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Conqueror's Worldbreaker War-Kilt",
-          "source": "Freya — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Tempered Mercury Greaves",
-          "source": "Hard Mode Mimiron — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Loop of the Agile",
-          "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Nebula Band",
-          "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
-        },
-        {
-          "name": "Brann's Signet Ring",
-          "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Comet's Trail",
-          "source": "Algalon the Observer — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Dark Matter",
-          "source": "Algalon the Observer — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Golden Saronite Dragon",
-          "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
-        },
-        {
-          "name": "Constellus",
-          "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
-        },
-        {
-          "name": "Caress of Insanity",
-          "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
-        },
-        {
-          "name": "Vulmir, the Northern Tempest",
-          "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
-        }
-      ]
-    },
-    {
-      "slot": "Relic",
-      "items": [
-        {
-          "name": "Furious Gladiator's Totem of Indomitability",
-          "source": "PvP Vendor 25 Emblem of Valor"
-        },
-        {
-          "name": "Totem of Dueling",
-          "source": "PvP Vendor 25 Emblem of Valor"
-        }
-      ]
+     "name": "Conqueror's Worldbreaker Faceguard",
+     "source": "Algalon the Observer — 25-man Ulduar Thorim — 25-man Ulduar"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Pendulum of Infinity",
+     "source": "Hard Mode General Vezax — 25-man Ulduar"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+     "name": "Conqueror's Worldbreaker Shoulderguards",
+     "source": "Hard Mode Hodir — 25-man Ulduar"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Conqueror's Worldbreaker Chestguard",
+     "source": "Hodir — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bindings of Winter Gale",
+     "source": "Hard Mode Hodir — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Conqueror's Worldbreaker Grips",
+     "source": "Mimiron — 25-man Ulduar Hard Mode XT-002 Deconstructor — 25-man Ulduar"
+    },
+    {
+     "name": "Gloves of the Steady Hand",
+     "source": "Mimiron — 25-man Ulduar Hard Mode XT-002 Deconstructor — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Dragons",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Conqueror's Worldbreaker War-Kilt",
+     "source": "Freya — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Tempered Mercury Greaves",
+     "source": "Hard Mode Mimiron — 10-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Loop of the Agile",
+     "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Nebula Band",
+     "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
+    },
+    {
+     "name": "Brann's Signet Ring",
+     "source": "Hard Mode Assembly of Iron — 10-man Ulduar Algalon the Observer — 10-man Ulduar Algalon the Observer — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Comet's Trail",
+     "source": "Algalon the Observer — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Dark Matter",
+     "source": "Algalon the Observer — 25-man Ulduar Algalon the Observer — 10-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Golden Saronite Dragon",
+     "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
+    },
+    {
+     "name": "Constellus",
+     "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
+    },
+    {
+     "name": "Caress of Insanity",
+     "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
+    },
+    {
+     "name": "Vulmir, the Northern Tempest",
+     "source": "Flame Leviathan — 25-man Ulduar Algalon the Observer — 25-man Ulduar Hard Mode Yogg-Saron — 10-man Ulduar Thorim — 25-man Ulduar"
+    }
+   ]
+  },
+  {
+   "slot": "Relic",
+   "items": [
+    {
+     "name": "Furious Gladiator's Totem of Indomitability",
+     "source": "PvP Vendor 25 Emblem of Valor"
+    },
+    {
+     "name": "Totem of Dueling",
+     "source": "PvP Vendor 25 Emblem of Valor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+  }
+ ]
 }

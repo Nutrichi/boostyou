@@ -1,212 +1,211 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "hunter",
-  "spec": "survival",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "hunter",
+ "spec": "survival",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Headguard of the Unblinking Vigil (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Gleaming Eye of the Devilsaur",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Spaulders of the Unblinking Vigil (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Fen-Yu, Fury of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Ancient Archer's Chestguard",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Infinite Pipes",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Unblinking Vigil (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Arrowflight Girdle",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legguards of the Unblinking Vigil (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Ravager's Pathwalkers",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Restless Energy",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Kil'ruk's Band of Ascendancy",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Assurance of Consequence",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Haromm's Talisman",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Kor'kron Hand Cannon",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
-        }
-      ]
+     "name": "Headguard of the Unblinking Vigil (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Accuracy (+180 hit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Lord Blastington's Scope of Doom (+600 Agi proc)",
-      "source": "Engineering (crafted scope, usable by all)"
+     "name": "Gleaming Eye of the Devilsaur",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Agile Primal Diamond (+216 Agi, 3% increased crit effect)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Primordial Ruby (+160 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Delicate Primordial Ruby — or Deadly Vermilion Onyx (+80 Agi / +160 crit) for strong socket bonuses"
-    },
-    {
-      "color": "Blue",
-      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+     "name": "Spaulders of the Unblinking Vigil (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Fen-Yu, Fury of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Ancient Archer's Chestguard",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Infinite Pipes",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Unblinking Vigil (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Arrowflight Girdle",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Spoils of Pandaria)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legguards of the Unblinking Vigil (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Ravager's Pathwalkers",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Restless Energy",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Kil'ruk's Band of Ascendancy",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Assurance of Consequence",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Haromm's Talisman",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Kor'kron Hand Cannon",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Accuracy (+180 hit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Lord Blastington's Scope of Doom (+600 Agi proc)",
+   "source": "Engineering (crafted scope, usable by all)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Primal Diamond (+216 Agi, 3% increased crit effect)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Primordial Ruby (+160 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Delicate Primordial Ruby — or Deadly Vermilion Onyx (+80 Agi / +160 crit) for strong socket bonuses"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+  }
+ ]
 }

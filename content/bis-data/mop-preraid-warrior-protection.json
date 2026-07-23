@@ -1,235 +1,234 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot, so you gear straight for SoO. Enchants and gems match our SoO list (same patch). Draft compiled from the Icy Veins MoP Classic pre-raid guide (Phase 5 table). Balanced avoidance/control setup; Rook's Unlucky Talisman replaces Curse of Hubris on AoE-heavy fights.",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot, so you gear straight for SoO. Enchants and gems match our SoO list (same patch). Draft compiled from the Icy Veins MoP Classic pre-raid guide (Phase 5 table). Balanced avoidance/control setup; Rook's Unlucky Talisman replaces Curse of Hubris on AoE-heavy fights.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Greathelm of the Warchief",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Blackfuse's Blasting Cord",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Violent Eruption",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Qian-Ying, Fortitude of Niuzao",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Earthbreaker's Steaming Chestplate",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Blood Rage Bracers",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handguards of the Prehistoric Marauder (Tier 16)",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Untarnishable Greatbelt",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legguards of the Prehistoric Marauder (Tier 16)",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Treads of Unchained Hate",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Galakrond Control Band",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of the Iron Tomb",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Vial of Living Corruption",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Curse of Hubris",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        },
-        {
-          "name": "Rook's Unlucky Talisman",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — better on AoE fights"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Haromm's Frozen Crescent",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Shield of Mockery",
-          "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
-        }
-      ]
+     "name": "Greathelm of the Warchief",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
-      "source": "Inscription (Secret Ox Horn Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Protection (+200 armor)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Major Dodge (+170 dodge)",
-      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — River's Song",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield — Greater Parry (+170 parry)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Stamina (+240 stamina)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Blackfuse's Blasting Cord",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
-    },
-    {
-      "color": "Red",
-      "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
-    },
-    {
-      "color": "Blue",
-      "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+     "name": "Pauldrons of Violent Eruption",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Qian-Ying, Fortitude of Niuzao",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Earthbreaker's Steaming Chestplate",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Blood Rage Bracers",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of the Prehistoric Marauder (Tier 16)",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Untarnishable Greatbelt",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legguards of the Prehistoric Marauder (Tier 16)",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of Unchained Hate",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Galakrond Control Band",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of the Iron Tomb",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Vial of Living Corruption",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Curse of Hubris",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    },
+    {
+     "name": "Rook's Unlucky Talisman",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot) — better on AoE fights"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Haromm's Frozen Crescent",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Shield of Mockery",
+     "source": "Celestial Dungeons (Phase 5 — SoO Normal-level loot)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Ox Horn Inscription (+300 stamina / +100 dodge)",
+   "source": "Inscription (Secret Ox Horn Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Protection (+200 armor)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Major Dodge (+170 dodge)",
+   "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Expertise (+170 expertise)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — River's Song",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield — Greater Parry (+170 parry)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Stamina (+240 stamina)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Primal Diamond (+324 stamina, +2% armor)"
+  },
+  {
+   "color": "Red",
+   "name": "Resolute Vermilion Onyx (expertise/dodge) — or Stalwart Vermilion Onyx (dodge/mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Resolute Vermilion Onyx — or Stalwart Vermilion Onyx"
+  },
+  {
+   "color": "Blue",
+   "name": "Accurate Imperial Amethyst (hit/expertise) — or Solid River's Heart (pure stamina)"
+  }
+ ]
 }

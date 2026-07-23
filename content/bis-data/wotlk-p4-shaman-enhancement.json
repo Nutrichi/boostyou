@@ -1,293 +1,292 @@
 {
-  "expansion": "wotlk",
-  "phase": "p4",
-  "class": "shaman",
-  "spec": "enhancement",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 4/5 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman gear guide (anchor phase-5-best-in-slot-table). Dual-wields two Havoc's Call, Blade of Lordaeron Kings (or the Royal Scepter as a ranked alternative). Tier set: Sanctified Frost Witch's line, competing with several non-tier drops per slot. Rings/Trinkets split into two named slots with the top pick in slot 1.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p4",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Phase 4/5 (Icecrown Citadel 25 Heroic + The Ruby Sanctum) Best in Slot from the Icy Veins WotLK Classic Enhancement Shaman gear guide (anchor phase-5-best-in-slot-table). Dual-wields two Havoc's Call, Blade of Lordaeron Kings (or the Royal Scepter as a ranked alternative). Tier set: Sanctified Frost Witch's line, competing with several non-tier drops per slot. Rings/Trinkets split into two named slots with the top pick in slot 1.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Faceguard (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Sindragosa's Cruel Claw",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        },
-        {
-          "name": "Amulet of the Silent Eulogy",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Shoulderguards (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Burning Dusk",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Shadowvault Slayer's Cloak",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        },
-        {
-          "name": "Frostbinder's Shredded Cape",
-          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's Chestguard (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        },
-        {
-          "name": "Carapace of Forgotten Kings",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Umbrage Armbands",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Scourge Hunter's Vambraces",
-          "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
-        },
-        {
-          "name": "Bloodsunder's Bracers",
-          "source": "Icecrown Citadel 25 Heroic — Rotface"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Anub'ar Stalker's Gloves",
-          "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
-        },
-        {
-          "name": "Sanctified Frost Witch's Grips (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Split Shape Belt",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Nerub'ar Stalker's Cord",
-          "source": "Icecrown Citadel 25 Heroic — Festergut"
-        },
-        {
-          "name": "Crushing Coldwraith Belt",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sanctified Frost Witch's War-Kilt (Tier 10)",
-          "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Treads of the Wasteland",
-          "source": "Icecrown Citadel 25 Heroic — Prince Valanar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of the Bone Colossus",
-          "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ashen Band of Endless Vengeance",
-          "source": "The Ashen Verdict — reward from Path of Vengeance (Ormus the Penitent)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Phylactery of the Nameless Lich",
-          "source": "Icecrown Citadel 25 Heroic — Sindragosa"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Charred Twilight Scale",
-          "source": "The Ruby Sanctum 25 Heroic — Halion"
-        },
-        {
-          "name": "Deathbringer's Will",
-          "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
-        },
-        {
-          "name": "Whispering Fanged Skull",
-          "source": "Icecrown Citadel 10 Heroic — Lady Deathwhisper"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Havoc's Call, Blade of Lordaeron Kings",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Havoc's Call, Blade of Lordaeron Kings",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        },
-        {
-          "name": "Royal Scepter of Terenas II",
-          "source": "Icecrown Citadel 25 Heroic — The Lich King"
-        }
-      ]
-    },
-    {
-      "slot": "Totem",
-      "items": [
-        {
-          "name": "Bizuri's Totem of Shattered Ice",
-          "source": "30 Emblem of Frost vendor"
-        }
-      ]
+     "name": "Sanctified Frost Witch's Faceguard (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
+     "name": "Sindragosa's Cruel Claw",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing (Frag Belt for engineers)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Berserking",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Amulet of the Silent Eulogy",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+     "name": "Sanctified Frost Witch's Shoulderguards (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Burning Dusk",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Shadowvault Slayer's Cloak",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+    },
+    {
+     "name": "Frostbinder's Shredded Cape",
+     "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Sanctified Frost Witch's Chestguard (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
+    },
+    {
+     "name": "Carapace of Forgotten Kings",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Umbrage Armbands",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Scourge Hunter's Vambraces",
+     "source": "Icecrown Citadel 25 Heroic — Icecrown Gunship Battle — Armory"
+    },
+    {
+     "name": "Bloodsunder's Bracers",
+     "source": "Icecrown Citadel 25 Heroic — Rotface"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Anub'ar Stalker's Gloves",
+     "source": "Icecrown Citadel 25 Heroic — Valithria Dreamwalker"
+    },
+    {
+     "name": "Sanctified Frost Witch's Grips (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 60 Emblem of Frost + Protector's Mark of Sanctification"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Split Shape Belt",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Nerub'ar Stalker's Cord",
+     "source": "Icecrown Citadel 25 Heroic — Festergut"
+    },
+    {
+     "name": "Crushing Coldwraith Belt",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sanctified Frost Witch's War-Kilt (Tier 10)",
+     "source": "Icecrown Citadel 25 Heroic — 95 Emblem of Frost + Protector's Mark of Sanctification"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of the Wasteland",
+     "source": "Icecrown Citadel 25 Heroic — Prince Valanar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of the Bone Colossus",
+     "source": "Icecrown Citadel 25 Heroic — Lord Marrowgar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ashen Band of Endless Vengeance",
+     "source": "The Ashen Verdict — reward from Path of Vengeance (Ormus the Penitent)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Phylactery of the Nameless Lich",
+     "source": "Icecrown Citadel 25 Heroic — Sindragosa"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Charred Twilight Scale",
+     "source": "The Ruby Sanctum 25 Heroic — Halion"
+    },
+    {
+     "name": "Deathbringer's Will",
+     "source": "Icecrown Citadel 25 Heroic — Deathbringer Saurfang"
+    },
+    {
+     "name": "Whispering Fanged Skull",
+     "source": "Icecrown Citadel 10 Heroic — Lady Deathwhisper"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Havoc's Call, Blade of Lordaeron Kings",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Havoc's Call, Blade of Lordaeron Kings",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    },
+    {
+     "name": "Royal Scepter of Terenas II",
+     "source": "Icecrown Citadel 25 Heroic — The Lich King"
+    }
+   ]
+  },
+  {
+   "slot": "Totem",
+   "items": [
+    {
+     "name": "Bizuri's Totem of Shattered Ice",
+     "source": "30 Emblem of Frost vendor"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing (Frag Belt for engineers)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Berserking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Stark Ametrine (+16 hit / +16 expertise) — or Precise Cardinal Ruby / Accurate Ametrine if short on hit/expertise"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (meta activator) — or Balanced Dreadstone / Vivid Eye of Zul / Guardian's Dreadstone for extra blue sockets"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick King's Amber (+16 haste / +16 Agi) — or Stark Ametrine, Accurate Ametrine, Rigid King's Amber, Pristine Ametrine for hit/expertise"
+  }
+ ]
 }

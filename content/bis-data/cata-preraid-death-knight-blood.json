@@ -1,0 +1,201 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "death-knight",
+ "spec": "blood",
+ "role": "Tank",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Blood Death Knight gear guide (pre-raid page): Firelands-era catch-up pre-bis (previous-tier vendor gear via Fissure Stone Fragments). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Rune of the Stoneskin Gargoyle"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Fine Lava Coral"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Lightstone"
+  },
+  {
+   "color": "Blue",
+   "name": "Puissant Elven Peridot"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Reinforced Bio-Optic Killshades",
+     "source": "Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Firebound Gorget",
+     "source": "Firelands — Trash in"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloudburst Cloak",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Magma Plated Chestguard",
+     "source": "2200 Justice Points"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Gigantiform Bracers",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Elementium Deathplate Gauntlets",
+     "source": "1650 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sky Strider Belt",
+     "source": "12 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Elementium Deathplate Greaves",
+     "source": "2200 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Mirrored Boots",
+     "source": "Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Deflecting Brimstone Band",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "80 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Rage",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Symbiotic Worm",
+     "source": "50 Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Reclaimed Ashkandi, Greatsword of the Brotherhood",
+     "source": "30 Fissure Stone Fragment"
+    }
+   ]
+  }
+ ]
+}

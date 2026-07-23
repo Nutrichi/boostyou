@@ -1,245 +1,244 @@
 {
-  "expansion": "wotlk",
-  "phase": "p2",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Protection Warrior Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 2 (Ulduar 25) Best in Slot from the Icy Veins WotLK Classic Protection Warrior Tank gear guide. Rings/Trinkets: the source lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply across phases).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Greathelm",
-          "source": "Thorim — Ulduar 25-Man 58 x Emblems of Conquest"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Bronze Pendant of the Vanir",
-          "source": "Freya HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Siegebreaker Pauldrons",
-          "source": "Yogg-Saron — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Titanskin Cloak",
-          "source": "Mimiron HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of the Timeless",
-          "source": "Algalon the Observer — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Mimiron's Inferno Couplings",
-          "source": "Flame Leviathan — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handguards of Revitalization",
-          "source": "Freya HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Shieldwarder Girdle",
-          "source": "28 x Emblem of Conquest"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of the Endless Void",
-          "source": "Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of the Iron Army",
-          "source": "Mimiron HM — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Fate's Clutch",
-          "source": "Thorim HM — Ulduar 25-Man Auriaya — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Platinum Band of the Aesir",
-          "source": "Thorim HM — Ulduar 25-Man Auriaya — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Heart of Iron",
-          "source": "Ignis the Furnace Master — Ulduar 25-Man Yogg-Saron — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Royal Seal of King Llane",
-          "source": "Ignis the Furnace Master — Ulduar 25-Man Yogg-Saron — Ulduar 10-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand Weapon",
-      "items": [
-        {
-          "name": "Sorthalis, Hammer of the Watchers",
-          "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Bulwark of Algalon",
-          "source": "Algalon the Observer — Ulduar 25-Man"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Veranus' Bane",
-          "source": "Razorscale — Ulduar 25-Man"
-        }
-      ]
+     "name": "Conqueror's Siegebreaker Greathelm",
+     "source": "Thorim — Ulduar 25-Man 58 x Emblems of Conquest"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of the Stalwart Protector",
-      "source": "Argent Crusade — Revered (Mind Amplification Dish for engineers if missing defense)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Gladiator",
-      "source": "Honor quartermaster (Stormwind/Orgrimmar)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Mighty Armor",
-      "source": "Enchanting (Titanweave if missing defense; Flexweave Underlay for engineers)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Super Health",
-      "source": "Enchanting (Greater Defense if missing defense)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Major Stamina",
-      "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Glove Reinforcements",
-      "source": "Blacksmithing (Enchant Gloves — Armsman/Precision otherwise; Reticulated Armor Webbing for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Frosthide Leg Armor",
-      "source": "Leatherworking (crafted, usable by all; Jormungar Leg Reinforcements for leatherworkers)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Tuskarr's Vitality",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Titanium Plating",
-      "source": "Blacksmithing (Enchant Shield — Major Stamina/Defense otherwise)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Stamina",
-      "source": "Enchanting (enchanters only)"
+     "name": "Bronze Pendant of the Vanir",
+     "source": "Freya HM — Ulduar 25-Man"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
-    },
-    {
-      "color": "Red",
-      "name": "Guardian's Dreadstone (+16 defense / +19 stamina) — or Shifting Dreadstone (+19 stamina / +16 dodge)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Vivid Eye of Zul (+16 defense / +19 stamina) — or Enduring Eye of Zul (+16 hit / +19 stamina), or Rigid King's Amber for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Majestic Zircon (+30 stamina)"
+     "name": "Conqueror's Siegebreaker Pauldrons",
+     "source": "Yogg-Saron — Ulduar 25-Man"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Titanskin Cloak",
+     "source": "Mimiron HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of the Timeless",
+     "source": "Algalon the Observer — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Mimiron's Inferno Couplings",
+     "source": "Flame Leviathan — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of Revitalization",
+     "source": "Freya HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Shieldwarder Girdle",
+     "source": "28 x Emblem of Conquest"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of the Endless Void",
+     "source": "Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of the Iron Army",
+     "source": "Mimiron HM — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fate's Clutch",
+     "source": "Thorim HM — Ulduar 25-Man Auriaya — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Platinum Band of the Aesir",
+     "source": "Thorim HM — Ulduar 25-Man Auriaya — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Iron",
+     "source": "Ignis the Furnace Master — Ulduar 25-Man Yogg-Saron — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Royal Seal of King Llane",
+     "source": "Ignis the Furnace Master — Ulduar 25-Man Yogg-Saron — Ulduar 10-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand Weapon",
+   "items": [
+    {
+     "name": "Sorthalis, Hammer of the Watchers",
+     "source": "XT-002 Deconstructor HM — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Bulwark of Algalon",
+     "source": "Algalon the Observer — Ulduar 25-Man"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Veranus' Bane",
+     "source": "Razorscale — Ulduar 25-Man"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered (Mind Amplification Dish for engineers if missing defense)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Mighty Armor",
+   "source": "Enchanting (Titanweave if missing defense; Flexweave Underlay for engineers)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Super Health",
+   "source": "Enchanting (Greater Defense if missing defense)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting (Fur Lining — Stamina for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Glove Reinforcements",
+   "source": "Blacksmithing (Enchant Gloves — Armsman/Precision otherwise; Reticulated Armor Webbing for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; Jormungar Leg Reinforcements for leatherworkers)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Tuskarr's Vitality",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Titanium Plating",
+   "source": "Blacksmithing (Enchant Shield — Major Stamina/Defense otherwise)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Stamina",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Guardian's Dreadstone (+16 defense / +19 stamina) — or Shifting Dreadstone (+19 stamina / +16 dodge)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Vivid Eye of Zul (+16 defense / +19 stamina) — or Enduring Eye of Zul (+16 hit / +19 stamina), or Rigid King's Amber for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina)"
+  }
+ ]
 }

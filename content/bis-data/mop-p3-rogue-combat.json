@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "p3",
-  "class": "rogue",
-  "spec": "combat",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Per Icy Veins, several Throne of Thunder Heroic pieces (Nine-Tailed) remain BiS for Combat in Phase 5 — double-check before farming old content. Capacitive Primal Diamond is the legendary meta. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p3",
+ "class": "rogue",
+ "spec": "combat",
+ "role": "Melee DPS",
+ "notes": "Per Icy Veins, several Throne of Thunder Heroic pieces (Nine-Tailed) remain BiS for Combat in Phase 5 — double-check before farming old content. Capacitive Primal Diamond is the legendary meta. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Kor'kron Elite Skullmask",
-          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Immerseus' Crystalline Eye",
-          "source": "Siege of Orgrimmar Heroic — Immerseus"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Nine-Tailed Spaulders",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Fen-Yu, Fury of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Nine-Tailed Tunic",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bomber's Blackened Wristwatch",
-          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Nine-Tailed Gloves",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Damron's Belt of Darkness",
-          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Nine-Tailed Legguards",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Pandaren Roofsprinters",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Swift Serpent Signet",
-          "source": "Siege of Orgrimmar Heroic — Galakras"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Kil'ruk's Band of Ascendancy",
-          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Haromm's Talisman",
-          "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Assurance of Consequence",
-          "source": "Siege of Orgrimmar Heroic — Sha of Pride"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Enchanted Shao-Tien Saber",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Enchanted Shao-Tien Saber",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
+     "name": "Kor'kron Elite Skullmask",
+     "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Accuracy (+180 hit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Greater Haste (+170 haste)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
+     "name": "Immerseus' Crystalline Eye",
+     "source": "Siege of Orgrimmar Heroic — Immerseus"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Deft Vermilion Onyx (+80 Agi / +160 haste)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Quick Sun's Radiance (+320 haste)"
-    },
-    {
-      "color": "Blue",
-      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+     "name": "Nine-Tailed Spaulders",
+     "source": "Throne of Thunder Heroic — Iron Qon"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Fen-Yu, Fury of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Nine-Tailed Tunic",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bomber's Blackened Wristwatch",
+     "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Nine-Tailed Gloves",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Damron's Belt of Darkness",
+     "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Nine-Tailed Legguards",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Pandaren Roofsprinters",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Swift Serpent Signet",
+     "source": "Siege of Orgrimmar Heroic — Galakras"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Kil'ruk's Band of Ascendancy",
+     "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Haromm's Talisman",
+     "source": "Siege of Orgrimmar Heroic — Kor'kron Dark Shaman"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Assurance of Consequence",
+     "source": "Siege of Orgrimmar Heroic — Sha of Pride"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Enchanted Shao-Tien Saber",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Enchanted Shao-Tien Saber",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Accuracy (+180 hit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Greater Haste (+170 haste)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Deft Vermilion Onyx (+80 Agi / +160 haste)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Quick Sun's Radiance (+320 haste)"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+  }
+ ]
 }

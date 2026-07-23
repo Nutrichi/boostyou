@@ -1,264 +1,263 @@
 {
-  "expansion": "tbc",
-  "phase": "p3",
-  "class": "druid",
-  "spec": "feral",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Feral Druid Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p3",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Phase 3 (Mount Hyjal & Black Temple, Tier 6) Best in Slot from the Icy Veins TBC Classic Feral Druid Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (both raid tiers are already fully documented regardless of the TBC Anniversary realm's current progress). Icy Veins lists identical gear for Phase 3 and Phase 4 for this spec — Zul'Aman apparently offered no BiS upgrades over Black Temple/Hyjal Tier 6 gear for this role. Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Wolfshead Helm",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Braided Eternium Chain",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Telonicus's Pendant of Mayhem",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Thunderheart Pauldrons",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Thalassian Wildercloak",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Thunderheart Chestguard",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Vindicator's Dragonhide Bracers",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Thunderheart Gauntlets",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of One-Hundred Deaths",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Thunderheart Leggings",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Shadowmaster's Boots",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Nyn'jah's Tabi Boots",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Badge of Justice",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Rings",
-      "items": [
-        {
-          "name": "Band of the Eternal Champion",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Signet of Primal Wrath",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Unstoppable Aggressor's Ring",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Trinkets",
-      "items": [
-        {
-          "name": "Tsunami Talisman",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Berserker's Call",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Madness of the Betrayer",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Mark of the Champion",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Bloodlust Brooch",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Badge of Justice",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Empty Mug of Direbrew",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Dragonspine Trophy",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand",
-      "items": [
-        {
-          "name": "Vengeful Gladiator's Staff",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
-    },
-    {
-      "slot": "Relics",
-      "items": [
-        {
-          "name": "Idol of the Raven Goddess",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Everbloom Idol",
-          "source": "Icy Veins TBC Classic gear guide"
-        },
-        {
-          "name": "Badge of Justice",
-          "source": "Icy Veins TBC Classic gear guide"
-        }
-      ]
+     "name": "Wolfshead Helm",
+     "source": "Icy Veins TBC Classic gear guide"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Braided Eternium Chain",
+     "source": "Icy Veins TBC Classic gear guide"
     },
     {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge from Sapphiron in Naxxramas Greater Inscription of Vengeance available once at Exalted reputation with the The Aldor Greater Inscription of the Blade available once at Exalted reputation with the The Scryers",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Agility",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Exceptional Stats",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Brawn",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Superior Agility",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Cat's Swiftness",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant 2H Weapon - Major Agility",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring - Stats",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Telonicus's Pendant of Mayhem",
+     "source": "Icy Veins TBC Classic gear guide"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage) — often skipped since Wolfshead Helm outperforms any meta-socketed helm"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Crimson Spinel (+8 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Glinting Pyrestone (+4 Agi / +4 hit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Shifting Shadowsong Amethyst (+5 dodge / +6 stamina) — rarely needed since Wolfshead Helm skips the meta socket"
+     "name": "Thunderheart Pauldrons",
+     "source": "Icy Veins TBC Classic gear guide"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Thalassian Wildercloak",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Thunderheart Chestguard",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Vindicator's Dragonhide Bracers",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Thunderheart Gauntlets",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of One-Hundred Deaths",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Thunderheart Leggings",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Shadowmaster's Boots",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Nyn'jah's Tabi Boots",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Badge of Justice",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Rings",
+   "items": [
+    {
+     "name": "Band of the Eternal Champion",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Signet of Primal Wrath",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Unstoppable Aggressor's Ring",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Trinkets",
+   "items": [
+    {
+     "name": "Tsunami Talisman",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Berserker's Call",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Madness of the Betrayer",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Mark of the Champion",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Bloodlust Brooch",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Badge of Justice",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Empty Mug of Direbrew",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Dragonspine Trophy",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Vengeful Gladiator's Staff",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  },
+  {
+   "slot": "Relics",
+   "items": [
+    {
+     "name": "Idol of the Raven Goddess",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Everbloom Idol",
+     "source": "Icy Veins TBC Classic gear guide"
+    },
+    {
+     "name": "Badge of Justice",
+     "source": "Icy Veins TBC Classic gear guide"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge from Sapphiron in Naxxramas Greater Inscription of Vengeance available once at Exalted reputation with the The Aldor Greater Inscription of the Blade available once at Exalted reputation with the The Scryers",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Agility",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Exceptional Stats",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Brawn",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Superior Agility",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Cat's Swiftness",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant 2H Weapon - Major Agility",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring - Stats",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthstorm Diamond (+37 crit, +3% crit damage) — often skipped since Wolfshead Helm outperforms any meta-socketed helm"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Crimson Spinel (+8 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Glinting Pyrestone (+4 Agi / +4 hit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Shifting Shadowsong Amethyst (+5 dodge / +6 stamina) — rarely needed since Wolfshead Helm skips the meta socket"
+  }
+ ]
 }

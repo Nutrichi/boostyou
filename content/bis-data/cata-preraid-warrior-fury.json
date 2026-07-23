@@ -1,0 +1,261 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Fury Warrior gear guide (pre-raid page): Phase 4 pre-bis (Hour of Twilight dungeons / 4.3 valor gear). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Wildhammer — or Arcanum of the Dragonmaw",
+   "source": "Wildhammer Clan — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Jagged Stone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Mighty Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Strength (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Landslide",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Reverberating Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Inscribed Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Shadow Spinel"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Bold Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Helmet",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Necklace of Black Dragon's Teeth",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Backbreaker Spaulders",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Dreamcrusher Drape",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Battleplate",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Rockhide Bracers",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Gauntlets",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Runescriven Demon Collar",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Colossal Dragonplate Legplates",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Treads of Crushed Flesh",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Breathstealer Band",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Curled Twilight Claw",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bone-Link Fetish",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Creche of the Final Dragon",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand (Titan's Grip)",
+   "items": [
+    {
+     "name": "Gurthalak, Voice of the Deeps",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand (Titan's Grip)",
+   "items": [
+    {
+     "name": "Gurthalak, Voice of the Deeps",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand (Single-Minded Fury)",
+   "items": [
+    {
+     "name": "No'Kaled, the Elements of Death",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand (Single-Minded Fury)",
+   "items": [
+    {
+     "name": "Hand of Morchok",
+     "source": "Twilight Protocol Dungeons"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Darting Chakram",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

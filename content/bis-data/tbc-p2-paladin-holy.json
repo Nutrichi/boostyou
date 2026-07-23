@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p2",
-  "class": "paladin",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Matching socket bonuses is worth it for Holy — the free stats usually beat raw stacking. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p2",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Matching socket bonuses is worth it for Holy — the free stats usually beat raw stacking. Draft compiled from Icy Veins TBC Classic guides for the Anniversary realms' Phase 2 (SSC & Tempest Keep).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Crystalforge Greathelm (Tier 5)",
-          "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Lord Sanguinar's Claim",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Crystalforge Pauldrons (Tier 5)",
-          "source": "Tempest Keep — Void Reaver (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Sunshower Light Cloak",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Crystalforge Chestpiece (Tier 5)",
-          "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Blackfathom Warbands",
-          "source": "Serpentshrine Cavern — Hydross the Unstable"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Glorious Gauntlets of Crestfall",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Girdle of Fallen Stars",
-          "source": "Tempest Keep — trash drop"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Sunhawk Leggings",
-          "source": "Tempest Keep — Kael'thas Sunstrider"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Courage Unending",
-          "source": "Serpentshrine Cavern — trash drop"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Coral Band of the Revived",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Naaru Lightwarden's Band",
-          "source": "Magtheridon's Lair — Magtheridon"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Essence of the Martyr",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Ribbon of Sacrifice",
-          "source": "Karazhan — Opera Event"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Lightfathom Scepter",
-          "source": "Serpentshrine Cavern — Lady Vashj"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Talisman of the Sun King",
-          "source": "Tempest Keep — Al'ar"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Blessed Book of Nagrand",
-          "source": "Quest — The Ultimate Bloodsport (Nagrand)"
-        }
-      ]
+     "name": "Crystalforge Greathelm (Tier 5)",
+     "source": "Serpentshrine Cavern — Lady Vashj (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
-      "source": "Honor Hold / Thrallmar — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Faith (+46 healing)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Armor (+120 armor)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Restore Mana Prime (+6 mp5)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Superior Healing (+30 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Healing (+35 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Golden Spellthread (+66 healing / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Healing (+81 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield — Intellect (+12 Int)",
-      "source": "Enchanting"
+     "name": "Lord Sanguinar's Claim",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
-    },
-    {
-      "color": "Red",
-      "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Luminous Noble Topaz (+9 healing / +4 Int; Luminous Pyrestone from P3)"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Nightseye (+9 healing / +2 mp5; Royal Shadowsong Amethyst from P3)"
+     "name": "Crystalforge Pauldrons (Tier 5)",
+     "source": "Tempest Keep — Void Reaver (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Sunshower Light Cloak",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Crystalforge Chestpiece (Tier 5)",
+     "source": "Tempest Keep — Kael'thas Sunstrider (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Blackfathom Warbands",
+     "source": "Serpentshrine Cavern — Hydross the Unstable"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Glorious Gauntlets of Crestfall",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Girdle of Fallen Stars",
+     "source": "Tempest Keep — trash drop"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sunhawk Leggings",
+     "source": "Tempest Keep — Kael'thas Sunstrider"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Courage Unending",
+     "source": "Serpentshrine Cavern — trash drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Coral Band of the Revived",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Naaru Lightwarden's Band",
+     "source": "Magtheridon's Lair — Magtheridon"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Essence of the Martyr",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Ribbon of Sacrifice",
+     "source": "Karazhan — Opera Event"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Lightfathom Scepter",
+     "source": "Serpentshrine Cavern — Lady Vashj"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Talisman of the Sun King",
+     "source": "Tempest Keep — Al'ar"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Blessed Book of Nagrand",
+     "source": "Quest — The Ultimate Bloodsport (Nagrand)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+   "source": "Honor Hold / Thrallmar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Faith (+46 healing)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Armor (+120 armor)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Restore Mana Prime (+6 mp5)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Superior Healing (+30 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Healing (+35 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Golden Spellthread (+66 healing / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Healing (+81 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield — Intellect (+12 Int)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+  },
+  {
+   "color": "Red",
+   "name": "Teardrop Living Ruby (+18 healing; Teardrop Crimson Spinel from P3)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Luminous Noble Topaz (+9 healing / +4 Int; Luminous Pyrestone from P3)"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Nightseye (+9 healing / +2 mp5; Royal Shadowsong Amethyst from P3)"
+  }
+ ]
 }

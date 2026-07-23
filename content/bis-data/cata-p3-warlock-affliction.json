@@ -1,0 +1,217 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "warlock",
+ "spec": "affliction",
+ "role": "Ranged DPS",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Affliction Warlock gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone — or Lesser Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats — or Enchant Chest - Mighty Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Enchanted Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker — or Enchant Boots - Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Burning Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Inferno Ruby — used in nearly all sockets; only match other colors for strong socket bonuses"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Hood of the Faceless Shroud",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Opal of the Secret Order",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of the Faceless Shroud",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Nanoprecise Cape",
+     "source": "1,250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of the Faceless Shroud",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Banished",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Liquid Smoke",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Cord of the Slain Champion",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Faceless Shroud",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Janglespur Jackboots",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Infinite Loop",
+     "source": "Dragon Soul Heroic — Shared Loot"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of the Riven",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Cunning of the Cruel",
+     "source": "Dragon Soul Heroic — Shared Loot"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Insignia of the Corrupted Mind",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Dragonwrath, Tarecgosa's Rest",
+     "source": "Dragonwrath, Tarecgosa's Rest"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Finger of Zon'ozz",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  }
+ ]
+}

@@ -1,268 +1,267 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Holy Paladin Healer gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Holy Paladin Healer gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Headguard of Inner Warmth",
-          "source": "75 Emblem of Triumph"
-        },
-        {
-          "name": "Helm of Inner Warmth",
-          "source": "75 Emblem of Triumph"
-        }
-      ]
+     "name": "Headguard of Inner Warmth",
+     "source": "75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Wail of the Val'kyr",
-          "source": "30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Cry of the Val'kyr",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Observer's Mantle",
-          "source": "24 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Displacement",
-          "source": "30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Shroud of Displacement",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Merlin's Robe",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bejeweled Wizard's Bracers",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Turalyon's Gloves of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Liadrin's Gloves of Triumph",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Strip of Remorse",
-          "source": "Halls of Reflection"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Woven Death",
-          "source": "Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Earthsoul Boots",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Darkmender",
-          "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Circle of the Darkmender",
-          "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
-        },
-        {
-          "name": "Nebula Band",
-          "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Darkmoon Card: Greatness",
-          "source": "Darkmoon Faire 24 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Meteorite Crystal",
-          "source": "Darkmoon Faire 24 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Misery's End",
-          "source": "60 Defiler's Scourgestone"
-        },
-        {
-          "name": "Suffering's End",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Bastion of Purity",
-          "source": "50 Defiler's Scourgestone"
-        },
-        {
-          "name": "Bastion of Resolve",
-          "source": "50 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Renewal",
-          "source": "15 Emblem of Heroism"
-        }
-      ]
+     "name": "Helm of Inner Warmth",
+     "source": "75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Burning Mysteries",
-      "source": "The Kirin Tor — Revered"
+     "name": "Wail of the Val'kyr",
+     "source": "30 Defiler's Scourgestone"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Storm",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Exceptional Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Exceptional Spellpower",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Sapphire Spellthread",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Intellect",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off-Hand",
-      "name": "Enchant Shield — Greater Intellect",
-      "source": "Enchanting"
+     "name": "Cry of the Val'kyr",
+     "source": "30 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
-    },
-    {
-      "color": "Red",
-      "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Brilliant King's Amber (+23 Int)"
-    },
-    {
-      "color": "Blue",
-      "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+     "name": "Observer's Mantle",
+     "source": "24 Sidereal Essence"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Displacement",
+     "source": "30 Defiler's Scourgestone"
+    },
+    {
+     "name": "Shroud of Displacement",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Merlin's Robe",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bejeweled Wizard's Bracers",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Turalyon's Gloves of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Liadrin's Gloves of Triumph",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Strip of Remorse",
+     "source": "Halls of Reflection"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Woven Death",
+     "source": "Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Earthsoul Boots",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Darkmender",
+     "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Circle of the Darkmender",
+     "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
+    },
+    {
+     "name": "Nebula Band",
+     "source": "30 Defiler's Scourgestone 19 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Greatness",
+     "source": "Darkmoon Faire 24 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Meteorite Crystal",
+     "source": "Darkmoon Faire 24 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Misery's End",
+     "source": "60 Defiler's Scourgestone"
+    },
+    {
+     "name": "Suffering's End",
+     "source": "60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Bastion of Purity",
+     "source": "50 Defiler's Scourgestone"
+    },
+    {
+     "name": "Bastion of Resolve",
+     "source": "50 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Renewal",
+     "source": "15 Emblem of Heroism"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Burning Mysteries",
+   "source": "The Kirin Tor — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Storm",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Exceptional Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Exceptional Spellpower",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Sapphire Spellthread",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield — Greater Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthsiege Diamond (+34 Int, chance to restore mana on spellcast)"
+  },
+  {
+   "color": "Red",
+   "name": "Luminous Ametrine (+Int, if better than matching a socket bonus)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Brilliant King's Amber (+23 Int)"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — or a matched socket bonus that grants more Intellect"
+  }
+ ]
 }

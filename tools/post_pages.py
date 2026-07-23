@@ -172,7 +172,7 @@ def update_newcontent(posts):
         f'    <li><a href="{p["page"]}">{esc(p["title"])}</a> <span style="color:#94a3b8;font-size:0.85rem;">{esc(p["date_h"])}</span></li>'
         for p in posts)
     block = (f"{NEWS_START_HTML}\n"
-             '<section aria-label="All news posts" style="margin-top:2rem;">\n'
+             '<section class="news-static-list" aria-label="All news posts" style="margin-top:2rem;">\n'
              '  <h2 style="font-size:1.05rem;color:#f1f5f9;margin-bottom:0.6rem;">All posts</h2>\n'
              '  <ul style="list-style:none;padding:0;">\n'
              f"{links}\n"

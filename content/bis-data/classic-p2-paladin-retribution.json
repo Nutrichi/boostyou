@@ -1,195 +1,194 @@
 {
-  "expansion": "classic",
-  "phase": "p2",
-  "class": "paladin",
-  "spec": "retribution",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Retribution Paladin Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p2",
+ "class": "paladin",
+ "spec": "retribution",
+ "role": "Melee DPS",
+ "notes": "Icy Veins' own \"Phase 2\" table — a refined/current-patch version of the Molten Core & Onyxia's Lair list (adding PvP and world boss items). It does not correspond to a distinct \"Dire Maul\" list on the source; used here as the closest available approximation for our Phase 2 (Dire Maul) slot. No dedicated Dire Maul BiS table was found on Icy Veins for standard Classic Era. Best in Slot from the Icy Veins WoW Classic Era Retribution Paladin Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Lionheart Helm",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Onyxia Tooth Pendant",
-          "source": "Celebrating Good Times"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Truestrike Shoulders",
-          "source": "Pyroguard Emberseer Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cape of the Black Baron",
-          "source": "Baron Rivendare Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Savage Gladiator Chain",
-          "source": "Gorosh the Dervish Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Wrist",
-      "items": [
-        {
-          "name": "Wristguards of Stability",
-          "source": "Shared Loot Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Flameguard Gauntlets",
-          "source": "Shared Loot Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Onslaught Girdle",
-          "source": "Ragnaros Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Cloudkeeper Legplates",
-          "source": "BoE World Drop"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Bloodmail Boots",
-          "source": "Shared Loot Scholomance"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Quick Strike Ring",
-          "source": "Shared Loot Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Painweaver Band",
-          "source": "General Drakkisath Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Hand of Justice",
-          "source": "Emperor Dagran Thaurissan Blackrock Depths"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Blackhand's Breadth",
-          "source": "General Drakkisath's Demise"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Bonereaver's Edge",
-          "source": "Ragnaros Molten Core"
-        }
-      ]
+     "name": "Lionheart Helm",
+     "source": "Blacksmithing"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Lesser Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Greater Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Greater Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Melee Weapon",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Onyxia Tooth Pendant",
+     "source": "Celebrating Good Times"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Pyroguard Emberseer Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Wrist",
+   "items": [
+    {
+     "name": "Wristguards of Stability",
+     "source": "Shared Loot Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Flameguard Gauntlets",
+     "source": "Shared Loot Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Onslaught Girdle",
+     "source": "Ragnaros Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Cloudkeeper Legplates",
+     "source": "BoE World Drop"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Bloodmail Boots",
+     "source": "Shared Loot Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Quick Strike Ring",
+     "source": "Shared Loot Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "General Drakkisath's Demise"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Bonereaver's Edge",
+     "source": "Ragnaros Molten Core"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Greater Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Lesser Arcanum of Voracity — from the quest Libram of Voracity in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Greater Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

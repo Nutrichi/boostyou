@@ -1,0 +1,354 @@
+{
+ "expansion": "wotlk",
+ "phase": "p1",
+ "class": "death-knight",
+ "spec": "blood",
+ "role": "Tank",
+ "notes": "Phase 1 (Naxxramas, The Obsidian Sanctum & The Eye of Eternity) Best in Slot from Wowhead's WotLK Classic guide (wowhead.com/wotlk/guide/classes/death-knight/blood/...-bis-gear-pve-phase-1) — used because Icy Veins has no Phase 1 table for this class. Sources kept as written by the guide (they mix boss drops, emblem purchases and crafted items; wording varies per guide author). Two-Hand is the primary tank weapon list; One-Hand is the dual-wield tank alternative. Enchants and gems reused from the wotlk/p4 profile for this spec (same stat priorities; some gems are later-phase cuts — use the equivalent lower-tier cut in Phase 1).",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Stalwart Protector",
+   "source": "Argent Crusade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Gladiator",
+   "source": "Honor quartermaster (Stormwind/Orgrimmar)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Frosthide Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Greater Fortitude",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Stoneskin Gargoyle",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Earthsiege Diamond (+30 stamina, +2% armor from items)"
+  },
+  {
+   "color": "Red",
+   "name": "Sovereign Dreadstone (+16 defense / +19 stamina)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Eye of Zul (+16 hit / +19 stamina) — or Vivid Eye of Zul (+16 defense / +19 stamina) if defense-capped"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Majestic Zircon (+30 stamina) — or Eye of Zul variants if short on defense/hit"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Faceguard",
+     "source": "Naxxramas / Griselda Hunderland — Turn in reward from Crown of the Lost Vanquisher dropped by Kel'Thuzad"
+    },
+    {
+     "name": "Helm of Vital Protection",
+     "source": "Naxxramas — Gothik the Harvester"
+    },
+    {
+     "name": "Thane's Tainted Greathelm",
+     "source": "Naxxramas — Four Horsemen Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Pauldrons",
+     "source": "Arcanist Adurin / Naxxramas / Griselda Hunderland — Turn in reward from Mantle of the Lost Vanquisher dropped by Loatheb and Gluth, or bought with 60 Emblem of Valor."
+    },
+    {
+     "name": "Pauldrons of Unnatural Death",
+     "source": "Naxxramas — Anub'Rekhan"
+    },
+    {
+     "name": "Abomination Shoulderblades",
+     "source": "Naxxramas — Patchwerk"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Shadowed Sun",
+     "source": "Naxxramas — Zone Drop"
+    },
+    {
+     "name": "Platinum Mesh Cloak",
+     "source": "Arcanist Adurin — Costs 25 Emblem of Valor"
+    },
+    {
+     "name": "Gale-Proof Cloak",
+     "source": "The Obsidian Sanctum 10-man — Sartharion"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Chestguard",
+     "source": "Naxxramas / Griselda Hunderland — Turn in reward from Breastplate of the Lost Vanquisher dropped by Four Horsemen Chest and Gluth."
+    },
+    {
+     "name": "Dragonstorm Breastplate",
+     "source": "The Obsidian Sanctum 25-man — Sartharion"
+    },
+    {
+     "name": "Breastplate of Tormented Rage",
+     "source": "Naxxramas — Gluth and Heigan the Unclean"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Unholy Knight",
+     "source": "Naxxramas — Instructor Razuvious"
+    },
+    {
+     "name": "Bracers of Dalaran's Parapets",
+     "source": "Arcanist Adurin — Costs 60 Emblem of Valor"
+    },
+    {
+     "name": "Minion Bracers",
+     "source": "Naxxramas 10-man — Zone drop"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Valorous Scourgeborne Handguards",
+     "source": "Sartharion 25-man — Turn in reward for Gauntlets of the Lost Vanquisher"
+    },
+    {
+     "name": "Callous-Hearted Gauntlets",
+     "source": "Naxxramas — Grand Widow Faerlina"
+    },
+    {
+     "name": "Heroes' Scourgeborne Handguards",
+     "source": "/ Naxxramas / Griselda Hunderland — Turn in reward from Gloves of the Lost Vanquisher costing 60 Emblem of Heroism or The Obsidian Sanctum 10-man"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ablative Chitin Girdle",
+     "source": "Naxxramas — Maexxna"
+    },
+    {
+     "name": "Waistguard of Living Iron",
+     "source": "Arcanist Ivrenne — Costs 40 Emblem of Heroism"
+    },
+    {
+     "name": "Ancient Aligned Girdle",
+     "source": "Azjol-Nerub — Anub'arak"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Sovereignty",
+     "source": "The Eye of Eternity 25-man — Contained in Alexstrasza's Gift"
+    },
+    {
+     "name": "Valorous Scourgeborne Legguards",
+     "source": "Arcanist Adurin / Naxxramas / Griselda Hunderland — Turn in reward from Legplates of the Lost Vanquisher dropped by Thaddius and Gluth, or bought with 75 Emblem of Valor."
+    },
+    {
+     "name": "Dragon Brood Legguards",
+     "source": "The Obsidian Sanctum 25-man — Sartharion"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sabatons of Endurance",
+     "source": "Naxxramas — Thaddius"
+    },
+    {
+     "name": "Kyzoc's Ground Stompers",
+     "source": "Arcanist Adurin — Costs 60 Emblem of Valor"
+    },
+    {
+     "name": "Plague-Impervious Boots",
+     "source": "Naxxramas 10-man — Noth the Plaguebringer"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Boundless Ambition",
+     "source": "Naxxramas — Kel'Thuzad"
+    },
+    {
+     "name": "Heritage",
+     "source": "Naxxramas — Zone Drop"
+    },
+    {
+     "name": "Chained Military Gorget",
+     "source": "Arcanist Ivrenne — Costs 40 Emblem of Heroism"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet of the Impregnable Fortress",
+     "source": "Arcanist Adurin — Costs 25"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Gatekeeper",
+     "source": "Naxxramas — Sapphiron"
+    },
+    {
+     "name": "Sand-Worn Band",
+     "source": "Naxxramas — Zone Drop"
+    },
+    {
+     "name": "Deflection Band",
+     "source": "Naxxramas 10-man — Anub'Rekhan"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Figurine - Monarch Crab",
+     "source": "Jewelcrafting — Crafted BoP"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Figurine - Ruby Hare",
+     "source": "Jewelcrafting — Crafted BoP"
+    },
+    {
+     "name": "Essence of Gossamer",
+     "source": "Azjol-Nerub — Drop from Hadronox"
+    },
+    {
+     "name": "Valor Medal of the First War",
+     "source": "Costs 40 Emblem of Heroism"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Deadly Gladiator's Bonegrinder",
+     "source": "Nargle Lashcord — Requires 4500 Arena Points and a Personal Rating of 1930."
+    },
+    {
+     "name": "Inevitable Defeat",
+     "source": "Naxxramas — Zone Drop"
+    },
+    {
+     "name": "Betrayer of Humanity",
+     "source": "Naxxramas — Kel'Thuzad"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Last Laugh",
+     "source": "Naxxramas — Kel'Thuzad"
+    },
+    {
+     "name": "Deadly Gladiator's Cleaver",
+     "source": "Nargle Lashcord — Requires 3150 Arena Points and a Personal Rating of 1930."
+    },
+    {
+     "name": "Broken Promise",
+     "source": "Naxxramas — Four Horsemen Chest"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Sigil of the Unfaltering Knight",
+     "source": "Costs 15 Emblem of Heroism"
+    },
+    {
+     "name": "Sigil of the Frozen Conscience",
+     "source": "Purkom — Costs 30 Venture Coin"
+    },
+    {
+     "name": "Sigil of Awareness",
+     "source": "Arcanist Adurin — Costs 25 Emblem of Valor"
+    }
+   ]
+  }
+ ]
+}

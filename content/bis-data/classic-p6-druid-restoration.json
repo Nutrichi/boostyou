@@ -1,213 +1,212 @@
 {
-  "expansion": "classic",
-  "phase": "p6",
-  "class": "druid",
-  "spec": "restoration",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p6",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Restoration Druid Healer gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Crystal Adorned Crown",
-          "source": "Azuregos , the world boss in Azshara"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of the Fallen God",
-          "source": "Reward from turning in the eye that drops from C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Wild Growth Spaulders",
-          "source": "Majordomo Executus in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of Suturing",
-          "source": "Patchwerk in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Dreamwalker Tunic",
-          "source": "Four Horsemen in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracelets of Royal Redemption",
-          "source": "Emperor Vek'nilash in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Dreamwalker Handguards",
-          "source": "Maexxna in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Grasp of the Old God",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Empowered Leggings",
-          "source": "Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of Pure Thought",
-          "source": "Trash BoE in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Pure Elementium Band",
-          "source": "Nefarian in Blackwing Lair Anub'Rekhan in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Unanswered Prayers",
-          "source": "Nefarian in Blackwing Lair Anub'Rekhan in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Rejuvenating Gem",
-          "source": "The three drakes in Blackwing Lair Sapphiron in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Eye of the Dead",
-          "source": "The three drakes in Blackwing Lair Sapphiron in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "Hammer of the Twisting Nether",
-          "source": "Kel'Thuzad in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hands",
-      "items": [
-        {
-          "name": "Sapphiron's Right Eye",
-          "source": "Sapphiron in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Idols",
-      "items": [
-        {
-          "name": "Idol of Health",
-          "source": "Viscidus in AQ40"
-        }
-      ]
+     "name": "Crystal Adorned Crown",
+     "source": "Azuregos , the world boss in Azshara"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Healing Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Amulet of the Fallen God",
+     "source": "Reward from turning in the eye that drops from C'Thun in AQ40"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wild Growth Spaulders",
+     "source": "Majordomo Executus in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of Suturing",
+     "source": "Patchwerk in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dreamwalker Tunic",
+     "source": "Four Horsemen in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracelets of Royal Redemption",
+     "source": "Emperor Vek'nilash in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Dreamwalker Handguards",
+     "source": "Maexxna in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Grasp of the Old God",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Empowered Leggings",
+     "source": "Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Pure Thought",
+     "source": "Trash BoE in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Pure Elementium Band",
+     "source": "Nefarian in Blackwing Lair Anub'Rekhan in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Unanswered Prayers",
+     "source": "Nefarian in Blackwing Lair Anub'Rekhan in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Rejuvenating Gem",
+     "source": "The three drakes in Blackwing Lair Sapphiron in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Eye of the Dead",
+     "source": "The three drakes in Blackwing Lair Sapphiron in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Hammer of the Twisting Nether",
+     "source": "Kel'Thuzad in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hands",
+   "items": [
+    {
+     "name": "Sapphiron's Right Eye",
+     "source": "Sapphiron in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Idols",
+   "items": [
+    {
+     "name": "Idol of Health",
+     "source": "Viscidus in AQ40"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Resilience of the Scourge — drops from Sapphiron in Naxxramas",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Animist's Caress — from the quest Animist's Caress from the Zandalar Tribe in Stranglethorn Vale.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Healing Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

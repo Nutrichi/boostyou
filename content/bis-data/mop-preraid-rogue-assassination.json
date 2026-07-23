@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "rogue",
-  "spec": "assassination",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "rogue",
+ "spec": "assassination",
+ "role": "Melee DPS",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for other classes). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helmet of the Barbed Assassin (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Immerseus' Crystalline Eye",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Spaulders of the Barbed Assassin (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Fen-Yu, Fury of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Tunic of the Barbed Assassin (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bomber's Blackened Wristwatch",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Barbed Assassin (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Damron's Belt of Darkness",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Riou's Vigilant Leggings",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (multiple bosses)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Unrepentant Heels",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of Restless Energy",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Kil'ruk's Band of Ascendancy",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Haromm's Talisman",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Assurance of Consequence",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Nazgrim's Gutripper",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Nazgrim's Gutripper",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
-        }
-      ]
+     "name": "Helmet of the Barbed Assassin (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty, tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Accuracy (+180 hit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
+     "name": "Immerseus' Crystalline Eye",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Immerseus)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Primordial Ruby (+160 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Delicate Primordial Ruby — or Adept Vermilion Onyx (+80 Agi / +160 mastery) for strong socket bonuses"
-    },
-    {
-      "color": "Blue",
-      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+     "name": "Spaulders of the Barbed Assassin (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse, tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Fen-Yu, Fury of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Tunic of the Barbed Assassin (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bomber's Blackened Wristwatch",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Barbed Assassin (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim, tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Damron's Belt of Darkness",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Riou's Vigilant Leggings",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (multiple bosses)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Unrepentant Heels",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Galakras)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Restless Energy",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Kil'ruk's Band of Ascendancy",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Haromm's Talisman",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Assurance of Consequence",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride)"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Nazgrim's Gutripper",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Nazgrim's Gutripper",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Accuracy (+180 hit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Primordial Ruby (+160 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Delicate Primordial Ruby — or Adept Vermilion Onyx (+80 Agi / +160 mastery) for strong socket bonuses"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+  }
+ ]
 }

@@ -1,0 +1,226 @@
+{
+ "expansion": "cata",
+ "phase": "p1",
+ "class": "warlock",
+ "spec": "affliction",
+ "role": "Ranged DPS",
+ "notes": "Tier 11 (Blackwing Descent, The Bastion of Twilight & Throne of the Four Winds, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Affliction Warlock gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). The source combines Blizzard Phase 1 & 2 into a single T11 list (Phase 2 added no raid). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Hyjal",
+   "source": "Guardians of Hyjal — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Charged Lodestone — or Lesser Inscription of Charged Lodestone",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats — or Enchant Chest - Mighty Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Mighty Intellect",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Haste",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Powerful Enchanted Spellthread",
+   "source": "Tailoring"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker — or Enchant Boots - Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Power Torrent",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Off-Hand - Superior Intellect",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Burning Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Inferno Ruby — used in nearly all sockets; only match other colors for strong socket bonuses"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Crown of the Twilight Queen",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Planetary Amulet",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Shadowflame Mantle",
+     "source": "Blackwing Descent Heroic — Al'Akir or Chogall (H) Throne of the Four Winds;"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shroud of Endless Grief",
+     "source": "Bastion of Twilight Heroic — Sinestra"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Shadowflame Robes",
+     "source": "Blackwing Descent Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Bronze Flight",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Shadowflame Handwraps",
+     "source": "Blackwing Descent Heroic — Atramedes"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Soul Breath Belt",
+     "source": "Throne of the Four Winds Heroic — Anshal,Nezir or Rohash"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Shadowflame Leggings",
+     "source": "Blackwing Descent Heroic — Maloriak"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Einhorn's Galoshes",
+     "source": "Blackwing Descent Heroic — Chimaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Planetary Band",
+     "source": "Throne of the Four Winds Heroic — Anshal,Nezir or Rohash"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Signet of the Fifth Circle",
+     "source": "Bastion of Twilight Heroic — Chogall"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Darkmoon Card: Volcano",
+     "source": "Darkmoon Volcanic Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Bell of Enraging Resonance",
+     "source": "Blackwing Descent Heroic — Atramedes"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Stormwake, the Tempest's Reach",
+     "source": "Throne of the Four Winds Heroic — Al'Akir"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Book of Binding Will",
+     "source": "Bastion of Twilight Heroic — Halfus Wyrmbreaker"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Theresa's Booklight",
+     "source": "Blackwing Descent Heroic — Bind on Equip"
+    }
+   ]
+  }
+ ]
+}

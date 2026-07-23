@@ -1,217 +1,216 @@
 {
-  "expansion": "mop",
-  "phase": "p3",
-  "class": "warlock",
-  "spec": "affliction",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Runs a two-handed staff, so there is no off-hand slot. Prioritize the Tier 16 four-piece. Sinister Primal Diamond is the legendary meta. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p3",
+ "class": "warlock",
+ "spec": "affliction",
+ "role": "Ranged DPS",
+ "notes": "Runs a two-handed staff, so there is no off-hand slot. Prioritize the Tier 16 four-piece. Sinister Primal Diamond is the legendary meta. Drops listed are 25 Heroic; Normal/Flex versions are the same items at lower item level. Draft compiled from Icy Veins MoP Classic guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Ebon Ritual Hood",
-          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Untainted Guardian's Chain",
-          "source": "Siege of Orgrimmar Heroic — Norushen"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Mantle of the Horned Nightmare (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Xing-Ho, Breath of Yu'lon",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Mantid Vizier's Robes",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Avool's Ancestral Bracers",
-          "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of the Horned Nightmare (Tier 16)",
-          "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of Ominous Trembles",
-          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of Furious Flame",
-          "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Bone-Inlaid Sandals",
-          "source": "Siege of Orgrimmar Heroic — Galakras"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Signet of the Dinomancers",
-          "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Iyyokuk's Hereditary Seal",
-          "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Purified Bindings of Immerseus",
-          "source": "Siege of Orgrimmar Heroic — Immerseus"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Black Blood of Y'Shaarj",
-          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Hellscream's War Staff",
-          "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
-        }
-      ]
+     "name": "Ebon Ritual Hood",
+     "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
-      "source": "Inscription (Secret Crane Wing Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Intellect (+180 Int)",
-      "source": "Enchanting (Lightweave Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Super Intellect (+180 Int)",
-      "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Greater Cerulean Spellthread (+285 Int / +165 crit)",
-      "source": "Tailoring (crafted, usable by all; Master's Spellthread for tailors)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Jade Spirit",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Greater Intellect (+160 Int)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Untainted Guardian's Chain",
+     "source": "Siege of Orgrimmar Heroic — Norushen"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
-    },
-    {
-      "color": "Red",
-      "name": "Brilliant Primordial Ruby (+160 Int) — or Artful Vermilion Onyx (+80 Int / +160 mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Fractured Sun's Radiance (+320 mastery) — or Artful Vermilion Onyx"
-    },
-    {
-      "color": "Blue",
-      "name": "Veiled Imperial Amethyst (+80 Int / +160 hit) — or Sensei's Wild Jade (+160 mastery / +160 hit)"
+     "name": "Mantle of the Horned Nightmare (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — Siegecrafter Blackfuse (tier token)"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Xing-Ho, Breath of Yu'lon",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Mantid Vizier's Robes",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Avool's Ancestral Bracers",
+     "source": "Siege of Orgrimmar Heroic — Spoils of Pandaria"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Horned Nightmare (Tier 16)",
+     "source": "Siege of Orgrimmar Heroic — General Nazgrim (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Ominous Trembles",
+     "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of Furious Flame",
+     "source": "Siege of Orgrimmar Heroic — Iron Juggernaut"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Bone-Inlaid Sandals",
+     "source": "Siege of Orgrimmar Heroic — Galakras"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Signet of the Dinomancers",
+     "source": "Siege of Orgrimmar Heroic — Thok the Bloodthirsty"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Iyyokuk's Hereditary Seal",
+     "source": "Siege of Orgrimmar Heroic — Paragons of the Klaxxi"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Purified Bindings of Immerseus",
+     "source": "Siege of Orgrimmar Heroic — Immerseus"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Black Blood of Y'Shaarj",
+     "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Hellscream's War Staff",
+     "source": "Siege of Orgrimmar Heroic — Garrosh Hellscream"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Crane Wing Inscription (+200 Int / +100 crit)",
+   "source": "Inscription (Secret Crane Wing Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Intellect (+180 Int)",
+   "source": "Enchanting (Lightweave Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Super Intellect (+180 Int)",
+   "source": "Enchanting (Fur Lining — Intellect for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Mastery (+170 mastery)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Greater Cerulean Spellthread (+285 Int / +165 crit)",
+   "source": "Tailoring (crafted, usable by all; Master's Spellthread for tailors)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Jade Spirit",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Greater Intellect (+160 Int)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Sinister Primal Diamond (Legendary — Wrathion questline; Burning Primal Diamond otherwise)"
+  },
+  {
+   "color": "Red",
+   "name": "Brilliant Primordial Ruby (+160 Int) — or Artful Vermilion Onyx (+80 Int / +160 mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Sun's Radiance (+320 mastery) — or Artful Vermilion Onyx"
+  },
+  {
+   "color": "Blue",
+   "name": "Veiled Imperial Amethyst (+80 Int / +160 hit) — or Sensei's Wild Jade (+160 mastery / +160 hit)"
+  }
+ ]
 }

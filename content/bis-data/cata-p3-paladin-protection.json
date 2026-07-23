@@ -1,0 +1,234 @@
+{
+ "expansion": "cata",
+ "phase": "p3",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Tier 13 (Dragon Soul, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Protection Paladin gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Windwalk",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Shield - Mastery",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond — or Eternal Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Defender's Shadow Spinel — or Fine Lava Coral"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Deepholm Iolite — or Puissant Elven Peridot"
+  },
+  {
+   "color": "Yellow",
+   "name": "Regal Elven Peridot"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Helmet of Radiant Glory",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Guardspike Choker",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Backbreaker Spaulders",
+     "source": "Dragon Soul Heroic — Spine of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Indefatigable Greatcloak",
+     "source": "1250 Valor Points"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestguard of Radiant Glory",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Graveheart Bracers",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of Radiant Glory",
+     "source": "Dragon Soul Heroic — Warlord Zonozz"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Goriona's Collar",
+     "source": "Dragon Soul Heroic — Hagara the Stormbinder"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Radiant Glory",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Stillheart Warboots",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Curled Twilight Claw",
+     "source": "Dragon Soul Heroic — Ultraxion"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Hardheart Ring",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Soulshifter Vortex",
+     "source": "Dragon Soul Heroic — Yor'sahj the Unsleeping"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Indomitable Pride",
+     "source": "Dragon Soul Heroic — Multiple Bosses in"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Souldrinker",
+     "source": "Dragon Soul Heroic — Madness of Deathwing"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Blackhorn's Mighty Bulwark",
+     "source": "Dragon Soul Heroic — Warmaster Blackhorn"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Stoutheart Talisman",
+     "source": "700 Valor Points"
+    }
+   ]
+  }
+ ]
+}

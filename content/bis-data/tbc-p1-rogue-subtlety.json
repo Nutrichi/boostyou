@@ -1,235 +1,234 @@
 {
-  "expansion": "tbc",
-  "phase": "p1",
-  "class": "rogue",
-  "spec": "subtlety",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). Combat swords list — the dominant TBC raid build; Icy Veins publishes one unified rogue list, shared by all three specs. Hit cap first (with Precision), then Agility. Draft compiled from the Icy Veins TBC Classic Rogue gear guide (Phase 1 table).",
-  "updated": "2026-07-20",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p1",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Phase 1 list (Karazhan, Gruul's Lair, Magtheridon's Lair). Combat swords list — the dominant TBC raid build; Icy Veins publishes one unified rogue list, shared by all three specs. Hit cap first (with Precision), then Agility. Draft compiled from the Icy Veins TBC Classic Rogue gear guide (Phase 1 table).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Netherblade Facemask (Tier 4)",
-          "source": "Karazhan — Prince Malchezaar (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Choker of Vile Intent",
-          "source": "Badge of Justice vendor — 25 badges"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Wastewalker Shoulderpads",
-          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of the Dark Reavers",
-          "source": "Karazhan — Shade of Aran"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Netherblade Chestpiece (Tier 4)",
-          "source": "Magtheridon's Lair — Magtheridon (tier token)"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Nightfall Wristguards",
-          "source": "Heroic Old Hillsbrad Foothills — Epoch Hunter"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Wastewalker Gloves",
-          "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Girdle of the Deathdealer",
-          "source": "The Black Morass — Aeonus"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Skulker's Greaves",
-          "source": "Karazhan — Netherspite"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Edgewalker Longboots",
-          "source": "Karazhan — Moroes"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of a Thousand Marks",
-          "source": "Karazhan — Prince Malchezaar"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Garona's Signet Ring",
-          "source": "Karazhan — The Curator"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Dragonspine Trophy",
-          "source": "Gruul's Lair — Gruul the Dragonkiller"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Bloodlust Brooch",
-          "source": "Badge of Justice vendor — 41 badges"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Dragonmaw",
-          "source": "Blacksmithing (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Latro's Shifting Sword",
-          "source": "Heroic Black Morass — Aeonus"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Sunfury Bow of the Phoenix",
-          "source": "Karazhan — Prince Malchezaar"
-        }
-      ]
+     "name": "Netherblade Facemask (Tier 4)",
+     "source": "Karazhan — Prince Malchezaar (tier token)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
-      "source": "Cenarion Expedition — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Assault (+24 AP)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Superior Agility (+15 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
+     "name": "Choker of Vile Intent",
+     "source": "Badge of Justice vendor — 25 badges"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
-    },
-    {
-      "color": "Red",
-      "name": "Glinting Noble Topaz (+4 Agi / +4 hit) until hit-capped, then Delicate Living Ruby (+8 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Rigid Dawnstone (+8 hit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+     "name": "Wastewalker Shoulderpads",
+     "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Dark Reavers",
+     "source": "Karazhan — Shade of Aran"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Netherblade Chestpiece (Tier 4)",
+     "source": "Magtheridon's Lair — Magtheridon (tier token)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Nightfall Wristguards",
+     "source": "Heroic Old Hillsbrad Foothills — Epoch Hunter"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Wastewalker Gloves",
+     "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Girdle of the Deathdealer",
+     "source": "The Black Morass — Aeonus"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Skulker's Greaves",
+     "source": "Karazhan — Netherspite"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Edgewalker Longboots",
+     "source": "Karazhan — Moroes"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of a Thousand Marks",
+     "source": "Karazhan — Prince Malchezaar"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Garona's Signet Ring",
+     "source": "Karazhan — The Curator"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Dragonspine Trophy",
+     "source": "Gruul's Lair — Gruul the Dragonkiller"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Bloodlust Brooch",
+     "source": "Badge of Justice vendor — 41 badges"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Dragonmaw",
+     "source": "Blacksmithing (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Latro's Shifting Sword",
+     "source": "Heroic Black Morass — Aeonus"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Sunfury Bow of the Phoenix",
+     "source": "Karazhan — Prince Malchezaar"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+   "source": "Cenarion Expedition — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Assault (+24 AP)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Superior Agility (+15 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Glinting Noble Topaz (+4 Agi / +4 hit) until hit-capped, then Delicate Living Ruby (+8 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Rigid Dawnstone (+8 hit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Shifting Nightseye (+4 Agi / +6 stamina)"
+  }
+ ]
 }

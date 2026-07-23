@@ -1,226 +1,225 @@
 {
-  "expansion": "classic",
-  "phase": "preraid",
-  "class": "rogue",
-  "spec": "subtlety",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "preraid",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid gearing (dungeons, quests, world drops, professions) before Molten Core. Best in Slot from the Icy Veins WoW Classic Era Rogue Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Darkmantle Cap",
-          "source": "Saving the Best for Last"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Mark of Fordring",
-          "source": "Reward from In Dreams"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Darkmantle Spaulders",
-          "source": "Anthion's Parting Words"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cape of the Black Baron",
-          "source": "Baron Rivendare in Stratholme"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Darkmantle Tunic",
-          "source": "Saving the Best for Last"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Darkmantle Bracers",
-          "source": "An Earnest Proposition"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Devilsaur Gauntlets",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Darkmantle Belt",
-          "source": "Just Compensation"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Devilsaur Leggings",
-          "source": "Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Darkmantle Boots",
-          "source": "Anthion's Parting Words"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Tarnished Elven Ring",
-          "source": "Mizzle the Crafty in Dire Maul North Mizzle the Crafty in Dire Maul North"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Tarnished Elven Ring",
-          "source": "Mizzle the Crafty in Dire Maul North Mizzle the Crafty in Dire Maul North"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Hand of Justice",
-          "source": "General Angerforge in Blackrock Depths Reward from General Drakkisath's Demise / For The Horde!"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Blackhand's Breadth",
-          "source": "General Angerforge in Blackrock Depths Reward from General Drakkisath's Demise / For The Horde!"
-        }
-      ]
-    },
-    {
-      "slot": "Swords",
-      "items": [
-        {
-          "name": "Dal'Rend's Sacred Charge",
-          "source": "Warchief Rend Blackhand in Upper Blackrock Spire Warchief Rend Blackhand in Upper Blackrock Spire"
-        },
-        {
-          "name": "Dal'Rend's Tribal Guardian",
-          "source": "Warchief Rend Blackhand in Upper Blackrock Spire Warchief Rend Blackhand in Upper Blackrock Spire"
-        }
-      ]
-    },
-    {
-      "slot": "Daggers",
-      "items": [
-        {
-          "name": "Heartseeker",
-          "source": "Blacksmithing World BoE drop"
-        },
-        {
-          "name": "Alcor's Sunrazor",
-          "source": "Blacksmithing World BoE drop"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged Weapon",
-      "items": [
-        {
-          "name": "Blackcrow",
-          "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire"
-        }
-      ]
+     "name": "Darkmantle Cap",
+     "source": "Saving the Best for Last"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "N/A",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Chromatic Mantle of the Dawn",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Lesser Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Bracers",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Greater Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "N/A",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon(s)",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Ranged",
-      "name": "Sniper Scope",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Mark of Fordring",
+     "source": "Reward from In Dreams"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Darkmantle Spaulders",
+     "source": "Anthion's Parting Words"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Darkmantle Tunic",
+     "source": "Saving the Best for Last"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Darkmantle Bracers",
+     "source": "An Earnest Proposition"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Darkmantle Belt",
+     "source": "Just Compensation"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Darkmantle Boots",
+     "source": "Anthion's Parting Words"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Mizzle the Crafty in Dire Maul North Mizzle the Crafty in Dire Maul North"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Mizzle the Crafty in Dire Maul North Mizzle the Crafty in Dire Maul North"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Hand of Justice",
+     "source": "General Angerforge in Blackrock Depths Reward from General Drakkisath's Demise / For The Horde!"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "General Angerforge in Blackrock Depths Reward from General Drakkisath's Demise / For The Horde!"
+    }
+   ]
+  },
+  {
+   "slot": "Swords",
+   "items": [
+    {
+     "name": "Dal'Rend's Sacred Charge",
+     "source": "Warchief Rend Blackhand in Upper Blackrock Spire Warchief Rend Blackhand in Upper Blackrock Spire"
+    },
+    {
+     "name": "Dal'Rend's Tribal Guardian",
+     "source": "Warchief Rend Blackhand in Upper Blackrock Spire Warchief Rend Blackhand in Upper Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Daggers",
+   "items": [
+    {
+     "name": "Heartseeker",
+     "source": "Blacksmithing World BoE drop"
+    },
+    {
+     "name": "Alcor's Sunrazor",
+     "source": "Blacksmithing World BoE drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Blackcrow",
+     "source": "Shadow Hunter Vosh'gajin in Lower Blackrock Spire"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "N/A",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Chromatic Mantle of the Dawn",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Bracers",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Greater Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "N/A",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon(s)",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Ranged",
+   "name": "Sniper Scope",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

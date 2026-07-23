@@ -1,295 +1,294 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "The Righteous dungeon set (Mechanar/Botanica/Steamvault) is the backbone — uncrushable comes quickly with Holy Shield. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "The Righteous dungeon set (Mechanar/Botanica/Steamvault) is the backbone — uncrushable comes quickly with Holy Shield. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helm of the Righteous",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        },
-        {
-          "name": "Tankatronic Goggles",
-          "source": "Engineering (crafted)"
-        }
-      ]
+     "name": "Helm of the Righteous",
+     "source": "The Mechanar — Pathaleon the Calculator"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Strength of the Untamed",
-          "source": "Cenarion Expedition — Revered"
-        },
-        {
-          "name": "Necklace of the Juggernaut",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Spaulders of the Righteous",
-          "source": "The Botanica — Laj"
-        },
-        {
-          "name": "Fanblade Pauldrons",
-          "source": "Heroic Auchenai Crypts — Shirrak the Dead Watcher"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Devilshark Cape",
-          "source": "The Steamvault — Warlord Kalithresh"
-        },
-        {
-          "name": "Farstrider Defender's Cloak",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of the Righteous",
-          "source": "The Steamvault — Warlord Kalithresh"
-        },
-        {
-          "name": "Jade-Skull Breastplate",
-          "source": "The Mechanar — Nethermancer Sepethrea"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Dignity",
-          "source": "Heroic Arcatraz — Harbinger Skyriss"
-        },
-        {
-          "name": "Sha'tari Wrought Armguards",
-          "source": "Quest — The Soul Devices (Auchindoun)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Felsteel Gloves",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Thatia's Self-Correcting Gauntlets",
-          "source": "The Arcatraz — Dalliah the Doomsayer"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Girdle of Valorous Deeds",
-          "source": "Heroic Black Morass — Aeonus"
-        },
-        {
-          "name": "Lightwarden's Girdle",
-          "source": "Quest — Deathblow to the Legion (Netherstorm)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Timewarden's Leggings",
-          "source": "Keepers of Time — Revered"
-        },
-        {
-          "name": "Felsteel Leggings",
-          "source": "Blacksmithing (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Righteous Path",
-          "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
-        },
-        {
-          "name": "Boots of the Colossus",
-          "source": "Heroic Mana-Tombs — Pandemonius"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Elementium Band of the Sentry",
-          "source": "The Arcatraz — Harbinger Skyriss"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Andormu's Tear",
-          "source": "Quest — Hero of the Brood (Caverns of Time)"
-        },
-        {
-          "name": "Ring of Unyielding Force",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Icon of the Silver Crescent",
-          "source": "Badge vendor — 41 Badges of Justice"
-        },
-        {
-          "name": "Gnomeregan Auto-Blocker 600",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Adamantine Figurine",
-          "source": "Shadow Labyrinth — Blackheart the Inciter"
-        },
-        {
-          "name": "Figurine of the Colossus",
-          "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Gavel of Unearthed Secrets",
-          "source": "Lower City — Exalted"
-        },
-        {
-          "name": "Continuum Blade",
-          "source": "Keepers of Time — Revered"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "Azure-Shield of Coldarra",
-          "source": "Badge vendor — 33 Badges of Justice"
-        },
-        {
-          "name": "Crest of the Sha'tar",
-          "source": "The Sha'tar — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Repentance",
-          "source": "Badge vendor — 15 Badges of Justice"
-        }
-      ]
+     "name": "Tankatronic Goggles",
+     "source": "Engineering (crafted)"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of the Defender (+16 defense / +17 dodge)",
-      "source": "Keepers of Time — Revered"
+     "name": "Strength of the Untamed",
+     "source": "Cenarion Expedition — Revered"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Dodge (+12 dodge)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Health (+150 health)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Fortitude (+12 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Fortitude (+12 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Shield",
-      "name": "Enchant Shield — Major Stamina (+18 stamina)",
-      "source": "Enchanting"
+     "name": "Necklace of the Juggernaut",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist)"
+     "name": "Spaulders of the Righteous",
+     "source": "The Botanica — Laj"
     },
     {
-      "color": "Red",
-      "name": "Solid Star of Elune (+12 stamina — stamina everywhere once defense-capped)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Enduring Talasite (+4 defense / +6 stamina) toward the 490 defense cap"
-    },
-    {
-      "color": "Blue",
-      "name": "Solid Star of Elune (+12 stamina)"
+     "name": "Fanblade Pauldrons",
+     "source": "Heroic Auchenai Crypts — Shirrak the Dead Watcher"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Devilshark Cape",
+     "source": "The Steamvault — Warlord Kalithresh"
+    },
+    {
+     "name": "Farstrider Defender's Cloak",
+     "source": "Badge vendor — 25 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of the Righteous",
+     "source": "The Steamvault — Warlord Kalithresh"
+    },
+    {
+     "name": "Jade-Skull Breastplate",
+     "source": "The Mechanar — Nethermancer Sepethrea"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Dignity",
+     "source": "Heroic Arcatraz — Harbinger Skyriss"
+    },
+    {
+     "name": "Sha'tari Wrought Armguards",
+     "source": "Quest — The Soul Devices (Auchindoun)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Felsteel Gloves",
+     "source": "Blacksmithing (crafted)"
+    },
+    {
+     "name": "Thatia's Self-Correcting Gauntlets",
+     "source": "The Arcatraz — Dalliah the Doomsayer"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Girdle of Valorous Deeds",
+     "source": "Heroic Black Morass — Aeonus"
+    },
+    {
+     "name": "Lightwarden's Girdle",
+     "source": "Quest — Deathblow to the Legion (Netherstorm)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Timewarden's Leggings",
+     "source": "Keepers of Time — Revered"
+    },
+    {
+     "name": "Felsteel Leggings",
+     "source": "Blacksmithing (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Righteous Path",
+     "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
+    },
+    {
+     "name": "Boots of the Colossus",
+     "source": "Heroic Mana-Tombs — Pandemonius"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Elementium Band of the Sentry",
+     "source": "The Arcatraz — Harbinger Skyriss"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Andormu's Tear",
+     "source": "Quest — Hero of the Brood (Caverns of Time)"
+    },
+    {
+     "name": "Ring of Unyielding Force",
+     "source": "Badge vendor — 25 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Icon of the Silver Crescent",
+     "source": "Badge vendor — 41 Badges of Justice"
+    },
+    {
+     "name": "Gnomeregan Auto-Blocker 600",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Adamantine Figurine",
+     "source": "Shadow Labyrinth — Blackheart the Inciter"
+    },
+    {
+     "name": "Figurine of the Colossus",
+     "source": "Heroic Shattered Halls — Warchief Kargath Bladefist"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Gavel of Unearthed Secrets",
+     "source": "Lower City — Exalted"
+    },
+    {
+     "name": "Continuum Blade",
+     "source": "Keepers of Time — Revered"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Azure-Shield of Coldarra",
+     "source": "Badge vendor — 33 Badges of Justice"
+    },
+    {
+     "name": "Crest of the Sha'tar",
+     "source": "The Sha'tar — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Repentance",
+     "source": "Badge vendor — 15 Badges of Justice"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of the Defender (+16 defense / +17 dodge)",
+   "source": "Keepers of Time — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Warding (+15 dodge / +10 defense)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Knight)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Dodge (+12 dodge)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Health (+150 health)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Fortitude (+12 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Spellpower (+20 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercleft Leg Armor (+40 stamina / +12 Agi)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Fortitude (+12 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Spellpower (+40 spell damage)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield — Major Stamina (+18 stamina)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Powerful Earthstorm Diamond (+18 stamina / +5% stun resist)"
+  },
+  {
+   "color": "Red",
+   "name": "Solid Star of Elune (+12 stamina — stamina everywhere once defense-capped)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Enduring Talasite (+4 defense / +6 stamina) toward the 490 defense cap"
+  },
+  {
+   "color": "Blue",
+   "name": "Solid Star of Elune (+12 stamina)"
+  }
+ ]
 }

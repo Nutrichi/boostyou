@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "preraid",
-  "class": "death-knight",
-  "spec": "frost",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for Warriors and Holy Paladins). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides. Dual-wield (Two-handed Frost uses a single 2H instead).",
-  "updated": "2026-07-18",
-  "slots": [
+ "expansion": "mop",
+ "phase": "preraid",
+ "class": "death-knight",
+ "spec": "frost",
+ "role": "Melee DPS",
+ "notes": "Pre-raid entry point for fresh 90s in the final MoP phase: Celestial Dungeons drop Siege of Orgrimmar Normal-level loot. Icy Veins has no Phase 5 pre-raid table for this spec, so this list is derived from its Phase 5 BiS list — the same items at Normal item level, obtainable via Celestial Dungeons (this mirrors how Icy Veins builds its Phase 5 pre-raid lists for Warriors and Holy Paladins). Enchants and gems match our SoO list (same patch). Draft from Icy Veins MoP Classic guides. Dual-wield (Two-handed Frost uses a single 2H instead).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helmet of Cyclopean Dread (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty (tier token))"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Malkorok's Tainted Dog Tags",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Pauldrons of Cyclopean Dread (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse (tier token))"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Gong-Lu, Strength of Xuen",
-          "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of Cyclopean Dread (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride (tier token))"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of Blind Hatred",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (multiple bosses)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gauntlets of Cyclopean Dread (Tier 16)",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim (tier token))"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Demolisher's Reinforced Belt",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Legplates of Unthinking Strife",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Wolf-Rider Spurs",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Devilfang Band",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Bloodclaw Band",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Skeer's Bloodsoaked Talisman",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Thok's Tail Tip",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
-        }
-      ]
-    },
-    {
-      "slot": "Main Hand",
-      "items": [
-        {
-          "name": "Siegecrafter's Forge Hammer",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
-        }
-      ]
-    },
-    {
-      "slot": "Off Hand",
-      "items": [
-        {
-          "name": "Siegecrafter's Forge Hammer",
-          "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
-        }
-      ]
+     "name": "Helmet of Cyclopean Dread (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty (tier token))"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
-      "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
-      "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Super Strength (+170 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
-      "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Rune of the Fallen Crusader (runeforge)",
-      "source": "Runeforging (Ebon Hold)"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Rune of Razorice (runeforge)",
-      "source": "Runeforging (Ebon Hold)"
+     "name": "Malkorok's Tainted Dog Tags",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Malkorok)"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Skillful Vermilion Onyx (+80 Str / +160 mastery)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Fractured Sun's Radiance (+320 mastery)"
-    },
-    {
-      "color": "Blue",
-      "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+     "name": "Pauldrons of Cyclopean Dread (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse (tier token))"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Gong-Lu, Strength of Xuen",
+     "source": "Legendary cloak questline — Wrathion (Chapter V: Judgment of the Black Prince)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Cyclopean Dread (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Sha of Pride (tier token))"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Blind Hatred",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (multiple bosses)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Cyclopean Dread (Tier 16)",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (General Nazgrim (tier token))"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Demolisher's Reinforced Belt",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Iron Juggernaut)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Unthinking Strife",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Garrosh Hellscream)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Wolf-Rider Spurs",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Devilfang Band",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Bloodclaw Band",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Kor'kron Dark Shaman)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Skeer's Bloodsoaked Talisman",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Paragons of the Klaxxi)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Thok's Tail Tip",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Thok the Bloodthirsty)"
+    }
+   ]
+  },
+  {
+   "slot": "Main Hand",
+   "items": [
+    {
+     "name": "Siegecrafter's Forge Hammer",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+    }
+   ]
+  },
+  {
+   "slot": "Off Hand",
+   "items": [
+    {
+     "name": "Siegecrafter's Forge Hammer",
+     "source": "Celestial Dungeons — Normal version of the Siege of Orgrimmar drop (Siegecrafter Blackfuse)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Fang Inscription (+200 Str / +100 crit)",
+   "source": "Inscription (Secret Tiger Fang Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Superior Critical Strike (+180 crit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Exceptional Strength (+180 Str)",
+   "source": "Enchanting (Fur Lining — Strength for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Super Strength (+170 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Draconic Leg Reinforcements (+285 Str / +165 crit)",
+   "source": "Leatherworking (leatherworkers only; Angerhide Leg Armor otherwise)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Pandaren's Step (+140 mastery, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Rune of the Fallen Crusader (runeforge)",
+   "source": "Runeforging (Ebon Hold)"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Rune of Razorice (runeforge)",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Skillful Vermilion Onyx (+80 Str / +160 mastery)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Sun's Radiance (+320 mastery)"
+  },
+  {
+   "color": "Blue",
+   "name": "Etched Imperial Amethyst (+80 Str / +160 hit)"
+  }
+ ]
 }

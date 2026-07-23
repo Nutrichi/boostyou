@@ -1,295 +1,294 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "holy",
-  "role": "Healer",
-  "status": "draft",
-  "notes": "The crafted Primal Mooncloth and Whitemend tailoring pieces dominate — plan your cooldowns or shop the auction house early. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "The crafted Primal Mooncloth and Whitemend tailoring pieces dominate — plan your cooldowns or shop the auction house early. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Whitemend Hood",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Hallowed Crown",
-          "source": "The Arcatraz — Harbinger Skyriss"
-        }
-      ]
+     "name": "Whitemend Hood",
+     "source": "Tailoring (crafted)"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Gezzarak's Fang",
-          "source": "Quest — Gezzarak the Huntress (Terokkar)"
-        },
-        {
-          "name": "Necklace of Eternal Hope",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Primal Mooncloth Shoulders",
-          "source": "Mooncloth Tailoring (crafted)"
-        },
-        {
-          "name": "Justice Bearer's Pauldrons",
-          "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Bishop's Cloak",
-          "source": "Badge vendor — 25 Badges of Justice"
-        },
-        {
-          "name": "Light-Touched Stole of Altruism",
-          "source": "Heroic Auchenai Crypts — Exarch Maladaar"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Primal Mooncloth Robe",
-          "source": "Mooncloth Tailoring (crafted)"
-        },
-        {
-          "name": "Hallowed Garments",
-          "source": "Shadow Labyrinth — Murmur"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Blessed Bracers",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Windhawk Bracers",
-          "source": "Tribal Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Prismatic Mittens of Mending",
-          "source": "The Botanica — Commander Sarannis"
-        },
-        {
-          "name": "Fathomheart Gauntlets",
-          "source": "The Steamvault — Warlord Kalithresh"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Primal Mooncloth Belt",
-          "source": "Mooncloth Tailoring (crafted)"
-        },
-        {
-          "name": "Windhawk Belt",
-          "source": "Tribal Leatherworking (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Whitemend Pants",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Pontifex Kilt",
-          "source": "Heroic Steamvault — Warlord Kalithresh"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Watchful Heart",
-          "source": "Heroic Old Hillsbrad — Captain Skarloc"
-        },
-        {
-          "name": "Wavefury Boots",
-          "source": "Heroic Slave Pens — Rokmar the Crackler"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Halos",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Convalescence / Ancestral Band",
-          "source": "Honor Hold / Thrallmar — Revered"
-        },
-        {
-          "name": "Celestial Jewel Ring",
-          "source": "Quest — A Fate Worse Than Death (Netherstorm)"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Essence of the Martyr",
-          "source": "Badge vendor — 41 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Scarab of the Infinite Cycle",
-          "source": "The Black Morass — Aeonus"
-        },
-        {
-          "name": "Lower City Prayerbook",
-          "source": "Lower City — Revered"
-        },
-        {
-          "name": "Bangle of Endless Blessings",
-          "source": "The Botanica — Warp Splinter"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Hand of Eternity",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Gavel of Pure Light",
-          "source": "The Sha'tar — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Swamplight Lantern",
-          "source": "Heroic Slave Pens — Quagmirran"
-        },
-        {
-          "name": "Windcaller's Orb",
-          "source": "Cenarion Expedition — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Blessed Book of Nagrand",
-          "source": "Quest — The Ultimate Bloodsport (Nagrand)"
-        }
-      ]
+     "name": "Hallowed Crown",
+     "source": "The Arcatraz — Harbinger Skyriss"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Renewal (+35 healing / +7 mp5)",
-      "source": "Honor Hold / Thrallmar — Revered"
+     "name": "Gezzarak's Fang",
+     "source": "Quest — Gezzarak the Huntress (Terokkar)"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Faith (+46 healing)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Armor (+120 armor)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Restore Mana Prime (+6 mp5)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Superior Healing (+30 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Healing (+35 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Golden Spellthread (+66 healing / +20 stamina)",
-      "source": "Tailoring (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Major Healing (+81 healing)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Healing Power (+20 healing)",
-      "source": "Enchanting (enchanters only)"
+     "name": "Necklace of Eternal Hope",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+     "name": "Primal Mooncloth Shoulders",
+     "source": "Mooncloth Tailoring (crafted)"
     },
     {
-      "color": "Red",
-      "name": "Teardrop Living Ruby (+18 healing)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Luminous Noble Topaz (+9 healing / +4 Int)"
-    },
-    {
-      "color": "Blue",
-      "name": "Royal Nightseye (+9 healing / +2 mp5)"
+     "name": "Justice Bearer's Pauldrons",
+     "source": "Heroic Hellfire Ramparts — Omor the Unscarred"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Bishop's Cloak",
+     "source": "Badge vendor — 25 Badges of Justice"
+    },
+    {
+     "name": "Light-Touched Stole of Altruism",
+     "source": "Heroic Auchenai Crypts — Exarch Maladaar"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Primal Mooncloth Robe",
+     "source": "Mooncloth Tailoring (crafted)"
+    },
+    {
+     "name": "Hallowed Garments",
+     "source": "Shadow Labyrinth — Murmur"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Blessed Bracers",
+     "source": "Blacksmithing (crafted)"
+    },
+    {
+     "name": "Windhawk Bracers",
+     "source": "Tribal Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Prismatic Mittens of Mending",
+     "source": "The Botanica — Commander Sarannis"
+    },
+    {
+     "name": "Fathomheart Gauntlets",
+     "source": "The Steamvault — Warlord Kalithresh"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Primal Mooncloth Belt",
+     "source": "Mooncloth Tailoring (crafted)"
+    },
+    {
+     "name": "Windhawk Belt",
+     "source": "Tribal Leatherworking (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Whitemend Pants",
+     "source": "Tailoring (crafted)"
+    },
+    {
+     "name": "Pontifex Kilt",
+     "source": "Heroic Steamvault — Warlord Kalithresh"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Watchful Heart",
+     "source": "Heroic Old Hillsbrad — Captain Skarloc"
+    },
+    {
+     "name": "Wavefury Boots",
+     "source": "Heroic Slave Pens — Rokmar the Crackler"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Halos",
+     "source": "Badge vendor — 25 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Convalescence / Ancestral Band",
+     "source": "Honor Hold / Thrallmar — Revered"
+    },
+    {
+     "name": "Celestial Jewel Ring",
+     "source": "Quest — A Fate Worse Than Death (Netherstorm)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Essence of the Martyr",
+     "source": "Badge vendor — 41 Badges of Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Scarab of the Infinite Cycle",
+     "source": "The Black Morass — Aeonus"
+    },
+    {
+     "name": "Lower City Prayerbook",
+     "source": "Lower City — Revered"
+    },
+    {
+     "name": "Bangle of Endless Blessings",
+     "source": "The Botanica — Warp Splinter"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Hand of Eternity",
+     "source": "Blacksmithing (crafted)"
+    },
+    {
+     "name": "Gavel of Pure Light",
+     "source": "The Sha'tar — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Swamplight Lantern",
+     "source": "Heroic Slave Pens — Quagmirran"
+    },
+    {
+     "name": "Windcaller's Orb",
+     "source": "Cenarion Expedition — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Blessed Book of Nagrand",
+     "source": "Quest — The Ultimate Bloodsport (Nagrand)"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Renewal (+35 healing / +7 mp5)",
+   "source": "Honor Hold / Thrallmar — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Faith (+46 healing)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Oracle)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Armor (+120 armor)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Restore Mana Prime (+6 mp5)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Superior Healing (+30 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Healing (+35 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Golden Spellthread (+66 healing / +20 stamina)",
+   "source": "Tailoring (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Boar's Speed (+9 stamina, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Major Healing (+81 healing)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Healing Power (+20 healing)",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Insightful Earthstorm Diamond (+12 Int, chance to restore mana on cast)"
+  },
+  {
+   "color": "Red",
+   "name": "Teardrop Living Ruby (+18 healing)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Luminous Noble Topaz (+9 healing / +4 Int)"
+  },
+  {
+   "color": "Blue",
+   "name": "Royal Nightseye (+9 healing / +2 mp5)"
+  }
+ ]
 }

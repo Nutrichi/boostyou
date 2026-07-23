@@ -1,223 +1,222 @@
 {
-  "expansion": "tbc",
-  "phase": "p5",
-  "class": "mage",
-  "spec": "fire",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Fire Mage Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "p5",
+ "class": "mage",
+ "spec": "fire",
+ "role": "Ranged DPS",
+ "notes": "Phase 5 (Sunwell Plateau) Best in Slot from the Icy Veins TBC Classic Fire Mage Dps gear guide — sourced from the original 2007-2008 Burning Crusade release (drafted ahead of the TBC Anniversary realm reaching this content, same approach as p3/p4). Enchants show the top-ranked pick per slot; the guide page lists further ranked alternatives. Gems are the general class/role recommendation from the guide's gemming section.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Dark Conjuror's Collar",
-          "source": "Kil'jaeden — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of Unfettered Magics",
-          "source": "Eredar Twins — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Amice of the Convoker",
-          "source": "Eredar Twins — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Tattered Cape of Antonidas",
-          "source": "Kil'jaeden — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Fel Conquerer Raiments",
-          "source": "M'uru — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of the Tempest",
-          "source": "Kalecgos — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Handguards of Defiled Worlds",
-          "source": "Kil'jaeden — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Belt of the Tempest",
-          "source": "Brutallus — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Tempest",
-          "source": "The Illidari Council — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Boots of the Tempest",
-          "source": "Felmyst — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Rings",
-      "items": [
-        {
-          "name": "Loop of Forged Power",
-          "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
-        },
-        {
-          "name": "Mana Attuned Band",
-          "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
-        },
-        {
-          "name": "Ring of Omnipotence",
-          "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Best Trinkets",
-      "items": [
-        {
-          "name": "Shifting Naaru Sliver",
-          "source": "M'uru — Sunwell Plateau Illidan Stormrage — Black Temple"
-        },
-        {
-          "name": "The Skull of Gul'dan",
-          "source": "M'uru — Sunwell Plateau Illidan Stormrage — Black Temple"
-        }
-      ]
-    },
-    {
-      "slot": "Weapons",
-      "items": [
-        {
-          "name": "Sunflare",
-          "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
-        },
-        {
-          "name": "Heart of the Pit",
-          "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
-        },
-        {
-          "name": "Grand Magister's Staff of Torrents",
-          "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
-        }
-      ]
-    },
-    {
-      "slot": "Wand",
-      "items": [
-        {
-          "name": "Wand of the Demonsoul",
-          "source": "Trash mobs — Sunwell Plateau"
-        }
-      ]
+     "name": "Dark Conjuror's Collar",
+     "source": "Kil'jaeden — Sunwell Plateau"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Power ( The Sha'tar Revered)",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Discipline ( Aldor Exalted) Greater Inscription of the Orb ( Scryers Exalted)",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Subtlety",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Exceptional Stats",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Gloves",
-      "name": "Enchant Gloves - Major Spellpower",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Runic Spellthread",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Boar's Speed",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Sunfire Enchant Weapon - Major Spellpower (cheaper)",
-      "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+     "name": "Amulet of Unfettered Magics",
+     "source": "Eredar Twins — Sunwell Plateau"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage) — needs two blue/purple/green gems"
-    },
-    {
-      "color": "Red",
-      "name": "Runed Crimson Spinel (+8 spell damage, Tier 6) — Runed Living Ruby before Tier 6"
-    },
-    {
-      "color": "Yellow",
-      "name": "Potent Pyrestone (+4 spell damage / +4 crit, Tier 6) — or Veiled Pyrestone if short on hit"
-    },
-    {
-      "color": "Blue",
-      "name": "any blue/green gem sufficient to activate the meta (e.g. a Spirit/Mp5 hybrid) — minimize blue sockets otherwise"
+     "name": "Amice of the Convoker",
+     "source": "Eredar Twins — Sunwell Plateau"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Tattered Cape of Antonidas",
+     "source": "Kil'jaeden — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Fel Conquerer Raiments",
+     "source": "M'uru — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Tempest",
+     "source": "Kalecgos — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of Defiled Worlds",
+     "source": "Kil'jaeden — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Tempest",
+     "source": "Brutallus — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Tempest",
+     "source": "The Illidari Council — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of the Tempest",
+     "source": "Felmyst — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Rings",
+   "items": [
+    {
+     "name": "Loop of Forged Power",
+     "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
+    },
+    {
+     "name": "Mana Attuned Band",
+     "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
+    },
+    {
+     "name": "Ring of Omnipotence",
+     "source": "Jewelcrafting From the Zul'Aman timed run chests — Zul'Aman M'uru — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Best Trinkets",
+   "items": [
+    {
+     "name": "Shifting Naaru Sliver",
+     "source": "M'uru — Sunwell Plateau Illidan Stormrage — Black Temple"
+    },
+    {
+     "name": "The Skull of Gul'dan",
+     "source": "M'uru — Sunwell Plateau Illidan Stormrage — Black Temple"
+    }
+   ]
+  },
+  {
+   "slot": "Weapons",
+   "items": [
+    {
+     "name": "Sunflare",
+     "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
+    },
+    {
+     "name": "Heart of the Pit",
+     "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
+    },
+    {
+     "name": "Grand Magister's Staff of Torrents",
+     "source": "Kil'jaeden + Brutallus — Sunwell Plateau Felmyst — Sunwell Plateau"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Wand of the Demonsoul",
+     "source": "Trash mobs — Sunwell Plateau"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Power ( The Sha'tar Revered)",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Discipline ( Aldor Exalted) Greater Inscription of the Orb ( Scryers Exalted)",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Subtlety",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Exceptional Stats",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Gloves",
+   "name": "Enchant Gloves - Major Spellpower",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Runic Spellthread",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Boar's Speed",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Sunfire Enchant Weapon - Major Spellpower (cheaper)",
+   "source": "Icy Veins TBC Classic enchant guide (full ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Chaotic Skyfire Diamond (+15 crit rating, +3% crit damage) — needs two blue/purple/green gems"
+  },
+  {
+   "color": "Red",
+   "name": "Runed Crimson Spinel (+8 spell damage, Tier 6) — Runed Living Ruby before Tier 6"
+  },
+  {
+   "color": "Yellow",
+   "name": "Potent Pyrestone (+4 spell damage / +4 crit, Tier 6) — or Veiled Pyrestone if short on hit"
+  },
+  {
+   "color": "Blue",
+   "name": "any blue/green gem sufficient to activate the meta (e.g. a Spirit/Mp5 hybrid) — minimize blue sockets otherwise"
+  }
+ ]
 }

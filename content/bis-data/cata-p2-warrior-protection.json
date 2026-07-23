@@ -1,0 +1,248 @@
+{
+ "expansion": "cata",
+ "phase": "p2",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Tier 12 (Firelands, Heroic) Best in Slot from the Icy Veins Cataclysm Classic Protection Warrior gear guide. Tables on the source are identified by the raid names in their Source column (the page's own phase labels follow Blizzard's numbering, which differs from ours). Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Earthen Ring",
+   "source": "The Earthen Ring — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Unbreakable Quartz",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Protection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Major Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Greater Mastery",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Drakehide Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lavawalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ring",
+   "name": "Enchant Ring - Greater Stamina (Requires Enchanting)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Windwalk",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Shield",
+   "name": "Enchant Shield - Mastery",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Austere Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Fine Lava Coral — or Defender's Shadow Spinel"
+  },
+  {
+   "color": "Yellow",
+   "name": "Fractured Lightstone — or Regal Elven Peridot"
+  },
+  {
+   "color": "Blue",
+   "name": "Puissant Elven Peridot — or Solid Deepholm Iolite"
+  },
+  {
+   "color": "Jewelcrafting only",
+   "name": "Fractured Chimera's Eye — or Solid Chimera's Eye"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Faceguard of the Molten Giant",
+     "source": "Firelands Heroic — Ragnaros"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Firebound Gorget",
+     "source": "1 × Firebound Gorget 1 × Crystallized Firestone"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Shoulderguards of the Molten Giant",
+     "source": "Firelands Heroic — Majordomo Staghelm"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Durable Flamewrath Greatcloak",
+     "source": "Avengers of Hyjal ‒ Friendly"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Carapace of Imbibed Flame",
+     "source": "Firelands Heroic — Bethtilac"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Fiery Path",
+     "source": "Firelands Heroic — Majordomo Staghelm"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Handguards of the Molten Giant",
+     "source": "Firelands Heroic — Baleroc"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Uncrushable Belt of Fury",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legguards of the Molten Giant",
+     "source": "Firelands Heroic — Shannox"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Cracked Obsidian Stompers",
+     "source": "Firelands Heroic — Lord Rhyolith"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Adamantine Signet of the Avengers",
+     "source": "Avengers of Hyjal ‒ Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Dargonax's Signet",
+     "source": "80 × Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Spidersilk Spindle",
+     "source": "Firelands Heroic — Bethtilac"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Scales of Life",
+     "source": "1 × Scales of Life 1 × Crystallized Firestone"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Mandible of Beth'tilac",
+     "source": "Firelands Heroic — Bethtilac"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "Shard of Torment",
+     "source": "Firelands Heroic — Baleroc"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Deflecting Star",
+     "source": "1 × Deflecting Star 1 × Crystallized Firestone"
+    }
+   ]
+  }
+ ]
+}

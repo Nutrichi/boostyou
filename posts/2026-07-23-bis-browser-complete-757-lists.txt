@@ -1,0 +1,9 @@
+The BiS browser is complete — all 757 lists, every expansion, every phase, every spec
+
+Today the last gap closed: WotLK Phase 1 for Paladin, Hunter, Rogue and Death Knight. Icy Veins never published Phase 1 tables for those four classes, so these 12 lists come from Wowhead's WotLK Classic Phase 1 BiS guides instead — the source is named in each list's notes, as always.
+
+That completes the full grid: Classic Era (189), The Burning Crusade (162), Wrath of the Lich King (150), Cataclysm (120) and Mists of Pandaria (136) — 757 Best in Slot lists covering Pre-Raid through the final raid tier of each expansion, for every class and spec, with drop sources, enchants and gems on every list.
+
+Everything is drafted from established guide sources and marked with a draft badge until it has been hand-verified; verification is ongoing and badges will disappear list by list. If you spot something that looks off, each list's notes name the exact source it was built from.
+
+Pick your expansion, phase, class and spec on the BiS Lists page and go get your gear.

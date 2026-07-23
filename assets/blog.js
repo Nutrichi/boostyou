@@ -107,6 +107,11 @@
     });
   }
 
+  function showStaticFallback() {
+    // re-show the crawlable "All posts" list (hidden via html.js) when the feed can't render
+    document.documentElement.classList.remove('js');
+  }
+
   function start(names) {
     queue = names
       .filter(function (n) { return NAME_RE.test(n); })
@@ -114,6 +119,7 @@
       .reverse();
     if (!queue.length) {
       status.textContent = 'No news posts yet — check back soon!';
+      showStaticFallback();
       return;
     }
     loadBatch();
@@ -133,6 +139,7 @@
       .then(start)
       .catch(function () {
         status.textContent = 'Could not load news posts right now — please try again later.';
+        showStaticFallback();
       });
   });
 })();

@@ -1,243 +1,242 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "warrior",
-  "spec": "arms",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Arms Warrior Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "arms",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Arms Warrior Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Wrynn's Helmet of Triumph",
-          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
-        },
-        {
-          "name": "Hellscream's Helmet of Triumph",
-          "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
-        }
-      ]
+     "name": "Wrynn's Helmet of Triumph",
+     "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Seed of Budding Carnage",
-          "source": "15 x Sidereal Essence — Animated Constellation"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Shoulderplates of the Celestial Watch",
-          "source": "24 x Sidereal Essence — Animated Constellation"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Drape of the Faceless General",
-          "source": "15 x Sidereal Essence — Animated Constellation"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Titanium Razorplate",
-          "source": "Plans: Titanium Razorplate — Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Titanium Spikeguards",
-          "source": "Plans: Titanium Spikeguards — Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Wrynn's Gauntlets of Triumph",
-          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
-        },
-        {
-          "name": "Hellscream's Gauntlets of Triumph",
-          "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Soul-Devouring Cinch",
-          "source": "19 x Sidereal Essence — Animated Constellation"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Bladeborn Leggings",
-          "source": "Pattern: Bladeborn Leggings — Leatherworking"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Hellfrozen Bonegrinders",
-          "source": "Plans: Hellfrozen Bonegrinders — Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Band of Lights",
-          "source": "19 x Sidereal Essence — Animated Constellation Scourgelord Tyrannus — (H) The Pit of Saron"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of Stained Souls",
-          "source": "19 x Sidereal Essence — Animated Constellation Scourgelord Tyrannus — (H) The Pit of Saron"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mjolnir Runestone",
-          "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Death's Verdict",
-          "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
-        },
-        {
-          "name": "Death's Choice",
-          "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Aesir's Edge",
-          "source": "38 x Sidereal Essence — Animated Constellation"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Twirling Blades",
-          "source": "15 x Sidereal Essence — Animated Constellation"
-        }
-      ]
+     "name": "Hellscream's Helmet of Triumph",
+     "source": "75 x Emblem of Triumph and 20 x Defiler's Scourgestone"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Major Agility",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Crusher",
-      "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting (Nitro Boosts for engineers)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant 2H Weapon — Massacre",
-      "source": "Enchanting (Berserking also strong)"
-    },
-    {
-      "slot": "Rings",
-      "name": "Enchant Ring — Assault",
-      "source": "Enchanting (enchanters only)"
+     "name": "Seed of Budding Carnage",
+     "source": "15 x Sidereal Essence — Animated Constellation"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
-    },
-    {
-      "color": "Red",
-      "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
-    },
-    {
-      "color": "Blue",
-      "name": "Nightmare Tear (activates the meta gem by itself)"
+     "name": "Shoulderplates of the Celestial Watch",
+     "source": "24 x Sidereal Essence — Animated Constellation"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of the Faceless General",
+     "source": "15 x Sidereal Essence — Animated Constellation"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Titanium Razorplate",
+     "source": "Plans: Titanium Razorplate — Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Titanium Spikeguards",
+     "source": "Plans: Titanium Spikeguards — Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Wrynn's Gauntlets of Triumph",
+     "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+    },
+    {
+     "name": "Hellscream's Gauntlets of Triumph",
+     "source": "45 x Emblem of Triumph and 20 x Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Soul-Devouring Cinch",
+     "source": "19 x Sidereal Essence — Animated Constellation"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Bladeborn Leggings",
+     "source": "Pattern: Bladeborn Leggings — Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Hellfrozen Bonegrinders",
+     "source": "Plans: Hellfrozen Bonegrinders — Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Lights",
+     "source": "19 x Sidereal Essence — Animated Constellation Scourgelord Tyrannus — (H) The Pit of Saron"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of Stained Souls",
+     "source": "19 x Sidereal Essence — Animated Constellation Scourgelord Tyrannus — (H) The Pit of Saron"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mjolnir Runestone",
+     "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Death's Verdict",
+     "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
+    },
+    {
+     "name": "Death's Choice",
+     "source": "19 x Sidereal Essence — Animated Constellation 38 x Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Aesir's Edge",
+     "source": "38 x Sidereal Essence — Animated Constellation"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Twirling Blades",
+     "source": "15 x Sidereal Essence — Animated Constellation"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted (Master's Inscription of the Axe for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Major Agility",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting (Fur Lining — Attack Power for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Crusher",
+   "source": "Enchanting (Precision if missing hit; Hyperspeed Accelerators for engineers)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all; Nerubian Leg Reinforcements for leatherworkers)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting (Nitro Boosts for engineers)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant 2H Weapon — Massacre",
+   "source": "Enchanting (Berserking also strong)"
+  },
+  {
+   "slot": "Rings",
+   "name": "Enchant Ring — Assault",
+   "source": "Enchanting (enchanters only)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage — meta requirements must be met)"
+  },
+  {
+   "color": "Red",
+   "name": "Fractured Cardinal Ruby (+23 crit) — or Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Inscribed Ametrine / Etched Ametrine (Str+crit or Str+hit) — or Rigid King's Amber (+16 crit) for socket bonus"
+  },
+  {
+   "color": "Blue",
+   "name": "Nightmare Tear (activates the meta gem by itself)"
+  }
+ ]
 }

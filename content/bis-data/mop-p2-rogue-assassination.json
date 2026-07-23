@@ -1,226 +1,225 @@
 {
-  "expansion": "mop",
-  "phase": "p2",
-  "class": "rogue",
-  "spec": "assassination",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Assassination Rogue gear guide. Dual-wields two Fyn's Flickering Dagger. Tier set: Nine-Tailed line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p2",
+ "class": "rogue",
+ "spec": "assassination",
+ "role": "Melee DPS",
+ "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Assassination Rogue gear guide. Dual-wields two Fyn's Flickering Dagger. Tier set: Nine-Tailed line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Nine-Tailed Helmet (Tier 15)",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Quadra-Head Brooch",
-          "source": "Throne of Thunder Heroic — Megaera"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Nine-Tailed Spaulders (Tier 15)",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Tigerfang Wrap",
-          "source": "Throne of Thunder Heroic — Cloak of Virtue (quest reward)"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Chestguard of Coruscating Blades",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of the Midnight Comet",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Nine-Tailed Gloves (Tier 15)",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Strap of Murderous Strikes",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Nine-Tailed Legguards (Tier 15)",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Twist-Toe Tabi",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ra-den's Swift Seal",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Gore-Soaked Gear",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Bad Juju",
-          "source": "Throne of Thunder Heroic — Council of Elders"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Renataki's Soul Charm",
-          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
-        }
-      ]
-    },
-    {
-      "slot": "Main-Hand",
-      "items": [
-        {
-          "name": "Fyn's Flickering Dagger",
-          "source": "Throne of Thunder Heroic — Multiple bosses"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Fyn's Flickering Dagger",
-          "source": "Throne of Thunder Heroic — Multiple bosses"
-        }
-      ]
+     "name": "Nine-Tailed Helmet (Tier 15)",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Accuracy (+180 hit)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Glorious Stats (+80 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Greater Haste (+170 haste)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Main Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Off Hand",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
+     "name": "Quadra-Head Brooch",
+     "source": "Throne of Thunder Heroic — Megaera"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
-    },
-    {
-      "color": "Red",
-      "name": "Delicate Primordial Ruby (+160 Agi)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Delicate Primordial Ruby — or Adept Vermilion Onyx (+80 Agi / +160 mastery) for strong socket bonuses"
-    },
-    {
-      "color": "Blue",
-      "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+     "name": "Nine-Tailed Spaulders (Tier 15)",
+     "source": "Throne of Thunder Heroic — Iron Qon"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Tigerfang Wrap",
+     "source": "Throne of Thunder Heroic — Cloak of Virtue (quest reward)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestguard of Coruscating Blades",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Midnight Comet",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Nine-Tailed Gloves (Tier 15)",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Strap of Murderous Strikes",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Nine-Tailed Legguards (Tier 15)",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Twist-Toe Tabi",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ra-den's Swift Seal",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Gore-Soaked Gear",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bad Juju",
+     "source": "Throne of Thunder Heroic — Council of Elders"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Renataki's Soul Charm",
+     "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Fyn's Flickering Dagger",
+     "source": "Throne of Thunder Heroic — Multiple bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Fyn's Flickering Dagger",
+     "source": "Throne of Thunder Heroic — Multiple bosses"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Accuracy (+180 hit)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Glorious Stats (+80 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Greater Haste (+170 haste)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Shadowleather Leg Armor (+285 Agi / +165 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Main Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off Hand",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline)"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Primordial Ruby (+160 Agi)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Delicate Primordial Ruby — or Adept Vermilion Onyx (+80 Agi / +160 mastery) for strong socket bonuses"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Imperial Amethyst (+80 Agi / +160 hit)"
+  }
+ ]
 }

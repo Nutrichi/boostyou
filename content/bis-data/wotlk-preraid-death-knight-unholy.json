@@ -1,263 +1,262 @@
 {
-  "expansion": "wotlk",
-  "phase": "preraid",
-  "class": "death-knight",
-  "spec": "unholy",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Unholy Death Knight Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "wotlk",
+ "phase": "preraid",
+ "class": "death-knight",
+ "spec": "unholy",
+ "role": "Melee DPS",
+ "notes": "Pre-Raid Best in Slot from the Icy Veins WotLK Classic Unholy Death Knight Dps gear guide (pre-raid page, sourced from 5-man heroic dungeons, Emblems of Triumph/Frost, crafted profession items, and the Wrathgate/Argent Tournament questlines). Rings/Trinkets: the source page lists 2-3 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; the combined source text is kept as-is for both since Icy Veins doesn't map cost to item 1:1 in that row. Enchants/gems reused from the matching wotlk/p4 spec profile (same stat priorities apply pre-raid).",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Koltira's Helmet of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thassarian's Helmet of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
+     "name": "Koltira's Helmet of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Frigid Strength of Hodir",
-          "source": "60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Koltira's Shoulderplates of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thassarian's Shoulderplates of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Might of the Nerub",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Koltira's Battleplate of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thassarian's Battleplate of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Boneshatter Vambraces",
-          "source": "30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Koltira's Gauntlets of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        },
-        {
-          "name": "Thassarian's Gauntlets of Conquest",
-          "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Bloodbath Girdle",
-          "source": "38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Bloodbath Belt",
-          "source": "38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Fused Alloy Legplates",
-          "source": "25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Greaves of the Saronite Citadel",
-          "source": "38 Defiler's Scourgestone"
-        },
-        {
-          "name": "Greaves of the 7th Legion",
-          "source": "38 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Violent Temperament",
-          "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Band of the Violent Temperment",
-          "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
-        },
-        {
-          "name": "Seal of the Betrayed King",
-          "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Death's Choice",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Comet's Trail",
-          "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Caress of Insanity",
-          "source": "25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Off-Hand",
-      "items": [
-        {
-          "name": "Caress of Insanity",
-          "source": "25 Sidereal Essence"
-        }
-      ]
-    },
-    {
-      "slot": "Sigil",
-      "items": [
-        {
-          "name": "Sigil of Virulence",
-          "source": "25 Emblem of Triumph"
-        }
-      ]
+     "name": "Thassarian's Helmet of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Arcanum of Torment",
-      "source": "Knights of the Ebon Blade — Revered"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of the Axe",
-      "source": "Sons of Hodir — Exalted"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Speed",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Powerful Stats",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracers — Greater Assault",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Precision",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Waist",
-      "name": "Eternal Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Icescale Leg Armor",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Icewalker",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Rune of the Fallen Crusader",
-      "source": "Runeforging (Ebon Hold)"
+     "name": "Frigid Strength of Hodir",
+     "source": "60 Defiler's Scourgestone"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+     "name": "Koltira's Shoulderplates of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     },
     {
-      "color": "Red",
-      "name": "Bold Cardinal Ruby (+23 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
-    },
-    {
-      "color": "Blue",
-      "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+     "name": "Thassarian's Shoulderplates of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Might of the Nerub",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Koltira's Battleplate of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Thassarian's Battleplate of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Boneshatter Vambraces",
+     "source": "30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Koltira's Gauntlets of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    },
+    {
+     "name": "Thassarian's Gauntlets of Conquest",
+     "source": "20 Defiler's Scourgestone + 75 Emblem of Triumph"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Bloodbath Girdle",
+     "source": "38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Bloodbath Belt",
+     "source": "38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Fused Alloy Legplates",
+     "source": "25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Greaves of the Saronite Citadel",
+     "source": "38 Defiler's Scourgestone"
+    },
+    {
+     "name": "Greaves of the 7th Legion",
+     "source": "38 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Violent Temperament",
+     "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Band of the Violent Temperment",
+     "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
+    },
+    {
+     "name": "Seal of the Betrayed King",
+     "source": "30 Defiler's Scourgestone 30 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Death's Choice",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Comet's Trail",
+     "source": "38 Defiler's Scourgestone 60 Defiler's Scourgestone"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Caress of Insanity",
+     "source": "25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Caress of Insanity",
+     "source": "25 Sidereal Essence"
+    }
+   ]
+  },
+  {
+   "slot": "Sigil",
+   "items": [
+    {
+     "name": "Sigil of Virulence",
+     "source": "25 Emblem of Triumph"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of Torment",
+   "source": "Knights of the Ebon Blade — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of the Axe",
+   "source": "Sons of Hodir — Exalted"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Speed",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Powerful Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracers — Greater Assault",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Precision",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Eternal Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Icescale Leg Armor",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Icewalker",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Rune of the Fallen Crusader",
+   "source": "Runeforging (Ebon Hold)"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthsiege Diamond (+37 crit, +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Cardinal Ruby (+23 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Etched Ametrine (+16 hit / +23 Str) if short on hit — otherwise more Bold Cardinal Ruby"
+  },
+  {
+   "color": "Blue",
+   "name": "Enchanted Tear (meta activator) — otherwise more Bold Cardinal Ruby"
+  }
+ ]
 }

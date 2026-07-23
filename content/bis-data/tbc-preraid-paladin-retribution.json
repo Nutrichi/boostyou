@@ -1,285 +1,284 @@
 {
-  "expansion": "tbc",
-  "phase": "preraid",
-  "class": "paladin",
-  "spec": "retribution",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Crafted Blacksmithing (Lionheart Champion, Ragesteel) and quest blues carry Ret into Karazhan. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
-  "updated": "2026-07-10",
-  "slots": [
+ "expansion": "tbc",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "retribution",
+ "role": "Melee DPS",
+ "notes": "Crafted Blacksmithing (Lionheart Champion, Ragesteel) and quest blues carry Ret into Karazhan. Everything here comes from dungeons, heroics, crafting, reputation, quests or badges — no raid required. Draft compiled from Icy Veins TBC Classic pre-raid guides.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Helm of the Claw",
-          "source": "Quest — The Warlord's Hideout (Steamvault)"
-        },
-        {
-          "name": "Wastewalker Helm",
-          "source": "Heroic Old Hillsbrad — Epoch Hunter"
-        }
-      ]
+     "name": "Helm of the Claw",
+     "source": "Quest — The Warlord's Hideout (Steamvault)"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Haramad's Bargain",
-          "source": "The Consortium — Exalted"
-        },
-        {
-          "name": "Choker of Vile Intent",
-          "source": "Badge vendor — 25 Badges of Justice"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Ragesteel Shoulders",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Wastewalker Shoulderpads",
-          "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Vengeance Wrap",
-          "source": "Tailoring (crafted)"
-        },
-        {
-          "name": "Cloak of the Inciter",
-          "source": "Shadow Labyrinth — Blackheart the Inciter"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Wastewalker Tunic",
-          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
-        },
-        {
-          "name": "Chestplate of A'dal",
-          "source": "Quest — Special Delivery to Shattrath City"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Black Felsteel Bracers",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Bands of Syth",
-          "source": "Sethekk Halls — Darkweaver Syth"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Flesh Handler's Gauntlets",
-          "source": "Quest — The Flesh Lies... (Netherstorm)"
-        },
-        {
-          "name": "Ragesteel Gloves",
-          "source": "Blacksmithing (crafted)"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Red Belt of Battle",
-          "source": "Blacksmithing (crafted)"
-        },
-        {
-          "name": "Epoch's Whispering Cinch",
-          "source": "Heroic Old Hillsbrad — Epoch Hunter"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Shattrath Leggings",
-          "source": "Quest — Special Delivery to Shattrath City"
-        },
-        {
-          "name": "Midnight Legguards",
-          "source": "Heroic Slave Pens — Quagmirran"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Fel Leather Boots",
-          "source": "Leatherworking (crafted)"
-        },
-        {
-          "name": "Sha'tari Wrought Greaves",
-          "source": "Quest — Into the Heart of the Labyrinth"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Shaffar's Band of Brutality",
-          "source": "Heroic Mana-Tombs — Yor"
-        },
-        {
-          "name": "A'dal's Command",
-          "source": "The Sha'tar — Exalted"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Shapeshifter's Signet",
-          "source": "Lower City — Exalted"
-        },
-        {
-          "name": "Ravenclaw Band",
-          "source": "Heroic Sethekk Halls — Talon King Ikiss"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Bloodlust Brooch",
-          "source": "Badge vendor — 41 Badges of Justice"
-        },
-        {
-          "name": "Darkmoon Card: Crusade",
-          "source": "Darkmoon Faire — Blessings Deck"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Abacus of Violent Odds",
-          "source": "The Mechanar — Pathaleon the Calculator"
-        },
-        {
-          "name": "Icon of Unyielding Courage",
-          "source": "Heroic Blood Furnace — Keli'dan the Breaker"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Lionheart Champion",
-          "source": "Blacksmithing (Master Swordsmith)"
-        },
-        {
-          "name": "Quantum Blade",
-          "source": "Heroic Black Morass — Aeonus"
-        },
-        {
-          "name": "Singing Crystal Axe",
-          "source": "World drop (BoE)"
-        }
-      ]
-    },
-    {
-      "slot": "Libram",
-      "items": [
-        {
-          "name": "Libram of Avengement",
-          "source": "Heroic Blood Furnace — The Maker"
-        }
-      ]
+     "name": "Wastewalker Helm",
+     "source": "Heroic Old Hillsbrad — Epoch Hunter"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Glyph of Ferocity (+34 AP / +16 hit)",
-      "source": "Cenarion Expedition — Revered"
+     "name": "Haramad's Bargain",
+     "source": "The Consortium — Exalted"
     },
     {
-      "slot": "Shoulders",
-      "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
-      "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Agility (+12 Agi)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Brawn (+12 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves — Major Strength (+15 Str)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Legs",
-      "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
-      "source": "Enchanting"
+     "name": "Choker of Vile Intent",
+     "source": "Badge vendor — 25 Badges of Justice"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+     "name": "Ragesteel Shoulders",
+     "source": "Blacksmithing (crafted)"
     },
     {
-      "color": "Red",
-      "name": "Bold Living Ruby (+8 Str)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Bold Living Ruby — ignore yellow bonuses, stack Strength"
-    },
-    {
-      "color": "Blue",
-      "name": "Sovereign Nightseye (+4 Str / +6 stamina — minimum needed for meta)"
+     "name": "Wastewalker Shoulderpads",
+     "source": "Heroic Auchenai Crypts — Avatar of the Martyred"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Vengeance Wrap",
+     "source": "Tailoring (crafted)"
+    },
+    {
+     "name": "Cloak of the Inciter",
+     "source": "Shadow Labyrinth — Blackheart the Inciter"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Wastewalker Tunic",
+     "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+    },
+    {
+     "name": "Chestplate of A'dal",
+     "source": "Quest — Special Delivery to Shattrath City"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Black Felsteel Bracers",
+     "source": "Blacksmithing (crafted)"
+    },
+    {
+     "name": "Bands of Syth",
+     "source": "Sethekk Halls — Darkweaver Syth"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Flesh Handler's Gauntlets",
+     "source": "Quest — The Flesh Lies... (Netherstorm)"
+    },
+    {
+     "name": "Ragesteel Gloves",
+     "source": "Blacksmithing (crafted)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Red Belt of Battle",
+     "source": "Blacksmithing (crafted)"
+    },
+    {
+     "name": "Epoch's Whispering Cinch",
+     "source": "Heroic Old Hillsbrad — Epoch Hunter"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Shattrath Leggings",
+     "source": "Quest — Special Delivery to Shattrath City"
+    },
+    {
+     "name": "Midnight Legguards",
+     "source": "Heroic Slave Pens — Quagmirran"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Fel Leather Boots",
+     "source": "Leatherworking (crafted)"
+    },
+    {
+     "name": "Sha'tari Wrought Greaves",
+     "source": "Quest — Into the Heart of the Labyrinth"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Shaffar's Band of Brutality",
+     "source": "Heroic Mana-Tombs — Yor"
+    },
+    {
+     "name": "A'dal's Command",
+     "source": "The Sha'tar — Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Shapeshifter's Signet",
+     "source": "Lower City — Exalted"
+    },
+    {
+     "name": "Ravenclaw Band",
+     "source": "Heroic Sethekk Halls — Talon King Ikiss"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Bloodlust Brooch",
+     "source": "Badge vendor — 41 Badges of Justice"
+    },
+    {
+     "name": "Darkmoon Card: Crusade",
+     "source": "Darkmoon Faire — Blessings Deck"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Abacus of Violent Odds",
+     "source": "The Mechanar — Pathaleon the Calculator"
+    },
+    {
+     "name": "Icon of Unyielding Courage",
+     "source": "Heroic Blood Furnace — Keli'dan the Breaker"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Lionheart Champion",
+     "source": "Blacksmithing (Master Swordsmith)"
+    },
+    {
+     "name": "Quantum Blade",
+     "source": "Heroic Black Morass — Aeonus"
+    },
+    {
+     "name": "Singing Crystal Axe",
+     "source": "World drop (BoE)"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Avengement",
+     "source": "Heroic Blood Furnace — The Maker"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Glyph of Ferocity (+34 AP / +16 hit)",
+   "source": "Cenarion Expedition — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Vengeance (+30 AP / +10 crit)",
+   "source": "The Aldor — Exalted (Scryers: Greater Inscription of the Blade)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Agility (+12 Agi)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Exceptional Stats (+6 all stats)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Brawn (+12 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves — Major Strength (+15 Str)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Nethercobra Leg Armor (+50 AP / +12 crit)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Cat's Swiftness (+6 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Mongoose (+120 Agi proc)",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Relentless Earthstorm Diamond (+12 Agi / +3% crit damage)"
+  },
+  {
+   "color": "Red",
+   "name": "Bold Living Ruby (+8 Str)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Bold Living Ruby — ignore yellow bonuses, stack Strength"
+  },
+  {
+   "color": "Blue",
+   "name": "Sovereign Nightseye (+4 Str / +6 stamina — minimum needed for meta)"
+  }
+ ]
 }

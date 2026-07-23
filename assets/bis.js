@@ -198,7 +198,9 @@
       '<h2>' + esc(spec.label + ' ' + cls.label) + (data.role ? ' <span class="bis-role">' + esc(data.role) + '</span>' : '') + '</h2>' +
       '<div class="bis-list-meta">' + esc(exp.label + ' · ' + phase.label) +
       (data.updated ? ' · Updated ' + esc(data.updated) : '') +
-      (data.status === 'draft' ? ' <span class="draft-badge">Draft — being verified</span>' : '') +
+      ' <span class="bis-info-wrap"><button type="button" class="bis-info" aria-label="Report a mistake in this list">i</button>' +
+      '<span class="bis-info-pop" role="tooltip">Spotted a mistake in this BiS list? Email ' +
+      '<a href="mailto:bis@boostyou.ai">bis@boostyou.ai</a> and we\'ll look into it.</span></span>' +
       '</div>' +
       (data.notes ? '<p class="bis-notes">' + esc(data.notes) + '</p>' : '') +
       '</div>';

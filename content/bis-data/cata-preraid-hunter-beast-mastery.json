@@ -1,0 +1,220 @@
+{
+ "expansion": "cata",
+ "phase": "preraid",
+ "class": "hunter",
+ "spec": "beast-mastery",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid list from the Icy Veins Cataclysm Classic Beast Mastery Hunter gear guide (pre-raid page): Firelands-era catch-up pre-bis (previous-tier vendor gear via Fissure Stone Fragments). Icy Veins maintains no Hour of Twilight (4.3) pre-bis for this spec; this is the most current pre-raid list the source offers Enchants and gems from the spec's Icy Veins enchants-consumables page.",
+ "updated": "2026-07-23",
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Arcanum of the Ramkahen",
+   "source": "Ramkahen — Revered"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Greater Inscription of Shattered Crystal",
+   "source": "Therazane — Exalted (Greater) / Honored (Lesser)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Critical Strike",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Peerless Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Major Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Waist",
+   "name": "Ebonsteel Belt Buckle",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Dragonscale Leg Armor",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Assassin's Step",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Melee Weapon",
+   "name": "Enchant 2H Weapon - Mighty Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ranged Weapon",
+   "name": "Gnomish X-Ray Scope"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Agile Shadowspirit Diamond"
+  },
+  {
+   "color": "Red",
+   "name": "Delicate Queen's Garnet"
+  },
+  {
+   "color": "Blue",
+   "name": "Glinting Shadow Spinel — or Delicate Queen's Garnet"
+  },
+  {
+   "color": "Yellow",
+   "name": "Deadly Lava Coral"
+  }
+ ],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lightning-Charged Headguard",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mistral Pendant",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Lightning-Charged Spaulders",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Mistral Drape",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Lightning-Charged Tunic",
+     "source": "Purchased with Justice Points"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Chimaeron Armguards",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Firearrow Belt",
+     "source": "Honored with Hyjal Rep"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Twilight Scale Leggings",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Lancer's Greaves",
+     "source": "Molten Front"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Matoclaw's Band",
+     "source": "Molten Front"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Mistral Circle",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Essence of the Cyclone",
+     "source": "Purchased with Fissure Stone Fragment"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Fluid Death",
+     "source": "Purchased with Justice Points"
+    }
+   ]
+  },
+  {
+   "slot": "Melee Weapon",
+   "items": [
+    {
+     "name": "Witch-Hunter's Harvester",
+     "source": "BoE Crafted through Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged Weapon",
+   "items": [
+    {
+     "name": "Extreme-Impact Hole Puncher",
+     "source": "BoE Crafted through Engineering"
+    }
+   ]
+  }
+ ]
+}

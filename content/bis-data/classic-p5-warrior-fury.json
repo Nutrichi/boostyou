@@ -1,233 +1,232 @@
 {
-  "expansion": "classic",
-  "phase": "p5",
-  "class": "warrior",
-  "spec": "fury",
-  "role": "Melee DPS",
-  "status": "draft",
-  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p5",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Warrior Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Lionheart Helm",
-          "source": "Blacksmithing"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Barbed Choker",
-          "source": "Fankriss The Unyielding in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Conqueror's Spaulders",
-          "source": "Viscidus or Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Fallen God",
-          "source": "C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Breastplate of Annihilation",
-          "source": "The Prophet Skeram in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Qiraji Execution Bracers",
-          "source": "The Twin Emperors in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Edgemaster's Handguards",
-          "source": "World drop BoE C'Thun in AQ40"
-        },
-        {
-          "name": "Gauntlets of Annihilation",
-          "source": "World drop BoE C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Onslaught Girdle",
-          "source": "Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Conqueror's Legguards",
-          "source": "Ouro in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Chromatic Boots",
-          "source": "Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Qiraji Fury",
-          "source": "Viscidus in AQ40 Multiple bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Quick Strike Ring",
-          "source": "Viscidus in AQ40 Multiple bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Diamond Flask",
-          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Drake Fang Talisman",
-          "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand",
-      "items": [
-        {
-          "name": "Blessed Qiraji War Axe",
-          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Empyrean Demolisher",
-          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Crul'shorukh, Edge of Chaos",
-          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Chromatically Tempered Sword",
-          "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand",
-      "items": [
-        {
-          "name": "Dark Edge of Insanity",
-          "source": "C'Thun in AQ40 Ragnaros in Molten Core"
-        },
-        {
-          "name": "Bonereaver's Edge",
-          "source": "C'Thun in AQ40 Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Larvae of the Great Worm",
-          "source": "Ouro in AQ40"
-        }
-      ]
+     "name": "Lionheart Helm",
+     "source": "Blacksmithing"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shoulders",
-      "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon(s)",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Barbed Choker",
+     "source": "Fankriss The Unyielding in AQ40"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Conqueror's Spaulders",
+     "source": "Viscidus or Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Fallen God",
+     "source": "C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Annihilation",
+     "source": "The Prophet Skeram in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Qiraji Execution Bracers",
+     "source": "The Twin Emperors in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Edgemaster's Handguards",
+     "source": "World drop BoE C'Thun in AQ40"
+    },
+    {
+     "name": "Gauntlets of Annihilation",
+     "source": "World drop BoE C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Onslaught Girdle",
+     "source": "Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Conqueror's Legguards",
+     "source": "Ouro in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Chromatic Boots",
+     "source": "Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Qiraji Fury",
+     "source": "Viscidus in AQ40 Multiple bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Quick Strike Ring",
+     "source": "Viscidus in AQ40 Multiple bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Diamond Flask",
+     "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Drake Fang Talisman",
+     "source": "Voodoo Feathers in Sunken Temple Ebonroc in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Blessed Qiraji War Axe",
+     "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Empyrean Demolisher",
+     "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Crul'shorukh, Edge of Chaos",
+     "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Chromatically Tempered Sword",
+     "source": "Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide ) Lord Kazzak Nefarian in Blackwing Lair Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Dark Edge of Insanity",
+     "source": "C'Thun in AQ40 Ragnaros in Molten Core"
+    },
+    {
+     "name": "Bonereaver's Edge",
+     "source": "C'Thun in AQ40 Ragnaros in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Larvae of the Great Worm",
+     "source": "Ouro in AQ40"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Might of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Damage : Enchant Cloak - Subtlety PvP : Enchant Cloak - Lesser Agility Resistance : Enchant Cloak - Greater Nature Resistance .",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "PvE Lesser Arcanum of Voracity — from Libram of Voracity in the Burning Steppes. PvP Lesser Arcanum of Constitution — from Libram of Constitution in the Burning Steppes.",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon(s)",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

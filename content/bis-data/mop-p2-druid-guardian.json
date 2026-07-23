@@ -1,212 +1,211 @@
 {
-  "expansion": "mop",
-  "phase": "p2",
-  "class": "druid",
-  "spec": "guardian",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Guardian Druid gear guide. Tier set: Haunted Forest line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "mop",
+ "phase": "p2",
+ "class": "druid",
+ "spec": "guardian",
+ "role": "Tank",
+ "notes": "Phase 2 / Tier 15 (Throne of Thunder) Best in Slot from the Icy Veins MoP Classic Guardian Druid gear guide. Tier set: Haunted Forest line. Enchants/gems reused from the mop-p3 (Siege of Orgrimmar) list.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
     {
-      "slot": "Head",
-      "items": [
-        {
-          "name": "Headguard of the Haunted Forest (Tier 15)",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Quadra-Head Brooch",
-          "source": "Throne of Thunder Heroic — Megaera"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Spaulders of the Haunted Forest (Tier 15)",
-          "source": "Throne of Thunder Heroic — Iron Qon"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Pinionfeather Greatcloak",
-          "source": "Throne of Thunder Heroic — Ji-Kun"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Chestguard of Coruscating Blades",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Bracers of the Midnight Comet",
-          "source": "Throne of Thunder Heroic — Twin Consorts"
-        }
-      ]
-    },
-    {
-      "slot": "Hands",
-      "items": [
-        {
-          "name": "Gloves of Cushioned Air",
-          "source": "Throne of Thunder Heroic — Primordius"
-        }
-      ]
-    },
-    {
-      "slot": "Waist",
-      "items": [
-        {
-          "name": "Strap of Murderous Strikes",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Worldbinder Leggings",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Twist-Toe Tabi",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ra-den's Swift Seal",
-          "source": "Throne of Thunder Heroic — Ra-den"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Gore-Soaked Gear",
-          "source": "Throne of Thunder Heroic — Dark Animus"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Soul Barrier",
-          "source": "Throne of Thunder Heroic — Lei Shen"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Renataki's Soul Charm",
-          "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
-        }
-      ]
-    },
-    {
-      "slot": "Weapon",
-      "items": [
-        {
-          "name": "Darkwood Spiritstaff",
-          "source": "Throne of Thunder Heroic — Multiple bosses"
-        }
-      ]
+     "name": "Headguard of the Haunted Forest (Tier 15)",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Shoulders",
-      "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
-      "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak — Greater Protection (+200 armor)",
-      "source": "Enchanting (Swordguard Embroidery for tailors)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest — Superior Stamina (+300 stamina)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer — Greater Agility (+180 Agi)",
-      "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Sha Armor Kit (+250 stamina)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Waist",
-      "name": "Living Steel Belt Buckle (+1 gem socket)",
-      "source": "Blacksmithing"
-    },
-    {
-      "slot": "Legs",
-      "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
-      "source": "Leatherworking (crafted, usable by all)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
-      "source": "Enchanting"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon — Dancing Steel",
-      "source": "Enchanting"
+     "name": "Quadra-Head Brooch",
+     "source": "Throne of Thunder Heroic — Megaera"
     }
-  ],
-  "gems": [
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
     {
-      "color": "Meta",
-      "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Austere Primal Diamond for progression)"
-    },
-    {
-      "color": "Red",
-      "name": "Crafty Vermilion Onyx (+160 crit / +80 hit)"
-    },
-    {
-      "color": "Yellow",
-      "name": "Smooth Sun's Radiance (+320 crit)"
-    },
-    {
-      "color": "Blue",
-      "name": "Jagged Wild Jade (+160 crit / +240 stamina)"
+     "name": "Spaulders of the Haunted Forest (Tier 15)",
+     "source": "Throne of Thunder Heroic — Iron Qon"
     }
-  ]
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Pinionfeather Greatcloak",
+     "source": "Throne of Thunder Heroic — Ji-Kun"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chestguard of Coruscating Blades",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Midnight Comet",
+     "source": "Throne of Thunder Heroic — Twin Consorts"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Cushioned Air",
+     "source": "Throne of Thunder Heroic — Primordius"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Strap of Murderous Strikes",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Worldbinder Leggings",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Twist-Toe Tabi",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ra-den's Swift Seal",
+     "source": "Throne of Thunder Heroic — Ra-den"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Gore-Soaked Gear",
+     "source": "Throne of Thunder Heroic — Dark Animus"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Soul Barrier",
+     "source": "Throne of Thunder Heroic — Lei Shen"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Renataki's Soul Charm",
+     "source": "Throne of Thunder Heroic — Jin'rokh the Breaker"
+    }
+   ]
+  },
+  {
+   "slot": "Weapon",
+   "items": [
+    {
+     "name": "Darkwood Spiritstaff",
+     "source": "Throne of Thunder Heroic — Multiple bosses"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Shoulders",
+   "name": "Greater Tiger Claw Inscription (+200 Agi / +100 crit)",
+   "source": "Inscription (Secret Tiger Claw Inscription for scribes)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak — Greater Protection (+200 armor)",
+   "source": "Enchanting (Swordguard Embroidery for tailors)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest — Superior Stamina (+300 stamina)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer — Greater Agility (+180 Agi)",
+   "source": "Enchanting (Fur Lining — Agility for leatherworkers)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Sha Armor Kit (+250 stamina)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Waist",
+   "name": "Living Steel Belt Buckle (+1 gem socket)",
+   "source": "Blacksmithing"
+  },
+  {
+   "slot": "Legs",
+   "name": "Ironscale Leg Armor (+430 stamina / +165 dodge)",
+   "source": "Leatherworking (crafted, usable by all)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots — Blurred Speed (+140 Agi, minor run speed)",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon — Dancing Steel",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [
+  {
+   "color": "Meta",
+   "name": "Capacitive Primal Diamond (Legendary — Wrathion questline; Austere Primal Diamond for progression)"
+  },
+  {
+   "color": "Red",
+   "name": "Crafty Vermilion Onyx (+160 crit / +80 hit)"
+  },
+  {
+   "color": "Yellow",
+   "name": "Smooth Sun's Radiance (+320 crit)"
+  },
+  {
+   "color": "Blue",
+   "name": "Jagged Wild Jade (+160 crit / +240 stamina)"
+  }
+ ]
 }

@@ -1,286 +1,285 @@
 {
-  "expansion": "classic",
-  "phase": "p6",
-  "class": "warrior",
-  "spec": "protection",
-  "role": "Tank",
-  "status": "draft",
-  "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p6",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Phase 6 (Naxxramas). Best in Slot from the Icy Veins WoW Classic Era Warrior Tank gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Dreadnaught Helmet",
-          "source": "Thaddius in Naxxramas The Twin Emperors in AQ40"
-        },
-        {
-          "name": "Conqueror's Crown",
-          "source": "Thaddius in Naxxramas The Twin Emperors in AQ40"
-        }
-      ]
+     "name": "Dreadnaught Helmet",
+     "source": "Thaddius in Naxxramas The Twin Emperors in AQ40"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Mark of C'Thun",
-          "source": "C'Thun in AQ40 Gothik the Harvester in Naxxramas"
-        },
-        {
-          "name": "Sadist's Collar",
-          "source": "C'Thun in AQ40 Gothik the Harvester in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Dreadnaught Pauldrons",
-          "source": "Patchwerk , Grobbulus or Gluth in Naxxramas Viscidus or Princess Huhuran in AQ40"
-        },
-        {
-          "name": "Conqueror's Spaulders",
-          "source": "Patchwerk , Grobbulus or Gluth in Naxxramas Viscidus or Princess Huhuran in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Fallen God",
-          "source": "C'Thun in AQ40 Anub'Rekhan in Naxxramas"
-        },
-        {
-          "name": "Cryptfiend Silk Cloak",
-          "source": "C'Thun in AQ40 Anub'Rekhan in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Dreadnaught Breastplate",
-          "source": "The Four Horsemen in Naxxramas C'Thun in AQ40"
-        },
-        {
-          "name": "Conqueror's Breastplate",
-          "source": "The Four Horsemen in Naxxramas C'Thun in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Dreadnaught Bracers",
-          "source": "Anub'Rekhan , Gluth or Grand Widow Faerlina in Naxxramas Anub'Rekhan in Naxxramas"
-        },
-        {
-          "name": "Wristguards of Vengeance",
-          "source": "Anub'Rekhan , Gluth or Grand Widow Faerlina in Naxxramas Anub'Rekhan in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Gauntlets of Steadfast Determination",
-          "source": "Battleguard Sartura in AQ40 Maexxna in Naxxramas"
-        },
-        {
-          "name": "Dreadnaught Gauntlets",
-          "source": "Battleguard Sartura in AQ40 Maexxna in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Girdle of the Mentor",
-          "source": "Instructor Razuvious in Naxxramas Noth the Plaguebringer , Gluth or Heigan the Unclean in Naxxramas"
-        },
-        {
-          "name": "Dreadnaught Waistguard",
-          "source": "Instructor Razuvious in Naxxramas Noth the Plaguebringer , Gluth or Heigan the Unclean in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Dreadnaught Legplates",
-          "source": "Loatheb in Naxxramas Ouro in AQ40"
-        },
-        {
-          "name": "Conqueror's Legguards",
-          "source": "Loatheb in Naxxramas Ouro in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Dreadnaught Sabatons",
-          "source": "Instructor Razuvious , Gothik the Harvester or Gluth in Naxxramas Chromaggus in Blackwing Lair"
-        },
-        {
-          "name": "Chromatic Boots",
-          "source": "Instructor Razuvious , Gothik the Harvester or Gluth in Naxxramas Chromaggus in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Dreadnaught",
-          "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ring of Emperor Vek'lor",
-          "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
-        },
-        {
-          "name": "Ring of the Godslayer",
-          "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
-        },
-        {
-          "name": "Circle of Applied Force",
-          "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Drake Fang Talisman",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Kiss of the Spider",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        },
-        {
-          "name": "Lifegiving Gem",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        },
-        {
-          "name": "Styleen's Impeding Scarab",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        },
-        {
-          "name": "Earthstrike",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        },
-        {
-          "name": "Diamond Flask",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        },
-        {
-          "name": "Nat Pagle's Broken Reel",
-          "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand",
-      "items": [
-        {
-          "name": "Thunderfury, Blessed Blade of the Windseeker",
-          "source": "Thunderfury questline"
-        }
-      ]
-    },
-    {
-      "slot": "Shield",
-      "items": [
-        {
-          "name": "The Face of Death",
-          "source": "Sapphiron in Naxxramas"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Soulstring",
-          "source": "The Four Horsemen in Naxxramas"
-        }
-      ]
+     "name": "Conqueror's Crown",
+     "source": "Thaddius in Naxxramas The Twin Emperors in AQ40"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Mark of C'Thun",
+     "source": "C'Thun in AQ40 Gothik the Harvester in Naxxramas"
     },
     {
-      "slot": "Shoulders",
-      "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Superior Strength",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Crusader",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Shield",
-      "name": "Thorium Shield Spike",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Sadist's Collar",
+     "source": "C'Thun in AQ40 Gothik the Harvester in Naxxramas"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Dreadnaught Pauldrons",
+     "source": "Patchwerk , Grobbulus or Gluth in Naxxramas Viscidus or Princess Huhuran in AQ40"
+    },
+    {
+     "name": "Conqueror's Spaulders",
+     "source": "Patchwerk , Grobbulus or Gluth in Naxxramas Viscidus or Princess Huhuran in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Fallen God",
+     "source": "C'Thun in AQ40 Anub'Rekhan in Naxxramas"
+    },
+    {
+     "name": "Cryptfiend Silk Cloak",
+     "source": "C'Thun in AQ40 Anub'Rekhan in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dreadnaught Breastplate",
+     "source": "The Four Horsemen in Naxxramas C'Thun in AQ40"
+    },
+    {
+     "name": "Conqueror's Breastplate",
+     "source": "The Four Horsemen in Naxxramas C'Thun in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Dreadnaught Bracers",
+     "source": "Anub'Rekhan , Gluth or Grand Widow Faerlina in Naxxramas Anub'Rekhan in Naxxramas"
+    },
+    {
+     "name": "Wristguards of Vengeance",
+     "source": "Anub'Rekhan , Gluth or Grand Widow Faerlina in Naxxramas Anub'Rekhan in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Gauntlets of Steadfast Determination",
+     "source": "Battleguard Sartura in AQ40 Maexxna in Naxxramas"
+    },
+    {
+     "name": "Dreadnaught Gauntlets",
+     "source": "Battleguard Sartura in AQ40 Maexxna in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Girdle of the Mentor",
+     "source": "Instructor Razuvious in Naxxramas Noth the Plaguebringer , Gluth or Heigan the Unclean in Naxxramas"
+    },
+    {
+     "name": "Dreadnaught Waistguard",
+     "source": "Instructor Razuvious in Naxxramas Noth the Plaguebringer , Gluth or Heigan the Unclean in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Dreadnaught Legplates",
+     "source": "Loatheb in Naxxramas Ouro in AQ40"
+    },
+    {
+     "name": "Conqueror's Legguards",
+     "source": "Loatheb in Naxxramas Ouro in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Dreadnaught Sabatons",
+     "source": "Instructor Razuvious , Gothik the Harvester or Gluth in Naxxramas Chromaggus in Blackwing Lair"
+    },
+    {
+     "name": "Chromatic Boots",
+     "source": "Instructor Razuvious , Gothik the Harvester or Gluth in Naxxramas Chromaggus in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Dreadnaught",
+     "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Emperor Vek'lor",
+     "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
+    },
+    {
+     "name": "Ring of the Godslayer",
+     "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
+    },
+    {
+     "name": "Circle of Applied Force",
+     "source": "Kel'Thuzad in Naxxramas The Twin Emperors in AQ40 C'Thun in AQ40 Flamegor in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Drake Fang Talisman",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Kiss of the Spider",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    },
+    {
+     "name": "Lifegiving Gem",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    },
+    {
+     "name": "Styleen's Impeding Scarab",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    },
+    {
+     "name": "Earthstrike",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    },
+    {
+     "name": "Diamond Flask",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    },
+    {
+     "name": "Nat Pagle's Broken Reel",
+     "source": "Ebonroc in Blackwing Lair Maexxna in Naxxramas Broodlord Lashlayer in Blackwing Lair Flamegor in Blackwing Lair Champion's Battlegear quest in Silithus Voodoo Feathers in Sunken Temple Gahz'ranka in Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "Thunderfury, Blessed Blade of the Windseeker",
+     "source": "Thunderfury questline"
+    }
+   ]
+  },
+  {
+   "slot": "Shield",
+   "items": [
+    {
+     "name": "The Face of Death",
+     "source": "Sapphiron in Naxxramas"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Soulstring",
+     "source": "The Four Horsemen in Naxxramas"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes. Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Fortitude of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Might — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Threat : Enchant Cloak - Lesser Agility Survivability : Enchant Cloak - Dodge Resistance : Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Threat : Enchant Chest - Greater Stats Survivability : Enchant Chest - Major Health",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Superior Strength",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Threat : Enchant Gloves - Threat Survivability : Enchant Gloves - Superior Agility",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Threat : Lesser Arcanum of Voracity (or Agility) — from Libram of Voracity in the Burning Steppes Survivability : Presence of Might — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Crusader",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shield",
+   "name": "Thorium Shield Spike",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }

@@ -1,294 +1,293 @@
 {
-  "expansion": "classic",
-  "phase": "p5",
-  "class": "mage",
-  "spec": "frost",
-  "role": "Ranged DPS",
-  "status": "draft",
-  "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Mage Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
-  "updated": "2026-07-22",
-  "slots": [
+ "expansion": "classic",
+ "phase": "p5",
+ "class": "mage",
+ "spec": "frost",
+ "role": "Ranged DPS",
+ "notes": "Phase 5 (Ahn'Qiraj, both Ruins/AQ20 and Temple/AQ40). Best in Slot from the Icy Veins WoW Classic Era Mage Dps gear guide. Rings/Trinkets: the source lists 2-4 ranked options in one row (you equip two) — split here into two named slots, top pick in slot 1; combined source text kept for both. Classic Era predates gem sockets entirely (introduced in Cataclysm) — no gems section applies.",
+ "updated": "2026-07-23",
+ "slots": [
+  {
+   "slot": "Helm",
+   "items": [
     {
-      "slot": "Helm",
-      "items": [
-        {
-          "name": "Mish'undare, Circlet of the Mind Flayer",
-          "source": "Nefarian in Blackwing Lair The Twin Emperors in AQ40"
-        },
-        {
-          "name": "Enigma Circlet",
-          "source": "Nefarian in Blackwing Lair The Twin Emperors in AQ40"
-        }
-      ]
+     "name": "Mish'undare, Circlet of the Mind Flayer",
+     "source": "Nefarian in Blackwing Lair The Twin Emperors in AQ40"
     },
     {
-      "slot": "Neck",
-      "items": [
-        {
-          "name": "Amulet of Vek'nilash",
-          "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
-        },
-        {
-          "name": "Choker of the Fire Lord",
-          "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Shoulders",
-      "items": [
-        {
-          "name": "Champion's Silk Mantle",
-          "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
-        },
-        {
-          "name": "Mantle of the Blackwing Cabal",
-          "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
-        },
-        {
-          "name": "Enigma Shoulderpads",
-          "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
-        }
-      ]
-    },
-    {
-      "slot": "Back",
-      "items": [
-        {
-          "name": "Cloak of the Devoured",
-          "source": "C'Thun in AQ40 Hakkar in Zul'Gurub"
-        },
-        {
-          "name": "Cloak of Consumption",
-          "source": "C'Thun in AQ40 Hakkar in Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Chest",
-      "items": [
-        {
-          "name": "Enigma Robes",
-          "source": "C'Thun in AQ40 Tailoring"
-        },
-        {
-          "name": "Robe of the Archmage",
-          "source": "C'Thun in AQ40 Tailoring"
-        }
-      ]
-    },
-    {
-      "slot": "Wrists",
-      "items": [
-        {
-          "name": "Rockfury Bracers",
-          "source": "Stalwart's Battlegear quest in Silithus Broodlord Lashlayer in Blackwing Lair"
-        },
-        {
-          "name": "Bracers of Arcane Accuracy",
-          "source": "Stalwart's Battlegear quest in Silithus Broodlord Lashlayer in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Gloves",
-      "items": [
-        {
-          "name": "Dark Storm Gauntlets",
-          "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
-        },
-        {
-          "name": "Netherwind Gloves",
-          "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
-        },
-        {
-          "name": "Blood Guard's Silk Handwraps",
-          "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
-        }
-      ]
-    },
-    {
-      "slot": "Belt",
-      "items": [
-        {
-          "name": "Eyestalk Waist Cord",
-          "source": "C'Thun in AQ40 Various Bosses in Molten Core"
-        },
-        {
-          "name": "Mana Igniting Cord",
-          "source": "C'Thun in AQ40 Various Bosses in Molten Core"
-        }
-      ]
-    },
-    {
-      "slot": "Legs",
-      "items": [
-        {
-          "name": "Leggings of the Black Blizzard",
-          "source": "Ossirian the Unscarred in AQ20 Battleguard Sartura in AQ40"
-        },
-        {
-          "name": "Leggings of the Festering Swarm",
-          "source": "Ossirian the Unscarred in AQ20 Battleguard Sartura in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Feet",
-      "items": [
-        {
-          "name": "Blood Guard's Silk Walkers",
-          "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
-        },
-        {
-          "name": "Enigma Boots",
-          "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
-        },
-        {
-          "name": "Boots of Epiphany",
-          "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 1",
-      "items": [
-        {
-          "name": "Ring of the Fallen God",
-          "source": "C'Thun in AQ40 Temple of Ahn'Qiraj Trash Guide"
-        }
-      ]
-    },
-    {
-      "slot": "Ring 2",
-      "items": [
-        {
-          "name": "Ritssyn's Ring of Chaos",
-          "source": "C'Thun in AQ40 Temple of Ahn'Qiraj Trash Guide"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 1",
-      "items": [
-        {
-          "name": "Mind Quickening Gem",
-          "source": "Vaelastrasz in Blackwing Lair Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Trinket 2",
-      "items": [
-        {
-          "name": "Neltharion's Tear",
-          "source": "Vaelastrasz in Blackwing Lair Nefarian in Blackwing Lair"
-        }
-      ]
-    },
-    {
-      "slot": "Two-Hand",
-      "items": [
-        {
-          "name": "Staff of the Shadow Flame",
-          "source": "Nefarian in Blackwing Lair Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
-        },
-        {
-          "name": "Blessed Qiraji Acolyte Staff",
-          "source": "Nefarian in Blackwing Lair Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
-        }
-      ]
-    },
-    {
-      "slot": "One-Hand",
-      "items": [
-        {
-          "name": "High Warlord's Spellblade",
-          "source": "Bought from the PvP Vendor at Rank 14 Viscidus in AQ40"
-        },
-        {
-          "name": "Sharpened Silithid Femur",
-          "source": "Bought from the PvP Vendor at Rank 14 Viscidus in AQ40"
-        }
-      ]
-    },
-    {
-      "slot": "Off-hand",
-      "items": [
-        {
-          "name": "Royal Scepter of Vek'lor",
-          "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
-        },
-        {
-          "name": "Tome of Fiery Arcana",
-          "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
-        },
-        {
-          "name": "Jin'do's Bag of Whammies",
-          "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
-        }
-      ]
-    },
-    {
-      "slot": "Ranged",
-      "items": [
-        {
-          "name": "Wand of Qiraji Nobility",
-          "source": "Silithid Royalty in AQ40 Hakkar in Zul'Gurub"
-        },
-        {
-          "name": "Touch of Chaos",
-          "source": "Silithid Royalty in AQ40 Hakkar in Zul'Gurub"
-        }
-      ]
+     "name": "Enigma Circlet",
+     "source": "Nefarian in Blackwing Lair The Twin Emperors in AQ40"
     }
-  ],
-  "enchants": [
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
     {
-      "slot": "Head",
-      "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Amulet of Vek'nilash",
+     "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
     },
     {
-      "slot": "Shoulders",
-      "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Back",
-      "name": "Enchant Cloak - Greater Nature Resistance",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Chest",
-      "name": "Enchant Chest - Greater Stats",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Wrists",
-      "name": "Enchant Bracer - Greater Intellect",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Hands",
-      "name": "Enchant Gloves - Fire Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Legs",
-      "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Feet",
-      "name": "Enchant Boots - Minor Speed",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
-    },
-    {
-      "slot": "Weapon",
-      "name": "Enchant Weapon - Spell Power",
-      "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+     "name": "Choker of the Fire Lord",
+     "source": "The Twin Emperors in AQ40 Ragnaros in Molten Core"
     }
-  ],
-  "gems": []
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Champion's Silk Mantle",
+     "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
+    },
+    {
+     "name": "Mantle of the Blackwing Cabal",
+     "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
+    },
+    {
+     "name": "Enigma Shoulderpads",
+     "source": "Bought from the PvP Vendor at Rank 10 Razorgore the Untamed in Blackwing Lair Viscidus or Princess Huhuran"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Devoured",
+     "source": "C'Thun in AQ40 Hakkar in Zul'Gurub"
+    },
+    {
+     "name": "Cloak of Consumption",
+     "source": "C'Thun in AQ40 Hakkar in Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Enigma Robes",
+     "source": "C'Thun in AQ40 Tailoring"
+    },
+    {
+     "name": "Robe of the Archmage",
+     "source": "C'Thun in AQ40 Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Rockfury Bracers",
+     "source": "Stalwart's Battlegear quest in Silithus Broodlord Lashlayer in Blackwing Lair"
+    },
+    {
+     "name": "Bracers of Arcane Accuracy",
+     "source": "Stalwart's Battlegear quest in Silithus Broodlord Lashlayer in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Gloves",
+   "items": [
+    {
+     "name": "Dark Storm Gauntlets",
+     "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
+    },
+    {
+     "name": "Netherwind Gloves",
+     "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
+    },
+    {
+     "name": "Blood Guard's Silk Handwraps",
+     "source": "C'Thun in AQ40 Drake bosses in Blackwing Lair Bought from the PvP Vendor at Rank 7"
+    }
+   ]
+  },
+  {
+   "slot": "Belt",
+   "items": [
+    {
+     "name": "Eyestalk Waist Cord",
+     "source": "C'Thun in AQ40 Various Bosses in Molten Core"
+    },
+    {
+     "name": "Mana Igniting Cord",
+     "source": "C'Thun in AQ40 Various Bosses in Molten Core"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Leggings of the Black Blizzard",
+     "source": "Ossirian the Unscarred in AQ20 Battleguard Sartura in AQ40"
+    },
+    {
+     "name": "Leggings of the Festering Swarm",
+     "source": "Ossirian the Unscarred in AQ20 Battleguard Sartura in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Blood Guard's Silk Walkers",
+     "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
+    },
+    {
+     "name": "Enigma Boots",
+     "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
+    },
+    {
+     "name": "Boots of Epiphany",
+     "source": "Bought from the PvP Vendor at Rank 7 Viscidus or Princess Huhuran in AQ40 The Twin Emperors in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of the Fallen God",
+     "source": "C'Thun in AQ40 Temple of Ahn'Qiraj Trash Guide"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ritssyn's Ring of Chaos",
+     "source": "C'Thun in AQ40 Temple of Ahn'Qiraj Trash Guide"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Mind Quickening Gem",
+     "source": "Vaelastrasz in Blackwing Lair Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Neltharion's Tear",
+     "source": "Vaelastrasz in Blackwing Lair Nefarian in Blackwing Lair"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Staff of the Shadow Flame",
+     "source": "Nefarian in Blackwing Lair Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+    },
+    {
+     "name": "Blessed Qiraji Acolyte Staff",
+     "source": "Nefarian in Blackwing Lair Tokens dropped by most bosses ( Temple of Ahn'Qiraj Loot Guide )"
+    }
+   ]
+  },
+  {
+   "slot": "One-Hand",
+   "items": [
+    {
+     "name": "High Warlord's Spellblade",
+     "source": "Bought from the PvP Vendor at Rank 14 Viscidus in AQ40"
+    },
+    {
+     "name": "Sharpened Silithid Femur",
+     "source": "Bought from the PvP Vendor at Rank 14 Viscidus in AQ40"
+    }
+   ]
+  },
+  {
+   "slot": "Off-hand",
+   "items": [
+    {
+     "name": "Royal Scepter of Vek'lor",
+     "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
+    },
+    {
+     "name": "Tome of Fiery Arcana",
+     "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
+    },
+    {
+     "name": "Jin'do's Bag of Whammies",
+     "source": "The Twin Emperors in AQ40 Alterac Valley Exalted Jin'do the Hexxer in Zul'Gurub"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Wand of Qiraji Nobility",
+     "source": "Silithid Royalty in AQ40 Hakkar in Zul'Gurub"
+    },
+    {
+     "name": "Touch of Chaos",
+     "source": "Silithid Royalty in AQ40 Hakkar in Zul'Gurub"
+    }
+   ]
+  }
+ ],
+ "enchants": [
+  {
+   "slot": "Head",
+   "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Shoulders",
+   "name": "Power of the Scourge — from Sapphiron in Naxxramas Zandalar Signet of Mojo — available once of Exalted reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Nature Resistance",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Greater Stats",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Greater Intellect",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Fire Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Legs",
+   "name": "Presence of Sight — available once of Friendly reputation with the Zandalar Tribe",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Minor Speed",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  },
+  {
+   "slot": "Weapon",
+   "name": "Enchant Weapon - Spell Power",
+   "source": "Icy Veins Classic enchant guide (further ranked alternatives on the guide page)"
+  }
+ ],
+ "gems": []
 }
