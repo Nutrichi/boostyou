@@ -3,6 +3,8 @@
    Posts are plain .txt files in the /posts folder of the GitHub repo:
      posts/YYYY-MM-DD-some-slug.txt
    First line = title, rest = body (blank line = new paragraph).
+   A paragraph that is just ![alt](assets/news/file.jpg) renders as a figure;
+   text after the closing paren becomes the caption (same as post_pages.py).
 
    The list of posts comes from the GitHub API (drop a file in the folder
    and it appears); posts/index.json is the fallback when the API is
@@ -32,6 +34,21 @@
     return s.replace(/https?:\/\/[^\s<]+/g, function (url) {
       return '<a href="' + url + '" target="_blank" rel="noreferrer">' + url + '</a>';
     });
+  }
+
+  function escAttr(s) {
+    return esc(s).replace(/"/g, '&quot;');
+  }
+
+  var IMG_RE = /^!\[([^\]]*)\]\((\S+)\)\s*([\s\S]*)$/;
+
+  function renderParagraph(p) {
+    var m = IMG_RE.exec(p);
+    if (!m) return '<p>' + linkify(esc(p)).replace(/\n/g, '<br>') + '</p>';
+    var src = /^(https?:\/\/|\/)/.test(m[2]) ? m[2] : '../' + m[2];
+    var caption = m[3].trim();
+    return '<figure><img src="' + escAttr(src) + '" alt="' + escAttr(m[1]) + '" loading="lazy" />' +
+      (caption ? '<figcaption>' + linkify(esc(caption)) + '</figcaption>' : '') + '</figure>';
   }
 
   function formatDate(name) {
@@ -73,9 +90,7 @@
     article.innerHTML =
       '<div class="blog-date">' + formatDate(name) + '</div>' +
       '<h2><a href="' + permalink + '" style="color:inherit;text-decoration:none;">' + esc(title) + '</a></h2>' +
-      paragraphs.map(function (p) {
-        return '<p>' + linkify(esc(p.trim())).replace(/\n/g, '<br>') + '</p>';
-      }).join('');
+      paragraphs.map(function (p) { return renderParagraph(p.trim()); }).join('');
     feed.appendChild(article);
   }
 

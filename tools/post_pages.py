@@ -13,6 +13,9 @@ crawlable static twin and keeps discovery surfaces in sync:
 
 Post format (same as assets/blog.js): filename YYYY-MM-DD-slug.txt,
 first line = title, blank line = new paragraph, URLs auto-link.
+A paragraph that is just ![alt](assets/news/file.jpg) becomes a figure;
+anything after the closing paren is the caption. The first image in a post
+doubles as its og:image.
 
 Run after adding/editing a post (see CLAUDE.md "News blog"); idempotent,
 re-runs stamp_nav.py automatically. Never hand-edit content/news-*.html.
@@ -47,6 +50,9 @@ STYLE = """
     h1 { font-size: 1.9rem; font-weight: 900; color: #f1f5f9; line-height: 1.25; margin: 0.4rem 0 1.5rem; }
     article p { margin-bottom: 1.1rem; color: #cbd5e1; }
     article a { color: #60a5fa; word-break: break-all; }
+    article figure { margin: 0 0 1.3rem; }
+    article figure img { display: block; width: 100%; height: auto; border-radius: 0.75rem; border: 1px solid rgba(148, 163, 184, 0.2); }
+    article figcaption { margin-top: 0.5rem; font-size: 0.85rem; color: #94a3b8; }
     .more { margin-top: 2.5rem; padding-top: 1.25rem; border-top: 1px solid rgba(148, 163, 184, 0.2); }
     .more h2 { font-size: 1.05rem; font-weight: 800; color: #f1f5f9; margin-bottom: 0.6rem; }
     .more ul { list-style: none; }
@@ -69,6 +75,24 @@ def linkify(escaped_text):
                   escaped_text)
 
 
+IMG_RE = re.compile(r"^!\[([^\]]*)\]\((\S+)\)\s*(.*)$", re.S)
+
+
+def img_src(src, prefix):
+    """Post paths are repo-root relative; pages live in content/."""
+    return src if src.startswith(("http://", "https://", "/")) else prefix + src
+
+
+def render_paragraph(par, prefix="../"):
+    m = IMG_RE.match(par)
+    if not m:
+        return "<p>" + linkify(esc(par)).replace("\n", "<br>") + "</p>"
+    alt, src, caption = m.group(1), m.group(2), m.group(3).strip()
+    cap = f"<figcaption>{linkify(esc(caption))}</figcaption>" if caption else ""
+    return (f'<figure><img src="{esc(img_src(src, prefix))}" alt="{esc(alt)}" loading="lazy" />'
+            f"{cap}</figure>")
+
+
 def parse_post(path):
     m = re.match(r"^(\d{4})-(\d{2})-(\d{2})-(.+)\.txt$", path.name)
     if not m:
@@ -81,23 +105,27 @@ def parse_post(path):
     paragraphs = [p.strip() for p in "\n".join(lines).strip().split("\n\n") if p.strip()]
     date_iso = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
     date_h = f"{int(m.group(3))} {MONTHS[int(m.group(2)) - 1]} {m.group(1)}"
+    images = [IMG_RE.match(par).group(2) for par in paragraphs if IMG_RE.match(par)]
+    texts = [par for par in paragraphs if not IMG_RE.match(par)]
     return {"stem": path.stem, "title": title, "paragraphs": paragraphs,
+            "texts": texts, "image": images[0] if images else None,
             "date_iso": date_iso, "date_h": date_h,
             "page": f"news-{path.stem}.html"}
 
 
 def render_post_page(p, others):
     title = f"{p['title']} | Boostyou.ai News"
-    description = re.sub(r"\s+", " ", p["paragraphs"][0])[:300] if p["paragraphs"] else p["title"]
+    description = re.sub(r"\s+", " ", p["texts"][0])[:300] if p["texts"] else p["title"]
+    og_image = f"{SITE}/{p['image']}" if p["image"] else f"{SITE}/assets/og-image-mobile.jpg"
     jsonld = {
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": p["title"], "datePublished": p["date_iso"],
         "url": f"{SITE}/content/{p['page']}",
         "publisher": {"@type": "Organization", "name": "Boostyou.ai", "url": SITE},
         "mainEntityOfPage": f"{SITE}/content/{p['page']}",
+        "image": og_image,
     }
-    body_paras = "\n".join(
-        "<p>" + linkify(esc(par)).replace("\n", "<br>") + "</p>" for par in p["paragraphs"])
+    body_paras = "\n".join(render_paragraph(par) for par in p["paragraphs"])
     more = "\n".join(
         f'<li><a href="{o["page"]}">{esc(o["title"])}</a><span class="d">{esc(o["date_h"])}</span></li>'
         for o in others[:4])
@@ -117,7 +145,7 @@ def render_post_page(p, others):
   <meta property="og:url" content="{SITE}/content/{p['page']}" />
   <meta property="og:type" content="article" />
   <meta property="article:published_time" content="{p['date_iso']}" />
-  <meta property="og:image" content="{SITE}/assets/og-image-mobile.jpg" />
+  <meta property="og:image" content="{og_image}" />
   <meta name="twitter:card" content="summary_large_image" />
   {GA}
   <link rel="preconnect" href="https://fonts.googleapis.com">
