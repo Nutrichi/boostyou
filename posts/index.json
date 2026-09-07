@@ -1,6 +1,7 @@
 {
  "comment": "Fallback list for the NEWS page when the GitHub API is unavailable. The API listing is the primary source; keeping this file current is optional but recommended when adding posts.",
  "posts": [
+  "2026-09-07-blizzcon-2026-schedule-streams-rewards.txt",
   "2026-08-20-tbc-merciless-gladiator-gear-discounted.txt",
   "2026-07-23-bis-browser-complete-757-lists.txt",
   "2026-07-23-cata-bis-lists-complete.txt",

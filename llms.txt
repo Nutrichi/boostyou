@@ -16,6 +16,7 @@ Current game state covered (July 2026):
 
 ### Latest news posts (static pages)
 
+- [BlizzCon 2026 is next weekend: the full schedule, where to watch, and the rewards you can earn](https://boostyou.ai/content/news-2026-09-07-blizzcon-2026-schedule-streams-rewards.html) (2026-09-07)
 - [Merciless Gladiator gear is now discounted, and there is no rating requirement](https://boostyou.ai/content/news-2026-08-20-tbc-merciless-gladiator-gear-discounted.html) (2026-08-20)
 - [Cataclysm BiS lists are live — all 30 specs, Pre-Raid through Dragon Soul](https://boostyou.ai/content/news-2026-07-23-cata-bis-lists-complete.html) (2026-07-23)
 - [The BiS browser is complete — all 757 lists, every expansion, every phase, every spec](https://boostyou.ai/content/news-2026-07-23-bis-browser-complete-757-lists.html) (2026-07-23)
@@ -25,7 +26,6 @@ Current game state covered (July 2026):
 - [WotLK Phase 2 BiS lists are live for all 30 specs — Ulduar](https://boostyou.ai/content/news-2026-07-22-wotlk-p2-bis-lists-live.html) (2026-07-22)
 - [WotLK Phase 1 BiS lists are live — Naxxramas, The Obsidian Sanctum & The Eye of Eternity](https://boostyou.ai/content/news-2026-07-22-wotlk-p1-bis-lists-live.html) (2026-07-22)
 - [TBC Phase 5 BiS lists are live for all 27 specs — Sunwell Plateau](https://boostyou.ai/content/news-2026-07-22-tbc-p5-sunwell-bis-lists-live.html) (2026-07-22)
-- [TBC Phase 3 & 4 BiS lists are live for all 27 specs — Black Temple, Mount Hyjal & Zul'Aman](https://boostyou.ai/content/news-2026-07-22-tbc-p3-p4-bis-lists-live.html) (2026-07-22)
 
 <!-- news-pages:end -->
 ## Leveling Routes
