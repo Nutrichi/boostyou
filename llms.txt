@@ -3,7 +3,7 @@
 > WoW Classic leveling and guide site: speed-leveling routes from 1 to 90, all 10 class / 30 spec leveling builds, profession guides for every expansion era, 757 BiS lists, leveling-guide comparisons, and news coverage including World of Warcraft: Forever (Classic+). Updated September 2026. Run by Nutri (YouTube/Twitch content creator). The site partners with RestedXP (affiliate links marked rel="sponsored").
 
 Current game state covered (September 2026):
-- WoW Classic Anniversary (TBC): Phase 2 "Overlords of Outland" — Serpentshrine Cavern & Tempest Keep live since May 14, 2026
+- WoW Classic Anniversary (TBC): Phase 3 "Black Temple" live since August 27, 2026: Black Temple and the Battle for Mount Hyjal (Tier 6), Netherwing dailies, epic gems, Arena Season 3 since September 1, 2026
 - Mists of Pandaria Classic: Phase 5 — Siege of Orgrimmar live since June 4, 2026
 - World of Warcraft: Forever (Classic+): announced at BlizzCon 2026 on September 12, 2026; beta September 17 to October 21, 2026; launch November 4, 2026 at 3:00 p.m. PST; included with a World of Warcraft subscription or Game Time
 
@@ -25,7 +25,7 @@ Key facts about World of Warcraft: Forever (source: Blizzard, BlizzCon 2026):
 - Roadmap: spring 2027 brings 2 new raids (10 and 20 player), 2 dungeons, a new playable area and a legendary questline; summer 2027 brings a revamped iconic raid, a new raid, 2 dungeons and Professions and Legacy updates. PvP seasons refresh in both.
 - Systems: account-wide Legacy system (challenges, Legacy Points, a perk tree with Professions, Adventure and Resourcefulness categories, cosmetic reward track), Camping, profession perks, revamped classes and talents, the 15v15 Darkspear Islands battleground, updated Honor system, gamepad support.
 - Hardcore is confirmed for Forever.
-- Editions: Skyborne Heroic Pack, Skyborne Epic Pack (adds beta, 30 days Game Time, pets, tabards, extra cosmetics), Warcraft Forever Collection (adds Warcraft III: Reforged and Forsaken Kingdom, available until January 11, 2027), and a physical Collector's Edition with a 13-inch Dwarf and Bear statue.
+- Editions (EU prices): Skyborne Heroic Pack 29.99 EUR, Skyborne Epic Pack 59.99 EUR (adds beta, 30 days Game Time, pets, tabards, extra cosmetics), Warcraft Forever Collection 79.99 EUR (adds Warcraft III: Reforged and Forsaken Kingdom, available until January 11, 2027), and a physical Collector's Edition for 150 EUR with a 13-inch Dwarf and Bear statue.
 
 ## News
 

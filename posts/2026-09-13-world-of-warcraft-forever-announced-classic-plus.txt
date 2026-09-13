@@ -10,7 +10,8 @@ The short version
 - Beta: September 17 to October 21, 2026, playable up to level 30
 - Price: included with a World of Warcraft subscription or Game Time
 - Level cap: 60, permanently, with new content added at 60
-- New race: the Skyborne, 29.99 dollars or euros through the Skyborne Heroic Pack
+- New race: the Skyborne, €29.99 through the Skyborne Heroic Pack
+- Editions: Skyborne Heroic Pack €29.99, Skyborne Epic Pack €59.99, Warcraft Forever Collection €79.99, Collector's Edition €150
 - New race and class combinations: Undead Paladin and Dwarf Shaman
 - New zones: Zephras Isle, the Riverglades, Shen'dralas and a renewed Mount Hyjal
 - 9 new dungeons, the new Barrow Deeps (10 player) and Hyjal Summit (20 player) raids, plus Onyxia's Lair, all unlocking December 9
@@ -55,7 +56,7 @@ The Skyborne are windswept elves with an elemental touch. Their floating island 
 
 Their racials are Walk on Air (glide downward for 10 seconds), Wind Blessed (1% haste), Elemental Insight (5% more damage against Elementals) and a faction racial: Read Ley Line for the Alliance (100% faster Health and Mana regeneration on a ley line) or Skysight for the Horde (10% run speed).
 
-The catch is the price. The Skyborne and Zephras Isle require the Skyborne Heroic Pack, 29.99 dollars or 29.99 euros. It is the first time Blizzard has sold a playable race outside of an expansion.
+The catch is the price. The Skyborne and Zephras Isle require the Skyborne Heroic Pack, €29.99. It is the first time Blizzard has sold a playable race outside of an expansion.
 
 Undead Paladins, Dwarf Shamans and class revamps
 
@@ -87,11 +88,11 @@ Blizzard described its plan as fast-paced production for a slow-paced game. Autu
 
 Editions and price
 
-Playing Forever costs nothing beyond your subscription. Three optional digital editions are on the Battle.net Shop. The Skyborne Heroic Pack (29.99) unlocks the Skyborne and Zephras Isle, Early Name Reservation, the Cerulean Prideclaw mount, the Shen'dorei Skyseer's Garb, the Veteran Adventurer's Rucksack, the Shen'dorei Windwell toy, Skyborne housing decor for modern WoW and one Invite-A-Friend code. The Skyborne Epic Pack adds beta access, 30 days of Game Time, the Loyal Companion mount, the Outdoor Wear set, Zergling, Panda, Diablo and Pachimari pets, two tabards and two extra invite codes. The limited Warcraft Forever Collection adds Warcraft III: Reforged, the Forsaken Kingdom campaign and Forsaken and Human figurine decor, and is available until January 11, 2027.
+Playing Forever costs nothing beyond your subscription. Three optional digital editions are on the Battle.net Shop. The Skyborne Heroic Pack (€29.99) unlocks the Skyborne and Zephras Isle, Early Name Reservation, the Cerulean Prideclaw mount, the Shen'dorei Skyseer's Garb, the Veteran Adventurer's Rucksack, the Shen'dorei Windwell toy, Skyborne housing decor for modern WoW and one Invite-A-Friend code. The Skyborne Epic Pack (€59.99) adds beta access, 30 days of Game Time, the Loyal Companion mount, the Outdoor Wear set, Zergling, Panda, Diablo and Pachimari pets, two tabards and two extra invite codes. The limited Warcraft Forever Collection (€79.99) adds Warcraft III: Reforged, the Forsaken Kingdom campaign and Forsaken and Human figurine decor, and is available until January 11, 2027. All three are on the Battle.net Shop: https://eu.shop.battle.net/en-gb/product/world-of-warcraft-forever
 
 ![The gold Dwarf and Bear statue from the World of Warcraft: Forever Collector's Edition](assets/news/2026-09-13-wow-forever-collectors-edition-statue.jpg) The Collector's Edition statue, straight out of the original WoW cinematic.
 
-There is also a physical Collector's Edition in the Blizzard Gear Store, with the Warcraft Forever Collection code, a 13-inch Dwarf and Bear statue, a Zephras Isle mousepad, art prints, pins and a companion journal.
+There is also a physical Collector's Edition for €150 in the Blizzard Gear Store (https://eu.gear.blizzard.com/products/wowccl0013-international-english-ce), with the Warcraft Forever Collection code, a 13-inch Dwarf and Bear statue, a Zephras Isle mousepad, art prints, pins and a companion journal.
 
 Bring a friend for launch week
 
