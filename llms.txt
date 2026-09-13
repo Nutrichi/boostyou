@@ -1,21 +1,41 @@
 # Boostyou.ai
 
-> WoW Classic leveling and guide site: speed-leveling routes from 1 to 90, all 10 class / 30 spec leveling builds, profession guides for every expansion era, leveling-guide comparisons, and news coverage including the WoW Camelot (Classic+) leak. Updated July 2026. Run by Nutri (YouTube/Twitch content creator). The site partners with RestedXP (affiliate links marked rel="sponsored").
+> WoW Classic leveling and guide site: speed-leveling routes from 1 to 90, all 10 class / 30 spec leveling builds, profession guides for every expansion era, 757 BiS lists, leveling-guide comparisons, and news coverage including World of Warcraft: Forever (Classic+). Updated September 2026. Run by Nutri (YouTube/Twitch content creator). The site partners with RestedXP (affiliate links marked rel="sponsored").
 
-Current game state covered (July 2026):
+Current game state covered (September 2026):
 - WoW Classic Anniversary (TBC): Phase 2 "Overlords of Outland" — Serpentshrine Cavern & Tempest Keep live since May 14, 2026
 - Mists of Pandaria Classic: Phase 5 — Siege of Orgrimmar live since June 4, 2026
-- WoW Camelot: unannounced Blizzard project from a credible leaked timeline (Q3 2026), widely believed to be WoW Classic Plus; reveal expected at BlizzCon 2026 (September)
+- World of Warcraft: Forever (Classic+): announced at BlizzCon 2026 on September 12, 2026; beta September 17 to October 21, 2026; launch November 4, 2026 at 3:00 p.m. PST; included with a World of Warcraft subscription or Game Time
 
-## News & Leaks
+## WoW Forever
 
-- [WoW Camelot: The Classic+ Leak, Explained](https://boostyou.ai/content/wow-camelot.html): Full leak hub — leaked timeline, 1.15→1.60 version jump, Heroic/Epic license datamining, credibility track record, FAQ. Updated as new leaks drop.
+- [World of Warcraft: Forever, everything announced at BlizzCon 2026](https://boostyou.ai/content/wow-forever.html): Release date and every key date, beta access, the 2026 to 2027 roadmap, zones (Zephras Isle, the Riverglades, Mount Hyjal, Shen'dralas), 9 new dungeons, raids, the Skyborne race, new race and class combinations, every racial compared to Classic, Legacy system perks, profession perks, PvP, Hardcore, editions and prices, FAQ.
+- [News: World of Warcraft: Forever announced](https://boostyou.ai/content/news-2026-09-13-world-of-warcraft-forever-announced-classic-plus.html): The BlizzCon 2026 announcement written up as a news article.
+
+Key facts about World of Warcraft: Forever (source: Blizzard, BlizzCon 2026):
+- Launch: November 4, 2026 at 3:00 p.m. PST (00:00 CET on November 5). Included with a World of Warcraft subscription or Game Time; no box purchase needed.
+- Beta: September 17 to October 21, 2026, playable up to level 30. Access via Skyborne Epic Pack, Warcraft Forever Collection, Collector's Edition, or the opt-in on Blizzard's site.
+- Early Name Reservation: October 27 to November 3, 2026, up to 3 characters, with any upgrade edition.
+- Level cap 60, permanently; new content keeps coming at 60. No flying mounts, no level scaling. Transmog is opt-in per player; HD and SD graphics can be toggled.
+- Skyborne race: requires the Skyborne Heroic Pack (29.99 USD / 29.99 EUR). Alliance High Order Skyborne can be Mage, Horde Windshaper Skyborne can be Shaman; both can be Warrior, Hunter, Rogue and Druid. Starting zone Zephras Isle, levels 1 to 12.
+- New race and class combinations confirmed by Blizzard: Undead (Forsaken) Paladin and Dwarf Shaman.
+- New zones: Zephras Isle (1-12), the Riverglades (about 30-45, 150+ quests), Shen'dralas (between Mulgore and Desolace), Mount Hyjal (endgame leveling). 1,000+ new quests in total.
+- 9 new dungeons: Hall of Thanes (13-18), Lordaeron (15-20), Dalaran (20-35), Excavation Site (Wetlands), The Drowned City (off Stranglethorn Vale), Alcaz Island Prison, The Shaper's Terrace, Krol'Dok Stronghold and Blackmaw Hold (40-60).
+- Raids unlock December 9, 2026: Barrow Deeps (10 player, new), Hyjal Summit (20 player, new), Onyxia's Lair (40 player).
+- Roadmap: spring 2027 brings 2 new raids (10 and 20 player), 2 dungeons, a new playable area and a legendary questline; summer 2027 brings a revamped iconic raid, a new raid, 2 dungeons and Professions and Legacy updates. PvP seasons refresh in both.
+- Systems: account-wide Legacy system (challenges, Legacy Points, a perk tree with Professions, Adventure and Resourcefulness categories, cosmetic reward track), Camping, profession perks, revamped classes and talents, the 15v15 Darkspear Islands battleground, updated Honor system, gamepad support.
+- Hardcore is confirmed for Forever.
+- Editions: Skyborne Heroic Pack, Skyborne Epic Pack (adds beta, 30 days Game Time, pets, tabards, extra cosmetics), Warcraft Forever Collection (adds Warcraft III: Reforged and Forsaken Kingdom, available until January 11, 2027), and a physical Collector's Edition with a 13-inch Dwarf and Bear statue.
+
+## News
+
 - [Latest content hub](https://boostyou.ai/content/newcontent.html): Phase news, YouTube/Twitch drops, free RestedXP guide packs on CurseForge.
 
 <!-- news-pages:start (generated by tools/post_pages.py) -->
 
 ### Latest news posts (static pages)
 
+- [World of Warcraft: Forever announced: Classic+ launches November 4, beta starts September 17](https://boostyou.ai/content/news-2026-09-13-world-of-warcraft-forever-announced-classic-plus.html) (2026-09-13)
 - [BlizzCon 2026 is next weekend: the full schedule, where to watch, and the rewards you can earn](https://boostyou.ai/content/news-2026-09-07-blizzcon-2026-schedule-streams-rewards.html) (2026-09-07)
 - [Merciless Gladiator gear is now discounted, and there is no rating requirement](https://boostyou.ai/content/news-2026-08-20-tbc-merciless-gladiator-gear-discounted.html) (2026-08-20)
 - [Cataclysm BiS lists are live — all 30 specs, Pre-Raid through Dragon Soul](https://boostyou.ai/content/news-2026-07-23-cata-bis-lists-complete.html) (2026-07-23)
@@ -25,7 +45,6 @@ Current game state covered (July 2026):
 - [WotLK Phase 3 BiS lists are live for all 30 specs — Trial of the Crusader](https://boostyou.ai/content/news-2026-07-22-wotlk-p3-bis-lists-live.html) (2026-07-22)
 - [WotLK Phase 2 BiS lists are live for all 30 specs — Ulduar](https://boostyou.ai/content/news-2026-07-22-wotlk-p2-bis-lists-live.html) (2026-07-22)
 - [WotLK Phase 1 BiS lists are live — Naxxramas, The Obsidian Sanctum & The Eye of Eternity](https://boostyou.ai/content/news-2026-07-22-wotlk-p1-bis-lists-live.html) (2026-07-22)
-- [TBC Phase 5 BiS lists are live for all 27 specs — Sunwell Plateau](https://boostyou.ai/content/news-2026-07-22-tbc-p5-sunwell-bis-lists-live.html) (2026-07-22)
 
 <!-- news-pages:end -->
 ## Leveling Routes

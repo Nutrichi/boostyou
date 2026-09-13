@@ -100,7 +100,7 @@ SECTIONS = [
 ]
 
 PILLS = [
-    ("Camelot", "wow-camelot.html", "camelot-pill"),
+    ("FOREVER", "wow-forever.html", "forever-pill"),
     ("NEWS", "newcontent.html", "new-pill"),
 ]
 
@@ -109,7 +109,7 @@ HUB_TITLES = {
     "fast-leveling.html": "Speed Leveling",
     "professions.html": "Professions",
     "bis.html": "BiS Lists",
-    "wow-camelot.html": "WoW Camelot",
+    "wow-forever.html": "WoW Forever",
     "newcontent.html": "News",
 }
 
@@ -244,11 +244,18 @@ def stamp(path, prefix, assets, home, current):
     path.write_text(html, encoding="utf-8")
 
 
+def is_redirect_stub(path):
+    """Moved pages keep a tiny meta-refresh stub at the old URL; those get no nav."""
+    return 'http-equiv="refresh"' in path.read_text(encoding="utf-8")
+
+
 def main():
     index = ROOT / "index.html"
     stamp(index, prefix="content/", assets="assets/", home="./", current=None)
     count = 1
     for path in sorted((ROOT / "content").glob("*.html")):
+        if is_redirect_stub(path):
+            continue
         stamp(path, prefix="", assets="../assets/", home="../", current=path.name)
         count += 1
     print(f"Stamped nav into {count} pages.")

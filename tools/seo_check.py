@@ -43,10 +43,20 @@ def warn(msg):
 def check_pages():
     titles = {}
     pages = [ROOT / "index.html"] + sorted((ROOT / "content").glob("*.html"))
+    checked = set()
     for p in pages:
         rel = p.relative_to(ROOT).as_posix()
         html = p.read_text(encoding="utf-8", errors="ignore")
         head = html.split("</head>", 1)[0]
+
+        # Moved pages keep a meta-refresh stub at the old URL: it must point its
+        # canonical at an existing page and stays out of the sitemap.
+        if 'http-equiv="refresh"' in head:
+            m = re.search(r'<link\s+rel="canonical"\s+href="([^"]+)"', head)
+            if not m or not (ROOT / m.group(1).replace(SITE + "/", "")).exists():
+                fail(f"{rel}: redirect stub without a canonical to an existing page")
+            continue
+        checked.add(rel)
 
         m = re.search(r"<title>(.*?)</title>", head, re.S)
         if not m or not m.group(1).strip():
@@ -80,7 +90,7 @@ def check_pages():
             fail(f"{rel}: page is set to noindex")
         if not re.search(r"<html[^>]+lang=", html):
             warn(f"{rel}: missing <html lang>")
-    return {p.relative_to(ROOT).as_posix() for p in pages}
+    return checked
 
 
 def check_sitemap(page_set):

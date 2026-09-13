@@ -115,16 +115,28 @@ def parse_post(path):
 
 def render_post_page(p, others):
     title = f"{p['title']} | Boostyou.ai News"
-    description = re.sub(r"\s+", " ", p["texts"][0])[:300] if p["texts"] else p["title"]
+    description = re.sub(r"\s+", " ", p["texts"][0]) if p["texts"] else p["title"]
+    if len(description) > 300:
+        description = description[:297].rsplit(" ", 1)[0] + "…"
     og_image = f"{SITE}/{p['image']}" if p["image"] else f"{SITE}/assets/og-image-mobile.jpg"
-    jsonld = {
+    url = f"{SITE}/content/{p['page']}"
+    jsonld = [{
         "@context": "https://schema.org", "@type": "NewsArticle",
-        "headline": p["title"], "datePublished": p["date_iso"],
-        "url": f"{SITE}/content/{p['page']}",
-        "publisher": {"@type": "Organization", "name": "Boostyou.ai", "url": SITE},
-        "mainEntityOfPage": f"{SITE}/content/{p['page']}",
+        "headline": p["title"], "description": description,
+        "datePublished": p["date_iso"], "dateModified": p["date_iso"],
+        "url": url, "mainEntityOfPage": url,
+        "author": {"@type": "Organization", "name": "Boostyou.ai", "url": SITE},
+        "publisher": {"@type": "Organization", "name": "Boostyou.ai", "url": SITE,
+                      "logo": {"@type": "ImageObject", "url": f"{SITE}/assets/boostyou.png"}},
         "image": og_image,
-    }
+    }, {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{SITE}/"},
+            {"@type": "ListItem", "position": 2, "name": "News", "item": f"{SITE}/content/newcontent.html"},
+            {"@type": "ListItem", "position": 3, "name": p["title"], "item": url},
+        ],
+    }]
     body_paras = "\n".join(render_paragraph(par) for par in p["paragraphs"])
     more = "\n".join(
         f'<li><a href="{o["page"]}">{esc(o["title"])}</a><span class="d">{esc(o["date_h"])}</span></li>'
@@ -136,10 +148,11 @@ def render_post_page(p, others):
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="{esc(description)}" />
-  <meta name="robots" content="index, follow" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
   <link rel="canonical" href="{SITE}/content/{p['page']}" />
   <meta name="author" content="Boostyou.ai" />
   <link rel="icon" href="../assets/favicon.ico" />
+  <meta property="og:site_name" content="Boostyou.ai" />
   <meta property="og:title" content="{esc(p['title'])}" />
   <meta property="og:description" content="{esc(description)}" />
   <meta property="og:url" content="{SITE}/content/{p['page']}" />
@@ -147,6 +160,9 @@ def render_post_page(p, others):
   <meta property="article:published_time" content="{p['date_iso']}" />
   <meta property="og:image" content="{og_image}" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{esc(p['title'])}" />
+  <meta name="twitter:description" content="{esc(description)}" />
+  <meta name="twitter:image" content="{og_image}" />
   {GA}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
